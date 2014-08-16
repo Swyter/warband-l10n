@@ -1,0 +1,702 @@
+﻿menu_start_game_0|Ti giunga il benvenuto nel mondo avventuroso di Mount and Blade: Warband. Prima di cominciare a giocare devi creare il tuo personaggio. Ricorda che nella società tradizionale rappresentata nel gioco, guerra e politica erano normalmente dominate dai membri maschi della nobiltà. Questo però non impedisce che tu possa giocare con un personaggio femminile, o uno che non sia di nobile nascita. I maschi nobili possono avere un inizio facile, ma donne e uomini comuni possono raggiungere tutti gli obiettivi. E questo potrebbe rendere ancora più interessante il gioco. 
+mno_continue|Continua...    
+mno_go_back|Indietro
+menu_start_phase_2|Giungi in Calradia, una terra straziata da regni rivali che si combattono l'un l'altro per la supremazia, un paradiso per cavalieri di ventura e mercenari, taglia gole e avventurieri, tutti pronti a rischiare la vita alla ricerca di fortuna, potere e gloria... In questa terra che nasconde grandi pericoli e grandi opportunità, lascerai alle spalle il tuo passato e inizierai una nuova vita. Ora, senti di avere tra le mani le chiavi del tuo destino, con la libertà di fare le tue scelte, e sai che qualunque sia la strada che sceglierai, ti attendono grandi avventure. I racconti che hai sentito su Calradia e sui suoi regni hanno attratto il tuo interesse, tu... 
+mno_town_1|ti unisci ad una carovana per Praven, nel Regno di Swadia.  
+mno_town_2|ti unisci ad una carovana per Reyvadin, nel Regno dei Vaegirs.
+mno_town_3|ti unisci ad una carovana per Tulga, nel Khanato Khergit.
+mno_town_4|prendi nave per Sargoth, nel Regno dei Nords 
+mno_town_5|prendi nave per Jelkala, nel Regno dei Rhodoks. 
+mno_town_6|ti unisci ad una carovana per Shariz, nel Sultanato Sarranide.
+menu_start_game_3|Scegli lo scenario: 
+mno_go_back|Indietro 
+menu_tutorial|Ti avvicini ad un campo dove le persone si esercitano con le armi. Puoi far pratica qui per migliorare le tue capacità di combattimento.
+mno_continue|Continua...
+mno_go_back_dot|Indietro.
+menu_reports|Fama del Personaggio: {reg5}^Livello d'Onore: {reg6}^Morale della Compagnia: {reg8}^Limite di Dimensione della Compagnia: {reg7}^ 
+mno_view_character_report|Guarda il rapporto sul Personaggio.
+mno_view_party_size_report|Guarda il rapporto sulla dimensione della Compagnia.
+mno_view_npc_mission_report|Guarda il rapporto sulla missione dei Compagni.
+mno_view_weekly_budget_report|Guarda il rapporto sul budget settimanale.
+mno_view_morale_report|Guarda il rapporto del morale della Compagnia.
+mno_lord_relations|Guarda la lista dei lord conosciuti in ordine di relazione.
+mno_courtship_relations|Guarda il rapporto sulle relazioni amorose.
+mno_view_faction_relations_report|Guarda il rapporto sulla relazione tra le fazioni.
+mno_resume_travelling|Torna al viaggio.
+menu_custom_battle_scene|(NO TRANS)
+menu_custom_battle_end|La battaglia è finita. {s1} La tua fazione ha ucciso {reg5} nemici e perso {reg6} soldati durante la battaglia. Tu hai messo fuori combattimento o ucciso {reg7} avversari nella battaglia.
+mno_continue|Continua. 
+menu_start_game_1|Seleziona il sesso del tuo personaggio.
+mno_start_male|Maschio
+mno_start_female|Femmina
+mno_go_back|Indietro
+menu_start_character_1|La tua nascita ha avuto luogo in una terra molto lontana. Tuo padre era...
+mno_start_noble|Un nobile decaduto. 
+mno_start_merchant|Un mercante itinerante.
+mno_start_guard|Una guardia veterana.
+mno_start_forester|Un cacciatore. 
+mno_start_nomad|Un nomade delle steppe.
+mno_start_thief|Un ladro.
+mno_go_back|Indietro
+menu_start_character_2|{s10}^^  Hai cominciato a conoscere il mondo da quando hai imparato a camminare e parlare. Da giovane eri...
+mno_page|In servizio alla corte di un nobile.
+mno_apprentice|Apprendista di un artigiano.  
+mno_stockboy|Aiutante in un negozio.
+mno_urchin|Teppista di strada.
+mno_nomad|Un'anima vagabonda della steppa.
+mno_go_back|Indietro. 
+menu_start_character_3|{s11}^^  Quindi, crescendo, la vita di sempre è cambiata. Decidi di...
+mno_squire|Fare l'aiutante di campo.
+mno_lady|Essere una gentildonna.
+mno_troubadour|Dedicarti alla poesia.
+mno_student|Iscriverti all'università.
+mno_peddler|Dedicarti al commercio.
+mno_craftsman|Lavorare il ferro. 
+mno_poacher|Darti al contrabbando.
+mno_go_back|Indietro.
+menu_start_character_4|{s12}^^ Ma presto le cose cambiano ancora, e decidi di mettere in gioco la tua vita verso l'avventura. Cosa ti ha spinto a questa decisione?...
+mno_revenge|Vendetta personale. 
+mno_death|La perdita di un amore. 
+mno_wanderlust|La brama d'avventura.
+mno_disown|La perdita della casa.
+mno_greed|Brama di denaro e potere.
+mno_go_back|Indietro.
+menu_choose_skil|{s13}
+mno_begin_adventuring|Segui il tuo spirito avventuroso e cavalca verso il tuo destino.
+mno_go_back_dot|Indietro.
+menu_past_life_explanation|{s3}
+mno_view_next|{s5} 
+mno_continue|Continua...  
+mno_go_back_dot|Indietro.  
+menu_morale_report|{s1} 
+mno_continue|Continua... 
+menu_courtship_relations|{s1} 
+mno_continue|Continua... 
+menu_lord_relations|{s1}
+mno_continue|Continua... 
+menu_companion_report|{s7}{s1} 
+mno_continue|Continua... 
+menu_character_report|{s9} 
+mno_continue|Continua...
+menu_party_size_report|{s1} 
+mno_continue|Continua...  
+menu_faction_relations_report|{s1} 
+mno_continue|Continua...  
+menu_camp|Sei nell'accampamento. Cosa vuoi fare? 
+mno_camp_action|Fai un'azione.
+mno_camp_wait_here|Aspetta qui per un po' di tempo.
+mno_camp_cheat|CHEAT MENU! 
+mno_resume_travelling|Riprendi il viaggio.
+menu_camp_cheat|Seleziona un trucco: 
+mno_camp_cheat_find_item|Trova un oggetto... 
+mno_camp_cheat_find_item|Cambia il clima... 
+menu_camp_action|Fai un'azione: 
+mno_camp_recruit_prisoners|Recluta dei prigionieri nella tua Compagnia. 
+mno_action_read_book|Leggi un libro. 
+mno_action_rename_kingdom|Rinomina il tuo Regno.
+mno_action_retire|Ritirati dalla vita avventurosa. 
+mno_camp_action_4|Torna al menù del campo.
+menu_camp_recruit_prisoners|Offri a dei prigionieri la libertà se accettano di diventare tuoi soldati. {s18} 
+mno_camp_recruit_prisoners_accept|Reclutali. 
+mno_camp_recruit_prisoners_reject|Rifiutali. 
+mno_continue|Indietro 
+menu_camp_no_prisoners|Non ci sono prigionieri da reclutare.
+mno_continue|Continua...  
+menu_camp_action_read_book|Scegli un libro da leggere: 
+mno_action_read_book_1|{s1}. 
+mno_action_read_book_2|{s1}.
+mno_action_read_book_3|{s1}.
+mno_action_read_book_4|{s1}. 
+mno_action_read_book_5|{s1}.
+mno_action_read_book_6|{s1}.
+mno_action_read_book_7|{s1}.
+mno_camp_action_4|Torna al menù del campo. 
+menu_camp_action_read_book_start|{s1}
+mno_continue|Continua...  
+menu_retirement_verify|Sei al giorno {reg0}. I tuoi averi sono {reg1}. Sei sicuro di volerti ritirare? 
+mno_retire_yes|Si. 
+mno_retire_no|No. 
+menu_end_game|La decisione è presa, hai la risolutezza di abbandonare la vita avventurosa e stabilirti in una città. Vendi le tue armi e armature, raccogli tutte le tue ricchezze, e ti allontani cavalcando verso il tramonto.... 
+mno_end_game_bye|Addio. 
+menu_cattle_herd|Hai incontrato una mandria di bestiame. 
+mno_cattle_drive_away|Guida la mandria. 
+mno_cattle_stop|Ferma la mandria.  
+mno_cattle_kill|Macella qualche animale. 
+mno_leave|Parti. 
+menu_cattle_herd_kill|Quanti animali vuoi macellare? 
+mno_cattle_kill_1|Uno. 
+mno_cattle_kill_2|Due. 
+mno_cattle_kill_3|Tre.  
+mno_cattle_kill_4|Quattro.
+mno_cattle_kill_5|Cinque.  
+mno_go_back_dot|Indietro 
+menu_arena_duel_fight|Tu e il tuo avversario vi preparate a combattere. 
+mno_continue|Continua...  
+mno_continue|Continua...  
+menu_simple_encounter|{s2} Tu hai {reg10} truppe pronte per la battaglia contro le sue {reg11}.
+mno_encounter_attack|Carica il nemico.  
+mno_encounter_order_attack|Ordina alle tue truppe di attaccare senza di te.  
+mno_encounter_leave|Lascia. 
+mno_encounter_retreat|Scappa, lasciando alcuni soldati indietro per coprirti la ritirata.  
+mno_encounter_surrender|Arrendetevi.  
+menu_encounter_retreat_confirm|Come membro della Compagnia con la migliore capacità tattica, ({reg2}), {reg3?decidi:{s3} consiglia} di formulare un piano che permetterà a te e ai tuoi uomini di fuggire, ma dovrai lasciare {reg4} soldati indietro a fermare il nemico. 
+mno_leave_behind|Andiamo. Il sacrificio di questi uomini salverà tutti gli altri. 
+mno_dont_leave_behind|No. Non lasciamo indietro nessuno
+menu_encounter_retreat|Ordini a {reg4} dei tuoi soldati di fermare il nemico mentre ti ritiri con il resto della Compagnia. 
+mno_continue|Continua...  
+menu_order_attack_begin|Le tue truppe si preparano ad attaccare il nemico. 
+mno_order_attack_begin|Ordina l'inizio dell'attacco. 
+mno_call_back|Richiama indietro le truppe. 
+menu_order_attack_2|{s4}^^Le tue perdite: {s8}^^Le perdite del nemico:_{s9} 
+mno_order_attack_continue|Ordina ai tuoi uomini di continuare l'attacco. 
+mno_order_retreat|Richiama indietro le truppe. 
+mno_continue|Continua...  
+menu_battle_debrief|{s11}^^Le tue perdite:{s8}{s10}^^Le perdite del nemico:{s9} 
+mno_continue|Continua...
+menu_total_victory|Non dovresti leggere questo... {s9} 
+mno_continue|Continua...  
+menu_enemy_slipped_away|{s17}
+mno_continue|Continua...
+menu_permanent_damage|{s0} 
+mno_s0|{s0} 
+menu_pre_join|Arrivi in mezzo alla battaglia tra {s2} e {s1}. Decidi di... 
+mno_pre_join_help_attackers|Muoverti in aiuto di {s2}. 
+mno_pre_join_help_defenders|Fornire sostegno a {s1}.  
+mno_pre_join_leave|Non farti coinvolgere.  
+menu_join_battle|Stai aiutando {s2} contro {s1}. Avete {reg10} truppe pronte per la battaglia contro le {reg11} del nemico.
+mno_join_attack|Carica il nemico.  
+mno_join_order_attack|Ordina alle tue truppe di attaccare con i tuoi alleati mentre tu resti nelle retrovie. 
+mno_join_leave|Lascia.
+menu_join_order_attack|{s4}^^Le tue perdite: {s8}^^Le perdite degli alleati: {s9}^^Perdite nemiche: {s10} 
+mno_continue|Continua...
+menu_zendar|Entri nella città di Zendar. 
+mno_zendar_enter| 
+mno_zendar_enter|Porta per il centro città.  
+mno_zendar_tavern| 
+mno_zendar_tavern|Porta della taverna  
+mno_zendar_merchant| 
+mno_zendar_merchant|Porta del mercato.  
+mno_zendar_arena| 
+mno_zendar_arena|Porta dell'arena.  
+mno_town_1_leave|
+menu_salt_mine|Entri nella miniera di sale. 
+mno_enter|Entra. 
+mno_leave|Parti.
+menu_four_ways_inn|Arrivi alla Locanda Quattro Vie. 
+mno_enter|Entra.
+mno_leave|Parti. 
+menu_test_scene|Entra in una scena test.
+mno_enter|Entra 1.  
+mno_enter|Entra 2. 
+mno_enter|Entra 3.
+mno_enter|Entra 4. 
+mno_enter|Entra 5. 
+mno_enter|Entra 6. 
+mno_enter|Entra 7. 
+mno_enter|Entra 8. 
+mno_enter|Entra 9.
+mno_leave|Parti. 
+mno_leave|Parti.
+menu_dhorak_keep|Entra nella Fortezza Dhorak
+mno_enter|Entra. 
+mno_leave|Parti.
+menu_join_siege_outside|{s1} è assediato da {s2}. 
+mno_approach_besiegers|Avvicinati al campo degli assedianti. 
+mno_pass_through_siege|Oltrepassa le linee d'assedio ed entra a {s1}. 
+mno_leave|Parti.  
+menu_cut_siege_without_fight| Gli assedianti ti lasciano avvicinare ai cancelli senza attaccarti. 
+mno_continue|Continua... 
+menu_besiegers_camp_with_allies|{s1} rimane sotto assedio. Le bandiere di {s2} sventolano sul campo degli assedianti, mentre tu e i tuoi uomini ricevete il benvenuto. 
+mno_talk_to_siege_commander|Richiedi un incontro con il comandante.
+mno_join_siege_with_allies|Unisciti al prossimo assalto. 
+mno_join_siege_stay_back|Ordina ai tuoi uomini di unirsi al prossimo assalto senza di te. 
+mno_leave|Parti. 
+menu_castle_outside|Sei all'esterno di {s2}.{s11} {s3} {s4}
+mno_approach_gates|Avvicinati al castello e saluta le guardie.  
+mno_town_sneak|Camuffati e prova ad intrufolarti nella città.  
+mno_castle_start_siege|Assedia {reg6?la città:il castello}. 
+mno_castle_leave|Parti.
+menu_castle_guard|Ti avvicini ai cancelli. Gli uomini sulle mura ti scrutano attentamente. 
+mno_request_shelter|Chiedi di entrare nel castello. 
+mno_request_meeting_commander|Chiedi di incontrare il comandante.  
+mno_guard_leave|Parti.
+menu_castle_entry_granted|Dopo una breve attesa, le guardie aprono i cancelli e permettono a te e alla tua Compagnia di entrare.
+mno_continue|Continua... 
+menu_castle_entry_denied|Il signore del castello ha vietato il tuo ingresso entro le mura, e l'ufficiale delle guardie ti informa che i suoi uomini ti attaccheranno se ti avvicinerai ulteriormente.
+mno_continue|Continua... 
+menu_castle_meeting|Chi vorresti incontrare? 
+mno_guard_meet_s5|{s5}.  
+mno_guard_meet_s5|{s5}. 
+mno_guard_meet_s5|{s5}. 
+mno_guard_meet_s5|{s5}.  
+mno_forget_it|Lascia_perdere.
+menu_castle_meeting_selected|La tua richiesta per un incontro viene trasmessa e finalmente {s6} appare nel cortile per parlare con te. 
+mno_continue|Continua... 
+menu_castle_besiege|Stai assediando {s1}. {s2} {s3}
+mno_siege_request_meeting|Chiedi un incontro con il comandante del castello. 
+mno_wait_24_hours|Aspetta fino a domani.
+mno_castle_lead_attack|Guida i tuoi uomini in un assalto. 
+mno_attack_stay_back|Ordina ai tuoi uomini di attaccare mentre tu rimani nelle retrovie... 
+mno_build_ladders|Prepara le scale per assaltare le mura.
+mno_build_siege_tower|Costruisci una torre d'assedio.  
+mno_lift_siege|Abbandona l'assedio.
+menu_siege_attack_meets_sally|I difensori si apprestano a respingere l'assalto. 
+mno_continue|Continua...  
+menu_castle_besiege_inner_battle|{s1} 
+mno_continue|Continua...  
+menu_construct_ladders|Come membro della Compagnia con le migliori abilità ingegneristiche ({reg2}), {reg3?valuti:{s3} valuta} che ci vorranno {reg4} ore per costruire un numero sufficiente di scale d'assedio. 
+mno_build_ladders_cont|Fallo.
+mno_go_back|Indietro 
+menu_construct_siege_tower|Come membro della Compagnia con le migliori abilità ingegneristiche ({reg2}), {reg3?valuti:{s3} valuta} che costruire una torre d'assedio richiederà {reg4} ore.
+mno_build_siege_tower_cont|Comincia a costruire. 
+mno_go_back|Indietro 
+menu_castle_attack_walls_simulate|{s4}^^Le tue perdite: {s8}^^Le perdite del nemico: {s9} 
+mno_continue|Continua...  
+menu_castle_attack_walls_with_allies_simulate|{s4}^^Le tue perdite: {s8}^^Le perdite alleate: {s9}^^Le perdite del nemico: {s10} 
+mno_continue|Continua... 
+menu_castle_taken_by_friends|Niente da vedere qui. 
+menu_castle_taken|{s3} è stato conquistato dalle tue truppe, ed ora tu hai il pieno controllo {reg2?della città:del castello}.{reg1? Puoi posizionare delle truppe qui per difenderti contro i nemici che potrebbero provare a riconquistare. Inoltre, devi scegliere adesso se vuoi tenere {reg2?la città:il castello} per te stesso o darlo ad un vassallo fedele...:} 
+mno_continue|Continua...  
+menu_castle_taken_2|{s3} stato conquistato dalle tue truppe, ed ora tu hai il pieno controllo del castello. È tempo di dare notizia a {s9} della tua vittoria. {s5} 
+mno_castle_taken_claim|Chiedi che {s3} ti venga assegnato. 
+mno_castle_taken_claim_2|Chiedi che {s3} venga assegnato a {tua moglie/tuo marito}.  
+mno_castle_taken_no_claim|Non avanzare richieste. 
+menu_requested_castle_granted_to_player|Ricevi un messaggio dal tuo signore, {s3}.^^ {reg4?Lei:Lui} ha deciso di assegnare {s2}{reg3? e il vicino villaggio di {s4}:} a te, con il titolo e tutto ciò che vi è annesso, mantenendolo in {reg4?suo:suo} nome finchè manterrai il giuramento di fedeltà...
+mno_continue|Continua. 
+menu_requested_castle_granted_to_player-husband|Ricevi un messaggio dal tuo signore, {s3}.^^ {reg4?Lei:Lui} ha deciso di assegnare {s2}{reg3? e il vicino villaggio di {s4}:} a tuo marito, {s7}. 
+mno_continue|Continua. 
+menu_requested_castle_granted_to_another|Ricevi un messaggio dal tuo sovrano, {s3}.^^ 'Sono stato informato delle tue eroiche gesta e mi compiaccio vedendo che hai ottenuto la conquista di {s2}. La tua vittoria è una gioia per i nostri cuori. Hai chiesto che ti venga assegnata la proprietà del castello ma è un favore che non posso accordare, in quanto già possiedi rilevanti tenute nel mio regno. Ti ho inviato invece {reg6} denari per coprire le spese della tua campanga, ma {s2} sarà assegnato a {s5}.'  
+mno_accept_decision|Accetta la decisione.
+mno_leave_faction|Decidi che è inaccettabile! Sciogli il giuramento di fedeltà!
+menu_requested_castle_granted_o_another_female|Ricevi un messaggio dal tuo sovrano, {s3}.^^ 'Sono molto compiaciuto di sentire dei tuoi valorosi sforzi per la cattura di {s2}. La tua vittoria è una gioia per i nostri cuori. Hai chiesto che il possesso del castello venga affidato a tuo marito, ma questo è un favore che non posso accordare, in quanto egli già possiede rilevanti tenute nel mio regno. Ti ho inviato invece {reg6} denari per coprire le spese della tua campagna, ma {s2} sarà assegnato a {s5}.'
+mno_accept_decision|Accetta la decisione. 
+menu_leave_faction|Sciogliere un giuramento di fedeltà è un atto molto grave. Il tuo signore potrebbe condannarti e confiscare le tue terre e le tue fortezze. Comunque, se tornerai di tua spontanea volontà, egli potrebbe dimenticare il tradimento e rinunciare a combatterti. 
+mno_leave_faction_give_back|Sciogli il tuo giuramento e rinuncia alle tue proprietà. 
+mno_leave_faction_hold|Sciogli il tuo giuramento e mantieni le tue proprietà, compreso {s2}.  
+mno_leave_faction_cancel|Rimani fedele e accetta la decisione. 
+menu_give_center_to_player|Il tuo sovrano ti offre di estendere i tuoi feudi! {s1} ti comunica che intende assegnarti {s2} in compenso del tuoi leali servigi, aggiungendolo ai tuoi possedimenti. Qual è la tua risposta? 
+mno_give_center_to_player_accept|Accetta l'offerta.  
+mno_give_center_to_player_reject|Rifiuti. Non ti interessa avere {s2}. 
+menu_give_center_to_player_2|Con una breve ma intensa cerimonia, si conferma che tu sia governante di {s2}{reg3? e dell'annesso villaggio di {s4}:}._{reg3?Essi diverranno:Esso diverrà} parte dei tuoi domini. Ora potrai riscuotere tasse e affitti dalla tua tenuta, assoldare militari tra la popolazione nonchè gestire il territorio secondo i tuoi voleri. Tuttavia, hai il dovere difendere il tuo feudo e la sua popolazione dai pericoli e a far rispettare la legge e l'ordine. 
+mno_continue|Continua... 
+menu_oath_fulfilled|Hai stipulato un contratto con {s1} con il quale offri i tuoi servigi per un tempo determinato. Il tuo contratto si è ora concluso. Cosa farai? 
+mno_renew_oath|Rinnova il contratto con {s1} per un altro mese.  
+mno_dont_renew_oath|Liberati da ogni legame. 
+menu_siege_started_defender|{s1} sta lanciando l'assalto alle mura di {s2}. Tu hai {reg10} pronte per la battaglia contro le {reg11} del nemico. Decidi di... 
+mno_siege_defender_join_battle|Unirti alla battaglia.  
+mno_siege_defender_troops_join_battle|Ordinare ai tuoi uomini di unirsi alla battaglia senza di te. 
+menu_siege_join_defense|{s4}^^Le tue perdite: {s8}^^Le perdite alleate: {s9}^^Perdite nemiche: {s10}
+mno_continue|Continua...  
+menu_enter_your_own_castle|{s10} 
+mno_continue|Continua... 
+menu_village|{s10} {s12}^{s11}^{s6}{s7} 
+mno_village_manage|Gestisci il villaggio.  
+mno_recruit_volunteers|Recluta volontari.
+mno_village_center|Vai al centro del villaggio. 
+mno_village_center_door|Porta per il centro del villaggio.
+mno_village_buy_food|Compra vettovaglie dai contadini. 
+mno_village_attack_bandits|Attacca i banditi.
+mno_village_wait|Aspetta qui per un po' di tempo.  
+mno_collect_taxes_qst|{reg5?Continua a riscuotere le tasse:Raccogli le tasse} dovute a {s1}. 
+mno_train_peasants_against_bandits_qst|Addestra i paesani. 
+mno_village_hostile_action|Compi un'azione ostile. 
+mno_village_leave|Parti... 
+menu_village_hostile_action|Che tipo di azione hai in mente? 
+mno_village_take_food|Costringi i contadini a darti le loro scorte. 
+mno_village_steal_cattle|Ruba del bestiame.  
+mno_village_loot|Saccheggia il villaggio e successivamente brucialo.  
+mno_forget_it|Lascia perdere. 
+menu_recruit_volunteers|{s18} 
+mno_continue_not_enough_gold|Non hai abbastanza soldi...  
+mno_continue|Continua...  
+mno_recruit_them|Recluta ({reg6} denari). 
+mno_forget_it|Lacia perdere.  
+menu_village_hunt_down_fugitive_defeated|Un colpo violento del fuggitivo ti scaraventa a terra, la tua vista si fa annebbiata e poi più nulla. Il tempo passa. Quando riprendi conoscenza il tuo corpo è contuso e sanguinante, ma fortunatamente nessuna ferita è risultata letale.
+mno_continue|Continua... 
+menu_village_infest_bandits_result|{s9} 
+mno_continue|Continua...  
+menu_village_infestation_removed|In una battaglia degna di essere ricordata nelle canzoni dei bardi, tu e i tuoi uomini avete scacciato i banditi dal villaggio, rendendolo sicuro come mai prima d'ora. Ai contadini è rimasto ben poco dopo questo terribile momento, ma ti offrono tutto ciò che riescono a trovare.
+mno_village_bandits_defeated_accept|Prendi quanto ti è dovuto.  
+mno_village_bandits_defeated_cont|Rifiuta, al momento loro ne hanno molto più bisogno d te.  
+menu_center_manage|{s19}^{reg6?^^Attualmente stai costruendo {s7}. L'edificio sarà completato tra {reg8} giorno{reg9?/i:}.:} 
+mno_center_build_manor|Costruisci un maniero. 
+mno_center_build_fish_pond|Costruisci un mulino.  
+mno_center_build_watch_tower|Costruisci una torre d'avvistamento. 
+mno_center_build_school|Costruisci una scuola. 
+mno_center_build_messenger_post|Costruisci un ufficio postale.
+mno_center_build_prisoner_tower|Costruisci una torre prigione. 
+mno_go_back_dot|Indietro  
+menu_center_improve|{s19} Come membro della Compagnia con le più alte abilità ingegneristiche ({reg2}), {reg3?calcoli:{s3} calcola} che la costruzione di {s4} costerà {reg5} denari e richiederà {reg6} giorni. 
+mno_improve_cont|Costruisci. 
+mno_forget_it|Lascia_perdere. 
+mno_improve_not_enough_gold|Non hai abbastanza soldi per farlo. 
+menu_town_bandits_failed|{s4} {s5}
+mno_continue|Continua... 
+menu_town_bandits_succeeded|I banditi cadono uno dopo l'altro come il grano tagliato da una falce! Presto sei l'unica persona in piedi nella strada mentre la maggior parte degli assalitori giacciono a terra, morti o morenti. Frughi fra i cadaveri, trovi una borsa che dev'essere appartenuta ad una vittima precedente di questi malviventi. O forse, è il denaro pagato da qualcuno perché questi banditi ponessero fine alla tua vita.. 
+mno_continue|Continua...  
+menu_village_steal_cattle_confirm|Come membro con la maggiore abilità nelle razzie ({reg2}), {reg3?calcoli:{s1} calcola} che puoi rubare {reg4} capi di bestiame dal villaggio. 
+mno_village_steal_cattle_confirm|Agisci. 
+mno_forget_it|Lascia perdere 
+menu_village_steal_cattle|{s1} 
+mno_continue|Continua... 
+menu_village_take_food_confirm|Sarà difficile minacciare e obbligare i contadini a darti le loro preziose merci. Valuti che impiegherai almeno un'ora.
+mno_village_take_food_confirm|Vai avanti
+mno_forget_it|Lascia perdere 
+menu_village_take_food|Gli abitanti del villaggio, protestando, ti consegnano tutto ciò che hanno.
+mno_take_supplies|Prendi le merci
+mno_let_them_keep_it|Lascia loro le merci
+menu_village_start_attack|Alcuni abitanti del villaggio furenti, impugnando delle armi si preparano a resistere. Sembra che dovrai combattere personalmente, prima di continuare.
+mno_village_raid_attack|Attaccali. 
+mno_village_raid_leave|Lascia stare questo villaggio.
+menu_village_loot_no_resist|Gli abitanti del villaggio sono pochi e impauriti, si dileguano prima del tuo arrivo. Il villaggio è nelle tue mani.
+mno_village_loot|Saccheggia il villaggio e successivamente distruggilo.
+mno_village_raid_leave|Lascia stare questo villaggio.
+menu_village_loot_complete|Al tuo ordine, i soldati saccheggiano il villaggio, depredandolo di ogni oggetto di valore e infine dando fuoco agli edifici. Tra monete e oggetti di valore, ottieni {reg1} denari. 
+mno_continue|Continua...  
+menu_village_loot_defeat|Combattendo con coraggio e determinazione, i villani riescono a resistere e a respingere il tuo attacco.
+mno_continue|Continua... 
+menu_village_loot_continue|Vuoi continuare a razziare questo villaggio?
+mno_disembark_yes|Si  
+mno_disembark_no|No
+menu_close|Nulla
+menu_town|{s10} {s14}^{s11}{s12}{s13} 
+mno_castle_castle|Vai alla Sala del lord{s1}. 
+mno_castle_castle_door|Portone del castello.
+mno_join_tournament|Partecipa al Torneo.
+mno_town_castle|Vai al Castello.{s1}    
+mno_town_castle_door|Portone del castello.
+mno_town_center|Passeggia per le strade.  
+mno_town_center_door|Porta per il centro della città.
+mno_town_tavern|Visita la taverna.   
+mno_town_tavern_door|Porta della taverna.
+mno_town_merchant|Parla con i mercanti.   
+mno_town_merchant_door|Porta per il  mercato.
+mno_town_arena|Entra nell'arena.   
+mno_town_arena_door|Porta dell'arena.
+mno_town_dungeon|Never: Entra nella prigione.   
+mno_town_dungeon_door|Porta della prigione.
+mno_castle_inspect|Passeggia per il cortile interno.
+mno_castle_inspect_door|Al cortile del castello.
+mno_town_enterprise|Visita tuo {s3}.
+mno_town_enterprise_door|Porta verso la tua impresa.
+mno_visit_lady|Fai visita alla Dama
+mno_visit_lady_door|Porta per il giardino.  
+mno_trade_with_merchants|Vai alla Piazza del mercato. 
+mno_walled_center_manage|Amministra {reg0?questa città:questo castello}.
+mno_walled_center_move_court|Sposta qui la tua corte.
+mno_castle_station_troops|Disponi una guarnigione qui {s10}
+mno_castle_wait|Aspetta qui per un po' di tempo{s1}.  
+mno_collect_taxes_qst|{reg5?Continua a raccogliere le tasse:Riscuoti le tasse} dovute a {s1}.
+mno_town_leave|Parti...    
+mno_town_leave_door|Lascia quest'area.
+menu_cannot_enter_court|C'è una festa in corso nella Sala del lord, ma tu non hai uno status sufficiente per essere invitato a partecipare. Tuttavia aumentando la tua fama otterrai d'essere ammesso... O potresti provare a distinguerti in un torneo mentre la festa è in corso... 
+mno_continue|Continua  
+menu_lady_visit|A chi desideri far visita?
+mno_visit_lady_1|Visita {s12}  
+mno_visit_lady_2|Visita {s12}  
+mno_visit_lady_3|Visita {s12}  
+mno_visit_lady_3_door|Porta del giardino.
+mno_visit_lady_4|Visita {s12}
+mno_visit_lady_5|Visita {s12} 
+mno_visit_lady_6|Visita {s12}  
+mno_leave|Parti 
+menu_town_tournament_lost|Hai subito l'eliminazione dal torneo.{s8} 
+mno_continue|Continua...  
+menu_town_tournament_won| Hai vinto il torneo di {s3}! Ti riempi d'orgoglio mentre la folla inneggia il tuo nome. Oltre all'onore, la fama e la gloria, guadagni un premio di {reg9} denari. {s8} 
+mno_continue|Continua... 
+menu_town_tournament_won_by_another|Come unico {reg3?combattente:uomo} senza sconfitte oggi, {s1} vince il premio e la gloria di questo torneo.
+mno_continue|Continua... 
+menu_town_tournament|{s1} Sei al turno numero {reg0} di questo torneo, con {reg1} partecipanti rimasti. Nel prossimo turno combatteranno {reg2} squadre di {reg3} {reg4?combattenti:combattente} ciascuna. 
+mno_tournament_view_participants|Vedi i partecipanti
+mno_tournament_bet|Scommetti su di te
+mno_tournament_join_next_fight|Combatti nel prossimo turno.  
+mno_leave_tournament|Ritirati dal torneo
+menu_tournament_withdraw_verify|Confermi di volerti ritirare dal torneo?
+mno_tournament_withdraw_yes|Si, non ho alcuna possibilità di vittoria...
+mno_tournament_withdraw_no|No, fino a che ci sarà una possibilità di vincere!
+menu_tournament_bet|Le scommesse su di te sono {reg5} a {reg6}.{reg1? Hai già scommesso {reg1} denari su di te, e se vinci guadagnerai {reg2} denari.:} Quanto vuoi scommettere?
+mno_bet_100_denars|100 denari.
+mno_bet_50_denars|50 denari.
+mno_bet_20_denars|20 denari.
+mno_bet_10_denars|10 denari.
+mno_bet_5_denars|5 denari.
+mno_go_back_dot|Indietro. 
+menu_tournament_bet_confirm|Se scommetti {reg1} denari, guadagnerai {reg2} denari se vinci il torneo. Va bene?
+mno_tournament_bet_accept|Scommetti.
+mno_tournament_bet_cancel|Lascia perdere.
+menu_tournament_participants|Chiedi a uno degli organizzatori i nomi dei partecipanti. Essi sono:^{s11} 
+mno_go_back_dot|Indietro.
+menu_collect_taxes|Come membro della Compagnia con le migliori capacità commerciali ({reg2}), {reg3?stimi:{s1} stima} che riscuotere le tasse richiederà {reg4} giorni... 
+mno_start_collecting|Inizia a raccogliere.  
+mno_collect_later|Rimanda a più tardi.
+menu_collect_taxes_complete|Hai riscosso {reg3} denari in tasse da {s3}. {s19} si aspetterà che gli porti questo denaro.. 
+mno_continue|Continua...  
+menu_collect_taxes_rebels_killed|La tua reazione rapida e decisa ha prontamente represso la rivolta. Sicuramente, nessuno con un po' di cervello proverà più a ribellarsi.
+mno_continue|Continua... 
+menu_collect_taxes_failed|Hai riscosso solo {reg3} denari come tasse da {s3} prima che la rivolta ti interrompesse. {s1} non sarà contento, ma un po' di soldi lo placheranno, dopo tutto è meglio di niente...
+mno_continue|Continua... 
+menu_collect_taxes_revolt_warning|La popolazione di {s3} è oltraggiata dalle tue richieste e le definisce estorsione. Sono divenuti molto irrequieti, potrebbero reagire malamente se continuerai a tartassarli.
+mno_continue_collecting_taxes|Ignorali e continua.
+mno_halve_taxes|Propongono di ridurre le richieste alla metà. ({s1} potrebbe adirarsi)
+menu_collect_taxes_revolt|La riscossione delle tasse viene interrotta da {s3}. Un folto gruppo di {reg9?popolani:cittadini} infuriati si sta avvicinando, inneggiando contro le tasse esorbitanti e impugnando torce e forconi. Sembra che vogliano combattere!
+mno_continue|Continua...  
+menu_train_peasants_against_bandits|Come membro della Compagnia con la maggiore esperienza d'addestramento ({reg2}), {reg3?valuti:{s1} valuta} che addestrare alcuni contadini al combattimento richiederà {reg4} ore. 
+mno_make_preparation|Addestrali
+mno_train_later|Rimanda a più tardi.
+menu_train_peasants_against_bandits_ready|Introduci i contadini alle basi del combattimento, disciplina e obbedienza. Valuti che {reg0} di loro {reg1?hanno:ha} appreso in pieno e quindi {reg1?sono:è} in condizione di affrontare la pratica.
+mno_peasant_start_practice|Inizia la pratica di combattimento.
+menu_train_peasants_against_bandits_training_result|{s0} 
+mno_continue|Continua... 
+menu_train_peasants_against_bandits_attack|Mentre ti prepari a continuare l'addestramento, una sentinella del villaggio corre da te, dando l'allarme. I banditi sono stati avvistati all'orizzonte, si dirigono rapidamente verso {s3}. Il capo del villaggio suggerisce che tu organizzi i miliziani appena addestrati per affrontarli.
+mno_peasants_against_bandits_attack_resist|Preparati al combattimento!
+menu_train_peasants_against_bandits_attack_result|{s9} 
+mno_continue|Continua...  
+menu_train_peasants_against_bandits_success|I banditi sono stati sconfitti! Quei pochi rimasti in vita scappano con la coda fra le gambe, terrorizzati dai contadini e dai loro nuovi campioni. I contadini hanno ottenuto un piccolo bottino dopo questo duro scontro, ma te lo offrono completamente per mostrarti la loro gratitudine.
+ mno_village_bandits_defeated_accept|Prendi quanto ti è dovuto.
+mno_village_bandits_defeated_cont|Rifiuta, al momento loro ne hanno molto più bisogno di te.
+menu_disembark|Vuoi sbarcare?
+ mno_disembark_yes|Si.
+mno_disembark_no| No.  
+menu_ship_reembark|Vuoi imbarcarti?
+ mno_reembark_yes|Si.
+mno_reembark_no|No.
+menu_center_reports|Nome della Città: {s1}^Entrate da rendite: {reg1} denari^Entrate da tariffe: {reg2} denari^Scorte di cibo: per {reg3} giorni
+mno_to_price_and_productions|Mostra prezzi e produzioni
+mno_go_back_dot|Indietro 
+menu_price_and_production|Le produzioni sono:^(Note: base/modified by raw materials/modified by materials plus prosperity)^{s1}^^I fattori dei prezzi sono:^{s2}
+mno_go_back_dot|Indietro  
+menu_town_trade|Vai verso il mercato
+mno_assess_prices|Valuta i prezzi locali 
+mno_trade_with_arms_merchant|Commercia con il mercante di armi
+mno_trade_with_armor_merchant|Commercia con il mercante di vesti e armature.
+mno_trade_with_horse_merchant|Commercia con il mercante di cavalli.
+mno_trade_with_goods_merchant|Commercia con il mercante di beni e vivande.
+mno_back_to_town_menu|Torna indietro.  
+menu_town_trade_assessment_begin|Ascolti le tante discussioni sui prezzi dei beni commerciati nei dintorni. Ascolti attentamente, provando a sfruttare le migliori opportunità.
+mno_continue|Continua... 
+menu_town_trade_assessment|Come membro della Compagnia con le migliori capacità commerciali ({reg2}), {reg3?provi ad individuare:{s1} prova ad individuare} le migliori opportunità di guadagno offerte dai beni commerciati in città. {s2} 
+mno_continue|Continua...  
+menu_sneak_into_town_suceeded|Travestito con umili abiti di sacco, inganni le guardie e cerchi di entrare in città.
+mno_continue|Continua... 
+menu_sneak_into_town_caught|Non appena cerchi di intrufolarti in città, una delle guardie ti riconosce e dà l'allarme! Devi passare il cancello della città prima che tutte le guardie della città ti siano addosso!
+mno_sneak_caught_fight|Prova a farti largo combattendo!
+mno_sneak_caught_surrender|Arrendetevi.
+menu_sneak_into_town_caught_dispersed_guards|Ti liberi delle guardie e cancelli le tue tracce per non farti trovare, semini facilmente gli inseguitori nel dedalo delle vie.
+mno_continue|Continua...  
+menu_sneak_into_town_caught_ran_away|Trovi una via di fuga attraverso il cancello e ti ritiri prontamente verso la salvezza sulle colline.
+mno_continue|Continua...  
+menu_enemy_offer_ransom_for_prisoner|{s2} ti offre la somma di {reg12} denari in argento, se vorrai liberare {s1}. 
+mno_ransom_accept|Accetta l'offerta
+mno_ransom_reject|Rifiuta l'offerta
+menu_training_ground|Ti avvicini al campo d'addestramento, dove puoi addestrarti nel combattimento. Quale tipo d'addestramento vuoi praticare?
+mno_camp_trainer|Parla con l'addestratore.
+mno_camp_train_melee|Pratica di combattimento.
+mno_camp_train_archery|Pratica con le armi da tiro.
+mno_camp_train_mounted|Pratica di equitazione.
+mno_leave|Parti
+menu_training_ground_selection_details_melee_1|Contro quanti avversari vuoi fare pratica?
+mno_camp_train_melee_num_men_1|Uno.
+mno_camp_train_melee_num_men_2|Due.
+mno_camp_train_melee_num_men_3|Tre.
+mno_camp_train_melee_num_men_4|Quattro.
+mno_go_back_dot|Torna indietro.
+menu_training_ground_selection_details_melee_2|Scegli gli avversari #{reg1}: 
+mno_s0|{s0}
+mno_s0|{s0}
+mno_s0|{s0}
+mno_s0|{s0}
+mno_s0|{s0}
+mno_s0|{s0}
+mno_s0|{s0}
+mno_s0|{s0}
+mno_s0|{s0}
+mno_s0|{s0}
+mno_s0|{s0}
+mno_s0|{s0}
+mno_s0|{s0}
+mno_s0|{s0}
+mno_s0|{s0}
+mno_s0|{s0}
+mno_s0|{s0}
+mno_s0|{s0}
+mno_s0|{s0}
+mno_s0|{s0}
+mno_training_ground_selection_details_melee_random|Scelta casuale
+mno_go_back_dot|Indietro
+menu_training_ground_selection_details_mounted|Con quale tipo di arma vuoi fare pratica?
+mno_camp_train_mounted_details_1|Arma a una mano.
+mno_camp_train_mounted_details_2|Asta.
+mno_camp_train_mounted_details_3|Arco.
+mno_camp_train_mounted_details_4|Armi da lancio.
+mno_go_back_dot|Torna indietro.
+menu_training_ground_selection_details_ranged_1|Con quale arma da tiro vuoi fare pratica?
+mno_camp_train_ranged_weapon_bow|Arco e frecce.
+mno_camp_train_ranged_weapon_crossbow|Balestra.
+mno_camp_train_ranged_weapon_thrown|Coltelli da lancio.
+mno_go_back_dot|Torna indietro.
+menu_training_ground_selection_details_ranged_2|Da quale distanza vuoi addestrarti?
+mno_camp_train_ranged_details_1|10 iarde.
+mno_camp_train_ranged_details_2|20 iarde.
+mno_camp_train_ranged_details_3|30 iarde.
+mno_camp_train_ranged_details_4|40 iarde.
+mno_camp_train_ranged_details_5|50 iarde.
+mno_camp_train_ranged_details_6|60 iarde.
+mno_camp_train_ranged_details_7|70 iarde.
+mno_go_back_dot|Indietro 
+menu_training_ground_description|{s0} 
+mno_continue|Continua... 
+menu_training_ground_training_result|{s7}{s2} 
+mno_continue|Continua... 
+menu_marshall_selection_candidate_ask|{s15} vuole al più presto nominare un Comandante d'armata per il {s23}. Alcuni dei nobili hanno suggerito il tuo nome per la candidatura.
+mno_marshall_candidate_accept|Comunica a {s15} che sei disponibile a servire come Comandante d'armata.
+mno_marshall_candidate_reject|Spargi la voce che hai troppe occupazioni in questo periodo.
+menu_captivity_avoid_wilderness|Improvvisamente tutto attorno a te diviene buio. Molte ore dopo riprendi coscienza e ti ritrovi in solitudine. I nemici devono aver creduto alla tua morte abbandonandoti sul posto. Comunque, sembra che nessuna delle ferite sia letale e, sebbene dolorante, ti rendi conto di riuscire a camminare. Ti alzi in piedi e provi a cercare altri sopravvissuti della tua Compagnia.
+menu_captivity_start_wilderness|Stub 
+menu_captivity_start_wilderness_surrender|Stub 
+menu_captivity_start_wilderness_defeat|I tuoi nemici ti hanno posto in catene. 
+menu_captivity_start_castle_surrender|Stub 
+menu_captivity_start_castle_defeat|Stub 
+menu_captivity_start_under_siege_defeat|I tuoi nemici ti hanno posto in catene. 
+menu_captivity_wilderness_taken_prisoner|I tuoi nemici ti hanno posto in catene. 
+mno_continue|Continua...  
+menu_captivity_wilderness_check|Stub 
+menu_captivity_end_wilderness_escape|Dopo giorni di sofferenza in prigionia, cogli un occasione per scappare dai tuoi carcerieri!
+mno_continue|Continua...  
+menu_captivity_castle_taken_prisoner|Prontamente le guardie ti circondano e disarmano. Con maledizioni e insulti, ti gettano nelle segrete dove dovrai passare i restanti giorni della tua miserabile vita.
+mno_continue|Continua...  
+menu_captivity_rescue_lord_taken_prisoner|Mantieni il travestimento il più a lungo possibile prima di rivelarti. Le guardie sono oltraggiate e ti picchiano selvaggiamente prima di gettarti in una cella per chissà quanto tempo...
+mno_continue|Continua...  
+menu_captivity_castle_check|stub 
+menu_captivity_end_exchanged_with_prisoner|Dopo giorni di prigionia, ottieni la liberazione grazie ad uno scambio di ostaggi.
+mno_continue|Continua...  
+"menu_captivity_end_propose_ransom|Passi lunghe ore nelle celle senza luce delle segrete, più di quante tu ne possa contare. Improvvisamente il tuo carceriere entra nella cella con un'offerta; ti propone la libertà in cambio di {reg5} denari del tuo tesoro nascosto. Tu decidi di..."
+mno_captivity_end_ransom_accept|Accettare l'offerta.  
+mno_captivity_end_ransom_deny|Rifiutare e aspettare una migliore occasione.
+menu_captivity_castle_remain|Molti giorni passano nell'oscurità della tua cella. Cerchi di passarli meglio che puoi, sopportando i calci e le maledizioni delle guardie, osservando il tuo corpo denutrito deperire giorno dopo giorno...
+mno_continue|Continua...  
+menu_kingdom_army_quest_report_to_army|{s8} ti comunica che vorrebbe che ti unissi alla sua nuova campagna militare. Devi condurre con te almeno {reg13} soldati all'armata, e ti dà istruzioni per reclutarne al più presto se non ne hai abbastanza.
+mno_continue|Continua...  
+menu_kingdom_army_quest_messenger|{s8} ti comunica che desidera parlare con te del piano che sta formulando. Chiede che tu vada a incontrarlo il più presto possibile.
+mno_continue|Continua... 
+menu_kingdom_army_quest_join_siege_order|{s8} ti comunica che devi unirti all'assedio di {s9} nei preparativi per l'assalto finale. Le tue truppe devono prendere {s9} a tutti i costi.
+mno_continue|Continua...  
+menu_kingdom_army_follow_failed|Hai disobbedito agli ordini e fallito nel seguire {s8}. Arrabbiato, egli ti ha congedato dall'armata, e ti invia l'avvertimento che le tue azioni non saranno dimenticate.
+mno_continue|Continua...
+menu_invite_player_to_faction_without_center|Ricevi un'offerta di vassallaggio!^^ {s8} del {s9} ha inviato un araldo per consegnarti un invito scritto di suo pugno. Ti sarà concesso l'onore di divenire vassallo e {lord/lady} di {s9}, in cambio {s8} chiede che tu faccia giuramento di fedeltà a lui e combatta nelle sue campagne militari, sebbene egli non ti offra terre o titoli. Egli sarà sicuramente offeso se non accetterai l'offerta...
+mno_faction_accept|Accetto!
+mno_faction_reject|Declino l'offerta.
+menu_invite_player_to_faction|Ricevi un'offerta di vassallaggio!^^ {s8} del {s9} ha inviato un araldo per consegnarti un invito scritto di suo pugno. Ti sarà concesso l'onore di divenire vassallo e {lord/lady} di {s9}, in cambio {s8} chiede che tu faccia giuramento di fedeltà a lui e combatta nelle sue campagne militari, ti offre la proprietà di {s2} per i tuoi leali servigi. Egli sarà sicuramente offeso se non accetterai l'offerta...
+mno_faction_accept|Accetto!
+mno_faction_reject|Declino l'offerta.
+menu_invite_player_to_faction_accepted|Per divenire vassallo, devi pronunciare un giuramento di fedeltà a {s3}. Dovrai andare a incontrarlo e fare il giuramento di persona. {s5}
+mno_continue|Continua...  
+menu_question_peace_offer|Ricevi un offerta di pace^^{s1} ti offre un trattato di pace. Qual è la tua risposta?
+mno_peace_offer_accept|Accetto
+mno_peace_offer_reject|Rifiuto
+menu_notification_truce_expired|Tregua terminata^^La tregua tra {s1} e {s2} è conclusa
+mno_continue|Continua
+menu_notification_feast_quest_expired|{s10}
+mno_continue|Continua
+menu_notification_sortie_possible|Nemico avvistato: i nemici sono stati avvistati fuori dalle mura di (s4), e (s5) e altri si stanno preparando per una sortita. Puoi unirti a loro se lo desideri.
+mno_continue|Continua
+menu_notification_casus_belli_expired|Regno che non reagisce^^Il {s1} non ha risposto alle provocazioni del {s2}, e {s3} perde la faccia tra {reg4?i suoi:i suoi} elementi più bellicosi...^
+mno_continue|Continua 
+menu_notification_lord_defects|Defezione: {s4} ha abbandonato il {s5} e si è unito a {s7}, portando {reg4?her:his} i suoi feudi con sè
+mno_continue|Continua
+menu_notification_treason_indictment|Accusa di tradimento^^{s9} 
+mno_continue|Continua
+menu_notification_border_incident|Incidente di confine^^ In giro si dice che {s9}. Anche se non sai se le voci sono vere, sai una cosa - questo episodio apparentemente minore ha suscitato passioni tra i nobili del {s4}, rendendo più facile per loro andare in guerra contro il {s3}, se lo desiderano... 
+mno_continue|Continua
+menu_notification_player_faction_active|Ora possiedi terre in tuo nome senza avere legami rispetto ad alcun regno. Questo fa di te un monarca a pieno titolo, con la tua corte temporaneamente localizzata a {s12}. Tuttavia, gli altri re in Calradia ti considereranno per prima cosa una minaccia, perché se uno dei signori della guerra può afferrare un trono, allora la loro legittimità viene messa in discussione.^^Potresti trovare opportuno in questo momento legarti ad un regno già esistente. Se vuoi continuare come un monarca autonomo, allora la tua prima priorità dovrebbe essere stabilire un autonomo diritto di governare. Puoi formalizzare il tuo diritto a regnare in diversi modi -- matrimonio con una famiglia di alto rango, reclutando nuovi signori, disciplinando le tue terre, trattando con altri re, o mandando i tuoi compagni in missione.^^In ogni caso, il primo passo dovrebbe essere quello di nominare un primo ministro tra i tuoi compagni, per gestire gli affari di stato. I compagni hanno capacità diverse l'uno dall'altro.^Tu puoi nominare nuovi ministri di volta in volta. È inoltre possibile modificare la sede della tua corte, parlando al ministro.
+mno_appoint_spouse|Nomina tua moglie, {s10}...  
+mno_appoint_npc1|Nomina {s10}
+mno_appoint_npc2|Nomina {s10}
+mno_appoint_npc3|Nomina {s10}
+mno_appoint_npc4|Nomina {s10}
+mno_appoint_npc5|Nomina {s10}
+mno_appoint_npc6|Nomina {s10}
+mno_appoint_npc7|Nomina {s10}
+mno_appoint_npc8|Nomina {s10}
+mno_appoint_npc9|Nomina {s10}
+mno_appoint_npc9|Nomina {s10}
+mno_appoint_npc11|Nomina {s10}
+mno_appoint_npc12|Nomina {s10}
+mno_appoint_npc13|Nomina {s10}
+mno_appoint_npc14|Nomina {s10}
+mno_appoint_npc1|Nomina {s10}
+mno_appoint_npc16|Nomina {s10}
+mno_appoint_default|Nomina un eminente cittadino della zona...  
+menu_minister_confirm|{s9}può essere trovato nella tua corte a {s12}. Si consiglia di consultarlo periodicamente, per evitare l'accumulo di questioni irrisolte che possano minare la tua autorità...
+mno_continue|Continua...  
+menu_notification_court_lost|{s14}
+mno_continue|Continua... 
+menu_notification_player_faction_deactive|Non possiedi alcun territorio
+mno_continue|Continua...  
+menu_notification_player_wedding_day|{s8} desidera informarti che i preparativi per il tuo matrimonio a {s10} sono completati, e che la tua presenza è richiesta immediatamente. 
+mno_continue|Continua... 
+menu_notification_player_kingdom_holds_feast|{s11}{s12}
+mno_continue|Continua... 
+menu_notification_center_under_siege|{s1} è assediato da {s2} del {s3}! 
+mno_continue|Continua...
+menu_notification_village_raided|Nemici hanno saccheggiato un tuo feudo ^^{s1} è stato depredato da {s2} del {s3}! 
+mno_continue|Continua... 
+menu_notification_village_raid_started|Un tuo villaggio è sotto attacco!^^{s2} del {s3} sta saccheggiando {s1}. 
+mno_continue|Continua...  
+menu_notification_one_faction_left|Calradia è stata conquistata da un unico regno^^{s1} ha sconfitto tutti i rivali e rimane il solo Regno di Calradia.
+mno_continue|Continua... 
+menu_notification_oath_renounced_faction_defeated|La tua vecchia fazione è stata sconfitta^^Hai vinto la battaglia contro {s1}! Questo pone fine alla tua lotta cominciata quando rinunciasti al tuo giuramento di fedeltà... 
+mno_continue|Continua... 
+menu_notification_center_lost|Una proprietà è stata persa^^Hai perso {s1} al {s2}. 
+mno_continue|Continua... 
+menu_notification_troop_left_players_faction|Tradimento!^^{s1}ha lasciato il {s2} e si è unito al {s3}.
+mno_continue|Continua... 
+menu_notification_troop_joined_players_faction|Buone notizie!^^ {s1} ha lasciato il {s2} e si è unito al {s3}. 
+mno_continue|Continua...  
+menu_notification_war_declared|Dichiarazione di Guerra^^{s1} ha dichiarato guerra al {s2}!
+mno_continue|Continua...  
+menu_notification_peace_declared|Trattato di Pace^^{s1} e {s2} hanno stipulato un trattato di pace!^{s57} 
+mno_continue|Continua... 
+menu_notification_faction_defeated|Fazione eliminata^^{s1} non esiste più! 
+mno_continue|Continua...  
+menu_notification_rebels_switched_to_faction|La ribellione ha avuto successo^^ La tua ribellione ha vinto! La tua fazione ora rivendica il titolo di {s11}, con {s12} come regnante unico. 
+mno_continue|Continua...  
+menu_notification_player_should_consult|Il tuo ministro ti informa che ci sono problemi nel regno che, se non affrontati, potrebbero minare la tua autorità. Ti invita a consultarti con lui il prima possibile.
+mno_continue|Continua...  
+menu_notification_player_feast_in_progress|Festa in preparazione^^Tua moglie ha iniziato i preparativi per una festa nella Sala del lord a {s11} 
+mno_continue|Continua... 
+menu_notification_lady_requests_visit|Un'anziana donna si avvicina alla tua Compagnia e passa ad uno dei tuoi uomini una lettera, sigillata con la cera. È indirizzata a te. Quando rompi il sigillo vedi che proviene da {s15}. Scrive, 'Mi sono così divertita durante la tua ultima visita. {s14} Sono attualmente a {s10}.{s12}' 
+mno_continue|Di alla donna di informare la sua padrona che arriverai a breve. 
+mno_continue|Di alla donna di informare la sua padrona che sei indisposto.  
+menu_garden|{s12} 
+mno_enter|Entra  
+mno_nurse|Vai con l'ancella  
+mno_nurse|Attendi il segnale
+mno_leave|Parti
+menu_kill_local_merchant_begin|Individui la tua vittima e la segui, osservando quando entra in un vicolo buio. Questa sarà sicuramente la tua migliore opportunità per attaccarlo.
+mno_continue|Continua...  
+menu_debug_alert_from_s65|DEBUG ALERT: {s65} 
+mno_continue|Continua...  
+menu_auto_return_to_map|stub 
+menu_bandit_lair|{s3} 
+mno_continue_1|Attacca il nascondiglio..
+mno_leave_no_attack|Parti... 
+mno_leave_victory|Continua...  
+mno_leave_defeat|Continua...  
+menu_notification_player_faction_political_issue_resolved|Dopo essersi consultato con i pari del regno, {s10} ha deciso di conferire {s11} a {s12}. 
+mno_continue|Continua...  
+menu_notification_player_faction_political_issue_resolved_for_player|Dopo essersi consultato con i pari del regno, {s10} ha deciso di conferire {s11} a te. Puoi rifiutare questo onore, ma ricorda che potresti non ricevere altre ricompense per un po' di tempo.{s12} 
+mno_accept|Accetta l'onore  
+mno_decline|Declina l'onore  
+mno_continue|Continua...  
+menu_start_phase_3|{s16}^^La spossatezza ti coglie mentre cerchi una locanda a {s1}, e desideri solo addormentarti in fretta. Tuttavia, ti svegli prima dell'alba col desiderio di esplorare l'ambiente circostante. Ti avventuri per le strade che sono ancora deserte. Tutto d'un tratto, senti un suono che fa rabbrividire e nel contempo ti mette in allarme... il sibilo di una lama che esce dal suo fodero... 
+mno_continue|Continua...  
+menu_start_phase_4|{s11} 
+mno_continue|Continua... 
+mno_continue|Continua... 
+menu_lost_tavern_duel|{s11} 
+mno_continue|Continua...  
+menu_establish_court|Per stabilire la tua corte a {s4} hai bisogno di eseguire alcuni lavori di ristrutturazione. In particolare, avrai bisogno di una serie di attrezzi e di un rotolo di velluto. Inoltre potrebbe essere necessario un po' di tempo ai tuoi seguaci per trasferirsi qui. Intendi procedere?
+mno_establish|Insedia a {s4} la tua corte
+mno_continue|Lascia perdere...
+menu_notification_relieved_as_marshal|{s4} desidera informarti che i tuoi servigi come Comandante in Capo non sono piu' richiesti. In onore dei valorosi sforzi compiuti in nome del regno negli ultimi {reg4} giorni, comunque, {reg8?lei:lui} ti offre una borsa con {reg5} denari.
+mno_continue|Continua
