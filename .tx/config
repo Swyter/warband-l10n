@@ -88,15 +88,20 @@ source_file = _base\skins.csv
 source_lang = en
 type = INI
 
-
-; Common game files
-
 [warband.troops]
 file_filter = <lang>\troops.csv
 source_file = _base\troops.csv
 source_lang = en
 type = INI
 
+
+; Common game files
+
+[warband.hints]
+file_filter = <lang>\hints.csv
+source_file = _base_common\hints.csv
+source_lang = en
+type = INI
 
 [warband.ui]
 file_filter = <lang>\ui.csv
