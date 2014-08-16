@@ -636,8 +636,8 @@ trp_knight_6_7|Emiro Nuam
 trp_knight_6_7_pl|Nuam
 trp_knight_6_8|Emiro Dhiyul
 trp_knight_6_8_pl|Dhiyul
-trp_knight_6_9|Emiro Lakhem 
-trp_knight_6_9_pl|Lakhem 
+trp_knight_6_9|Emiro Lakhem
+trp_knight_6_9_pl|Lakhem
 trp_knight_6_10|Emiro Ghulassen
 trp_knight_6_10_pl|Ghulassen
 trp_knight_6_11|Emiro Azadun
@@ -808,12 +808,12 @@ trp_kingdom_4_lady_6|Lady Bryn
 trp_kingdom_4_lady_6_pl|Bryn
 trp_kingdom_4_lady_7|Lady Eir
 trp_kingdom_4_lady_7_pl|Eir
-trp_knight_4_2b_daughter|Lady Thera
-trp_knight_4_2b_daughter_pl|Thera
+trp_knight_4_2b_daughter_1|Lady Thera
+trp_knight_4_2b_daughter_1_pl|Thera
 trp_kingdom_4_lady_9|Lady Hild
 trp_kingdom_4_lady_9_pl|Hild
-trp_knight_4_2c_wife|Lady Endegrid
-trp_knight_4_2c_wife_pl|Endegrid
+trp_knight_4_2c_wife_1|Lady Endegrid
+trp_knight_4_2c_wife_1_pl|Endegrid
 trp_kingdom_4_lady_11|Lady Herjasa
 trp_kingdom_4_lady_11_pl|Herjasa
 trp_knight_4_2c_daughter|Lady Svipul
@@ -824,12 +824,12 @@ trp_kingdom_4_lady_14|Lady Kaeteli
 trp_kingdom_4_lady_14_pl|Kaeteli
 trp_knight_4_1b_daughter|Lady Eilif
 trp_knight_4_1b_daughter_pl|Eilif
-trp_knight_4_2b_daughter|Lady Gudrun
-trp_knight_4_2b_daughter_pl|Gudrun
+trp_knight_4_2b_daughter_2|Lady Gudrun
+trp_knight_4_2b_daughter_2_pl|Gudrun
 trp_kingdom_4_lady_17|Lady Bergit
 trp_kingdom_4_lady_17_pl|Bergit
-trp_knight_4_2c_wife|Lady Aesa
-trp_knight_4_2c_wife_pl|Aesa
+trp_knight_4_2c_wife_2|Lady Aesa
+trp_knight_4_2c_wife_2_pl|Aesa
 trp_knight_4_1c_daughter|Lady Alfrun
 trp_knight_4_1c_daughter_pl|Alfrun
 trp_kingdom_4_lady_20|Lady Afrid
@@ -844,34 +844,34 @@ trp_kingdom_5_lady_4|Lady Reada
 trp_kingdom_5_lady_4_pl|Reada
 trp_kingdom_5_5_wife|Lady Saraten
 trp_kingdom_5_5_wife_pl|Saraten
-trp_kingdom_5_2b_wife|Lady Baotheia
-trp_kingdom_5_2b_wife_pl|Baotheia
-trp_kingdom_5_1c_daughter|Lady Eleandra
-trp_kingdom_5_1c_daughter_pl|Eleandra
-trp_kingdom_5_2c_daughter|Lady Meraced
-trp_kingdom_5_2c_daughter_pl|Meraced
-trp_kingdom_5_1c_wife|Lady Adelisa
-trp_kingdom_5_1c_wife_pl|Adelisa
-trp_kingdom_5_2c_wife|Lady Calantina
-trp_kingdom_5_2c_wife_pl|Calantina
-trp_kingdom_5_1c_daughter|Lady Forbesa
-trp_kingdom_5_1c_daughter_pl|Forbesa
-trp_kingdom_5_2c_daughter|Lady Claudora
-trp_kingdom_5_2c_daughter_pl|Claudora
+trp_kingdom_5_2b_wife_1|Lady Baotheia
+trp_kingdom_5_2b_wife_1_pl|Baotheia
+trp_kingdom_5_1c_daughter_1|Lady Eleandra
+trp_kingdom_5_1c_daughter_1_pl|Eleandra
+trp_kingdom_5_2c_daughter_1|Lady Meraced
+trp_kingdom_5_2c_daughter_1_pl|Meraced
+trp_kingdom_5_1c_wife_1|Lady Adelisa
+trp_kingdom_5_1c_wife_1_pl|Adelisa
+trp_kingdom_5_2c_wife_1|Lady Calantina
+trp_kingdom_5_2c_wife_1_pl|Calantina
+trp_kingdom_5_1c_daughter_2|Lady Forbesa
+trp_kingdom_5_1c_daughter_2_pl|Forbesa
+trp_kingdom_5_2c_daughter_2|Lady Claudora
+trp_kingdom_5_2c_daughter_2_pl|Claudora
 trp_kingdom_5_1b_wife|Lady Anais
 trp_kingdom_5_1b_wife_pl|Anais
-trp_kingdom_5_2b_wife|Lady Miraeia
-trp_kingdom_5_2b_wife_pl|Miraeia
-trp_kingdom_5_1c_daughter|Lady Agasia
-trp_kingdom_5_1c_daughter_pl|Agasia
+trp_kingdom_5_2b_wife_2|Lady Miraeia
+trp_kingdom_5_2b_wife_2_pl|Miraeia
+trp_kingdom_5_1c_daughter_3|Lady Agasia
+trp_kingdom_5_1c_daughter_3_pl|Agasia
 trp_kingdom_5_lady_16|Lady Geneiava
 trp_kingdom_5_lady_16_pl|Geneiava
-trp_kingdom_5_1c_wife|Lady Gwenael
-trp_kingdom_5_1c_wife_pl|Gwenael
-trp_kingdom_5_2c_wife|Lady Ysueth
-trp_kingdom_5_2c_wife_pl|Ysueth
-trp_kingdom_5_1c_daughter|Lady Ellian
-trp_kingdom_5_1c_daughter_pl|Ellian
+trp_kingdom_5_1c_wife_2|Lady Gwenael
+trp_kingdom_5_1c_wife_2_pl|Gwenael
+trp_kingdom_5_2c_wife_2|Lady Ysueth
+trp_kingdom_5_2c_wife_2_pl|Ysueth
+trp_kingdom_5_1c_daughter_4|Lady Ellian
+trp_kingdom_5_1c_daughter_4_pl|Ellian
 trp_kingdom_5_lady_20|Lady Timethi
 trp_kingdom_5_lady_20_pl|Timethi
 trp_kingdom_6_lady_1|Lady Rayma
@@ -1254,6 +1254,8 @@ trp_vaegir_horseman_multiplayer|Vaegir Horseman
 trp_vaegir_horseman_multiplayer_pl|Vaegir Horsemen
 trp_khergit_veteran_horse_archer_multiplayer|Khergit Horse Archer
 trp_khergit_veteran_horse_archer_multiplayer_pl|Khergit Horse Archers
+trp_khergit_infantry_multiplayer|Khergit Infantry
+trp_khergit_infantry_multiplayer_pl|Khergit Infantries
 trp_khergit_lancer_multiplayer|Khergit Lancer
 trp_khergit_lancer_multiplayer_pl|Khergit Lancers
 trp_nord_archer_multiplayer|Nord Archer
@@ -1274,7 +1276,6 @@ trp_sarranid_footman_multiplayer|Sarranid Footman
 trp_sarranid_footman_multiplayer_pl|Sarranid footman
 trp_sarranid_mamluke_multiplayer|Sarranid Mamluke
 trp_sarranid_mamluke_multiplayer_pl|Sarranid Mamluke
-trp_nurse Nurse|Nutrice
 trp_quick_battle_troop_1|Rodrigo de Braganca
 trp_quick_battle_troop_1_pl|Rodrigo de Braganca
 trp_quick_battle_troop_2|Usiatra

@@ -144,6 +144,7 @@ ui_retreated_battle|%s è fuggito.
 ui_retreated_battle|%s si è allontanato dalla battaglia.
 ui_retreat|Ritirata
 ui_talk|Parla
+ui_duel|Duello
 ui_mount|Monta
 ui_riding_skill_not_adequate_to_mount|(Abilità Cavalcare insufficiente)
 ui_dismount|Smonta
@@ -742,3 +743,4 @@ ui_username|Username
 ui_password|Password
 ui_error_incorrect_username_or_password|Username o password non corretti
 ui_validating_account|Validazione account in corso...
+ui_plase_enter_your_serial_key|Inserisci il tuo codice seriale
