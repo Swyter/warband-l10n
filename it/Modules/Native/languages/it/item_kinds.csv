@@ -1,4 +1,4 @@
-﻿itm_no_item|OGGETTO INVALIDO
+itm_no_item|OGGETTO INVALIDO
 itm_no_item_pl|OGGETTO INVALIDO
 itm_tutorial_spear|Lancia
 itm_tutorial_spear_pl|Lancia
@@ -254,34 +254,6 @@ itm_quest_wine|Vino
 itm_quest_wine_pl|Vino
 itm_quest_ale|Birra chiara
 itm_quest_ale_pl|Birra chiara
-itm_tutorial_sword|Spada
-itm_tutorial_sword_pl|Spada
-itm_tutorial_axe|Ascia
-itm_tutorial_axe_pl|Ascia
-itm_tutorial_spear|Lancia
-itm_tutorial_spear_pl|Lancia
-itm_tutorial_club|Mazza
-itm_tutorial_club_pl|Mazza
-itm_tutorial_battle_axe|Ascia da battaglia
-itm_tutorial_battle_axe_pl|Ascia da battaglia
-itm_tutorial_arrows|Frecce
-itm_tutorial_arrows_pl|Frecce
-itm_tutorial_bolts|Quadrelli
-itm_tutorial_bolts_pl|Quadrelli
-itm_tutorial_short_bow|Arco corto
-itm_tutorial_short_bow_pl|Arco corto
-itm_tutorial_crossbow|Balestra
-itm_tutorial_crossbow_pl|Balestra
-itm_tutorial_throwing_daggers|Pugnali da lancio
-itm_tutorial_throwing_daggers_pl|Pugnali da lancio
-itm_tutorial_saddle_horse|Cavallo da sella
-itm_tutorial_saddle_horse_pl|Cavallo da sella
-itm_tutorial_shield|Scudo semplice
-itm_tutorial_shield_pl|Scudo semplice
-itm_tutorial_staff_no_attack|Bastone
-itm_tutorial_staff_no_attack_pl|Bastone
-itm_tutorial_staff|Bastone
-itm_tutorial_staff_pl|Bastone
 itm_sumpter_horse|Cavallo da soma
 itm_sumpter_horse_pl|Cavallo da soma
 itm_saddle_horse|Cavallo da sella
@@ -854,8 +826,6 @@ itm_bardiche|Bardica
 itm_bardiche_pl|Bardica
 itm_great_bardiche|Bardica Grande
 itm_great_bardiche_pl|Bardica Grande
-itm_voulge|Voulge
-itm_voulge_pl|Voulge
 itm_long_bardiche|Bardica Lunga
 itm_long_bardiche_pl|Bardica Lunga
 itm_great_long_bardiche|Grande Bardica Lunga
