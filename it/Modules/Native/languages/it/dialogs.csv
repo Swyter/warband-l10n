@@ -1,4 +1,4 @@
-﻿"dlga_award_fief_to_vassal:award_fief_to_vassal_defer|Desidero rimandare la nomina di un lord fino a quando non potrò avere il consiglio dei miei vassalli."
+"dlga_award_fief_to_vassal:award_fief_to_vassal_defer|Desidero rimandare la nomina di un lord fino a quando non potrò avere il consiglio dei miei vassalli."
 "dlga_award_fief_to_vassal_defer:close_window|Come volete, {sire/mia signora}. Potrete decidere sulla questione in un secondo momento."
 "dlga_award_fief_to_vassal_2:close_window|Come desiderate, {sire/mia signora}. {reg6?Io sarò:{reg7?Voi sarete:{s11} sarà}} {reg3?la nuova Lady:il nuovo lord} di {s1}."
 "dlga_event_triggered:center_captured_rebellion|{s1} non è controllato da nessuno. A chi darlo in custodia?"
