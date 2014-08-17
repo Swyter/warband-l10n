@@ -1,4 +1,4 @@
-﻿dlga_award_fief_to_vassal:award_fief_to_vassal_defer|Je tiens à reporter la nomination d'un seigneur jusqu'à ce que je prenne conseil auprès de mes sujets.
+dlga_award_fief_to_vassal:award_fief_to_vassal_defer|Je tiens à reporter la nomination d'un seigneur jusqu'à ce que je prenne conseil auprès de mes sujets.
 dlga_award_fief_to_vassal_defer:close_window|Comme il vous plaira {monsieur/madame}, vous pouvez décider de reporter cela à une date ultérieure.
 dlga_award_fief_to_vassal_2:close_window|Bien {monsieur/madame}, {reg6?je serai:{reg7?vous serez:{s11} sera}} {reg3?la nouvelle dame:le nouveau seigneur} de {s1}.
 dlga_event_triggered:center_captured_rebellion|Personne ne gère {s1}, à qui confier cette responsabilité ?
