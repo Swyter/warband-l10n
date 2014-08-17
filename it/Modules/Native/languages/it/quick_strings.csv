@@ -41,7 +41,7 @@ qstr_Settlements_owned_by|Insediamenti posseduti: {reg0}
 qstr_Friendly_Settlements|Insediamenti Amici: {reg0}
 qstr_Hostile_Settlements:|Insediamenti Ostili: {reg0}
 qstr_Friendly_Lords:_{reg|Lord Amici: {reg0}
-qstr_Enemy_Lords:_{reg0}|Lords Nemici: {reg0}
+qstr_Enemy_Lords:_{reg0}|Lord Nemici: {reg0}
 qstr_Victories:_{reg0}|Vittorie: {reg0}
 qstr_Defeats:_{reg0}|Sconfitte: {reg0}
 qstr_Quests_Completed:_{r|Missioni Completate: {reg0}
@@ -96,7 +96,7 @@ qstr_{reg0}_town{reg1?s:}_{|{reg0} città {reg1?/i:}, {s0}
 qstr_Your_opponents_are_r|I tuoi avversari sono pronti a battersi.
 qstr_Try_to_destroy_as_ma|Prova a distruggere più bersagli che puoi. Hai due minuti e mezzo per completare il percorso.
 qstr_Stay_behind_the_line|Resta dietro la linea e colpisci i bersagli. Cerca di non sprecare colpi.
-qstr_Battle_Advantage_=_{|Vantaggio Battaglia = {reg0}.
+qstr_Battle_Advantage_=_{|"Vantaggio Battaglia = {reg0}.
 qstr_{s9}_wants_you_to_re|{s9} vuole che tu segua la sua armata fino ad ulteriori ordini.
 qstr__Being_Raided_|(Razziato)
 qstr__Looted_|(Saccheggiato)

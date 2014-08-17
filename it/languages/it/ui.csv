@@ -154,7 +154,7 @@ ui_open|Apri
 ui_equip|Raccogli
 ui_baggage|Bagaglio
 ui_access_inventory|Apri Inventario
-ui_chest|Tesoro
+ui_chest|Scrigno
 ui_passage|Passaggio
 ui_go|Vai
 ui_retreat_battle|Ritirati dalla battaglia
@@ -489,7 +489,7 @@ ui_randomize|Rendi casuale
 ui_hint|Suggerimento
 ui_press_left_mouse_button_to_continue|Premi il tasto sinistro del mouse per continuare...
 ui_loot|Bottino
-ui_chest|Tesoro
+ui_chest|Scrigno
 ui_cut_short|T
 ui_pierce_short|P
 ui_blunt_short|B
