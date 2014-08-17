@@ -1,8 +1,19 @@
 -- http://stackoverflow.com/a/11130774
 -- Lua implementation of PHP scandir function
 function scandir()
-    local i, t, popen = 0, {}, io.popen
-    for filename in popen('dir *.csv /s /b'):lines() do
+    local ffi = require 'ffi'
+    
+    local command = {
+    Windows = 'dir *.csv /s /b',
+       Unix = 'find ./ -name *.csv'
+    }
+    
+    -- added *nix compatibility so that Fantu can do things!
+    command = (ffi.os == "Windows") and command[ffi.os]
+                                     or command['Unix']
+    
+    local i, t, popen, os = 0, {}, io.popen, ffi.os
+    for filename in popen(command):lines() do
         --print(filename)
         i = i + 1
         t[i] = filename
