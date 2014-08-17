@@ -1,4 +1,4 @@
-﻿dlga_award_fief_to_vassal:award_fief_to_vassal_defer|Quiero postergar el nombramiento de un nuevo señor hasta que lo consulte con mis súbditos
+dlga_award_fief_to_vassal:award_fief_to_vassal_defer|Quiero postergar el nombramiento de un nuevo señor hasta que lo consulte con mis súbditos
 dlga_award_fief_to_vassal_defer:close_window|Como deseéis, {señor/mi señora}. Podéis decidirlo más adelante.
 dlga_award_fief_to_vassal_2:close_window|Como deseéis, {señor/mi señora}. {reg6?Yo seré:{reg7?Vos seréis:{s11}}} {reg3?la nueva señora:el nuevo señor} de {s1}.
 dlga_event_triggered:center_captured_rebellion|Nadie administra a {s1}. ¿A quién debería poner al cargo?
