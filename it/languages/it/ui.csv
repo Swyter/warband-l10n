@@ -141,7 +141,7 @@ ui_question_leave_area|Lascia la zona
 ui_cant_retreat_there_are_enemies_nearby|Impossibile ritirarsi, i nemici sono troppo vicini!
 ui_question_retreat_battle|Ritirirarsi?
 ui_retreated_battle|%s è fuggito.
-ui_retreated_battle|%s si è allontanato dalla battaglia.
+ui_retreated_battle|%s è fuggito.
 ui_retreat|Ritirata
 ui_talk|Parla
 ui_duel|Duello
@@ -489,7 +489,7 @@ ui_randomize|Rendi casuale
 ui_hint|Suggerimento
 ui_press_left_mouse_button_to_continue|Premi il tasto sinistro del mouse per continuare...
 ui_loot|Bottino
-ui_chest|Scrigno
+ui_chest|Tesoro
 ui_cut_short|T
 ui_pierce_short|P
 ui_blunt_short|B
@@ -744,3 +744,10 @@ ui_password|Password
 ui_error_incorrect_username_or_password|Username o password non corretti
 ui_validating_account|Validazione account in corso...
 ui_plase_enter_your_serial_key|Inserisci il tuo codice seriale
+ui_texture_detail2|Dettagli texture:
+ui_antialiasing2|Antialiasing:
+ui_napoleonic_key_does_not_exist|Questa mod richiede il DLC Napoleonic Wars per poter giocare!
+ui_delete_module_workshop|Sei sicuro di voler annullare l'iscrizione a questo modulo?
+ui_delete_module|Sei sicuro di voler cancellare il modulo?
+ui_delete_native_module|Non è possibile eliminare i mod nativi.
+ui_incompatible_module|Questo server è incompatibile con il modulo attuale. È possibile utilizzare l'utilità di configurazione per cambiare modulo.

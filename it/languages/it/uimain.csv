@@ -103,3 +103,5 @@ ui_new_version_message|È disponibile una nuova versione del gioco. Vuoi visitar
 ui_enable_version_check|Controllo versione attiva
 ui_disable|Disabilita
 ui_yes2|Si
+ui_no2|No
+ui_new_version_message2|Una nuova versione del gioco è disponibile. Si prega di visitare il portale online dove è stato acquistato il gioco per scaricare la nuova versione.

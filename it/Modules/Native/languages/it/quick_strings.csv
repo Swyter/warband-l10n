@@ -40,8 +40,8 @@ qstr_Effect_on_Score|Effetto sul Punteggio
 qstr_Settlements_owned_by|Insediamenti posseduti: {reg0}
 qstr_Friendly_Settlements|Insediamenti Amici: {reg0}
 qstr_Hostile_Settlements:|Insediamenti Ostili: {reg0}
-qstr_Friendly_lords:_{reg|lords Amici: {reg0}
-qstr_Enemy_lords:_{reg0}|lords Nemici: {reg0}
+qstr_Friendly_Lords:_{reg|Lord Amici: {reg0}
+qstr_Enemy_Lords:_{reg0}|Lords Nemici: {reg0}
 qstr_Victories:_{reg0}|Vittorie: {reg0}
 qstr_Defeats:_{reg0}|Sconfitte: {reg0}
 qstr_Quests_Completed:_{r|Missioni Completate: {reg0}
@@ -111,9 +111,9 @@ qstr_Army_of_enemies_spot|Armata nemica avvistata vicino a {s1}.
 qstr_Large_army_of_enemie|Esercito nemico di grandi dimensioni avvistato vicino a {s1}.
 qstr_Great_host_of_enemie|Una grande schiera di nemici è stata avvistata vicino a {s1}.
 qstr_{s1}_has_been_besieg|{s1} è assediato da {s2} del {s3}.
-qstr_{s1}_is_the_new_mars|{s1} è il nuovo Comandante d'armata del {s2}.
 qstr__{s1}__{s11}:_{s14}|({s1}) {s11}: {s14}
 qstr_{s14}__{s21}_|{s14} ({s21})
+qstr_{s1}_is_the_new_mars|{s1} è il nuovo Comandante d'armata del {s2}.
 qstr_You_gained_{reg12}_r|Hai guadagnato +{reg12} di Fama.
 qstr_You_lose_{reg12}_ren|Hai perso -{reg12} di Fama.
 qstr_Your_relation_with_{|La tua Relazione con {s1} è migliorata.
@@ -220,6 +220,7 @@ qstr_Back_to_the_beginnin|Indietro fino all'inizio...
 qstr_View_next_segment...|Guarda la prossima parte...
 qstr_^No_food:___{reg7}|^Niente cibo:  -{reg7}
 qstr_^Wage_debt:___{reg6}|^Debito dai salari:  -{reg6}
+qstr_On_loan|In prestito,
 qstr_Appoint_next_marshal|Nominare il prossimo Comandante in capo
 qstr_Award_{s12}_as_fief|Ottieni {s12} come feudo
 qstr_No_one|Nessuno

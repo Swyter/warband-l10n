@@ -53,7 +53,7 @@ mno_death|La perdita di un amore.
 mno_wanderlust|La brama d'avventura.
 mno_disown|La perdita della casa.
 mno_greed|Brama di denaro e potere.
-menu_choose_skil|{s13}
+menu_choose_skill|{s13}
 mno_begin_adventuring|Segui il tuo spirito avventuroso e cavalca verso il tuo destino.
 menu_past_life_explanation|{s3}
 mno_view_next|{s5}
@@ -138,13 +138,13 @@ mno_join_leave|Lascia.
 menu_join_order_attack|{s4}^^Le tue perdite: {s8}^^Le perdite degli alleati: {s9}^^Perdite nemiche: {s10}
 menu_zendar|Entri nella città di Zendar.
 mno_zendar_enter| 
-mno_zendar_enter|Porta per il centro città.
+mno_zendar_enter_door|Porta per il centro della città.
 mno_zendar_tavern| 
-mno_zendar_tavern|Porta della taverna
+mno_zendar_tavern_door|Porta della taverna.
 mno_zendar_merchant| 
-mno_zendar_merchant|Porta del mercato.
+mno_zendar_merchant_door|Porta per il mercante.
 mno_zendar_arena| 
-mno_zendar_arena|Porta dell'arena.
+mno_zendar_arena_door|Porta dell'arena.
 mno_town_1_leave| 
 menu_salt_mine|Entri nella miniera di sale.
 mno_enter|Entra.
@@ -197,11 +197,11 @@ mno_castle_taken_claim|Chiedi che {s3} ti venga assegnato.
 mno_castle_taken_claim_2|Chiedi che {s3} venga assegnato a {tua moglie/tuo marito}.
 mno_castle_taken_no_claim|Non avanzare richieste.
 menu_requested_castle_granted_to_player|Ricevi un messaggio dal tuo signore, {s3}.^^ {reg4?Lei:Lui} ha deciso di assegnare {s2}{reg3? e il vicino villaggio di {s4}:} a te, con il titolo e tutto ciò che vi è annesso, mantenendolo in {reg4?suo:suo} nome finchè manterrai il giuramento di fedeltà...
-menu_requested_castle_granted_to_player-husband|Ricevi un messaggio dal tuo signore, {s3}.^^ {reg4?Lei:Lui} ha deciso di assegnare {s2}{reg3? e il vicino villaggio di {s4}:} a tuo marito, {s7}.
+menu_requested_castle_granted_to_player_husband|Hai recevuto un messaggio dal sovrano, {s3}.^^ {reg4?Lei:Lui} ha deciso di concedere {s2}{reg3? e il vicino villaggio di {s4}:} a tuo marito, {s7}.
 menu_requested_castle_granted_to_another|Ricevi un messaggio dal tuo sovrano, {s3}.^^ 'Sono stato informato delle tue eroiche gesta e mi compiaccio vedendo che hai ottenuto la conquista di {s2}. La tua vittoria è una gioia per i nostri cuori. Hai chiesto che ti venga assegnata la proprietà del castello ma è un favore che non posso accordare, in quanto già possiedi rilevanti tenute nel mio regno. Ti ho inviato invece {reg6} denari per coprire le spese della tua campanga, ma {s2} sarà assegnato a {s5}.'
 mno_accept_decision|Accetta la decisione.
 mno_leave_faction|Decidi che è inaccettabile! Sciogli il giuramento di fedeltà!
-menu_requested_castle_granted_o_another_female|Ricevi un messaggio dal tuo sovrano, {s3}.^^ 'Sono molto compiaciuto di sentire dei tuoi valorosi sforzi per la cattura di {s2}. La tua vittoria è una gioia per i nostri cuori. Hai chiesto che il possesso del castello venga affidato a tuo marito, ma questo è un favore che non posso accordare, in quanto egli già possiede rilevanti tenute nel mio regno. Ti ho inviato invece {reg6} denari per coprire le spese della tua campagna, ma {s2} sarà assegnato a {s5}.'
+menu_requested_castle_granted_to_another_female|Hai ricevuto un messaggio dal re, {s3}.^^ 'Sono molto contento di sentire i vostri sforzi valorosi nella cattura di {s2}. La vostra vittoria è rallegrato tutti i nostri cuori. Mi hai anche chiesto di dare la proprietà del castello a tuo marito, ma questo è un favore che temo che non posso concedere, visto che lui detiene proprietà significative nel mio regno. Invece ti ho mandato {reg6} denari per coprire le spese della sua campagna, ma {s2} lo do a {s5}.'
 menu_leave_faction|Sciogliere un giuramento di fedeltà è un atto molto grave. Il tuo signore potrebbe condannarti e confiscare le tue terre e le tue fortezze. Comunque, se tornerai di tua spontanea volontà, egli potrebbe dimenticare il tradimento e rinunciare a combatterti.
 mno_leave_faction_give_back|Sciogli il tuo giuramento e rinuncia alle tue proprietà.
 mno_leave_faction_hold|Sciogli il tuo giuramento e mantieni le tue proprietà, compreso {s2}.
@@ -460,12 +460,12 @@ mno_appoint_npc6|Nomina {s10}
 mno_appoint_npc7|Nomina {s10}
 mno_appoint_npc8|Nomina {s10}
 mno_appoint_npc9|Nomina {s10}
-mno_appoint_npc9|Nomina {s10}
+mno_appoint_npc10|Nomina {s10}
 mno_appoint_npc11|Nomina {s10}
 mno_appoint_npc12|Nomina {s10}
 mno_appoint_npc13|Nomina {s10}
 mno_appoint_npc14|Nomina {s10}
-mno_appoint_npc1|Nomina {s10}
+mno_appoint_npc15|Nomina {s10}
 mno_appoint_npc16|Nomina {s10}
 mno_appoint_default|Nomina un eminente cittadino della zona...
 menu_minister_confirm|{s9}può essere trovato nella tua corte a {s12}. Si consiglia di consultarlo periodicamente, per evitare l'accumulo di questioni irrisolte che possano minare la tua autorità...
