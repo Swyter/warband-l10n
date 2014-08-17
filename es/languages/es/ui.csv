@@ -44,19 +44,19 @@ ui_unknown_unknownname|Desconocido - %s
 ui_entry_point_entrypointname|Punto de acceso %d
 ui_passage_menu_item_passagename|Pasaje (objeto del menú %d)
 ui_plant_plantname|Planta - %s
-ui_export_file_for_character_playername_already_exists_overwrite_it|Exportar archivo para personaje %s ya existente. ¿Sobrescribir?
+ui_export_file_for_character_playername_already_exists_overwrite_it|El personaje %s ya está exportado. ¿Quieres sobrescribirlo?
 ui_yes|Sí
 ui_no|No
-ui_set_save_file_name|Introducir nombre para la partida guardada:
-ui_enter_new_name|Introducir un nuevo nombre:
+ui_set_save_file_name|Escribe un nombre para esta partida:
+ui_enter_new_name|Escribe un nombre nuevo:
 ui_export_character|Exportar personaje
 ui_import_character|Importar personaje
-ui_character_playername_exported_successfully|Personaje %s exportado con éxito.
-ui_character_playername_imported_successfully|Personaje %s importado con éxito.
-ui_unable_to_open_import_file|Imposible abrir archivo importado.
-ui_are_you_sure_you_want_to_import_the_character|¿Seguro que deseáis importar el personaje?
-ui_unable_to_find_character_import_file|Imposible encontrar el archivo de importación del personaje.
-ui_mount_and_blade_is_running_in_trial_mode_please_buy_the_game_for_importing_a_character|Mount&&Blade se encuentra en versión de prueba. Debes comprar el juego si deseas importar un personaje.
+ui_character_playername_exported_successfully|Personaje %s exportado correctamente.
+ui_character_playername_imported_successfully|Personaje %s importado correctamente.
+ui_unable_to_open_import_file|No se pudo abrir el archivo de importación.
+ui_are_you_sure_you_want_to_import_the_character|¿Seguro que quieres importar el personaje?
+ui_unable_to_find_character_import_file|No se pudo encontrar el archivo de importación del personaje.
+ui_mount_and_blade_is_running_in_trial_mode_please_buy_the_game_for_importing_a_character|Mount&&Blade está funcionando en la modalidad de demostración. Debes comprar el juego si deseas importar un personaje.
 ui_change_skin|Cambiar piel
 ui_change_hair|Cambiar pelo
 ui_change_hair_color|Cambiar color del pelo
@@ -73,16 +73,16 @@ ui_reset_changes|Reiniciar cambios
 ui_weapon_proficiencies|Competencias
 ui_skills|Habilidades
 ui_attributes|Atributos
-ui_enter_name_here|*Introducir nombre aquí*
+ui_enter_name_here|*Introduce el nombre aquí*
 ui_edit_face|Editar cara
 ui_statistics|Estadísticas
 ui_next|Siguiente
 ui_prev|Anterior
 ui_learn|Aprender
-ui_question_saving_policy|¿Cuál será la política de guardar cambios del juego?
+ui_question_saving_policy|¿Cuál será la política de guardado de esta partida?
 ui_saving_policy_realistic|¡Realista! ¡No abandonar sin guardar!
 ui_saving_policy_nonrealistic|Permitirme abandonar sin guardar
-ui_tutorial_character_generation|Ahora introduce tu nombre y distribuye tus puntos de atributos, habilidades y armas. Puedes pinchar sobre varios elementos de la pantalla para ver cómo afectará cada uno a tu personaje.
+ui_tutorial_character_generation|Ahora introduce tu nombre y distribuye tus puntos de atributos, habilidades y armas. Puedes pinchar sobre varios elementos de la pantalla para ver cómo afectará cada uno de ellos a tu personaje.
 ui_str|FUE
 ui_agi|AGI
 ui_int|INT
@@ -141,7 +141,7 @@ ui_question_leave_area|Abandonar el área
 ui_cant_retreat_there_are_enemies_nearby|No se puede retroceder. ¡Hay enemigos cerca!
 ui_question_retreat_battle|¿Retirarse de la batalla?
 ui_retreated_battle|%s ha sido derrotado.
-ui_retreated_battle|%s ha huido del campo de batalla.
+ui_retreated_battle|%s ha sido derrotado.
 ui_retreat|Retirarse
 ui_talk|Hablar
 ui_duel|Duelo
@@ -449,7 +449,6 @@ ui_move_left|Ir hacia la izquierda
 ui_move_right|Ir hacia la derecha
 ui_action|Acción
 ui_jump|Saltar
-ui_crouch|Agacharse
 ui_attack|Atacar
 ui_parry_then_attack|Contraataque
 ui_defend|Defender
@@ -519,13 +518,6 @@ ui_order_3|Seleccionar Orden 3
 ui_order_4|Seleccionar Orden 4
 ui_order_5|Seleccionar Orden 5
 ui_order_6|Seleccionar Orden 6
-ui_order_7|Seleccionar Orden 7
-ui_order_8|Seleccionar Orden 8
-ui_order_form_1_row|Formación en 1 línea
-ui_order_form_2_row|Formación en 2 líneas
-ui_order_form_3_row|Formación en 3 líneas
-ui_order_form_4_row|Formación en 4 líneas
-ui_order_form_5_row|Formación en 5 líneas
 ui_order_button_hold_this_position|Mantened esta posición
 ui_order_button_follow_me|Seguidme
 ui_order_button_charge|Cargad
@@ -539,19 +531,11 @@ ui_order_button_mount_horses|Montad los caballos
 ui_order_button_dismount|Desmontad
 ui_order_button_hold_fire|Alto el fuego
 ui_order_button_fire_at_will|Fuego a discreción
-ui_order_button_fire_at_my_command|Fuego a mi orden
-ui_order_button_use_melee_weapons|Usad solo armas cuerpo a cuerpo
-ui_order_button_use_ranged_weapons|Usad solo armas a distancia
 ui_order_button_use_blunt_weapons|Usad solo armas contundentes
 ui_order_button_use_any_weapon|Usad cualquier arma
 ui_order_button_movement_orders|Órdenes de movimiento
 ui_order_button_formation_orders|Órdenes de formación
 ui_order_button_fire_orders|Órdenes de fuego
-ui_order_button_weapon_usage_orders|Órdenes de armas
-ui_order_button_all_fire_now|Fuego
-ui_order_button_left_fire_now|Fuego a siniestra
-ui_order_button_middle_fire_now|Fuego al centro
-ui_order_button_right_fire_now|Fuego a diestra
 ui_follow_me_e_|¡%s, seguidme!
 ui_charge_e_|¡¡¡%s, cargad!!!
 ui_stand_ground_e_|¡%s, mantened posición!
@@ -562,23 +546,11 @@ ui_advance_e_|¡%s, avanzad diez pasos!
 ui_fall_back_e_|¡%s, retroceded diez pasos!
 ui_stand_closer_e_|¡%s, juntaos más!
 ui_spread_out_e_|¡%s, separaos más!
-ui_use_melee_weapons_e_|¡%s, usad solo armas cuerpo a cuerpo!
-ui_use_ranged_weapons_e_|¡%s, usad solo armas a distancia!
 ui_use_blunt_weapons_e_|¡%s, usad solo armas contundentes!
 ui_use_any_weapon_e_|¡%s, usad cualquier arma!
 ui_hold_fire_e_|¡%s, alto el fuego!
 ui_fire_at_will_e_|¡%s, reanudad el fuego!
 ui_hold_this_position_e_|¡%s, mantened esta posición!
-ui_form_1_row_e_|¡%s, Formación en 1 línea!
-ui_form_2_row_e_|¡%s, Formación en 2 líneas!
-ui_form_3_row_e_|¡%s, Formación en 3 líneas!
-ui_form_4_row_e_|¡%s, Formación en 4 líneas!
-ui_form_5_row_e_|¡%s, Formación en 5 líneas!
-ui_fire_at_my_command_e_|¡%s, Fuego a mi orden!
-ui_all_fire_now_e_|¡%s, Fuego!
-ui_left_fire_now_e_|¡%s, Fuego a la siniestra!
-ui_middle_fire_now_e_|¡%s, Fuego al centro!
-ui_right_fire_now_e_|¡%s, Fuego a la diestra!
 ui_infantry|Infantería
 ui_archers|Arqueros
 ui_cavalry|Caballería
@@ -618,8 +590,8 @@ ui_change|Cambiar
 ui_how_to_change|¿Cómo cambiar esto?
 ui_change_directx_explanation|Puedes cambiar el método de renderización entre DirectX 7 y DirectX 9 pulsando sobre el botón Configurar en el menú principal al comenzar el juego.
 ui_dropping_picking_up|Dejando %s; recogiendo %s.
-ui_picking_up|Recogiendo: %s.
 ui_dropping|Descargando %s.
+ui_picking_up|Recogiendo: %s.
 ui_unable_to_take|Imposible llevarlo.
 ui_age|Edad
 ui_cannot_be_used_on_horseback|Imposible usar a caballo
@@ -728,10 +700,10 @@ ui_use_ranged_weapon_as_melee|Cambiar tipo de arma
 ui_send_message_all|Enviar mensaje a todos
 ui_send_message_team|Enviar mensaje a equipo
 ui_select|Seleccionar
-ui_context_menu|Menú de contexto
-ui_round_starts_in_value_seconds|Ronda comienza en %d segundos...
-ui_watching_value|Siguiendo %s
-ui_capital_spec|SPEC
+ui_context_menu|Menú contextual
+ui_round_starts_in_value_seconds|La ronda comenzará en %d segundos...
+ui_watching_value|Siguiendo a %s
+ui_capital_spec|ESPEC
 ui_capital_dead|MUERTO
 ui_instancing_error1|No se pudo cerrar Instance Buffer (tamaño: %d), Desactivado mesh-instancing (Código de error: %d)
 ui_instancing_error2|No se ha podido encontrar Instanced Objects, mesh-instancing desactivado
@@ -774,3 +746,8 @@ ui_validating_account|Validando cuenta...
 ui_plase_enter_your_serial_key|Por favor introduce el número de serie
 ui_texture_detail2|Detalle de textura:
 ui_antialiasing2|Antialiasing:
+ui_napoleonic_key_does_not_exist|¡Este mod necesita el DLC Napoleonic Wars para funcionar!
+ui_delete_module_workshop|¿Seguro que quieres cancelar la suscripción a este módulo?
+ui_delete_module|¿Seguro que quieres borrar este módulo?
+ui_delete_native_module|No puedes borrar los mods nativos.
+ui_incompatible_module|Este servidor es incompatible con el módulo actual. Puedes utilizar la herramienta de configuración para cambiar de módulo.
