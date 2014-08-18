@@ -1,5 +1,8 @@
+#!/bin/sh
+
 echo "Updating translations from Transifex..."
-echo "--"
+
+cp .tx/config-linux .tx/config
 
 # convert everything to Joomla INI format
 luajit tx.lua convert
@@ -10,11 +13,10 @@ luajit tx.lua convert
 # tx push -s -t -f --skip --no-interactive
 # tx push -t -l sv --skip --no-interactive
 
-# pull latest translations -- haven't tested it on linux, maybe the executable is not on $PATH ???
-tx pull -a -f --skip --minimum-perc=0 --mode=reviewer
+# pull latest translations
+tx pull -a -f --skip --minimum-perc=0
 
 # revert back to mab format
 luajit tx.lua revert
 
-echo "--"
 echo "Done!"

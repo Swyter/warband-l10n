@@ -5,7 +5,7 @@ function scandir()
     
     local command = {
     Windows = 'dir *.csv /s /b',
-       Unix = 'find ./ -name *.csv'
+       Unix = 'find ./ -name "*.csv"'
     }
     
     -- added *nix compatibility so that Fantu can do things!
