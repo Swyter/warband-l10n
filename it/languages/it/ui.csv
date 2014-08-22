@@ -433,7 +433,7 @@ ui_change_graphics_settings_explanation|Alcuni cambiamenti saranno resi effettiv
 ui_start_tutorial|Gioca il tutorial
 ui_start_a_new_game|Inizia una nuova partita
 ui_restore_a_saved_game|Carica una partita salvata
-ui_exit_to_windows|Esci a Windows
+ui_exit_to_windows|Esci
 ui_credits|Crediti
 ui_version_value|Ver. %s
 ui_active_quests|Missioni attive

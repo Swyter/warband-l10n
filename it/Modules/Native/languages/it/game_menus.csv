@@ -172,7 +172,7 @@ menu_castle_entry_granted|Dopo una breve attesa, le guardie aprono i cancelli e 
 menu_castle_entry_denied|Il signore del castello ha vietato il tuo ingresso entro le mura, e l'ufficiale delle guardie ti informa che i suoi uomini ti attaccheranno se ti avvicinerai ulteriormente.
 menu_castle_meeting|Chi vorresti incontrare?
 mno_guard_meet_s5|{s5}.
-mno_forget_it|Lascia_perdere.
+mno_forget_it|Lascia stare.
 menu_castle_meeting_selected|La tua richiesta per un incontro viene trasmessa e finalmente {s6} appare nel cortile per parlare con te.
 menu_castle_besiege|Stai assediando {s1}. {s2} {s3}
 mno_siege_request_meeting|Chiedi un incontro con il comandante del castello.
@@ -241,7 +241,7 @@ menu_village_hunt_down_fugitive_defeated|Un colpo violento del fuggitivo ti scar
 menu_village_infest_bandits_result|{s9}
 menu_village_infestation_removed|In una battaglia degna di essere ricordata nelle canzoni dei bardi, tu e i tuoi uomini avete scacciato i banditi dal villaggio, rendendolo sicuro come mai prima d'ora. Ai contadini è rimasto ben poco dopo questo terribile momento, ma ti offrono tutto ciò che riescono a trovare.
 mno_village_bandits_defeated_accept|Prendi quanto ti è dovuto.
-mno_village_bandits_defeated_cont|Rifiuta, al momento loro ne hanno molto più bisogno d te.
+mno_village_bandits_defeated_cont|Rifiuta, affermando che loro ne hanno molto più bisogno di te.
 menu_center_manage|{s19}^{reg6?^^Attualmente stai costruendo {s7}. L'edificio sarà completato tra {reg8} giorno{reg9?/i:}.:}
 mno_center_build_manor|Costruisci un maniero.
 mno_center_build_fish_pond|Costruisci un mulino.

@@ -394,10 +394,10 @@ itm_mail_coat|Giaco di Maglia
 itm_mail_coat_pl|Giaco di Maglia
 itm_long_mail_coat|Usbergo di Maglia
 itm_long_mail_coat_pl|Usbergo di Maglia
-itm_sleeveless_mail_coat|Giaco di Maglia Senza Maniche
-itm_sleeveless_mail_coat_pl|Giaco di Maglia Senza Maniche
-itm_sleeveless_coat|Manto Sbracciato
-itm_sleeveless_coat_pl|Manto Sbracciato
+itm_mail_with_tunic_red|Tunica
+itm_mail_with_tunic_red_pl|Tunica
+itm_mail_with_tunic_green|Tunica
+itm_mail_with_tunic_green_pl|Tunica
 itm_hide_coat|Manto di Pelle
 itm_hide_coat_pl|Manto di Pelle
 itm_merchant_outfit|Abito da Mercante
@@ -1167,8 +1167,8 @@ itm_plate_boots_pl|Stivali a Piastre
 itm_mail_boots_for_tableau|Stivali di Maglia
 itm_mail_boots_for_tableau_pl|Stivali di Maglia
 itm_warhorse_sarranid|Cavallo da Guerra Sarranide
-itm_warhorse_sarranid|Cavallo da Guerra Sarranide
+itm_warhorse_sarranid_pl|Cavallo da Guerra Sarranide
 itm_warhorse_steppe|Destriero della steppa
-itm_warhorse_steppe|Destriero della Steppa
+itm_warhorse_steppe_pl|Destriero della steppa
 itm_items_end|Items End
 itm_items_end_pl|Items End

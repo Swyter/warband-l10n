@@ -63,7 +63,7 @@ ui_change_hair_color|Cambiar color del pelo
 ui_change_beard|Cambiar barba
 ui_tutorial|Tutorial
 ui_tutorial_face_generator|Ajusta la cara del personaje utilizando los botones y barras. Para rotar la cabeza, haz clic en ella y arrastra con el ratón.
-ui_restore|Restablecer
+ui_restore|Cargar
 ui_cancel|Cancelar
 ui_delete|Borrar
 ui_confirm_delete_game|¿Seguro que quieres borrar esta partida?
