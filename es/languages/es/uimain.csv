@@ -1,11 +1,11 @@
 ui_texture_detail|Detalle de textura:
-ui_max_frame_rate|FPS máxima:
-ui_enable_bumpmap|Utilizar Bump Mapping
+ui_max_frame_rate|Límite de FPS:
+ui_enable_bumpmap|Utilizar efectos de relieve
 ui_disable_blood|Ocultar sangre
 ui_disable_music|Desactivar música
 ui_disable_sound|Desactivar sonido
-ui_enable_cheats|Permitir trucos
-ui_enable_edit_mode|Permitir Modo Editor (Aviso, esto ralentiza el juego)
+ui_enable_cheats|Activar trucos
+ui_enable_edit_mode|Activar el Modo editor (Aviso, esto ralentiza el juego)
 ui_enable_pixel_shaders|Utilizar Píxel Shaders
 ui_enable_sound_variation|Permitir variaciones de sonido
 ui_enable_vertex_shaders|Método de renderización:
@@ -15,8 +15,8 @@ ui_directx_9|DirectX 9
 ui_show_framerate|Mostrar FPS
 ui_start_windowed|Comenzar en modo ventana
 ui_trialmode_caption|Activación
-ui_trialmode|Por favor, activa Mount&&Blade Warband introduciendo el código. Tu código único de 16 dígitos está incluido dentro de la caja del juego.\nSi no quieres activar el juego en estos momentos, puedes jugar en modo de prueba, aunque no podrás avanzar más allá de nivel 6.
-ui_launch_buy|Comprar una licencia en Friendshop.es
+ui_trialmode|Por favor, activa Mount&&Blade Warband introduciendo el código. Tu código único de 16 dígitos está incluido dentro de la caja del juego.\nSi no quieres activar el juego en este momento puedes jugar en modo de prueba, aunque no podrás avanzar más allá de nivel 8.
+ui_launch_buy|Comprar una licencia en TaleWorlds.com
 ui_launch_faq|FAQ de las ventas online
 ui_trialmode2|Para activar el juego ahora...
 ui_trialmode3|O también puedes...
@@ -28,17 +28,17 @@ ui_paste|Pegar
 ui_notification_serial_internet_connection|¡La activación requiere conexión a Internet!
 ui_notification_serial_offline|Si este ordenador no tiene acceso a Internet, también puedes usar:
 ui_manual_activation|Activación manual
-ui_offline_activation|Activación offline
+ui_offline_activation|Activación sin Internet
 ui_manual_activation_caption|Activación manual
-ui_offline_activation_caption|Activación offline
+ui_offline_activation_caption|Activación sin Internet
 ui_cancel2|Cancelar
 ui_close|Cerrar
-ui_ok2|OK
-ui_activation_successful|¡Mount&&Blade activado con éxito!
-ui_activation_successful2|Por favor, guarda tu número de serie para referencia futura. Puede que lo vuelvas a necesitar si quieres instalar Mount&Blade en un nuevo ordenador.
+ui_ok2|Aceptar
+ui_activation_successful|El juego se ha activado correctamente.
+ui_activation_successful2|Por favor, guarda tu número de serie por si acaso. Puede que lo vuelvas a necesitar si quieres instalar Mount&&Blade Warband en un nuevo ordenador.
 ui_activation_denied|¡Activación denegada!
 ui_notification_serial_already_used|Este número de serie ya se está utilizando en otro ordenador. Tendrás que esperar unas semanas antes de reactivarlo en este ordenador.
-ui_notification_unable_to_connect_to_activation_server|¡Imposible conectar con el servidor de activación! 
+ui_notification_unable_to_connect_to_activation_server|¡No se pudo conectar con el servidor de activación! 
 ui_notification_unable_to_connect_to_activation_server2|Por favor, confirma que tu conexión a Internet está activa y funciona correctamente, e inténtalo de nuevo. Si estás utilizando un cortafuegos, deberás dar permiso al juego para acceder a internet. Si falla, siempre puedes utilizar la activación manual.
 ui_incorrect_serial_number|¡Número de serie incorrecto!
 ui_incorrect_hardware_hash|¡Hardware Hash incorrecto!
@@ -49,7 +49,7 @@ ui_audio|Audio
 ui_game|Juego
 ui_advanced|Avanzado
 ui_mount_and_blade_is_ready|Mount&&Blade Warband está preparado.
-ui_notification_trial_mode|Mount&&Blade Warband se encuentra actualmente en versión de prueba. En esta versión puedes jugar libremente hasta que tu personaje llegue al nivel 6. Para continuar, por favor adquiere una licencia en Friendshop.es. Comprar una licencia online es muy rápido y con ello desbloqueas el resto del juego.
+ui_notification_trial_mode|Mount&&Blade Warband se encuentra actualmente en versión de prueba. En esta versión puedes jugar libremente hasta que tu personaje llegue al nivel 6. Para continuar, por favor adquiere una licencia en taleworlds.com. Comprar una licencia por Internet es muy rápido y con ello desbloqueas el resto del juego.
 ui_there_are_no_modules_installed|¡No hay módulos instalados!
 ui_notification_new_version|Se ha encontrado una versión nueva de Mount&Blade Warband.\nLa versión instalada actualmente es %d.%d%d%d.\nLa última versión de Mount&Blade Warband es %d.%d%d%d.\nPuedes descargar la última versión de www.taleworlds.com.
 ui_new_version_found|¡Se ha encontrado una versión nueva!
@@ -70,20 +70,20 @@ ui_check_for_new_version|Comprobar si hay una nueva versión
 ui_configure|Configurar
 ui_configure_caption|Configurar
 ui_mountandblade_website|Página web de Mount&Blade Warband
-ui_current_setting|Escenario actual:
+ui_current_setting|Módulo actual:
 ui_manual_activation_text1|1) En tu explorador, abre la siguiente dirección:
 ui_manual_activation_text2|2) En la página web que aparece, introduce tu número de serie...
 ui_manual_activation_text3|3) ... y el hardware hash de este equipo:
-ui_manual_activation_text4|4) La página te dará a continuación un código de activación. Escríbelo o pégalo debajo y pulsa OK.
+ui_manual_activation_text4|4) La página te dará a continuación un código de activación. Escríbelo o pégalo debajo y pulsa Aceptar.
 ui_activation_code|Código de activación:
-ui_force_vsync|Forzar Sincronización Vertical 
-ui_module_newer_than_application|Lo seleccionado NO FUNCIONA con esta versión del juego. Se recomienda que no lo utilices. Para remediar esto, puedes comprobar si hay una nueva versión.
+ui_force_vsync|Forzar la sincronización vertical 
+ui_module_newer_than_application|El módulo seleccionado NO FUNCIONA con ésta versión del juego. Se recomienda que no lo utilices. Para intentar arreglarlo puedes comprobar si hay una nueva versión del juego.
 ui_module_older_than_application|Lo seleccionado fue creado para una versión antigua del juego y puede no funcionar en esta versión. Puedes intentar utilizarlo, pero tal vez tengas problemas. Para remediar esto, puedes comprobar si hay una nueva versión.
 ui_m_low|Bajo
 ui_m_high|Alto
 ui_m_ultra_high|Muy alto
-ui_force_single_threading|Forzar Single Threading
-ui_not_enough_memory|Parece que tienes %d MB de espacio en tu memoria virtual. Mount&Blade Warband requiere al menos 700 MB de memoria para poder funcionar sin problema. Si Mount&Blade salta al escritorio continuamente mientras juegas, por favor, cierra algunos otros programas antes de comenzar a jugar Mount&Blade Warband o incrementa tu memoria virtual en Panel de Control -> Menú sistema.
+ui_force_single_threading|Utilizar un único hilo de procesamiento
+ui_not_enough_memory|Parece que tienes %d MB de espacio en tu memoria virtual. Mount&Blade Warband requiere al menos 700 MB de memoria para poder funcionar sin problema. Si Mount&Blade se cuelga saliendo al escritorio continuamente mientras juegas, por favor, cierra otros programas antes de comenzar a jugar Mount&Blade Warband o aumenta tu memoria virtual en el menú bajo Panel de Control -> Sistema.
 ui_install|Instalar Mount&Blade Warband
 DirectXText|Mount&Blade Warband requiere DirectX 9.0c o superior para funcionar. Este ordenador no cumple dicho requerimiento. Para solucionar el problema debes descargar e instalar la última versión de DirectX desde la web de Microsoft. ¿Quieres visitar la web de descarga de DirectX ahora?
 NoMountAndBladeText|Mount&Blade Warband no ha sido instalado en este ordenador. Por favor, descarga el instalador completo desde www.taleworlds.com y utilízalo para instalar el juego.
@@ -93,10 +93,10 @@ ui_launch_activate|Introduce la clave de activación
 ui_trialmode2_online|Al comprar una licencia, obtendrás un número de serie.\nPara desbloquear el modo completo...
 ui_trialmode3_online|O si aún no quieres comprar el juego, puedes...
 ui_trialmode4_online|El proceso de ventas online es totalmente seguro. Respetamos el derecho a la seguridad, la privacidad, el tener copias de seguridad del juego y modificar el hardware de los ordenadores de nuestros clientes. Si quieres leer más sobre nuestra política de ventas, por favor, mira aquí:
-ui_ondemand_textures|Cargar texturas sobre demanda
+ui_ondemand_textures|Cargar texturas según se necesiten
 ui_language|Idioma:
-ui_steam_not_running|Steam no se inicio correctamente. Steam debe estar online.
-ui_switch_to_turkish_explanation|¿Le gustaría traducir el lenguaje del juego al turco?
+ui_steam_not_running|Steam no se inició correctamente. Tienes que tener funcionando Steam para poder jugar.
+ui_switch_to_turkish_explanation|¿Quieres ver el juego traducido en turco?
 ui_switch_to_turkish_yes|Sí
 ui_switch_to_turkish_no|No
 ui_new_version_message|Hay disponible una nueva versión del juego. ¿Deseas visitar la página de descarga?

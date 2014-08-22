@@ -628,8 +628,8 @@ str_npc2_personalityclash_speech|{Signore/Signora}... Come ricorderete, ero un m
 str_npc3_personalityclash_speech|Comandante... Secondo me, {s11} è un uomo crudele e malvagio. Non parla d'altro che di frustare, punire e impiccare i soldati indisciplinati.
 str_npc4_personalityclash_speech|{Signore/Signora}. La Casata di Rolf è una delle più antiche e rispettate famiglie di questa parte del mondo, con discendenze datate fino al Vecchio Impero Calradico. {s11} mostra apertamente una mancanza di rispetto e mi offende con insinuazioni sulla provenienza della mia casata.
 str_npc5_personalityclash_speech|Concedetemi un minuto, comandante. {s11} sembra che pensiate che io sia un comune bandito solo per il fatto di essermi impossessato dei beni che appartenevano alle carovane che ho legittimamente depredato tanto tempo fa, si trovavano sulla mia terra!
-str_npc7_personalityclash_speech|Comandante, sto facendo il possibile per sopportare la maleducazione dei vostri uomini oltre che alle loro lerce abitudini ma quello che si fa chiamare {s11} va oltre ogni mio sforzo di tolleranza.
 str_npc6_personalityclash_speech|Col vostro permesso, {signore/signora}, non posso più tenere a freno la mia lingua. Quella puttana, {s11}... Ogni volta che mi vede, punta verso di me la sua mano nel tipico gesto che i popolani usano per allontanare il demonio.
+str_npc7_personalityclash_speech|Comandante, sto facendo il possibile per sopportare la maleducazione dei vostri uomini oltre che alle loro lerce abitudini ma quello che si fa chiamare {s11} va oltre ogni mio sforzo di tolleranza.
 str_npc8_personalityclash_speech|Giusto per farvelo sapere, non posso sopportare quell'insolente ciarlatano chiamato {s11}. Qualche minuto fa, stavo facendo notare ai miei compagni come i popolani di questa regione fossero più stupidi e ostili del solito, dicendo che forse erano stati allevati dalle scimmie...
 str_npc9_personalityclash_speech|Comandante, {s11} è un vile presuntuoso senza nessun rispetto per l'onore di una donna. Non posso più sentire le sue storie su come abbia conquistato questa e quella donna!
 str_npc10_personalityclash_speech|Col vostro permesso, comandante. Odio crearvi dei problemi per queste cose, ma voglio che sappiate che non sopporto più Rolf, quello che si definisce un barone.
@@ -881,11 +881,11 @@ str_npc15_kingsupport_2a|Ben detto, mio buon uomo.
 str_npc16_kingsupport_2a|Interessante... Prego, continuate.
 str_npc1_kingsupport_2b|Bene. Abbiamo visto come andò a finire...
 str_npc2_kingsupport_2b|Non chiedo il loro supporto, come se non volessero approfittarne.
-"str_npc3_kingsupport_2b|Non ho intenzione di 'zoppicare' in questo modo."
+str_npc3_kingsupport_2b|Non ho intenzione di 'zoppicare' in questo modo.
 str_npc4_kingsupport_2b|Non avrò parte in questo
 str_npc5_kingsupport_2b|Ho detto di voler diventare {Re/Regina}, non di lasciarmi coinvolgere in tutto questo
 str_npc6_kingsupport_2b|Non sono sicuro di poter fare tutto questo.
-"str_npc7_kingsupport_2b|Credo che la questione 'Pace' sia un po' troppo lontana"
+str_npc7_kingsupport_2b|Penso che forse stai prendendo l'idea della pace del re un po' troppo lontana,
 str_npc8_kingsupport_2b|Questa è una condizione abbastanza gravosa
 str_npc9_kingsupport_2b|Non sono sicuro che realizzare la vostra idea sia così semplice come pensate 
 str_npc10_kingsupport_2b|Hmm. Vorrei pensarci su...
@@ -896,7 +896,6 @@ str_npc14_kingsupport_2b|In realtà, volevo un po' di riposo dopo essere diventa
 str_npc15_kingsupport_2b|{Re/Regina} dei Chierichi, forse. Basta con questi discorsi!
 str_npc16_kingsupport_2b|Senza offesa, ma non sono sicuro che sia l'approccio migliore
 str_npc1_kingsupport_3|Se potessi vagare per le terre un paio di settimane, dicendo alla gente comune che sareste disposto a dare amnistia ai loro parenti come facevano gli imperatori di un tempo... Loro inizierebbero a parlare di voi come l'Imperatore e vi aprirebbero la strada verso il trono. Lo faccio, comandante?
-str_npc2_kingsupport_2|Se vi sta bene, Comandante, potrei viaggiare per un paio di settimane e fare visita ai comuni e alle carovane che conosco ed esporre a loro la questione, avranno un {re/sovrano} che controllerà i nobili che richiedono sempre più tasse per le loro feste o per le guerre. Cose ne dite, comandante?
 str_npc3_kingsupport_3|Se voi vi prenderete un tale impegno {signore/signora}, credo aiuterebbe molti nobili di questa terra in tempi del genere. Se il vostro scopo è quello di ripristinare il vecchio sistema di Calradia, voi sarete il {re/sovrano} più legittimo a riuscirci. Lasciatemi un paio di settimane, {signore/signora}, e io dirò in giro che voi intendete ripristinare gli antichi diritti.
 str_npc4_kingsupport_3|Si, ne ho sentito parlare, infatti, posso immaginarmi la {sua/sua} intera genealogia. Se mi darete un po' di tempo, 'Maestà', andrò in giro per i castelli e i villaggi di questo regno a diffondere la parola della vostra regalità. Naturalmente, mi auguro che vi ricordiate di chi vi è stato fedele quando distribuirete le terre...
 str_npc5_kingsupport_3|Ad ogni modo, in questi tempi oscuri gli uomini benestanti non si interessano a noi, facendoci pagare tasse esorbitanti. È un grande peso per la mia gente. Se potessi prendermi un paio di settimane per dire agli uomini della steppa che intendete ripristinare gli antichi diritti, penso che avreste molti uomini a supportarvi come Khan, e il primo passo per diventare Khan è essere chiamato con quel nome.
@@ -968,7 +967,6 @@ str_npc1_turn_against|Mi spiace che il nostro incontro avvenga in queste circost
 str_npc2_turn_against|Questo è un giorno amaro e triste. Non avrei mai pensato d'incontrare chi mi ha comandato qui, sul campo di battaglia, su fronti opposti. Anche se dovessi trionfare, non proverò alcuna gioia.
 str_npc3_turn_against|Oh {playername}... Quale tragica piega hanno preso le nostre vite! Posso solo sperare che i venti della guerra che oggi ci spingono ad essere nemici, possano un giorno farci tornare amici.
 str_npc4_turn_against|Si, bene... Non sono sicuro di ciò che dovrei dire. Se dobbiamo combattere, facciamola finita.
-str_npc4_turn_against|{playername} Sono Bahadur! Ho preso il vostro sale, com'è tradizione quando siamo divenuti alleati, e sono stato ben compensato da quella scelta! Tuttavia, vi ricorderò un'antica verità... Che mentre un Khergit può essere un ardente seguace e un amico fedele, non diverrà mai uno schiavo. Comunque, oggi vengo contro di voi con la spada alzata. Spero che un giorno potremo alzare i calici al posto delle armi, rinnovando la nostra amicizia.
 str_npc6_turn_against|Mi addolora più di ogni altra cosa che il nostro incontro avvenga in questo modo, {playername}. Non mi soffermerò sulle circostanze che ci hanno portati a questo punto. Posso solo sperare che un giorno avremo una riconciliazione.
 str_npc7_turn_against|Bene, comandante. Avete fatto di me una donna potente, e per questo avete la mia gratitudine. Tuttavia non mi avete comprato, e oggi che le circostanze hanno portato i nostri interessi a scontrarsi, posso incontrarvi in battaglia con la coscienza a posto. In ogni caso, spero che le cose possano cambiare ancora e ci si possa incontrare in amicizia.
 str_npc8_turn_against|Così c'incontriamo oggi quali nemici, e fra breve forse ci troveremo faccia a faccia scorgendoci dagli orli degli scudi. Un giorno triste questo. Talvolta la lama affilata del destino ha un malizioso senso dell'umorismo.
@@ -1133,8 +1131,6 @@ str_comment_you_helped_my_ally_unfriendly_spiteful|Ho saputo che avete prestato 
 str_comment_you_helped_my_ally_spiteful|Ho sentito che avete salvato {s54} dalla frusta. Avreste dovuto lasciare che imparasse la lezione, secondo me.
 str_comment_you_helped_my_ally_chivalrous|Ho saputo che avete portato {s54} fuori da una brutta situazione. Un nobile gesto, senza dubbio.
 str_comment_you_helped_my_ally_default|Ho saputo che avete portato {s54} fuori da una brutta situazione. Ottimo lavoro!
-str_comment_you_were_defeated_allied_unfriendly|Ho sentito che {s54} vi ha inflitto una sconfitta. Ascoltatemi, provate a non far uccidere troppi dei nostri uomini, va bene?
-str_comment_you_were_defeated_allied|Ho sentito che {s54} vi ha inflitto una sconfitta. Ma rincuoratevi, la fortuna presto girerà!
 str_comment_you_abandoned_us_unfriendly_spiteful|Voi, verme! Mi avete lasciato solo ad affrontare {s54}, non è così? Io sputo sulla vostra casata!
 str_comment_you_abandoned_us_unfriendly_pitiless|Bene... Mi avete abbandonato nel bel mezzo della battaglia contro {s54}, vero? Vedrò la vostra sepoltura in un cimitero per traditori!
 str_comment_you_abandoned_us_spiteful|Abbiamo assistito alla vostra sparizione nel mezzo della battaglia con {s54}... spero abbiate una buona giustificazione. Si sono rivoltati i vostri intestini? Tremavate troppo forte per la paura d'impugnare le armi!?
@@ -1158,7 +1154,7 @@ str_comment_you_captured_a_lord_allied_unfriendly_spiteful|Ho saputo che avete c
 str_comment_you_captured_a_lord_allied_chivalrous|Ho saputo che avete catturato {s54}. Ben fatto. Sono certo che sarà stato trattato come si deve da uno del suo rango.
 str_comment_you_captured_a_lord_allied|Ho saputo che avete catturato {s54}. Ben fatto. Il suo riscatto almeno servirà a qualcosa...
 str_comment_you_let_go_a_lord_allied_chivalrous|Ho saputo che avete catturato {s54}, ma ora lasciatelo andare. Un'azione così nobile darà credito alla nostra causa.
-str_comment_you_let_go_a_lord_allied_upstanding|Ho saputo che avete catturato {s54}, ma ora lasciatelo andare. Questa è una linea di condotta onorevole, anche se non priva di rischi.
+str_comment_you_let_go_a_lord_allied_upstanding|Ho saputo che avete catturato {s54}, ma l'avete lasciato andare. Questa è una linea di condotta onorevole, anche se non priva di rischi.
 str_comment_you_let_go_a_lord_allied_coldblooded|Ho saputo che avete catturato {s54}, ma ora lasciatelo andare. È un cavaliere più blasonato di voi, anche se la cavalleria non vince le guerre.
 str_comment_you_let_go_a_lord_allied_unfriendly_spiteful|Ho saputo che avete catturato {s54}, ma ora lasciatelo andare. Ciò aumenterà il vostro onore e i vostri gesti cavallereschi verranno pubblicamente riconosciuti. Senza dubbio le vedove e gli orfani per causa sua sono comunque dalla vostra parte.
 str_comment_you_let_go_a_lord_allied|Ho saputo che avete catturato {s54}, ma penso che dovreste lasciarlo libero. Non voglio dirvi cosa fare dei vostri prigionieri, sia chiaro.
@@ -1347,7 +1343,7 @@ str_lord_insult_sadistic|bestiola lamentosa
 str_lord_insult_goodnatured|disgustosa canaglia
 str_lord_insult_upstanding|delinquente senza vergogna
 str_lord_derogatory_default|meschino e vile
-str_lord_derogatory_martial bullheaded
+str_lord_derogatory_martial|testacalda
 str_lord_derogatory_quarrelsome|rissoso e fomentatore di divisioni
 str_lord_derogatory_pitiless|crudele, tirannico
 str_lord_derogatory_cunning|senza scrupoli e manipolatore
@@ -1422,11 +1418,6 @@ str_rebellion_agree_goodnatured|D'accordo. Penso che {reg3?la vostra donna:il vo
 str_rebellion_agree_upstanding|Sia. Il mio primo dovere è verso questo regno, e per salvarlo dall'illegalità renderò {s45} e rinunzierò al mio omaggio a {s46}. Che i cieli mi perdonino se avrò sbagliato.
 str_rebellion_refuse_martial|Mi dispiace. {s45} ha buon diritto, ma non è abbastanza perché io tolga il mio appoggio a {s46}. Rimarrò leale al mio giuramento.
 str_rebellion_refuse_quarrelsome|Nah. Quella mammoletta di {s45} non ha ciò che serve per governare questo regno. Io sono legato a {s46}.
-str_rebellion_agree_pitiless|No. Non mi unirò alla ribellione. La considero poco più del capriccio di un'infante, cui è stato negato qualcosa che {reg3?lei:lui} pensava fosse sua. Rimarrò con {s46}, la cui capacità di governare è comprovata.
-str_rebellion_agree_cunning|Mi dispiace. Non mi avete fornito ragioni per credere che vincerete. Molti moriranno, ma io non voglio essere tra loro. Continuerò ad appoggiare {s46}.
-str_rebellion_agree_sadistic|No. Non voglio far parte del vostro piccolo gioco. Voi sostenete la corona, ma penso che stiate cercando una rapida scorciatoia per il potere, ed io sarò là al fianco di {s46} a guardare l'ascia che farà cadere la vostra testa.
-str_rebellion_agree_goodnatured|Mi dispiace. Non trovo giusto togliere il mio appoggio a {s46}. Per di più, non ho grande familiarità con il campo di battaglia.
-str_rebellion_agree_upstanding|Mi dispiace. Le pretese di {s45} secondo me non sono abbastanza forti per affliggere queste terre con una maledetta guerra civile. Continuerò ad appoggiare {s46}. Possa il cielo perdonarmi se sto sbagliando.
 str_talk_later_martial|Ora non è tempo di parlare di politica! Io sono qui oggi con gli altri lords, armati per la battaglia. Sarà meglio che vi prepariate a combattere.
 str_talk_later_quarrelsome|Vi aspettate che io discuta con voi di tradire il mio giuramento, mentre siamo circondati da questa armata? Per cosa mi avete preso, per un maledetto idiota?
 str_talk_later_pitiless|Frenate la lingua! Quando mai ho parlato in questi termini? Non lo dirò qui ora, mentre siamo in mezzo al nostro esercito.
@@ -1539,6 +1530,8 @@ str_multi_scene_19|Mahdaar Castle
 str_multi_scene_20|Jameyyed Castle
 str_multi_scene_21|The Arena
 str_multi_scene_22|Forest Hideout
+str_multi_scene_23|Canyon
+str_multi_scene_24|Città del deserto
 str_multi_scene_12|Random Plains (Medium)
 str_multi_scene_13|Random Plains (Large)
 str_multi_scene_14|Random Steppe (Medium)
@@ -1700,7 +1693,6 @@ str_choose_a_faction_for_team_reg0|Choose a faction for team {reg0}:
 str_choose_number_of_bots_for_team_reg0|Choose number of bots for team {reg0}:
 str_spectator|Spectator
 str_spectators|Spectators
-str_score|Score
 str_command|Command:
 str_profile_banner_selection_text|Choose a banner for your profile:
 str_use_default_banner|Use Faction's Banner
@@ -1774,7 +1766,6 @@ str_reg4_killed_reg5_wounded_reg6_routed|{reg4} uccisi, {reg5} feriti, {reg6} fu
 str_reg4_killed_reg5_routed|{reg4} uccisi, {reg5} fuggiti
 str_reg4_killed_reg5_wounded|{reg4} uccisi, {reg5} feriti
 str_reg4_wounded_reg5_routed|{reg4} feriti, {reg5} fuggiti
-str_routed|fuggiti
 str_s42|{s42}
 str_s4_awarded_to_s5|{s4} assegnato a {s5}
 str_calculating_sortie_for_s4_strength_of_reg3_vs_reg4_enemies|Calcolando la possibilta' per {s4}, forza di {reg3} contro {reg4} nemici
@@ -1789,18 +1780,10 @@ str_deciding_faction_ai_for_s3|Fazione AI per {s3}
 str_lords_of_the_s1_gather_for_a_feast_at_s2|I lords del {s1} si riuniscono per una festa a {s2}.
 str_players_kingdom_has_had_reg3_days_of_peace|Il Regno del personaggio ha avuto {reg3} giorni di pace
 str_s4_is_present_at_the_center_and_is_attending_the_feast|{s4} è presente e sta partecipando alla festa
-"str_s4_is_present_at_the_center_and_is_awaiting_the_player_in_private|{s4} è presente e ti sta aspettando per discutere in privato"
+str_s4_is_present_at_the_center_and_is_awaiting_the_player_in_private|{s4} è presente al centro ed è in attesa il giocatore in privato
 str_s4_is_present_at_the_center_and_is_allowed_to_meet_the_player|{s4} è presente e gli è stato permesso incontrarti
 str_s4_is_present_at_the_center_and_is_not_allowed_to_meet_the_player|{s4} è presente ma non gli è stato permesso incontrarti
 str_no_relation|nessun rapporto
-str_wife|moglie
-str_husband|marito
-str_father|padre
-str_mother|madre
-str_daughter|figlia
-str_son|figlio
-str_sister|sorella
-str_brother|fratello
 str_niece|nipote
 str_nephew|nipote
 str_aunt|zia
@@ -1813,7 +1796,7 @@ str_fatherinlaw|suocero
 str_sisterinlaw|cognata
 str_brotherinlaw|cognato
 str_print_party_members_entered|i membri del gruppo sono entrati
-str_num_companion_stacks_=_reg10|numero di compagni = {reg10}
+str_num_companion_stacks_=_reg10|"numero di compagni = {reg10}
 str_someone|qualcuno
 str_i_take_what_work_i_can_sirmadame_i_carry_water_or_help_the_merchants_with_their_loads_or_help_build_things_if_theres_things_to_be_built|Faccio quel che posso, {signore/signora}. Porto l'acqua, aiuto i mercanti con i loro carichi o li aiuto a costruire gli edifici.
 str_im_not_doing_anything_sirmadame_theres_no_work_to_be_had_around_here_these_days|Non sto facendo nulla, {signore/signora}. Non c'è lavoro in questi giorni.
@@ -1842,7 +1825,6 @@ str_trade_explanation_dyes|Io scarico i coloranti importati a Calradia da lontan
 str_trade_explanation_leatherwork|Io lavoro in una conceria, mi prendo cura delle pelli. È un lavoro orrendo, molte volte torno a casa che puzzo di urina o feci, ma è da lì che vengono fatti gli stivali, le selle e quant'altro, {signore/signora}.
 str_trade_explanation_flax|Io raccolgo i semi di lino e lascio marcire gli steli per le loro fibre. Questa è la fonte della vostra biancheria, {signore/signora}... Una fossa marcia.
 str_trade_explanation_dates|Mi prendo cura delle palme. Non è un compito facile come dicono, dobbiamo salire in cima alle palme per assicurarci che gli alberi fioriscano e da lì esportiamo la nostra frutta in lungo e in largo; viene essiccata per una maggiore conservazione. Dolce come il miele, dona salute ed energie.
-str_trade_explanation_dates|Mi prendo cura delle palme. Noi le cresciamo usando l'acqua ed esportiamo la frutta in lungo e in largo dopo averla essiccata per una maggiore conservazione. Dolce come il miele, dona salute ed energie!
 str_trade_explanation_olives|Mi prendo cura degli alberi d'ulivo. A volte le olive le mangiamo o le facciamo in salamoia ma poi le spediamo per farne dell'olio.
 str_s14_i_hear_that_you_can_find_a_good_price_for_it_in_s15|{s14}. Ho sentito che potete spuntare un buon prezzo per essa a {s15}.
 str_s2s_rebellion|Rivolta di {s2}
@@ -1906,7 +1888,7 @@ str_you_speak_of_giving_me_land_good_i_ask_for_no_more_than_my_due|Voi dite di d
 str_you_speak_of_giving_me_land_unfortunately_you_are_not_wellknown_for_rewarding_those_to_whom_you_have_made_such_offers|Voi dite di darmi della terra. Sfortunatamente, non è noto chi è stato gratificato da questa offerta.
 str_you_speak_of_unifying_calradia_well_i_believe_that_well_always_be_fighting__its_important_that_we_fight_for_a_rightful_cause|Voi parlate di unificare Calradia. Bene, dato che si dovrà lottare comunque, è importante farlo per una giusta causa.
 str_you_talk_of_claims_to_the_throne_but_i_leave_bickering_about_legalities_to_the_lawyers_and_clerks|Voi parlate di diritto al trono, ma lascio ai cancellieri e agli avvocati le questioni legali.
-"str_you_speak_of_ruling_justly_hah_ill_believe_theres_such_a_thing_as_a_just_king_when_i_see_one|Voi parlate di governare con giustizia. Hah! Crederò ai re 'giusti' solo quando ne vedrò uno."
+str_you_speak_of_ruling_justly_hah_ill_believe_theres_such_a_thing_as_a_just_king_when_i_see_one|Voi parlate di governare con giustizia. Hah! Io crederò in un re giusto solo quando lo vedrò.
 str_you_spoke_of_protecting_the_rights_of_the_nobles_if_you_did_youd_be_the_first_king_to_do_so_in_a_very_long_time|Avete parlato della tutela dei diritti nobiliari. Se così fosse, voi sareste il primo Re a farlo dopo tanto tempo.
 str_you_speak_of_giving_me_land_ay_well_lets_see_if_you_deliver|Voi parlate di darmi della terra. Beh, vediamo se terrete fede a questa promessa.
 str_you_speak_of_giving_me_land_bah_youre_not_known_for_delivering_on_your_pledges|Voi parlate di darmi della terra. Bah, voi non siete conosciuto come una persona che mantiene le promesse.
@@ -1919,7 +1901,7 @@ str_you_speak_of_protecting_the_rights_of_lords_that_would_make_a_fine_change_if
 str_you_speak_of_giving_me_land_well_my_family_is_of_ancient_and_noble_lineage_so_you_promise_me_no_more_than_my_due_still_your_gesture_is_appreciated|Parlate di dare a me dei possedimenti. Bene, la mia famiglia è di antico e nobile lignaggio, in questo modo non mi promettete nient'altro che non mi sia già dovuto. In ogni caso apprezzo il vostro gesto.
 str_you_speak_of_giving_me_land_well_you_make_that_pledge_but_i_am_not_impressed|Parlate di dare a me della terra. Bene, vi assumete quest'impegno, ma non mi avete di certo impressionato.
 str_you_speak_of_unifying_calradia_well_much_of_this_land_now_bends_its_knee_to_you_so_perhaps_that_is_not_just_talk|Parlate di unificare Calradia. Beh, gran parte di questa terra s'inginocchia davanti a voi, perciò forse le vostre non sono vane parole.
-str_you_speak_of_unifying_calradia_but_right_now_yours_is_just_one_squabbling_faction_among_many |Parlate di unificare Calradia, ma in questo momento la vostra è solo una fazione litigiosa come tante altre.
+str_you_speak_of_unifying_calradia_but_right_now_yours_is_just_one_squabbling_faction_among_many|Parlate di unificare Calradia, ma in questo momento la vostra è solo una fazione litigiosa come tante altre.
 str_you_speak_of_claims_well_no_offense_but_a_claim_unsupported_by_might_rarely_prospers|Voi parlate di diritti. Beh, senza offesa, ma una pretesa senza supporto è difficile da sostenere.
 str_you_speak_of_protecting_the_commons_well_i_suppose_that_will_make_for_a_more_prosperous_realm_ive_always_tried_to_treat_my_peasants_decently_saves_going_to_bed_worrying_about_whether_youll_wake_up_with_the_roof_on_fire|Voi dite di voler proteggere il popolo. Bene, sarebbe un gran gesto per un regno prospero. Ho sempre cercato di mantenere i miei cittadini decentemente.
 str_you_speak_of_protecting_the_commons_very_well_but_remember_that_peasants_are_more_likely_to_cause_trouble_if_you_make_promises_then_dont_deliver_than_if_you_never_made_the_promise_in_the_first_place|Voi dite di voler proteggere il popolo. Molto bene, ma ricordate che i contadini portano molti problemi se vengono fatte promesse che poi non si mantengono.
@@ -1975,7 +1957,7 @@ str_s18_has_been_speaking_ill_of_me_behind_my_back_or_so_they_say|{s18} ha parla
 str_s18_is_a_disgrace_reg3shehe_consorts_with_merchants_lends_money_at_interest_uses_coarse_language_and_shows_no_attempt_to_uphold_the_dignity_of_the_honor_bestowed_upon_reg3herhim|{s18} è una vergogna. {reg3?Lei:Lui} frequenta mercanti, presta oro e usa un linguaggio rozzo senza nemmeno tentare di difendere la dignità e l'onore che {reg3?la:lo} dovrebbero contraddistinguere.
 str_s18_has_condemned_me_for_engaging_in_commerce_what_could_possibly_be_wrong_with_that|{s18} mi ha condannato per essermi dedicato al commercio. Che cosa ci sarà mai di bagliato in questo?
 str_s18_i_have_heard_has_been_encouraging_seditious_ideas_among_the_peasantry__a_foolish_move_which_endangers_us_all|{s18}, ho sentito che ha incoraggiato idee sediziose tra i cittadini... Una mossa folle che ci mette tutti in pericolo.
-"str_s18_has_called_me_out_for_the_way_i_deal_with_my_tenants_well_so_be_it_if_i_teach_them_that_they_are_the_equal_of_anyone_with_socalled_gentle_blood_what_is_it_to_reg3herhim|{s18} mi ha chiamato in causa per il modo in cui mi occupo dei miei affittuari. Bene, così sia. Se io insegno che loro sono uguali a quelli chiamati di 'sangue blu' che cos'è {reg3?lei:lui}?"
+str_s18_has_called_me_out_for_the_way_i_deal_with_my_tenants_well_so_be_it_if_i_teach_them_that_they_are_the_equal_of_anyone_with_socalled_gentle_blood_what_is_it_to_reg3herhim|{s18} mi ha chiamato in causa per il modo in cui mi occupo dei miei affittuari. Bene, così sia. Se io insegno che loro sono uguali a quelli chiamati di 'sangue blu' che cos'è {reg3?lei:lui}?
 str_a_most_gallant_gentleman_who_knows_how_to_treat_a_lady|uno dei signori più galanti, che sa come trattare una signora.
 str_a_base_cad|un vile maleducato
 str_a_man_who_treats_me_as_his_equal_which_is_rare|un uomo che mi tratta come suo pari, il che è raro.
@@ -2145,7 +2127,7 @@ str_my_lady_you_are_a_woman_of_great_spirit_and_bravery_possessed_of_beauty_grac
 str_ah__kais_and_layali__such_a_sad_tale_many_a_time_has_it_been_recounted_for_my_family_by_the_wandering_poets_who_come_to_our_home_and_it_has_never_failed_to_bring_tears_to_our_eyes|Ah, 'Kais and Layalì, un triste racconto. Ogni volta è stata raccontata per la mia famiglia dai trovatori itineranti che arrivano alla nostra corte, e non ha mai fallito nel far scendere le lacrime dai miei occhi.
 str_kais_and_layali_three_hundred_stanzas_of_pathetic_sniveling_if_you_ask_me_if_kais_wanted_to_escape_heartbreak_he_should_have_learned_to_live_within_his_station_and_not_yearn_for_what_he_cannot_have|'Kais and Layali? Trecento strofe di patetico piagniucolio, se me lo chiedete. Se Kais voleva fuggire dal crepacuore, avrebbe dovuto imparare a convivere con la sua condizione, e a non desiderare ciò che non può avere.
 str_kais_and_layali_no_one_should_ever_have_written_such_a_sad_poem_if_it_was_the_destiny_of_kais_and_layali_to_be_together_than_their_love_should_have_conquered_all_obstacles|'Kais and Layalì? Nessuno avrebbe dovuto  scrivere una poesia così triste! Se il destino di Kais e Layali era quello di stare insieme, allora il loro amore avrebbe dovuto superare qualsiasi ostacolo!
-"str_ah_kais_and_layali_a_very_old_standby_but_moving_in_its_way|Ah, 'Kais and Layali.' Un passo molto vecchio, ma a suo modo emozionante"
+str_ah_kais_and_layali_a_very_old_standby_but_moving_in_its_way|Ah, 'Kais and Layali.' Un passo molto vecchio, ma a suo modo emozionante.
 str_the_saga_of_helgered_and_kara_such_happy_times_in_which_our_ancestors_lived_women_like_kara_could_venture_out_into_the_world_like_men_win_a_name_for_themselves_and_not_linger_in_their_husbands_shadow|La saga di 'Helgered e Kara'? Che tempi felici erano quelli in cui i nostri antenati vivevano! Le donne come Kara potevano avventurarsi nel mondo come gli uomini, guadagnare fama e onore solo per se stesse, e non indugiare all'ombra dei loro mariti.
 str_ah_the_saga_of_helgered_and_kara_now_there_was_a_lady_who_knew_what_she_wanted_and_was_not_afraid_to_obtain_it|Ah, la saga di 'Helgered e Kara'. Allora c'era una signora che sapeva quello che voleva, e non aveva che da agire per ottenerlo.
 str_the_saga_of_helgered_and_kara_a_terrible_tale__but_it_speaks_of_a_very_great_love_if_she_were_willing_to_make_war_on_her_own_family|La saga di 'Helgered e Kara'? Un racconto terribile, ma parla di un vero grande amore, se lei è stata disposta a muovere guerra alla sua stessa famiglia.
@@ -2176,7 +2158,7 @@ str_rebel|ribelle
 str_bandit|bandito
 str_relation_of_prisoner_with_captor_is_reg0|La relazione del prigioniero con il suo carceriere è {reg0}
 str_s5_suffers_attrition_reg3_x_s4|{s5} soffre per logoramento: {reg3} x {s4}
-str_s10_said_on_s1_s11__ |{s10} disse riguardo {s1}: {s11}^^
+str_s10_said_on_s1_s11__|{s10} disse riguardo {s1}: {s11}^^
 str_totalling_casualties_caused_during_mission|Calcolando le vittime causate durante la missione...
 str_removing_s4_from_s5|Rimuovendo {s4} da {s5}
 str_s4_joins_prison_break|{s4} si unisce all'evasione
@@ -2351,9 +2333,7 @@ str_that_s14_will_rule_this_land_justly|Che {s14} governerà questa terra con gi
 str_that_s14_will_protect_our_rights_as_nobles|Che {s14} proteggerà i nostri diritti di nobili?
 str_that_s14_will_unify_this_land_and_end_this_war|Che {s14} unificherà questa terra e porrà fine alla guerra?
 str_that_s14_will_reward_me_with_a_fief|Che {s14} mi ricompenserà con un feudo?
-str_he|lui
 str_king|Re
-str_she|lei
 str_queen|Regina
 str_khan|Khan
 str_i|Io
@@ -2434,7 +2414,7 @@ str_we_are_riding_to_the_defense_of_s8|Stiamo cavalcando alla difesa di {s8}.
 str_we_are_gathering_for_a_feast_at_s8|Ci stiamo riunendo per una festa a {s8}.
 str__however_that_may_change_shortly_s14| Comunque, la situazione potrebbe cambiare presto. {s14}
 str_it_is_our_custom_to_seal_any_such_alliances_with_marriage_and_in_fact_we_have_been_looking_for_a_suitable_groom_for_my_s11_s14|È nostra abitudine siglare alleanze del genere con matrimoni, e infatti, stavamo cercando uno sposo adatto per mia {s11}, {s14}.
-str_once_again|ancora una volta  
+str_once_again_|di nuovo
 str_cheat__marriage_proposal|Trucco: proposta di matrimonio
 str_you_plan_to_marry_s4_as_you_have_no_family_in_calradia_he_will_organize_the_wedding_feast|Avete programmato di sposare {s4}. Visto che non avete famiglia in Calradia, organizzerà lui la festa di matrimonio.
 str_s43_just_so_you_know_if_you_attack_me_you_will_be_in_violation_of_the_truce_you_signed_with_the_s34|{s43} Solo perché lo sappiate, se mi attaccate, violerete la tregua che voi stesso avete firmato con il {s34}.
@@ -2645,7 +2625,6 @@ str_s21_the_s8_declared_war_to_curb_the_other_realms_power|{s21} Il {s8} dichiar
 str_s21_the_s8_declared_war_to_regain_lost_territory|{s21} Il {s8} dichiara guerra per recuperare il territorio perduto.
 str__family_|^Famiglia: 
 str_we_are_conducting_recce|Per prima cosa esploreremo la zona, e allora decideremo cosa fare.
-str__family_|^Famiglia:
 str_s49_s12_s11_end|{s49} {s12} ({s11}).
 str_center_party_not_active|non è il nostro obiettivo, perché non abbiamo un capo che sia sceso in campo.
 str_center_is_friendly|non è nostro nemico.
@@ -2780,8 +2759,6 @@ str_my_lady_not_sufficient_chemistry|Mia signora, ci sono altre fanciulle che ha
 str_my_lady_engaged_to_another|Mia signora, a quanto mi risulta, voi siete fidanzata ad un altro.
 str_attempting_to_rejoin_party|Tentando di riunirsi alla Compagnia,
 str_separated_from_party|Separato dalla Compagnia,
-str_whereabouts_unknown|ubicazione ignota
-str_betrothed| Fidanzato 
 str_leading_party|guidando la Compagnia
 str_court_disbanded|Poiché non governi più un regno indipendente, la tua corte è stata sciolta.
 str_i_am_not_accompanying_the_marshal_because_will_be_reappointment| Non sto accompagnando il Comandante in Capo, perché sospetto che il nostro sovrano a breve ne nominerà un altro al suo posto.
@@ -2806,7 +2783,7 @@ str_s54_has_left_the_realm|{s54} ha lasciato il regno.
 str_enterprise_s5_at_s0|Guadagno netto da {s5} a {s0}
 str_bread_site|mulino
 str_ale_site|fabbrica di birra
-str_oil_site oil|frantoio
+str_oil_site|pressa di olio
 str_wine_site|torchio
 str_tool_site|fucina
 str_leather_site|conceria

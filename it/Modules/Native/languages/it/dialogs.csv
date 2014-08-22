@@ -143,8 +143,6 @@ dlga_member_castellan_talk:member_castellan_join|Voglio che lasciate il castello
 dlga_member_castellan_join:close_window|Mi sono affezionato a questo luogo... Ma se questa è la vostra volontà, {playername}, vi seguirò.
 dlga_member_castellan_join:member_castellan_pretalk|E dove dormiremo noi? Vi portate dietro un'intera armata, {playername}, non c'è spazio per tutti.
 dlga_member_castellan_talk:close_window|[Lascia]
-dlga_start:member_wilderness_talk|Volete che io torni con voi?
-dlga_start:member_inn_talk|Volete che ritorni con voi?
 dlga_member_chat:kidnapped_girl_chat_1|Siamo arrivati a casa?
 dlga_kidnapped_girl_chat_1:kidnapped_girl_chat_2|Non ancora.
 dlga_kidnapped_girl_chat_2:close_window|Non posso aspettare altro tempo. Mi manca tanto la mia famiglia, farei di tutto per tornare da loro.
@@ -267,7 +265,7 @@ dlga_merchant_quest_persuasion:merchant_quest_4b8|Mi avete fornito motivi convin
 dlga_merchant_quest_persuasion:close_window|Come ho detto, ho questioni più importanti altrove.
 dlga_merchant_quest_2:merchant_quest_2a|Ora andate, trovate e sconfiggete quel gruppo di banditi.
 dlga_merchant_quest_3:merchant_quest_3a|Adesso andate e attaccate il nascondiglio di questi banditi, portate indietro mio fratello e mostrate a questi briganti cosa succede a chi minaccia la mia famiglia.
-dlga_start:close_screen|Oh grazie al cielo... Grazie al cielo... Sono in salvo?
+dlga_start:close_window.7|Molto bene. Avete fatto il vostro punto. Non ho altro da dire.
 dlga_start:merchant_closing_statement_2|Ah... {playername}. Le cose non sono andate bene come speravo. {s5} non è riuscito a passar sopra alla mia piccola violazione del quieto vivere. Oh, egli è abbastanza grato che mi sia liberato del suo capitano corrotto, una guardia che fa entrare dei banditi farà passare un esercito nemico se il prezzo è giusto, ma non può proprio avermi qui in giro come un ricordo della sua incapacità di prendersi cura dei suoi compiti.
 dlga_merchant_closing_statement_2:merchant_closing_statement_3|Questo mi sembra giusto...
 dlga_merchant_closing_statement_3:merchant_closing_statement_4|Giusto? Questa è Calradia, {ragazzo mio/mia signora}! I Re fanno quello che vogliono, e il resto di noi fa quel che deve. Comunque non mi ha messo in cattiva luce, invece mi ha dato il tempo di vendere le mia proprietà e ha anche messo una buona parola con gli altri commercianti affinchè mi paghino un prezzo equo. Una cosa abbastanza gentile da parte sua, per essere un Re... Ma lui è un sovrano debole, come tutti qui sanno, e un Re debole deve sempre guardare alla propria autorità per prima cosa, e alla giustizia solo in secondo luogo. Suppongo che al suo posto avrei fatto lo stesso.
@@ -282,8 +280,8 @@ dlga_member_fief_grant_1:member_fief_grant_2|Che feudo avevate in mente?
 dlga_member_fief_grant_2:member_fief_grant_3|{s11}
 dlga_member_fief_grant_2:do_member_trade|Non importa, non ci sono feudi da offrirvi.
 dlga_member_fief_grant_3:close_window|{s5}
-dlga_start:close_window.5|Partiremo appena saremo pronti
-dlga_start:close_window.6|Vi prego di non farmi perdere altro tempo oggi, {signore/signora}. Forse c'incontreremo di nuovo.
+dlga_start:close_window.8|Bene, {signore/signora}! Per favore, non disturbatevi a rialzarvi da terra, semplicemente vi butterei giù di nuovo. Considero il silenzio quali scuse. Vi auguro buona giornata.
+dlga_start:close_window.9|Molto bene. Avete raggiunto il vostro obiettivo. Ritiro quello che ho detto e spero che abbiate ottenuto soddisfazione.
 dlga_start:companion_recruit_intro_response|{s5}
 dlga_companion_recruit_intro_response:companion_recruit_backstory_a|{s6}
 dlga_companion_recruit_intro_response:close_window|{s7}
@@ -329,6 +327,8 @@ dlga_minister_issues:minister_talk.2|Se posso permettermi di offrire un consigli
 dlga_minister_issues:minister_talk.3|Al momento, non ci sono questioni particolarmente urgenti che necessitino della vostra attenzione. C'è qualcosa che desiderate fare?
 dlga_minister_pretalk:minister_talk|C'è qualcosa che desiderate fare?
 dlga_minister_talk:combined_political_quests|Avete qualche idea per rafforzare l'unità del regno?
+dlga_minister_talk:offer_gift_quest_complete|Ho il materiale per il regalo di {s4}.
+dlga_offer_gift_quest_complete:close_window|Ah, fatemeli prendere. Speriamo che questo ponga fine al dissidio tra voi due. Dovreste parlare con {reg4?lei:lui}, e vedere se ho avuto successo.
 dlga_minister_talk:minister_cancel_political_quest|Abbandoniamo il nostro progetto di {s10}.
 dlga_minister_cancel_political_quest:minister_cancel_political_quest_confirm|Avete la certezza di voler abbandonare quest'idea?
 dlga_minister_cancel_political_quest_confirm:minister_pretalk|si, ne ho la certezza. Lasciamo perdere questo piano.
@@ -352,6 +352,7 @@ dlga_minister_change_marshal_choose:minister_pretalk.3|Non importa
 dlga_minister_diplomatic_kingdoms:minister_diplomatic_kingdoms_select|Da chi volete inviare questo emissario?
 dlga_minister_diplomatic_kingdoms:minister_pretalk|Sfortunatamente, non c'è nessuno da inviare al momento.
 dlga_minister_diplomatic_kingdoms_select:minister_diplomatic_initiative_type|{s10} del {s11}{s14}
+dlga_minister_diplomatic_kingdoms_select:minister_pretalk|Non importa.
 dlga_minister_diplomatic_initiative_type:minister_diplomatic_initiative_type_select|Quale comunicazione volete mandargli?
 dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary|Che i nostri due regni dovrebbero stipulare una tregua.
 dlga_minister_diplomatic_initiative_type_select:minister_diplomatic_emissary.1|Che desidero mettermi sotto la sua protezione, come suo vassallo.
@@ -459,21 +460,21 @@ dlga_companion_rejoin_refused:close_window|Come volete. Mi occuperò di alcuni m
 dlga_event_triggered:companion_rejoin_response.3|Volete che mi riunisca a voi?
 dlga_event_triggered:close_window.1|Laggiù! Posso vedere le mura di {s3} anche se distanti. Ce l'abbiamo fatta ad arrivare senza incontrare pericoli. Ecco, prendete questa borsa con {reg3} denari, come vi avevo promesso. Spero che potremo di nuovo viaggiare insieme.
 dlga_start:lord_start|Mia signora, aspetto con impazienza il nostro matrimonio, non appena ci sarà la possibilità di organizzare una festa appropriata.{s12}
-dlga_start:lord_talk.1|Mia signora, se desiderate sposarvi, possiamo procedere con la festa a {s4} per scambiarci i voti innanzi ai nobili del regno.
-dlga_start:lord_talk.2|Mia signora, sono stanco di attendere che i nobili di questo regno si riuniscano. Venite con me a {s4} e ci scambieremo i nostri voti.
-dlga_start:lord_talk.3|Mia signora, sono stanco di attendere che i nobili di questo regno si riuniscano. Forse dovremmo cogliere la prima opportunità di sposarci, in qualsiasi grande sala che sia aperta alla bisogna.
+dlga_start:lord_start.1|Mia signora, se desiderate convolare a nozze, darò ordine di allestire un banchetto a {s4} così che potremo scambiarci i voti di fronte ai lords del regno.
+dlga_start:lord_start.2|Mia signora, sono divenuto stanco e frustrato a causa del ritardo accumulatosi, i lords non giungono. Venite subito con me a {s4} e scambiamoci i voti.
+dlga_start:lord_start.3|Mia signora, l'attesa per l'arrivo dei lords in occasione delle nozze si protrae troppo a lungo. Forse dovremmo cogliere la prima occasione utile per sposarci, in qualsiasi grande sala che si apra per noi.
 dlga_start:lord_groom_vows|Mia signora, sono stanco di attendere. Procediamo immediatamente allo scambio dei voti matrimoniali!
 dlga_start:lord_groom_vows.1|Mia signora, i miei occhi gioiscono nel vedervi. Possiamo procedere con i voti!
 dlga_lord_groom_vows:female_pc_marriage_vow|Mia signora, davanti a questa assemblea che mi è testimone, io dichiaro di prendere voi come moglie, di onorarvi, amarvi e proteggervi. Che il cielo ci benedica con salute, prosperità e prole.
 dlga_female_pc_marriage_vow:lord_groom_wedding_complete|Io dichiaro di prendere voi come mio legittimo marito.
 dlga_female_pc_marriage_vow:close_window|Aspettate... Ho bisogno di pensarci.
 dlga_lord_groom_wedding_complete:close_window|Ora siamo marito e moglie. Che i festeggiamenti abbiano inizio!
-dlga_start:close_window.7|Molto bene. Avete fatto il vostro punto. Non ho altro da dire.
-dlga_start:close_window.8|Bene, {signore/signora}! Per favore, non disturbatevi a rialzarvi da terra, semplicemente vi butterei giù di nuovo. Considero il silenzio quali scuse. Vi auguro buona giornata.
-dlga_start:close_window.9|Molto bene. Avete raggiunto il vostro obiettivo. Ritiro quello che ho detto e spero che abbiate ottenuto soddisfazione.
 dlga_start:close_window.10|Hah! Non fate più il galante adesso, vedete? Ora non datemi più fastidio.
 dlga_start:close_window.11|Molto bene, avete vinto. Che tutti quelli presenti oggi siano testimoni che mi avete sconfitto, e che abbandono le mie mire su {s10}. Proverete soddisfazione, spregevole persona...
 dlga_start:close_window.12|Alzatevi. Che tutti quelli presenti oggi siano testimoni che vi ho sconfitto, e che ora dovete abbandonare il corteggiamento di {s10}. Vi permetterò una visita finale, per rendere i vostri saluti. Dopo questo, se insisterete nel tentativo di vederla, tutti sapranno che siete una persona priva d'onore.
+dlga_start:close_window.13|Com'è meraviglioso... Fra breve tempo saremo sposati! Tuttavia, vorrei sottolineare che, nei pochi giorni che rimangono, non è conveniente per noi farci vedere troppo insieme.
+dlga_start:close_window.14|Ehm, {playername}, non siete a conoscenza delle nostre tradizioni matrimoniali, ma io speravo che qualcuno ve lo dicesse... Parlate prima con mio {s11}, {s4}.
+dlga_start:close_window.15|Non so dove si trova mio {s11} {s10}, che per tradizione dovrebbe presiedere il nostro matrimonio. Forse dobbiamo aspettare fino a quando non lo troviamo...
 dlga_start:player_siege_castle_commander_1|Che cosa volete?
 dlga_player_siege_castle_commander_1:player_siege_ask_surrender|Arrendetevi! La vostra situazione è senza speranza!
 dlga_player_siege_castle_commander_1:close_window|Niente. Adesso vado.
@@ -588,7 +589,7 @@ dlga_lord_intro:lord_start|{s11}
 dlga_start:lord_meet_enemy|{s43}
 dlga_lord_meet_enemy:lord_intro|Io sono {playername}, {s65}.
 dlga_lord_meet_enemy:lord_intro.1|Mi conoscono come {playername}. Ricordatelo, sentirete parlare di me molto spesso.
-dlga_start:lord_start.9|{s8}
+dlga_start:lord_start.12|{s8}
 dlga_lord_start:lord_start|{s42}
 dlga_lair_quest_intermediate_1:lord_pretalk|Splendido lavoro, {playername}. Il vostro audace attacco è la notizia del giorno nel regno. Non ho dubbi che essi, o altri come loro torneranno presto, ma per un breve periodo avete garantito a questa terra una tregua. Per questo vi siamo molto grati.
 dlga_lair_quest_intermediate_2:lord_pretalk|Beh, {playername}, immagino che alcuni di quei briganti vi siano sfuggiti, e naturalmente saranno i pacifici viaggiatori di questa terra a pagarne le conseguenze. Eppure, è stato gentile da parte vostra provare.
@@ -679,7 +680,6 @@ dlga_lord_start:lord_talk.2|Qual è la vostra offerta?
 dlga_lord_start:lord_talk.3|Desidero darvi il benvenuto nella mia sala in questa lieta occasione. Ora, che cosa c'è?
 dlga_lord_start:lord_talk.4|Solleviamo un {s5} alla salute del nostro ospite, {s4}. Ora, che cosa c'è?
 dlga_lord_talk:offer_gift_quest_complete|Ho il materiale per il regalo di {s4}.
-dlga_offer_gift_quest_complete:close_window|Ah, fatemeli prendere. Speriamo che questo ponga fine al dissidio tra voi due. Dovreste parlare con {reg4?lei:lui}, e vedere se ho avuto successo.
 dlga_lord_talk:intrigue_quest_state_complaint|Mio signore... Desidero dirvi una cosa in privato, su uno dei vostri vassalli.
 dlga_intrigue_quest_state_complaint:lord_pretalk|Qualunque cosa abbiate da dire, vi chiedo di aspettare fino a quando saremo soli.
 dlga_intrigue_quest_state_complaint:intrigue_quest_state_complaint_plyr|Che cosa volete? Io apprezzo la vostra opinione, tuttavia spero che voi non stiate cercando di seminare il dissenso tra i miei vassalli.
@@ -1025,7 +1025,7 @@ dlga_lord_talk_ask_about_war_details:lord_talk_ask_about_war_2|{s9}.
 dlga_lord_talk_ask_about_strategy:lord_strategy_follow_evaluation|{s7} {s9} {s14}
 dlga_lord_strategy_follow_evaluation:lord_talk_ask_something_2|Avete altre domande?
 dlga_lord_strategy_follow_evaluation:lord_strategy_follow_up|Il nostro capo {s4} è fin troppo cauto. {reg4?Lui:lei} dovrebbe utilizzare l'esercito per attaccare il nemico, o lasciare i lords liberi di andare a casa.
-dlga_lord_strategy_follow_evaluation:lord_strategy_follow_up.|Il nostro esercito è fermo a non fare niente. A quanto pare troppi pochi vassalli hanno risposto alla chiamata alle armi. Forse {s4} non gode della fiducia dei maggiori signori del regno.
+dlga_lord_strategy_follow_evaluation:lord_strategy_follow_up.1|Il nostro esercito sta fermo a non fare nulla. A quanto pare, troppo pochi vassalli hanno risposto alla chiamata alle armi. Forse {s4} non gode della fiducia della maggior parte dei signori di questo regno.
 dlga_lord_strategy_follow_evaluation:lord_strategy_follow_up.2|Non sono d'accordo con questa strategia. Preferirei che {s4}.
 dlga_lord_strategy_follow_evaluation:lord_strategy_follow_up.3|Personalmente preferirei attaccare {s8}, ma il nostro Comandante {s10} crede che {s9}.
 dlga_lord_strategy_follow_evaluation:lord_strategy_follow_up.4|Personalmente preferirei difendere {s8}, invece di {s9}.
@@ -1086,7 +1086,7 @@ dlga_liege_defends_claim_1:liege_defends_claim_2|Oh veramente? Non tutti osano m
 dlga_liege_defends_claim_2:liege_defends_claim_3|Molto bene. Darò soddisfazione alla vostra curiosità. Ma ascoltatemi molto attentamente, perché non ne parlerò di nuovo.
 dlga_liege_defends_claim_3:liege_defends_claim_4|{s48}
 dlga_liege_defends_claim_4:lord_talk|{s48}
-dlga_lord_join_rebellion_suggest_cheat:lord_join_rebellion_ask_for_order|Trucco:Essia.
+dlga_lord_join_rebellion_suggest_cheat:close_window|Trucco:Essia.
 dlga_lord_talk:lord_prison_break_chains|Sono venuto a portarvi fuori da qui.
 dlga_lord_prison_break_chains:close_window|Grazie al cielo siete qui! Tuttavia non posso andare da nessuna parte con queste catene alle gambe. Dovrete trovare un modo per portar via le chiavi alla guardia.
 dlga_lord_tell_objective:lord_pretalk|Cosa sto facendo?! Cosa sembra che stia facendo?! Io sono un prigioniero qui!
@@ -1261,8 +1261,6 @@ dlga_lord_mission_rescue_prisoner_confirm:lord_mission_rescue_prisoner_rejected|
 dlga_lord_mission_rescue_prisoner_rejected:close_window|Non sarebbe stato un compito facile, in effetti. Forse troveremo un altro modo.
 dlga_lord_mission_rescue_prisoner_accepted:lord_mission_rescue_prisoner_method|Vi siamo molto grati. Posso chiedervi come avete intenzione di procedere?
 dlga_lord_mission_rescue_other_ideas:lord_mission_rescue_prisoner_method|Vi sono venute in mente altre idee di cui vorreste discutere?
-dlga_lord_mission_rescue_prisoner_method:lord_mission_rescue_prisoner_method_ransom|Sto pensando di pagare il riscatto.
-dlga_lord_mission_rescue_prisoner_method:lord_mission_rescue_prisoner_method_connections|Sto pensando di usare i miei agganci a {s24}.
 dlga_lord_mission_rescue_prisoner_method:lord_mission_rescue_prisoner_method_prisonbreak|Sto pensando di irrompere nella prigione di {s24}, trovare {s13} e crearmi una via d'uscita combattendo.
 dlga_lord_mission_rescue_prisoner_method:lord_mission_rescue_prisoner_method_siege|Sto pensando di prendere {s24} con la forza.
 dlga_lord_mission_rescue_prisoner_method:lord_mission_rescue_prisoner_planning_end|Ho già fatto abbastanza piani. È ora di agire!
@@ -1285,7 +1283,7 @@ dlga_lord_tell_mission:lord_mission_told|Ci sarebbe una piccola cosa... Mia {s17
 dlga_lord_tell_mission:lord_mission_deal_with_bandits_told|Un gruppo di banditi si è stabilito nel mio villaggio di {s15}. Stanno saccheggiando le fattorie nei dintorni, diventano ricchi e grassi rubando le mie tasse e banchettando con il mio bestiame. Mi piacerebbe andare laggiù e dar loro una lezione, ma sono molto occupato al momento, quindi non posso farci nulla.
 dlga_lord_mission_deal_with_bandits_told:lord_mission_deal_with_bandits_accepted|Non preoccupatevi, posso recarmi io a {s15} e prendermi cura di questa feccia per conto vostro.
 dlga_lord_mission_deal_with_bandits_told:lord_mission_deal_with_bandits_rejected|Dovrete trovare aiuto altrove, non posso assumermi quest'impegno, ora.
-dlga_lord_mission_deal_with_bandits_accepted:close_window|Lo farete? Sappiate che vi sarò molto grato. Ecco del denaro per le spese della vostra campagna. Fate in modo che la lezione che impartirete serva da esempio, quei {s43}/i.   	
+dlga_lord_mission_deal_with_bandits_accepted:close_window|Lo farete? Sappiate che vi sarò molto grato. Ecco del denaro per le spese della vostra campagna. Fate in modo che la lezione che impartirete serva da esempio, quei {s43}/i.   \t
 dlga_lord_mission_deal_with_bandits_rejected:lord_pretalk|Ah... Molto bene allora, dimenticate questa conversazione.
 dlga_lord_tell_mission:lord_tell_mission_raise_troops|Nessun nobile dovrebbe ammetterlo, {playername}, ma stavo ispezionando i miei soldati l'altro giorno e ci sono uomini che non sanno da quale lato si tiene la spada! {s43} Siete un combattente con una reputazione notevole, {playername}. Addestrerete alcune truppe per me? Ve ne sarei molto grato.
 dlga_lord_tell_mission_raise_troops:lord_tell_mission_raise_troops_2|Di quanti uomini avete bisogno?
@@ -1397,6 +1395,7 @@ dlga_member_chat:lady_journey_1|Vi state godendo il viaggio, {s65}?
 dlga_lady_journey_1:close_window|Sta andando abbastanza bene, {playername}. Grazie per l'interessamento.
 dlga_start:spouse_talk|Si, marito mio?
 dlga_spouse_talk:minister_issues|Poichè siete il mio primo ministro, desidero parlare di affari di stato.
+dlga_spouse_talk:offer_gift_quest_complete|Ho il materiale per il regalo di {s4}.
 dlga_spouse_talk:spouse_cancel_political_quest|Abbandoniamo il nostro piano di {s10}.
 dlga_spouse_cancel_political_quest:spouse_cancel_political_quest_confirm|Siete sicuro di non voler dar corso a quest'idea?
 dlga_spouse_cancel_political_quest_confirm:spouse_pretalk|Si, sono sicuro. Lasciamo perdere quest'idea.
@@ -1422,17 +1421,19 @@ dlga_spouse_feast_confirm:spouse_feast_confirm_yes|Spediamo gli inviti.
 dlga_spouse_feast_confirm:spouse_pretalk|Aspettiamo, allora.
 dlga_spouse_feast_confirm_yes:spouse_pretalk|Invierò quindi la notizia che daremo una festa non appena le condizioni nel regno lo permetteranno. Nel frattempo dovreste continuare a riempire la nostra dispensa, così da rendere giustizia alla nostra famosa ospitalità.
 dlga_spouse_feast_confirm_yes:spouse_pretalk.1|Bene, allora. Che la festa cominci immediatamente presso la nostra corte {reg4?qui:} in {s9}. Forse voi dovreste continuare a riempire la nostra dispensa, in modo che si possa rendere giustizia alla nostra reputazione di ospitalità. Potrete poi dichiarare conclusa la festa in qualsiasi momento, oppure con l'inizio di una campagna militare o consentendo che i vassalli tornino alle loro case.
-dlga_start:close_window.13|Com'è meraviglioso... Fra breve tempo saremo sposati! Tuttavia, vorrei sottolineare che, nei pochi giorni che rimangono, non è conveniente per noi farci vedere troppo insieme.
-dlga_start:close_window.14|Ehm, {playername}, non siete a conoscenza delle nostre tradizioni matrimoniali, ma io speravo che qualcuno ve lo dicesse... Parlate prima con mio {s11}, {s4}.
-dlga_start:close_window.15|Non so dove si trova mio {s11} {s10}, che per tradizione dovrebbe presiedere il nostro matrimonio. Forse dobbiamo aspettare fino a quando non lo troviamo...
 dlga_start:close_window.16|L'onorevole {s12} ha acconsentito che torniamo a casa dalle nostre famiglie. Partiremo fra breve.
+dlga_start:close_window.17|Presto partiremo per {s4}. È bello sapere che in questo mondo ci sono ancora persone che conservano il senso dell'onore.
+dlga_start:close_window.18|Beh, {playername}... Avete combattuto in duello con {s10}, e avete perso. In accordo con i nostri usi e tradizioni, non devo più ricevervi. Addio, {playername}.
+dlga_start:close_window.19|Ah, {playername}. È bello vedervi di nuovo. Tuttavia, credo che io sia richiesta altrove.
 dlga_start:kingdom_lady_captive|Cosi grande è la mia solitudine! Come mi manca la mia famiglia!
 dlga_start:kingdom_lady_captive.1|Voi siete un mascalzone, {sir/madame}, per trattenere qui una signora...
 dlga_start:kingdom_lady_captive.2|È strano. A volte mi avete dimostrato tanta gentilezza, eppure continuate a tenermi qui contro la mia volontà.
 dlga_start:kingdom_lady_captive.3|Perché la mia famiglia non ha pagato il riscatto? Potete anche tenermi come prigioniera, ma sembra che vi preoccupiate per me più di loro!
 dlga_lady_stranded_next:close_window|Saluti, {signore/mia signora}. Le maree della guerra mi hanno fatto arenare in questa fortezza, ma a breve sarò in partenza.
 dlga_start:lady_talk_refugee|{playername}... Presumo che voi, in quanto {uomo/donna} di onore accorderete a donne di nobili natali quali noi siamo, il diritto a tornare dalle nostre famiglie, e senza chiedere un riscatto.
-dlga_start:close_window.17|Presto partiremo per {s4}. È bello sapere che in questo mondo ci sono ancora persone che conservano il senso dell'onore.
+dlga_start:lady_escort_lady_succeeded|Grazie di avermi scortato fin qui, {playername}. Vi prego, accettate questo dono in segno della mia gratitudine. Spero che potremo incontrarci nuovamente in futuro.
+dlga_lady_escort_lady_succeeded:close_window|È stato un onore servirti, {s65}.
+dlga_start:close_window.20|Laggiù! Posso vedere le mura di {s3} in lontananza. Ce l'abbiamo fatta. Ecco, prendete questi {reg3} denari, come promesso. Spero che potremo viaggiare nuovamente insieme un giorno.
 dlga_lady_talk_refugee:close_window|Certamente, mia signora.
 dlga_lady_talk_refugee:lady_captive_talk|Vi sbagliate, mia signora!
 dlga_lady_captive_talk:lady_captive_confirm|Cosa?! Che infamia è questa?
@@ -1440,7 +1441,7 @@ dlga_lady_captive_confirm:close_window|Le mie scuse, dovete avermi frainteso. Na
 dlga_lady_captive_confirm:close_window.1|Contattate la vostra famiglia per organizzare un riscatto, mia signora.
 dlga_kingdom_lady_captive:close_window|Allora scrivete alla vostra famiglia e chiedete loro di sbrigarsi con il riscatto!
 dlga_kingdom_lady_captive:close_window.1|Ho cambiato idea... Siete libera di andare.
-dlga_start:close_window.18|Beh, {playername}... Avete combattuto in duello con {s10}, e avete perso. In accordo con i nostri usi e tradizioni, non devo più ricevervi. Addio, {playername}.
+dlga_start:close_window.21|Andatevene, disgustoso mendicante, prima che perda la pazienza!
 dlga_start:lady_duel_lost|Oh {playername}. Ho saputo del vostro duello con {s10}. Vorrei tanto che voi non aveste mai combattuto! Per il nostro onore e tradizione chiedo che, avendo perso contro di lui, interrompiate i vostri rapporti con me. Addio, {playername}.
 dlga_lady_duel_lost:close_window|D'accordo allora, dobbiamo fare come le tradizioni impongono... Addio, mia signora.
 dlga_lady_duel_lost:lady_duel_lost_flaunt_conventions|Al diavolo l'onore e la tradizione! Conta ciò che mi batte in petto!
@@ -1458,8 +1459,6 @@ dlga_lady_qst_duel_for_lady_succeeded_2:lady_pretalk|{s10}
 dlga_start:lady_qst_duel_for_lady_failed|Vi avevo detto di cercare soddisfazione da {s13} per provare la mia innocenza, {playername} e voi lo avete fatto senza esitare. È stato un gesto gentile, e vi ringrazio per i vostri sforzi.
 dlga_lady_qst_duel_for_lady_failed:lady_qst_duel_for_lady_failed_2|Chiedo il vostro perdono per la mia sconfitta, {s65}...
 dlga_lady_qst_duel_for_lady_failed_2:lady_pretalk|Non importa, {playername}. Avete tentato. La verità non può essere provata con la punta di una spada, ma voi avete volontariamente messo la vostra vita a difesa del mio onore. Già questo convincerà molti della mia innocenza.
-dlga_start:lady_escort_lady_succeeded|Grazie di avermi scortato fin qui, {playername}. Vi prego, accettate questo dono in segno della mia gratitudine. Spero che potremo incontrarci nuovamente in futuro.
-dlga_lady_escort_lady_succeeded:close_window|È stato un onore servirti, {s65}.
 dlga_start:lady_start.2|Ah {playername}, dovete aver ricevuto il mio messaggio. Come sono felice che siate potuto venire!
 dlga_start:lady_proposal_pending|{playername}... Ci sono notizie da parte della mia famiglia?
 dlga_start:lady_betrothed|Ho saputo che mio {s11} ha rifiutato la vostra proposta di sposarmi. Vuol dire che dobbiamo separarci?
@@ -1469,7 +1468,7 @@ dlga_rescue_prisoner_succeed_1:lady_pretalk|È sempre un onore servirvi, {s65}.
 dlga_start:lady_meet_end|Voi dovete essere {playername}. Ho avuto l'onore di vedervi trionfare nel recente torneo{s8}.
 dlga_start:lady_meet_end.1|Voi dovete essere {playername}. Mio {s15} {s16} ha parlato molto bene di voi. Sono lieta di fare la vostra conoscenza.
 dlga_start:lady_premeet|Salve... Dubito che ci abbiano mai presentati...
-dlga_start:close_window.19|Ah, {playername}. È bello vedervi di nuovo. Tuttavia, credo che io sia richiesta altrove.
+dlga_start:close_window.22|Giungete appena in tempo. Unitevi alle nostre forze e diamo una lezione al nemico!
 dlga_start:lady_start.3|{playername}... Che bello rivedervi. (Sussurrando:) Ricordo le vostre visite precedenti con affetto.
 dlga_start:lady_meet_end.2|Ah, {playername}. È stato splendido vedervi mettere in luce nel recente torneo.
 dlga_start:lady_start.4|{s12}
@@ -1598,7 +1597,7 @@ dlga_lady_restore_relation_5:lady_restore_relation_6|Eccellente. Allora sceglier
 dlga_lady_restore_relation_6:lady_pretalk|Grazie per il vostro aiuto, mia signora.
 dlga_lady_restore_relation_cant_afford:lady_pretalk|Mi spiace, non posso essere di molto aiuto in questo caso, {playername}. Mi spiace davvero.
 dlga_lady_talk:lady_leave|Devo andare.
-dlga_lady_leave:close_window 266239|{s12}
+dlga_lady_leave:close_window|{s12}
 dlga_convince_begin:convince_options|Non vedo perché dovrei accettare ciò che mi state chiedendo.
 dlga_convince_options:convince_bribe|Beh, questo potrebbe migliorare un po' le cose. ({reg8} denari)
 dlga_convince_options:convince_friendship|Per favore, fatelo per il bene della nostra amicizia. (-{reg9} alla relazione)
@@ -1656,7 +1655,7 @@ dlga_seneschal_ask_location:seneschal_ask_location_2|Beh, un uomo nella mia posi
 dlga_seneschal_ask_location_2:seneschal_ask_location_3|{s1}
 dlga_seneschal_ask_location_2:seneschal_pretalk|Non importa.
 dlga_seneschal_ask_location_3:seneschal_pretalk|{s1}
-dlga_start:close_window.20|Laggiù! Posso vedere le mura di {s3} in lontananza. Ce l'abbiamo fatta. Ecco, prendete questi {reg3} denari, come promesso. Spero che potremo viaggiare nuovamente insieme un giorno.
+dlga_start:close_window.23|State facendo un grande errore combattendo contro di noi...
 dlga_start:talk_caravan_escort|Ce l'abbiamo fatta infine... La strada è libera là davanti?
 dlga_talk_caravan_escort:talk_caravan_escort_2a|Potrebbero esserci dei banditi nelle vicinanze. State vicino.
 dlga_talk_caravan_escort_2a:close_window|Credetemi, {playername}, vi stiamo già vicino il più possibile. Fate strada.
@@ -1733,7 +1732,7 @@ dlga_start:castle_guard_players|I vostri ordini, {signore/signora}?
 dlga_castle_guard_players:close_window|Aprite la porta. Vado dentro.
 dlga_castle_guard_players:close_window.1|Non importa.
 dlga_start:castle_guard_sneaked_intro_1|Andate fuori dai piedi, straccione! Voi puzzate!
-dlga_start:close_window.21|Andatevene, disgustoso mendicante, prima che perda la pazienza!
+dlga_start:close_window.24|Ci avete salvati di nuovo, {playername}! La vostra amicizia si dimostra davvero preziosa. {s43}
 dlga_castle_guard_sneaked_intro_1:castle_guard_sneaked_intro_2|Voglio entrare nel castello e parlare con il lord.
 dlga_castle_guard_sneaked_intro_1:close_window|[Lascia]
 dlga_castle_guard_sneaked_intro_2:close_window|Siete {pazzo, uomo/pazza, donna}? I mendicanti non sono ammessi nel castello. Ora andatevene prima che vi faccia del male.
@@ -1765,8 +1764,8 @@ dlga_castle_gate_open:close_window.1|Il mio signore {s2} non è nel castello ora
 dlga_castle_gate_open:close_window.2|Venite dentro. Vi apro il cancello.
 dlga_castle_gate_open:close_window.3|Venite dentro. Ma assicuratevi che i vostri uomini si comportino correttamente. Il mio signore {s2} non vuole problemi.
 dlga_castle_gate_open:close_window.4|Il mio signore {s2} non vi vuole qui. Andatevene ora, ve ne prego.
-dlga_start:close_window.22|Giungete appena in tempo. Unitevi alle nostre forze e diamo una lezione al nemico!
-dlga_start:close_window.23|State facendo un grande errore combattendo contro di noi...
+dlga_start:close_window.25|Giungete appena in tempo! {playername}. Avete i miei ringraziamenti più sinceri!  {s43}
+dlga_start:close_window.26|Arrivate appena in tempo, {playername}. Non dimenticherò il vostro aiuto. {s43}
 dlga_start:ally_thanks_meet|Non credo di avervi mai incontrato, amico mio. Mi avete appena salvato la vita ed io ancora non conosco il vostro nome...
 dlga_start:ally_thanks_meet.1|Il vostro aiuto è stato il benvenuto. Il mio nome è {s1}. Posso sapere il vostro?
 dlga_start:ally_thanks_meet.2|Grazie per il vostro aiuto. Non ci siamo incontrati ancora, o sbaglio? Qual è il vostro nome?
@@ -1774,15 +1773,15 @@ dlga_ally_thanks_meet:ally_thanks_meet_2|Il mio nome è {playername}.
 dlga_ally_thanks_meet_2:close_window|Piacere, {playername}. Il mio nome è {s1} e sarò per sempre in debito con voi. Se avete bisogno di qualcosa, fammelo sapere...
 dlga_ally_thanks_meet_2:close_window.1|Piacere, {playername}. Sono in debito con voi per ciò che avete fatto. Spero che un giorno mi venga data la possibilità di ripagarvi.
 dlga_ally_thanks_meet_2:close_window.2|Piacere, {playername}. Sono {s1}. Grazie per il vostro aiuto, spero di rivedervi presto.
-dlga_start:close_window.24|Ci avete salvati di nuovo, {playername}! La vostra amicizia si dimostra davvero preziosa. {s43}
-dlga_start:close_window.25|Giungete appena in tempo! {playername}. Avete i miei ringraziamenti più sinceri!  {s43}
-dlga_start:close_window.26|Arrivate appena in tempo, {playername}. Non dimenticherò il vostro aiuto. {s43}
 dlga_start:close_window.27|Felice di vedervi qui, {playername}. {s43}
 dlga_start:close_window.28|{s43}
 dlga_start:close_window.29|{s43}
 dlga_start:close_window.30|Grazie per il vostro aiuto, {signore/signora}. Avete salvato {reg1?le nostre vite:la mia vita}.
 dlga_start:close_window.31|Grazie per il vostro aiuto, {signore/signora}. Le situazione sembrava disperata per noi, ma poi ci avete raggiunto e le cose sono cambiate.
 dlga_start:close_window.32|Grazie per il vostro aiuto, {signore/signora}. È stata una fortuna avervi nelle vicinanze!
+dlga_start:close_window.33|Non preoccupatevi, {signore/signora}, so quel che devo fare.
+dlga_start:close_window.34|Grazie per aver accettato di aiutarci {signore/signora}. Uccidete quei banditi!
+dlga_start:close_window.35|Possiamo fare il resto del percorso per conto nostro. Grazie.
 dlga_start:kidnapped_girl_liberated_battle|Oh {signore/signora}. Vi ringrazio per avermi salvata. Mi porterete dalla mia famiglia ora?
 dlga_start:freed_hero_answer|Sono in debito con voi per avermi liberato.
 dlga_freed_hero_answer:freed_hero_answer_1|Non andrete da nessuna parte. Siete mio prigioniero adesso!
@@ -1844,7 +1843,7 @@ dlga_sacrificed_messenger_3:sacrificed_messenger_cancel|Arggh! Non posso farlo. 
 dlga_sacrificed_messenger_cancel:sacrificed_messenger_cancel_2|Che volete dire {signore/signora}?
 dlga_sacrificed_messenger_cancel_2:sacrificed_messenger_cancel_3|C'è una trappola pronta per voi in città. {s3} mi ha ordinato di sacrificare uno dei miei uomini scelti per ingannare il nemico, ma dovrà trovare un altro modo.
 dlga_sacrificed_messenger_cancel_3:close_window|Grazie, {signore/signora}. Vi seguirò fino alle porte dell'Inferno, anche non sarà una morte piacevole, questo è certo.
-dlga_start:close_window.33|Non preoccupatevi, {signore/signora}, so quel che devo fare.
+dlga_start:close_window.36|Bene, abbiamo quasi raggiunto {s21}. Possiamo fare il resto del percorso per conto nostro. Ecco la vostra paga... {reg14} denari. Grazie per averci scortato. Buona fortuna.
 dlga_start:follow_spy_talk|Bella giornata {signore/signora}. Che bel tempo, non trovate? Scusatemi, ora devo lasciarvi.
 dlga_follow_spy_talk:follow_spy_talk_2|Nel nome di {s1}, siete in arresto!
 dlga_follow_spy_talk_2:close_window|Non mi prenderete vivo!
@@ -2065,7 +2064,7 @@ dlga_farmer_from_bandit_village_5:farmer_from_bandit_village_barter|Perché dovr
 dlga_farmer_from_bandit_village_accepted:close_window|Dio vi benedica, {signore/signora}! Il nostro villaggio è {s7}. Non è troppo lontano da qui.
 dlga_farmer_from_bandit_village_denied:close_window|Come preferite {signore/signora}. Perdonatemi per avervi infastidito.
 dlga_farmer_from_bandit_village_barter:farmer_from_bandit_village_5|Noi siamo dei poveri coltivatori {signore/signora}, ed i banditi hanno già razziato la maggior parte di quello che abbiamo. Saremo comunque felici di dividere con voi qualunque cosa sia rimasto. Per non parlare della gratitudine che avremo per vossignoria per averci aiutati.
-dlga_start:close_window.34|Grazie per aver accettato di aiutarci {signore/signora}. Uccidete quei banditi!
+dlga_start:close_window.37|Grazie tante per avermi portato indietro! Non vedo l'ora di rivedere la mia famiglia. Arrivederci!
 dlga_start:mercenary_tavern_talk|Avete bisogno di mercenari, {mio signore/mia signora}? {reg3?Io e {reg4?{reg3} dei miei uomini:uno dei miei uomini} stiamo:sto} cercando una Compagnia. Ci uniremo a voi per {reg5} denari.
 dlga_start:mercenary_after_recruited|Qualche ordine, {signore/signora}?
 dlga_mercenary_after_recruited:mercenary_after_recruited_2|Preparatevi. Ci muoveremo all'alba.
@@ -2186,7 +2185,7 @@ dlga_mayor_talk:mayor_economy_report_1|Come va il commercio qui?
 dlga_mayor_talk:mayor_wealth_comparison_1|Com'è l'economia di questa regione rispetto al resto di Calradia?
 dlga_mayor_talk:mayor_investment_possible|Desidero comprare della terra in questa città per iniziare un'attività produttiva.
 dlga_mayor_investment_possible:mayor_pretalk|Voi già possedete un {s4} qui. Probabilmente non ci sono abbastanza commercianti abili per avviare una seconda impresa.
-dlga_mayor_investment_possible:mayor_pretalk.|{s9}
+dlga_mayor_investment_possible:mayor_pretalk.1|{s9}
 dlga_mayor_investment_possible:mayor_investment_advice.1|Naturalmente, {signore/mia signora}. Voi siete il lord di questa città, e nessuno può contrastarvi.
 dlga_mayor_investment_possible:mayor_investment|Beh... Dati i vostri rapporti con il nostro sovrano, {s4}, Penso che non troverete molti qui che avranno il coraggio di vendervi il terreno.
 dlga_mayor_investment_possible:mayor_pretalk.2|Beh... Per essere onesti, penso che a noi della Gilda piacerebbe conoscervi un po' meglio. Dobbiamo essere molto attenti agli stranieri che arrivano qui e acquistano terreni.
@@ -2274,8 +2273,8 @@ dlga_merchant_quest_brief:escort_merchant_caravan_quest_brief|Sto facendo partir
 dlga_escort_merchant_caravan_quest_brief:merchant_quest_taken|Bene. Scorterò la carovana.
 dlga_escort_merchant_caravan_quest_brief:merchant_quest_stall|Mi dispiace ma non ho abbastanza soldati per farlo.
 dlga_escort_merchant_caravan_quest_brief:merchant_quest_stall.1|Spiacente. Ora non posso farlo.
-dlga_start:close_window.35|Possiamo fare il resto del percorso per conto nostro. Grazie.
-dlga_start:close_window.36|Bene, abbiamo quasi raggiunto {s21}. Possiamo fare il resto del percorso per conto nostro. Ecco la vostra paga... {reg14} denari. Grazie per averci scortato. Buona fortuna.
+dlga_start:close_window.38|Buongiorno, {mio signore/mia signora}. È sempre un onore avervi qui a {s10}.
+dlga_start:close_window.39|Badate di comportarvi bene tra le mura e non avrete problemi.
 dlga_start:merchant_caravan_intro_1|Salve. Dovete essere la scorta che attendevamo, giusto?
 dlga_merchant_caravan_intro_1:merchant_caravan_intro_2|Si. Il mio nome è {playername}. Vi condurrò a {s1}.
 dlga_merchant_caravan_intro_2:escort_merchant_caravan_talk|Bene, è bello sapere che non viaggeremo soli. Cosa volete che facciamo ora?
@@ -2294,7 +2293,7 @@ dlga_merchant_quest_brief:kidnapped_girl_quest_brief|La cifra che i rapitori han
 dlga_kidnapped_girl_quest_brief:kidnapped_girl_quest_taken|Va bene. Consegnerò i soldi del riscatto ai banditi e riporterò la ragazza.
 dlga_kidnapped_girl_quest_taken:close_window|Bene. Sapevo che per questo mi potevo fidare di voi. Qui ci sono i soldi del riscatto, {reg12} denari. Contateli prima di prenderli. E per favore, non provate a fare niente di avventato. Ricordate che il bene della ragazza è più importante di qualsiasi altra cosa...
 dlga_kidnapped_girl_quest_brief:merchant_quest_stall|Spiacente. Ora non ho tempo per questo.
-dlga_start:close_window.37|Grazie tante per avermi portato indietro! Non vedo l'ora di rivedere la mia famiglia. Arrivederci!
+dlga_start:close_window.40|Non abbiamo il permesso di parlare quando siamo di guardia, {mio signore/mia signora}.
 dlga_kidnapped_girl_liberated_map:kidnapped_girl_liberated_map_2a|Si. Venite con me. Andiamo a casa.
 dlga_kidnapped_girl_liberated_map_2a:close_window|Sfortunatamente. Non avete spazio nella vostra Compagnia per accogliermi...
 dlga_kidnapped_girl_liberated_map_2a:close_window.1|Oh, veramente? Grazie tante!
@@ -2541,7 +2540,7 @@ dlga_party_encounter_routed_agents_are_caught2:close_window.1|{s1}
 dlga_sell_prisoner_outlaws:sell_prisoner_outlaws|Hmmm. 10 denari per ogni saccheggiatore fanno {reg1} denari per tutti e {reg0}.
 dlga_sell_prisoner_outlaws:sell_prisoner_outlaws.1|Fatemi vedere. Avete portato {reg0} banditi, quindi 20 denari per ciascuno fanno {reg1} denari.
 dlga_sell_prisoner_outlaws:sell_prisoner_outlaws.2|Bene bene, avete catturato {reg0} briganti. Ciascuno vale 30 denari, quindi vi darò {reg1} in totale per tutti loro.
-dlga_sell_prisoner_outlaws:sell_prisoner_outlaws_finished|Suppongo che sia tutto, quindi.
+dlga_sell_prisoner_outlaws:close_window|Suppongo che ci saranno tutti, allora.
 dlga_prisoner_chat:prisoner_chat_2|Non provate a scappare o a fare qualcosa di sciocco. Vi controllo!
 dlga_prisoner_chat_2:close_window|No, giuro che non lo farò.
 dlga_start:town_merchant_talk|Salute, {mio signore/mia signora}. In cosa posso servire Vostra Signoria oggi?
@@ -2594,10 +2593,10 @@ dlga_start:player_castle_guard_talk|Si {mio signore/mia signora}?
 dlga_player_castle_guard_talk:player_castle_guard_talk_2|Come va la guardia, soldato?
 dlga_player_castle_guard_talk_2:player_castle_guard_talk_3|Tutto tranquillo {mio signore/mia signora}. Niente da segnalare.
 dlga_player_castle_guard_talk_3:close_window|Bene. Tenete gli occhi aperti, mi raccomando.
-dlga_start:close_window.38|Buongiorno, {mio signore/mia signora}. È sempre un onore avervi qui a {s10}.
-dlga_start:close_window.39|Badate di comportarvi bene tra le mura e non avrete problemi.
+dlga_start:close_window.41|Buona giornata, {signore/madame}. Sempre un onore averti qui in {s10}.
+dlga_start:close_window.42|Prestate attenzione al vostro comportamento all'interno delle mura e non avrete problemi.
 dlga_start:hall_guard_talk|Quali sono i vostri ordini, {mio signore/mia signora}?
-dlga_start:close_window.40|Non abbiamo il permesso di parlare quando siamo di guardia, {mio signore/mia signora}.
+dlga_start:close_window.43|Noi non dovremmo parlare mentre siamo di guardia, {signore/signora}.
 dlga_hall_guard_talk:hall_guard_duty|Tornate ai vostri incarichi e fatemi sapere se qualcuno vuole vedermi.
 dlga_hall_guard_duty:close_window|Si, {mio signore/mia signora}. Come desiderate.
 dlga_hall_guard_talk:hall_guard_arrest|Voglio che arrestiate quest'uomo immediatamente!

@@ -292,10 +292,10 @@ trp_tournament_master|Organizzatore dei Tornei
 trp_tournament_master_pl|Organizzatori dei Tornei
 trp_trainer|Addestratore
 trp_trainer_pl|Addestratori
-"trp_constable_hareck|Hareck""il conestabile"""
-"trp_constable_hareck_pl|Hareck""il conestabile"""
-"trp_ramun_the_slave_trader|Ramun 'il mercante di schiavi'"
-"trp_ramun_the_slave_trader_pl|Ramun 'il mercante di schiavi'"
+trp_constable_hareck|Hareck il conestabile
+trp_constable_hareck_pl|Hareck il conestabile
+trp_ramun_the_slave_trader|Ramun, il mercante di schiavi
+trp_ramun_the_slave_trader_pl|Ramun, il mercante di schiavi
 trp_guide|Quick Jimmy
 trp_guide_pl|Quick Jimmy
 trp_xerina|Xerina
@@ -593,7 +593,7 @@ trp_knight_5_5_pl|Reland
 trp_knight_5_6|Conte Tarchias
 trp_knight_5_6_pl|Tarchias
 trp_knight_5_7|Conte Gharmall
-trp_knight_5_7_plGharmall
+trp_knight_5_7_pl|Gharmall
 trp_knight_5_8|Conte Talbar
 trp_knight_5_8_pl|Talbar
 trp_knight_5_9|Conte Rimusk
@@ -1195,7 +1195,7 @@ trp_belligerent_drunk_pl|Ubriachi Belligeranti
 trp_hired_assassin|Sicario
 trp_hired_assassin_pl|Sicari
 trp_fight_promoter|Personaggio dall'aspetto grezzo 
-trp_fight_promoter_p|Personaggi dall'aspetto grezzo 
+trp_fight_promoter_pl|Personaggio dall'aspetto grezzo 
 trp_spy|Comune Cittadino
 trp_spy_pl|Comuni Cittadini
 trp_spy_partner|Cittadino Insospettabile
