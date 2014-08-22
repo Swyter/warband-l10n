@@ -2,8 +2,6 @@
 
 echo "Updating translations from Transifex..."
 
-cp .tx/config-linux .tx/config
-
 # convert everything to Joomla INI format
 luajit tx.lua convert
 
