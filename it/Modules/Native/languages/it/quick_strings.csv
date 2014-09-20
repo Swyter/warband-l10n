@@ -1,5 +1,5 @@
 qstr_Next_Page|Prossima Pagina
-qstr_Game_Rules:^|Game Rules:^
+qstr_Game_Rules:^|Regole del gioco:^
 qstr_0|0
 qstr_Show_game_rules|Mostra le regole del gioco
 qstr_Continue...|Continua...
@@ -53,7 +53,7 @@ qstr_Renown:_{reg0}|Fama: {reg0}
 qstr_Experience:_{reg0}|Esperienza: {reg0}
 qstr_Days_Passed:_{reg0}|Giorni Passati: {reg0}
 qstr_Difficulty:_{reg0}%|Difficoltà: : {reg0}%
-qstr_TOTAL_SCORE:_{reg0}|TOTALE: {reg0}
+qstr_TOTAL_SCORE:_{reg0}|TOTALE PUNTEGGIO: {reg0}
 qstr_None|Nessuno
 qstr_{s1}_of_{s3}_was_def|{s1} del {s3} è stato battuto in battaglia, ma è riuscito a fuggire. 
 qstr_{s54}_is_a_claimant_|{s54} è un pretendente al trono di {s56}.
@@ -87,16 +87,16 @@ qstr_wounded|feriti
 qstr_{s0}^TOTAL:_{reg3}__|{s0}^TOTALE: {reg3} ({s2})
 qstr_^None|^Nessuno
 qstr_nothing|niente
-qstr_{reg0}_village{reg1?|{reg0} villaggio{reg1?s:}
-qstr_{reg0}_castle{reg1?s|{reg0} castello{reg1?s:}
-qstr_{reg0}_castle{reg1?s:|{reg0} castello{reg1?s:} e {s0}
-qstr_{reg0}_town{reg1?s:}|{reg0} città {reg1?/i:}
-qstr_{reg0}_town{reg1?s:}_|{reg0} città {reg1?/i:} e {s0}
-qstr_{reg0}_town{reg1?s:}_{|{reg0} città {reg1?/i:}, {s0}
+qstr_{reg0}_village{reg1?|{reg0} villagg{reg1?i:io}
+qstr_{reg0}_castle{reg1?s|{reg0} castell{reg1?i:o}
+qstr_{reg0}_castle{reg1?s:|{reg0} castell{reg1?i:o} e {s0}
+qstr_{reg0}_town{reg1?s:}|{reg0} città
+qstr_{reg0}_town{reg1?s:}_|{reg0} città e {s0}
+qstr_{reg0}_town{reg1?s:}_{|{reg0} città, {s0}
 qstr_Your_opponents_are_r|I tuoi avversari sono pronti a battersi.
 qstr_Try_to_destroy_as_ma|Prova a distruggere più bersagli che puoi. Hai due minuti e mezzo per completare il percorso.
 qstr_Stay_behind_the_line|Resta dietro la linea e colpisci i bersagli. Cerca di non sprecare colpi.
-qstr_Battle_Advantage_=_{|"Vantaggio Battaglia = {reg0}.
+qstr_Battle_Advantage_=_{|Vantaggio Battaglia = {reg0}.
 qstr_{s9}_wants_you_to_re|{s9} vuole che tu segua la sua armata fino ad ulteriori ordini.
 qstr__Being_Raided_|(Razziato)
 qstr__Looted_|(Saccheggiato)
@@ -167,7 +167,7 @@ qstr_A_manor_lets_you_res|Una Casa Padronale ti permette di riposare nel villagg
 qstr_Mill|Mulino
 qstr_A_mill_increases_vil|Un mulino aumenta la prosperità del villaggio del 5%.
 qstr_Watch_Tower|Torre di guardia
-qstr_A_watch_tower_lets_t|Una torre di guardia permette agli abitanti di essere allertati in minor tempo. Il tempo impiegato dai nemici per saccheggiare il villaggio aumenta del 25%.
+qstr_A_watch_tower_lets_t|Una torre di guardia permette agli abitanti di essere allertati in minor tempo. Il tempo impiegato dai nemici per saccheggiare il villaggio aumenta del 50%.
 qstr_School|Scuola
 qstr_A_shool_increases_th|Una scuola aumenta la lealtà degli abitanti del villaggio nei tuoi confronti di +1 ogni mese.
 qstr_Messenger_Post|Ufficio Postale
@@ -230,7 +230,7 @@ qstr_You_are_not_reading_|Non stai leggendo libri.
 qstr_none|nessuno
 qstr_{s5}_and_{s6}|{s5} e {s6}
 qstr_Your_estates_are:_{s|I tuoi possedimenti sono: {s8}.^{s9}
-qstr_Current_party_size_l|L'attuale limite di dimensione della Compagnia è {reg5}.^I momentanei modificatori della dimensione della Compagnia sono:^^Dimensione di base:  +10^Comando: {s2}{reg1}^Carisma: {s3}{reg2}^Fama: {s4}{reg3}^TOTALE:  {reg5}
+qstr_Current_party_size_l|L'attuale limite di dimensione della Compagnia è {reg5}.^Gli attuali modificatori della dimensione della Compagnia sono:^^Dimensione di base:  +30^Comando: {s2}{reg1}^Carisma: {s3}{reg2}^Fama: {s4}{reg3}^TOTALE:  {reg5}
 qstr_Loyal|Leale
 qstr_Devoted|Devoto
 qstr_Fond|Affezionato
@@ -355,7 +355,7 @@ qstr_Building_of_{s0}_in_|La costruzione di {s0} a {s4} è stato completata.
 qstr_{s1}_has_won_the_tou|{s1} ha vinto il torneo a {s2}.
 qstr_{s1}_is_no_longer_in|{s1} non è più infestato dai banditi (durante la notte).
 qstr_You_pay_for_accommod|Paghi per la sistemazione.
-qstr_Betrothal_to_{s5}_ex|Betrothal a {s5} scade
+qstr_Betrothal_to_{s5}_ex|Fidanzamento a {s5} scade
 qstr__Your_tactics_skill_| La tua abilità tattica è aumentata di 1 punto.
 qstr__Your_persuasion_ski| La tua abilità di persuasione è aumentata di 1 punto.
 qstr__Your_leadership_ski| La tua abilità di comando è aumentata di 1 punto.

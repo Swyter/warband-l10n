@@ -12,14 +12,14 @@ menu_start_game_3|Scegli lo scenario:
 menu_tutorial|Ti avvicini ad un campo dove le persone si esercitano con le armi. Puoi far pratica qui per migliorare le tue capacità di combattimento.
 mno_go_back_dot|Indietro.
 menu_reports|Fama del Personaggio: {reg5}^Livello d'Onore: {reg6}^Morale della Compagnia: {reg8}^Limite di Dimensione della Compagnia: {reg7}^
-mno_view_character_report|Guarda il rapporto sul Personaggio.
-mno_view_party_size_report|Guarda il rapporto sulla dimensione della Compagnia.
-mno_view_npc_mission_report|Guarda il rapporto sulla missione dei Compagni.
-mno_view_weekly_budget_report|Guarda il rapporto sul budget settimanale.
-mno_view_morale_report|Guarda il rapporto del morale della Compagnia.
-mno_lord_relations|Guarda la lista dei lord conosciuti in ordine di relazione.
-mno_courtship_relations|Guarda il rapporto sulle relazioni amorose.
-mno_view_faction_relations_report|Guarda il rapporto sulla relazione tra le fazioni.
+mno_view_character_report|Consulta il rapporto sul Personaggio.
+mno_view_party_size_report|Consulta il rapporto sulla dimensione della Compagnia.
+mno_view_npc_mission_report|Consulta il rapporto sulla missione dei Compagni.
+mno_view_weekly_budget_report|Consulta il rapporto sul budget settimanale.
+mno_view_morale_report|Consulta il rapporto del morale della Compagnia.
+mno_lord_relations|Consulta la lista dei lord conosciuti in ordine di relazione.
+mno_courtship_relations|Consulta il rapporto sulle relazioni amorose.
+mno_view_faction_relations_report|Consulta il rapporto sulla relazione tra le fazioni.
 mno_resume_travelling|Torna al viaggio.
 menu_custom_battle_scene|(NO TRANS)
 menu_custom_battle_end|La battaglia è finita. {s1} La tua fazione ha ucciso {reg5} nemici e perso {reg6} soldati durante la battaglia. Tu hai messo fuori combattimento o ucciso {reg7} avversari nella battaglia.
@@ -33,7 +33,7 @@ mno_start_guard|Una guardia veterana.
 mno_start_forester|Un cacciatore.
 mno_start_nomad|Un nomade delle steppe.
 mno_start_thief|Un ladro.
-menu_start_character_2|{s10}^^  Hai cominciato a conoscere il mondo da quando hai imparato a camminare e parlare. Da giovane eri...
+menu_start_character_2|{s10}^^  Hai iniziato a conoscere il mondo da quando hai imparato a camminare e parlare. Da giovane eri...
 mno_page|In servizio alla corte di un nobile.
 mno_apprentice|Apprendista di un artigiano.
 mno_stockboy|Aiutante in un negozio.
@@ -47,7 +47,7 @@ mno_student|Iscriverti all'università.
 mno_peddler|Dedicarti al commercio.
 mno_craftsman|Lavorare il ferro.
 mno_poacher|Darti al contrabbando.
-menu_start_character_4|{s12}^^ Ma presto le cose cambiano ancora, e decidi di mettere in gioco la tua vita verso l'avventura. Cosa ti ha spinto a questa decisione?...
+menu_start_character_4|{s12}^^ Ma presto le cose cambiano ancora, e decidi di mettere in gioco la tua vita correndo verso l'avventura. Cosa ti ha spinto a questa decisione?...
 mno_revenge|Vendetta personale.
 mno_death|La perdita di un amore.
 mno_wanderlust|La brama d'avventura.
@@ -114,12 +114,12 @@ mno_encounter_retreat|Scappa, lasciando alcuni soldati indietro per coprirti la 
 mno_encounter_surrender|Arrendetevi.
 menu_encounter_retreat_confirm|Come membro della Compagnia con la migliore capacità tattica, ({reg2}), {reg3?decidi:{s3} consiglia} di formulare un piano che permetterà a te e ai tuoi uomini di fuggire, ma dovrai lasciare {reg4} soldati indietro a fermare il nemico.
 mno_leave_behind|Andiamo. Il sacrificio di questi uomini salverà tutti gli altri.
-mno_dont_leave_behind|No. Non lasciamo indietro nessuno
+mno_dont_leave_behind|No. Non lasciamo indietro nessuno.
 menu_encounter_retreat|Ordini a {reg4} dei tuoi soldati di fermare il nemico mentre ti ritiri con il resto della Compagnia.
 menu_order_attack_begin|Le tue truppe si preparano ad attaccare il nemico.
 mno_order_attack_begin|Ordina l'inizio dell'attacco.
 mno_call_back|Richiama indietro le truppe.
-menu_order_attack_2|{s4}^^Le tue perdite: {s8}^^Le perdite del nemico:_{s9}
+menu_order_attack_2|{s4}^^Le tue perdite: {s8}^^Le perdite del nemico: {s9}
 mno_order_attack_continue|Ordina ai tuoi uomini di continuare l'attacco.
 mno_order_retreat|Richiama indietro le truppe.
 menu_battle_debrief|{s11}^^Le tue perdite:{s8}{s10}^^Le perdite del nemico:{s9}
@@ -140,7 +140,7 @@ menu_zendar|Entri nella città di Zendar.
 mno_zendar_enter| 
 mno_zendar_enter_door|Porta per il centro della città.
 mno_zendar_tavern| 
-mno_zendar_tavern_door|Porta della taverna.
+mno_zendar_tavern_door|Porta della locanda.
 mno_zendar_merchant| 
 mno_zendar_merchant_door|Porta per il mercante.
 mno_zendar_arena| 
@@ -209,7 +209,7 @@ mno_leave_faction_cancel|Rimani fedele e accetta la decisione.
 menu_give_center_to_player|Il tuo sovrano ti offre di estendere i tuoi feudi! {s1} ti comunica che intende assegnarti {s2} in compenso del tuoi leali servigi, aggiungendolo ai tuoi possedimenti. Qual è la tua risposta?
 mno_give_center_to_player_accept|Accetta l'offerta.
 mno_give_center_to_player_reject|Rifiuti. Non ti interessa avere {s2}.
-menu_give_center_to_player_2|Con una breve ma intensa cerimonia, si conferma che tu sia governante di {s2}{reg3? e dell'annesso villaggio di {s4}:}._{reg3?Essi diverranno:Esso diverrà} parte dei tuoi domini. Ora potrai riscuotere tasse e affitti dalla tua tenuta, assoldare militari tra la popolazione nonchè gestire il territorio secondo i tuoi voleri. Tuttavia, hai il dovere difendere il tuo feudo e la sua popolazione dai pericoli e a far rispettare la legge e l'ordine.
+menu_give_center_to_player_2|Con una breve ma intensa cerimonia, si conferma che tu sia governante di {s2}{reg3? e dell'annesso villaggio di {s4}:}. {reg3?Essi diverranno:Esso diverrà} parte dei tuoi domini. Ora potrai riscuotere tasse e affitti dalla tua tenuta, assoldare militari tra la popolazione nonchè gestire il territorio secondo i tuoi voleri. Tuttavia, hai il dovere difendere il tuo feudo e la sua popolazione dai pericoli e a far rispettare la legge e l'ordine.
 menu_oath_fulfilled|Hai stipulato un contratto con {s1} con il quale offri i tuoi servigi per un tempo determinato. Il tuo contratto si è ora concluso. Cosa farai?
 mno_renew_oath|Rinnova il contratto con {s1} per un altro mese.
 mno_dont_renew_oath|Liberati da ogni legame.
@@ -236,7 +236,7 @@ mno_village_steal_cattle|Ruba del bestiame.
 mno_village_loot|Saccheggia il villaggio e successivamente brucialo.
 menu_recruit_volunteers|{s18}
 mno_continue_not_enough_gold|Non hai abbastanza soldi...
-mno_recruit_them|Recluta ({reg6} denari).
+mno_recruit_them|Reclutali ({reg6} denari).
 menu_village_hunt_down_fugitive_defeated|Un colpo violento del fuggitivo ti scaraventa a terra, la tua vista si fa annebbiata e poi più nulla. Il tempo passa. Quando riprendi conoscenza il tuo corpo è contuso e sanguinante, ma fortunatamente nessuna ferita è risultata letale.
 menu_village_infest_bandits_result|{s9}
 menu_village_infestation_removed|In una battaglia degna di essere ricordata nelle canzoni dei bardi, tu e i tuoi uomini avete scacciato i banditi dal villaggio, rendendolo sicuro come mai prima d'ora. Ai contadini è rimasto ben poco dopo questo terribile momento, ma ti offrono tutto ciò che riescono a trovare.
@@ -280,13 +280,13 @@ mno_town_castle|Vai al Castello.{s1}
 mno_town_castle_door|Portone del castello.
 mno_town_center|Passeggia per le strade.
 mno_town_center_door|Porta per il centro della città.
-mno_town_tavern|Visita la taverna.
-mno_town_tavern_door|Porta della taverna.
+mno_town_tavern|Visita la locanda.
+mno_town_tavern_door|Porta della locanda.
 mno_town_merchant|Parla con i mercanti.
 mno_town_merchant_door|Porta per il  mercato.
 mno_town_arena|Entra nell'arena.
 mno_town_arena_door|Porta dell'arena.
-mno_town_dungeon|Never: Entra nella prigione.
+mno_town_dungeon|Mai: Entra nella prigione.
 mno_town_dungeon_door|Porta della prigione.
 mno_castle_inspect|Passeggia per il cortile interno.
 mno_castle_inspect_door|Al cortile del castello.
@@ -400,13 +400,13 @@ mno_camp_train_ranged_weapon_bow|Arco e frecce.
 mno_camp_train_ranged_weapon_crossbow|Balestra.
 mno_camp_train_ranged_weapon_thrown|Coltelli da lancio.
 menu_training_ground_selection_details_ranged_2|Da quale distanza vuoi addestrarti?
-mno_camp_train_ranged_details_1|10 iarde.
-mno_camp_train_ranged_details_2|20 iarde.
-mno_camp_train_ranged_details_3|30 iarde.
-mno_camp_train_ranged_details_4|40 iarde.
-mno_camp_train_ranged_details_5|50 iarde.
-mno_camp_train_ranged_details_6|60 iarde.
-mno_camp_train_ranged_details_7|70 iarde.
+mno_camp_train_ranged_details_1|10 metri.
+mno_camp_train_ranged_details_2|20 metri.
+mno_camp_train_ranged_details_3|30 metri.
+mno_camp_train_ranged_details_4|40 metri.
+mno_camp_train_ranged_details_5|50 metri.
+mno_camp_train_ranged_details_6|60 metri.
+mno_camp_train_ranged_details_7|70 metri.
 menu_training_ground_description|{s0}
 menu_training_ground_training_result|{s7}{s2}
 menu_marshall_selection_candidate_ask|{s15} vuole al più presto nominare un Comandante d'armata per il {s23}. Alcuni dei nobili hanno suggerito il tuo nome per la candidatura.
@@ -421,13 +421,13 @@ menu_captivity_start_castle_defeat|Stub
 menu_captivity_start_under_siege_defeat|I tuoi nemici ti hanno posto in catene.
 menu_captivity_wilderness_taken_prisoner|I tuoi nemici ti hanno posto in catene.
 menu_captivity_wilderness_check|Stub
-menu_captivity_end_wilderness_escape|Dopo giorni di sofferenza in prigionia, cogli un occasione per scappare dai tuoi carcerieri!
+menu_captivity_end_wilderness_escape|Dopo giorni di sofferenza in prigionia, cogli un'occasione per scappare dai tuoi carcerieri!
 menu_captivity_castle_taken_prisoner|Prontamente le guardie ti circondano e disarmano. Con maledizioni e insulti, ti gettano nelle segrete dove dovrai passare i restanti giorni della tua miserabile vita.
 menu_captivity_rescue_lord_taken_prisoner|Mantieni il travestimento il più a lungo possibile prima di rivelarti. Le guardie sono oltraggiate e ti picchiano selvaggiamente prima di gettarti in una cella per chissà quanto tempo...
 menu_captivity_castle_check|stub
 menu_captivity_end_exchanged_with_prisoner|Dopo giorni di prigionia, ottieni la liberazione grazie ad uno scambio di ostaggi.
 menu_captivity_end_propose_ransom|Passi lunghe ore nelle celle senza luce delle segrete, più di quante tu ne possa contare. Improvvisamente il tuo carceriere entra nella cella con un'offerta; ti propone la libertà in cambio di {reg5} denari del tuo tesoro nascosto. Tu decidi di...
-mno_captivity_end_ransom_accept|Accettare l'offerta.
+mno_captivity_end_ransom_accept|Accetta l'offerta.
 mno_captivity_end_ransom_deny|Rifiutare e aspettare una migliore occasione.
 menu_captivity_castle_remain|Molti giorni passano nell'oscurità della tua cella. Cerchi di passarli meglio che puoi, sopportando i calci e le maledizioni delle guardie, osservando il tuo corpo denutrito deperire giorno dopo giorno...
 menu_kingdom_army_quest_report_to_army|{s8} ti comunica che vorrebbe che ti unissi alla sua nuova campagna militare. Devi condurre con te almeno {reg13} soldati all'armata, e ti dà istruzioni per reclutarne al più presto se non ne hai abbastanza.
@@ -436,7 +436,7 @@ menu_kingdom_army_quest_join_siege_order|{s8} ti comunica che devi unirti all'as
 menu_kingdom_army_follow_failed|Hai disobbedito agli ordini e fallito nel seguire {s8}. Arrabbiato, egli ti ha congedato dall'armata, e ti invia l'avvertimento che le tue azioni non saranno dimenticate.
 menu_invite_player_to_faction_without_center|Ricevi un'offerta di vassallaggio!^^ {s8} del {s9} ha inviato un araldo per consegnarti un invito scritto di suo pugno. Ti sarà concesso l'onore di divenire vassallo e {lord/lady} di {s9}, in cambio {s8} chiede che tu faccia giuramento di fedeltà a lui e combatta nelle sue campagne militari, sebbene egli non ti offra terre o titoli. Egli sarà sicuramente offeso se non accetterai l'offerta...
 mno_faction_accept|Accetto!
-mno_faction_reject|Declino l'offerta.
+mno_faction_reject|Declina l'offerta.
 menu_invite_player_to_faction|Ricevi un'offerta di vassallaggio!^^ {s8} del {s9} ha inviato un araldo per consegnarti un invito scritto di suo pugno. Ti sarà concesso l'onore di divenire vassallo e {lord/lady} di {s9}, in cambio {s8} chiede che tu faccia giuramento di fedeltà a lui e combatta nelle sue campagne militari, ti offre la proprietà di {s2} per i tuoi leali servigi. Egli sarà sicuramente offeso se non accetterai l'offerta...
 menu_invite_player_to_faction_accepted|Per divenire vassallo, devi pronunciare un giuramento di fedeltà a {s3}. Dovrai andare a incontrarlo e fare il giuramento di persona. {s5}
 menu_question_peace_offer|Ricevi un offerta di pace^^{s1} ti offre un trattato di pace. Qual è la tua risposta?
@@ -476,7 +476,7 @@ menu_notification_player_kingdom_holds_feast|{s11}{s12}
 menu_notification_center_under_siege|{s1} è assediato da {s2} del {s3}!
 menu_notification_village_raided|Nemici hanno saccheggiato un tuo feudo ^^{s1} è stato depredato da {s2} del {s3}!
 menu_notification_village_raid_started|Un tuo villaggio è sotto attacco!^^{s2} del {s3} sta saccheggiando {s1}.
-menu_notification_one_faction_left|Calradia è stata conquistata da un unico regno^^{s1} ha sconfitto tutti i rivali e rimane il solo Regno di Calradia.
+menu_notification_one_faction_left|Calradia è stata conquistata da un unico regno^^{s1} ha sconfitto tutti i rivali e rimane il solo regno.
 menu_notification_oath_renounced_faction_defeated|La tua vecchia fazione è stata sconfitta^^Hai vinto la battaglia contro {s1}! Questo pone fine alla tua lotta cominciata quando rinunciasti al tuo giuramento di fedeltà...
 menu_notification_center_lost|Una proprietà è stata persa^^Hai perso {s1} al {s2}.
 menu_notification_troop_left_players_faction|Tradimento!^^{s1}ha lasciato il {s2} e si è unito al {s3}.

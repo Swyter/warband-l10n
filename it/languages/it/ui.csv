@@ -45,7 +45,7 @@ ui_entry_point_entrypointname|Punto d'ingresso %d
 ui_passage_menu_item_passagename|Passaggio (menu oggetto %d)
 ui_plant_plantname|Pianta - %s
 ui_export_file_for_character_playername_already_exists_overwrite_it|Il file esportato per il personaggio risulta già esistente. Sovrascriverlo?
-ui_yes|Si
+ui_yes|Sì
 ui_no|No
 ui_set_save_file_name|Inserire il nome per il salvataggio:
 ui_enter_new_name|Inserisci un nuovo nome:
@@ -322,8 +322,8 @@ ui_shield_cracked|Scudo incrinato
 ui_shield_deformed|Scudo deformato
 ui_you_hit_a_friendly_troop|Hai colpito un alleato!
 ui_hit_shield_on_back|Colpito lo scudo sulla schiena!
-ui_delivered_couched_lance_damage|Procurato danno da lancia in resta!
-ui_received_couched_lance_damage|Ricevuto danno da lancia in resta!
+ui_delivered_couched_lance_damage|Procurato danno da lancia in testa!
+ui_received_couched_lance_damage|Ricevuto danno da lancia in testa!
 ui_speed_bonus_plus|Bonus velocità : +%d%%
 ui_speed_bonus|Bonus velocità : %d%%
 ui_cant_reload_this_weapon_on_horseback|Non puoi ricaricare a cavallo.

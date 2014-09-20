@@ -30,6 +30,10 @@ function load(fi)
       
       --Fix the quotes from Transifex, which thinks that we're using Joomla!
       if l:find([["_QQ_"]]) ~= nil then x[#x]=(x[#x]):gsub([["?_QQ_"]],[["]]) end
+      --Fix the stubborn /\\ to /\
+      if l:find([[/\\]]) ~= nil then x[#x]=(x[#x]):gsub([[/\\]],[[/\]]) end
+      --Fix the occasional |" to |
+      x[#x]=(x[#x]):gsub([[|"]],[[|]])
 
   end
   f:close(); f = io.open(fi,'w')

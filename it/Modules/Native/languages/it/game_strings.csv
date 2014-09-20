@@ -345,8 +345,8 @@ str_flee_battle|ritirandoti dalla battaglia
 str_pay_bandits|paga i comuni banditi
 str_fail_quest|si fallisca in una missione alla quale ci siamo impegnati dando la parola d'onore
 str_squander_money|sperpera i denari datici con fiducia
-str_murder_merchant|facci coinvolgere in assassinii a sangue freddo
-str_round_up_serfs|riunisci servi a nome di qualche nobile
+str_murder_merchant|ci facciamo coinvolgere in assassinii a sangue freddo
+str_round_up_serfs|radunare servi fuggiaschi a nome di qualche nobile
 str_battle_fate_1|Siamo stati separati nella foga della battaglia
 str_battle_fate_2|Ho subito ferite e restando in mezzo ai caduti
 str_battle_fate_3|Un colpo nemico mi ha fatto perdere i sensi
@@ -875,7 +875,7 @@ str_npc9_kingsupport_2a|Sembra abbastanza sensato...
 str_npc10_kingsupport_2a|Certamente, vorrei dare ai miei sudditi tale diritto.
 str_npc11_kingsupport_2a|Vedete se riuscite a rievocare questa profezia.
 str_npc12_kingsupport_2a|Interessante. Prego andate avanti...
-str_npc13_kingsupport_2a|Perché, si.
+str_npc13_kingsupport_2a|Ebbene sì.
 str_npc14_kingsupport_2a|Prego andate avanti...
 str_npc15_kingsupport_2a|Ben detto, mio buon uomo.
 str_npc16_kingsupport_2a|Interessante... Prego, continuate.
@@ -1184,12 +1184,12 @@ str_comment_our_king_granted_you_a_fief_allied_unfriendly_upstanding|Ho sentito 
 str_comment_our_king_granted_you_a_fief_allied_unfriendly_spiteful|Ho sentito che {s54} ha dato {s51} a voi come feudo. Ho il sospetto, tuttavia, che questo aumenti solamente la distanza fra voi e lo sterco in cui cadrete.
 str_comment_our_king_granted_you_a_fief_allied_spiteful|Ho sentito che {s54} ha dato {s51} a voi come feudo. Spero non intendiate tradire il nostro Re...
 str_comment_our_king_granted_you_a_fief_allied|Ho sentito che {s54} ha dato {s51} a voi come feudo. Sembrate in grado di gestirlo al meglio.
-str_comment_you_renounced_your_alliegance_enemy_friendly|Ho sentito che avete scelto di non seguire più il nostro Re, {s54}. Mi addolora pensare che ora c'incontreremo sul campo di battaglia.
-str_comment_you_renounced_your_alliegance_friendly|Ho sentito che avete scelto di non seguire più il nostro Re, {s54}. Speriamo che questo non significhi una guerra fra di noi.
+str_comment_you_renounced_your_alliegance_enemy_friendly|Ho sentito che avete scelto di non seguire più il nostro sovrano, {s54}. Mi addolora pensare che ora c'incontreremo sul campo di battaglia.
+str_comment_you_renounced_your_alliegance_friendly|Ho sentito che avete scelto di non seguire più il nostro sovrano, {s54}. Speriamo che questo non significhi una guerra fra di noi.
 str_comment_you_renounced_your_alliegance_unfriendly_spiteful|Ho sempre pensato che avreste tradito {s54}, ed ora sembra che i miei presentimenti fossero esatti. Spero abbiate la disposizione giusta per morire a causa della vostra slealtà!
-str_comment_you_renounced_your_alliegance_unfriendly_moralizing|Ho sentito che avete scelto di non seguire più il nostro Re, {s54}. Sono obbligato a vedervi come una persona che ha tradito il nostro regno, ora.
-str_comment_you_renounced_your_alliegance_enemy|Ho sentito che avete scelto di non seguire più il nostro Re, {s54}. Bene, è giunto il momento in cui gli alleati divengono nemici. 
-str_comment_you_renounced_your_alliegance_default|Ho sentito che avete scelto di non seguire più il nostro Re, {s54}. Bene, era una vostra decisione, ma non aspettatevi che io sia clemente quando ci scontreremo in battaglia.
+str_comment_you_renounced_your_alliegance_unfriendly_moralizing|Ho sentito che avete scelto di non seguire più il nostro sovrano, {s54}. Sono obbligato a vedervi come una persona che ha tradito il nostro regno, ora.
+str_comment_you_renounced_your_alliegance_enemy|Ho sentito che avete scelto di non seguire più il nostro sovrano, {s54}. Bene, è giunto il momento in cui gli alleati divengono nemici. 
+str_comment_you_renounced_your_alliegance_default|Ho sentito che avete scelto di non seguire più il nostro sovrano, {s54}. Bene, era una vostra decisione, ma non aspettatevi che io sia clemente quando ci scontreremo in battaglia.
 str_comment_you_claimed_the_throne_1_player_liege|I miei informatori mi dicono che alcune persone di questo regno parlano di voi come del prossimo Re. Mi aspetto che poniate presto fine a queste inutili e pericolose dicerie.
 str_comment_you_claimed_the_throne_2_player_liege|I miei informatori mi riferiscono che alcuni dei vostri compagni hanno detto ai contadini che avete il diritto a reclamare il trono. Spero sinceramente che essi abbiano agito di loro iniziativa e non su vostro ordine.
 str_comment_lord_intervened_against_me|È cosa nota che abbia litigato con {s54}, e {s50} si è pronunciato a favore del mio rivale.
@@ -1336,14 +1336,14 @@ str_lord_follow_refusal_goodnatured|Uhm, sono alquanto occupato dalla mia missio
 str_lord_follow_refusal_upstanding|Prima mostrate d'essere meritevole di guidarmi, e allora forse, vi seguirò.
 str_lord_insult_default|vile sleale
 str_lord_insult_martial|furfante senza onore
-str_lord_insult_quarrelsome|canaglia
+str_lord_insult_quarrelsome|bastardo
 str_lord_insult_pitiless|verme della plebe
 str_lord_insult_cunning|idiota senza speranza
-str_lord_insult_sadistic|bestiola lamentosa
-str_lord_insult_goodnatured|disgustosa canaglia
+str_lord_insult_sadistic|maledetto essere
+str_lord_insult_goodnatured|gaglioffo disgustoso
 str_lord_insult_upstanding|delinquente senza vergogna
 str_lord_derogatory_default|meschino e vile
-str_lord_derogatory_martial|testacalda
+str_lord_derogatory_martial|cocciuto
 str_lord_derogatory_quarrelsome|rissoso e fomentatore di divisioni
 str_lord_derogatory_pitiless|crudele, tirannico
 str_lord_derogatory_cunning|senza scrupoli e manipolatore
@@ -1500,18 +1500,18 @@ str_kingdom_3_adjective|Khergit
 str_kingdom_4_adjective|Nord
 str_kingdom_5_adjective|Rhodok
 str_kingdom_6_adjective|Sarranid
-str_credits_1|Warband: Warband Copyright 2008-2010 Taleworlds Entertainment
+str_credits_1|Mount&Blade: Warband Copyright 2008-2014 Taleworlds Entertainment
 str_credits_2|Game design:^Armagan Yavuz^Steve Negus^Cem Cimenbicer
-str_credits_3|Programming:^Armagan Yavuz^Cem Cimenbicer^Serdar Kocdemir^Ozan Gumus
+str_credits_3|Programmazione:^Armagan Yavuz^Cem Cimenbicer^Serdar Kocdemir^Ozan Gumus
 str_credits_4|CG Artists:^Ozgur Saral^Mustafa Ozturk^Pinar Cekic^Ozan Unlu^Yigit Savtur^Umit Singil
 str_credits_5|Concept Artist:^Ganbat Badamkhand
 str_credits_6|Writing:^Steve Negus^Armagan Yavuz^Ryan A. Span
-str_credits_7|Original Music:^Jesse Hopkins
+str_credits_7|Musiche originali:^Jesse Hopkins
 str_credits_8|Voice Talent:^Tassilo Egloffstein
-str_credits_9|Tutorial written by:^Steve Negus^Armagan Yavuz^Edward Spoerl^^^Horse Motion Capture Animation Supplied by:^Richard Widgery & Kinetic Impulse^^^Physics:^Havok^^^Sound and Music Program Library:^FMODex Sound System by Firelight Technologies^^^Skybox Textures:^Jay Weston^^^Chinese Translation:^Hetairoi
+; str_credits_9|This game has been supported by The Scientific and Technological Research Council of Turkey.^^Tutorial written by:^Steve Negus^Armagan Yavuz^Edward Spoerl^^Horse Motion Capture Animation Supplied by:^Richard Widgery & Kinetic Impulse^^Physics:^Havok^^Sound and Music Program Library:^FMODex Sound System by Firelight Technologies^^Skybox Textures:^Jay Weston^^Chinese Translation:^Hetairoi; Gaodatailang; silentjealousy; Ginn; fallout13; James; D.Kaede; Kan2; alixyang; muyiboy^^TaleWorlds Director of Communications:^Ali Erkin^^TaleWorlds Forum Programming:^Brett Flannigan ^^^TaleWorlds.com Forum Administrators and Moderators:^Janus^Archonsod^Narcissus^Nairagorn^Lost Lamb^Deus Ex^Merentha^Volkier^Instag0^Ativan^ego^Guspav^Hallequin^Invictus^okiN^Raz^rejenorst^Skyrage^ThVaz^^^Mount&Blade Community Suggestions and Feedback:^A Mustang^adamlug^Adorno^alden^Alhanalem^amade^Anthallas^Alkhadias Master^Arch3r^Archevious^Arcas Nebun^Arcon^Arcturus^ares007^Arjihad^BadabombadaBang^Badun^BaronAsh^Berserker Pride^bgfan^bierdopjeee^Big Mac^Binboy^blink180heights^BlodsHammar^Bloid^Brandon^Brego^chenjielian^cifre^COGlory^Corinthian Hoplite^Crazed Rabbit^CryptoCactus^CtrlAltDe1337^Cuther^Da-V-Man^dimitrischris^dstemmer^EasyCo506^Egbert^ethneldryt^eudaimondaimon^Faranox^Fawzia dokhtar-i-Sanjar^Fei Dao^Gabeed^GeN76^General Hospital^GhosTR^glustrod^guspav^Halcyon^Harn^Hethwill^Highelfwarrior^HULKSMASH^Iberon^ignoble^Jack Merchantson^JoG^Jov^Kazzan^King Jonathan the Great^Kleidophoros^knight^Kong Burger^Kristiania^l3asu^Larkraxm^Leandro1021DX^lighthaze^Llew2^Lord Rich^lordum ediz^Lucke189^Mabons^MacPharlan^Madnes5^MagicMaster^Makh^ManiK^Manitas^Marin Peace Bringer^Martinet^MAXHARDMAN^Merlkir^miguel8500^Mithras^Moddan^Nate^Nemeo^Nite/m4re^noobalicous^Nord Champion^okiN^Orion^OTuphlos^Papa Lazarou^Phallas^Plazek^Prcin^PSYCHO78^PsykoOps^Reapy^Red River^Rhizobium^Riggea^Rongar^Ros^sadnhappy^Sarejo^ScientiaExcelsa^Scorch!^Seawied86^sebal87^shikamaru 1993^Shun^silentdawn^Sir Gowe^Skyrage^Slawomir of Aaarrghh^SoloSebo^SovietSoldier^Stabbing Hobo^Stratigos001^Styo^TalonAquila^test^The Yogi^Thundertrod^Thyr^Tim^Titanshoe^tmos^Toffey^Tonttu^Trenalok^Tronde^UberWiggett^Urist^Ursca^urtzi^Vermin^Viajero^Vincenzo^Vulkan^Warcat92^Welcome To Hell^Wheem^Wu-long^Yellonet^Yobbo^Yoshi Murasaki^Yoshiboy^Zyconnic^^^Special Thanks to Toby Lee for his ideas and in depth feedback on the combat system.^...and many many other wonderful Mount&Blade players!^^(This is only a small sample of all the players who have contributed to the game by providing suggestions and feedback.^This list has been compiled by sampling only a few threads in the Taleworlds Forums.^Unfortunately compiling an exhaustive list is almost impossible.^We apologize sincerely if you contributed your suggestions and feedback but were not listed here, and please know that we are grateful to you all the same...)
 str_credits_10|Paradox Interactive^^President and CEO:^Theodore Bergqvist^^Executive Vice President:^Fredrik Wester^^Chief Financial Officer:^Lena Eriksson^^Finance & Accounting:^Annlouise Larsson^^VP Sales & Marketing US:^Reena M. Miranda^^VP Sales & Marketing EU:^Martin Sirc^^Distribution Manager Nordic:^Erik Helmfridsson^^Director of PR & Marketing:^Susana Meza^^PR & Marketing:^Sofia Forsgren^^Product Manager:^Boel Bermann
 str_credits_11|Logotype:^Jason Brown^^Cover Art:^Piotr Fox Wysocki^^Layout:^Christian Sabe^Melina Grundel^^Poster:^Piotr Fox Wysocki^^Map & Concept Art:^Ganbat Badamkhand^^Manual Editing:^Digital Wordsmithing: Ryan Newman, Nick Stewart^^Web:^Martin Ericsson^^Marketing Assets:^2Coats^^Localization:^S&H Entertainment Localization^^GamersGate:^Ulf Hedblom^Andreas Pousette^Martin Ericson^Christoffer Lindberg
-str_credits_12|Thanks to all of our partners worldwide, in particular long-term partners:^Koch Media (Germany & UK)^Blue Label (Italy & France)^Friendware (Spain)^New Era Interactive Media Co. Ltd. (Asia)^Snowball (Russia)^Pinnacle (UK)^Porto Editora (Portugal)^Hell-Tech (Greece)^CD Projekt (Poland, Czech Republic, Slovakia & Hungary)^Paradox Scandinavian Distribution (Scandinavia)
+str_credits_12|Grazie a tutti i nostri collaboratori nel mondo, in particolare quelli di lunga data:^Koch Media (Germany & UK)^Blue Label (Italy & France)^Friendware (Spain)^New Era Interactive Media Co. Ltd. (Asia)^Snowball (Russia)^Pinnacle (UK)^Porto Editora (Portugal)^Hell-Tech (Greece)^CD Projekt (Poland, Czech Republic, Slovakia & Hungary)^Paradox Scandinavian Distribution (Scandinavia)
 str_multi_scene_1|Ruins
 str_multi_scene_2|Village
 str_multi_scene_3|Hailes Castle
@@ -1644,7 +1644,7 @@ str_round_draw|Time is up. Round draw.
 str_round_draw_no_one_remained|No one left. Round draw.
 str_death_mode_started|Hurry! Become master of the field!
 str_reset_to_default|Reset to Default
-str_done|Done
+str_done|Fatto
 str_player_name|Player Name
 str_kills|Kills
 str_deaths|Deaths
@@ -1796,7 +1796,7 @@ str_fatherinlaw|suocero
 str_sisterinlaw|cognata
 str_brotherinlaw|cognato
 str_print_party_members_entered|i membri del gruppo sono entrati
-str_num_companion_stacks_=_reg10|"numero di compagni = {reg10}
+str_num_companion_stacks_=_reg10|numero di compagni = {reg10}
 str_someone|qualcuno
 str_i_take_what_work_i_can_sirmadame_i_carry_water_or_help_the_merchants_with_their_loads_or_help_build_things_if_theres_things_to_be_built|Faccio quel che posso, {signore/signora}. Porto l'acqua, aiuto i mercanti con i loro carichi o li aiuto a costruire gli edifici.
 str_im_not_doing_anything_sirmadame_theres_no_work_to_be_had_around_here_these_days|Non sto facendo nulla, {signore/signora}. Non c'è lavoro in questi giorni.
@@ -2196,7 +2196,7 @@ str_attacking_enemy_army_near_s11|Attaccando l'esercito nemico vicino {s11}
 str_holding_feast_at_s11|Tenendo una festa a {s11}
 str_s9s10_current_state_s11_hours_at_current_state_reg3_current_strategic_thinking_s14_marshall_s12_since_the_last_offensive_ended_reg4_hours_since_the_decisive_event_reg10_hours_since_the_last_rest_reg9_hours_since_the_last_feast_ended_reg5_hours_percent_disgruntled_lords_reg7_percent_restless_lords_reg8__|{s9}{s10}^Stato attuale: {s11}^Ore allo stato attuale: {reg3}^Stratega attuale: {s14}^Maresciallo: {s12}^Da quando l'ultima offensiva è finita: {reg4} ore^Dall'evento decisivo: {reg10} ore^Dall'ultimo riposo di 18+ ore: {reg9} ore^Da quando l'ultima festa è finita: {reg5} ore^Percentuale di lord scontenti: {reg7}%^Percentuale di lord agitati: {reg8}%^^
 str__right_to_rule_reg12|^Diritto a regnare: {reg12}.
-str_political_arguments_made_legality_reg3_rights_of_lords_reg4_unificationpeace_reg5_rights_of_commons_reg6_fief_pledges_reg7|Political arguments made:^Legalità: {reg3}^Diritti dei lords: {reg4}^Unificazione/pace: {reg5}^Diritti del popolo: {reg6}^Promesse di feudi: {reg7}
+str_political_arguments_made_legality_reg3_rights_of_lords_reg4_unificationpeace_reg5_rights_of_commons_reg6_fief_pledges_reg7|Argomentazioni politiche fatte:^Legalità: {reg3}^Diritti dei lords: {reg4}^Unificazione/pace: {reg5}^Diritti del popolo: {reg6}^Promesse di feudi: {reg7}
 str_renown_reg2_honour_rating_reg3s12_friends_s8_enemies_s6_s9|Fama: {reg2}.^Onore: {reg3}.{s12}^Amici: {s8}.^Nemici: {s6}.^{s9}
 str_you_lie_stunned_for_several_minutes_then_stagger_to_your_feet_to_find_your_s10_standing_over_you_you_have_lost_the_duel|Resti stordito per alcuni minuti, poi barcolli sui tuoi piedi, trovando il tuo {s10} in piedi sopra di te. Hai perso il duello.
 str_s10_lies_in_the_arenas_dust_for_several_minutes_then_staggers_to_his_feet_you_have_won_the_duel|{s10} giace nella polvere dell'arena per vari minuti, poi si alza barcollando sui suoi piedi. Ha perso il duello.
@@ -2227,7 +2227,7 @@ str_villagers_from_s1_abducted_a_woman_from_a_prominent_family_in_s2_to_marry_on
 str_villagers_from_s1_killed_some_farmers_from_s2_in_a_fight_over_the_diversion_of_a_stream|abitanti provenienti da {s1} hanno ucciso dei contadini di {s2} in uno scontro dovuto a controversie sulla deviazione di un torrente.
 str_your_new_minister_|Il tuo nuovo ministro 
 str_s10_is_your_new_minister_and_|{s10} è il tuo nuovo ministro, e 
-str_due_to_the_fall_of_s10_your_court_has_been_relocated_to_s12|In seguito alla perdita di {s10}, la tua corte è stata spostata a {s11}
+str_due_to_the_fall_of_s10_your_court_has_been_relocated_to_s12|Poiché hai perso {s10} la tua corte è stata spostata a {s11}
 str_after_to_the_fall_of_s10_your_faithful_vassal_s9_has_invited_your_court_to_s11_|Dopo la perdita della {s10}, il tuo fedele vassallo {s9} ha invitato la tua corte a {s11} 
 str_after_to_the_fall_of_s11_your_court_has_nowhere_to_go|Dopo la perdita di {s11}, la tua corte non ha un luogo dove andare
 str_s8_wishes_to_inform_you_that_the_lords_of_s9_will_be_gathering_for_a_feast_at_his_great_hall_in_s10_and_invites_you_to_be_part_of_this_august_assembly|{s8} desidera informati che i lords del {s9} si incontreranno per una festa nella sala grande a {s10}, e ti invita a partecipare a questa augusta assemblea.
@@ -2261,7 +2261,7 @@ str_the_s12_is_a_labyrinth_of_rivalries_and_grudges_lords_ignore_their_lieges_su
 str_the_s12_is_shaky_many_lords_do_not_cooperate_with_each_other_and_some_might_be_tempted_to_defect_to_a_liege_that_they_consider_more_worthy|Il {s12} è traballante. Molti lords non cooperano con nessuno, e alcuni potrebbero essere tentati di disertare per un sovrano che ritengono più degno.
 str_the_s12_is_fairly_solid_some_lords_bear_enmities_for_each_other_but_they_tend_to_stand_together_against_outside_enemies|Il {s12} è abbastanza solido. Alcuni signori non si sopportano l'un l'altro, ma tendono a stare compatti contro i nemici esterni.
 str_the_s12_is_a_rock_of_stability_politically_speaking_whatever_the_lords_may_think_of_each_other_they_fight_as_one_against_the_common_foe|Il {s12} è una roccia di stabilità, politicamente parlando. Qualunque cosa i lords possano pensare l'uno dell'altro, combattono come un'unico uomo contro il nemico comune.
-str_tribune_s12|Tribuna {s12}
+str_tribune_s12|Tribuno {s12}
 str_lady_s12|Lady {s12}
 str_lord_s12|lord {s12}
 str_resolve_the_dispute_between_s11_and_s12|Risolvi la disputa tra {s11} e {s12}
@@ -2318,7 +2318,7 @@ str_really_well_this_is_the_first_i_have_heard_of_it_unless_you_build_up_support
 str_yes_i_have_heard_such_talk_while_it_is_good_that_you_are_building_up_your_support_i_do_not_think_that_you_are_quite_ready_to_proclaim_yourself_yet_however_i_will_let_you_be_the_judge_of_that_and_when_you_decide_i_should_be_honored_to_be_your_consort|Sì... È giunta anche a me questa diceria. Anche se è bene che voi vi stiate procurando supporto, penso che non siate ancora in condizione di proclamarvi, per ora. Comunque, farò scegliere a voi il momento, e quando deciderete, sarei onorato di essere il vostro consorte.
 str_yes_and_many_others_in_calradia_think_so_as_well_perhaps_it_is_time_that_you_declared_yourself_and_we_shall_ride_forth_together_to_claim_your_throne_i_should_be_honored_to_be_your_consort|Sì... E molti altri in Calradia la pensano così. Forse è tempo che voi vi dichiariate feudatario, e da oggi dovremo cavalcare insieme per rivendicare il vostro trono. Io sarei onorato di essere il vostro consorte.
 str_i_am_disturbed_about_my_lord_s15s_choice_of_companions|Mi irrita la scelta dei compagni del mio lord {s15}.
-str_well_ill_be_honest_i_feel_that_sometimes_s15_overlooks_my_rights_and_extends_his_protection_to_the_unworthy|Beh, sarò onesto. Mi sembra che a volte {s15} passiate sopra i miei diritti, ed estendiate la sua protezione sugli infedeli.
+str_well_ill_be_honest_i_feel_that_sometimes_s15_overlooks_my_rights_and_extends_his_protection_to_the_unworthy|Beh, sarò onesto. Mi sembra che a volte {s15} passi sopra i miei diritti, ed estenda la sua protezione sugli infedeli.
 str_heh_one_thing_that_ill_say_about_s15_is_that_he_has_a_ripe_batch_of_bastards_in_his_court|Eh. Una cosa che dirò riguardo {s15}, è che ha una pronta massa di bastardi presso la sua corte.
 str_well_sometimes_i_have_to_say_that_i_question_s15s_judgment_regarding_those_who_he_keeps_in_his_court|Beh, a volte devo dire che ho da ridire sul modo di giudicare di {s15} riguardante coloro i quali stazionano alla sua corte.
 str_s15_is_a_weak_man_who_too_easily_lends_his_ear_to_evil_council_and_gives_his_protection_to_some_who_have_done_me_wrong|{s15} è un uomo debole, che presta orecchio a pessimi consigli, e dà protezione a certi che mi hanno fatto torto.
@@ -2444,12 +2444,12 @@ str_i_am|Io sono
 str_s12_s11_to_s14|{s12} {s11} di {s14}
 str_s12_i_am_here_for_the_feast|{s12}. Sono qui per la festa.
 str_another_tournament_dedication_oh_i_suppose_it_is_always_flattering|Un'altra vittoria in un torneo che mi viene dedicata? Oh, suppongo sia sempre lusinghiero...
-str_do_you_why_what_a_most_gallant_thing_to_say|Non è vero? Perché, cosa c'è di più galante da dire?
-str_hmm_i_cannot_say_that_i_altogether_approve_of_such_frivolity_but_i_must_confess_myself_a_bit_flattered|Hmm.. Non posso dire di approvare totalmente una tale frivolezza, ma devo confessare di esserne un po' lusingato.
+str_do_you_why_what_a_most_gallant_thing_to_say|E' il gesto più galante che abbia visto fare, ne sono onorata!
+str_hmm_i_cannot_say_that_i_altogether_approve_of_such_frivolity_but_i_must_confess_myself_a_bit_flattered|Hmm.. Non posso dire di approvare totalmente una tale frivolezza, ma devo confessare di esserne un po' lusingata.
 str_why_thank_you_you_are_most_kind_to_do_so|Grazie! Siete molto gentile a fare questo.
 str_you_are_most_courteous_and_courtesy_is_a_fine_virtue_|Siete molto cortese, e la cortesia è una raffinata virtù. 
 str_hmm_youre_a_bold_one_but_i_like_that_|Hmm. Siete un tipo audace, ma mi piace... 
-str_ah_well_they_all_say_that_but_no_matter_a_compliment_well_delivered_is_at_least_a_good_start_|Ah, bene, dicono tutti così. Ma non vi preoccupate. Un complimento ben formulato è certeamente un buon inizio.  
+str_ah_well_they_all_say_that_but_no_matter_a_compliment_well_delivered_is_at_least_a_good_start_|Ah, bene, dicono tutti così. Ma non vi preoccupate. Un complimento ben formulato è certamente un buon inizio.  
 str_oh_do_you_mean_that_such_a_kind_thing_to_say|Oh! Intendete quello? Che cosa gentile da dire!
 str_you_are_a_most_gallant_young_man_|Siete un giovane molto galante.
 str__do_come_and_see_me_again_soon| Venite a trovarmi presto!
@@ -2461,7 +2461,7 @@ str_sigh_i_will_never_truly_understand_men_and_their_rash_actions|Sigh... Non ri
 str_you_intend_to_challenge_s13_to_force_him_to_relinquish_his_suit_of_s11|Dovete sfidare {s13} per costringerlo a rinunciare al corteggiamento di {s11}.
 str_farewell|Addio.
 str_farewell_playername|Addio, {playername}.
-str___we_believe_that_there_is_money_to_be_made_selling_| Crediamo che ci siano dei guadagni da fare vendendo
+str___we_believe_that_there_is_money_to_be_made_selling_|Crediamo che ci siano dei guadagni da fare vendendo
 str__we_carry_a_selection_of_goods_although_the_difference_in_prices_for_each_is_not_so_great_we_hope_to_make_a_profit_off_of_the_whole| Possiamo portare una selezione di merci. Sebbene la differenza nei prezzi per ognuno non è così evidente, speriamo di trarre un profitto da tutto ciò.
 str_s14and_other_goods| {s14}e altri beni.
 str__have_you_not_signed_a_truce_with_our_lord| Non avete firmato una tregua con il nostro Signore?
@@ -2470,7 +2470,7 @@ str_normal|normale
 str__meanwhile_s51_reg2areis_being_held_in_the_castle_but_reg2havehas_made_pledges_not_to_escape_and_reg2areis_being_held_in_more_comfortable_quarters| Nel frattempo, {s51} {reg2?stanno venendo trattenuti:sta venendo trattenuto} nel castello, ma {reg2?hanno:ha} giurato di non scappare, e {reg2?stanno venendo trattenuti:sta venendo trattenuto} in quartieri più comodi.
 str_you_may_be_aware_my_lord_of_the_quarrel_between_s4_and_s5_which_is_damaging_the_unity_of_this_realm_and_sapping_your_authority_if_you_could_persuade_the_lords_to_reconcile_it_would_boost_your_own_standing_however_in_taking_this_on_you_run_the_risk_of_one_the_lords_deciding_that_you_have_taken_the_rivals_side|Dovreste sapere, {sire/mia signora}, della disputa tra {s4} e {s5} che sta danneggiando l'unità di questo regno e minando la vostra autorità.  Se riuscite a persuadere i lords a riconciliarsi, potreste migliorare stabilmente la vostra posizione. Tuttavia, nel percorrere questa strada, si corre il rischio che uno dei due signori si convinca che abbiate preso le parti del suo rivale.
 str_you_may_be_aware_my_lord_of_the_quarrel_between_s4_and_s5_which_is_damaging_the_unity_of_this_realm_and_sapping_your_authority_if_you_could_persuade_the_lords_to_reconcile_i_imagine_that_s7_would_be_most_pleased_however_in_taking_this_on_you_run_the_risk_of_one_the_lords_deciding_that_you_have_taken_the_rivals_side|Dovreste sapere,  {mio signore/mia signora}, della disputa tra {s4} e {s5} che sta danneggiando l'unità di questo regno. Se riuscite a persuadere i lords a riconciliarsi, immagino che {s7} ne sarebbe molto contento. Tuttavia, nel percorrere questa strada, si corre il rischio che uno dei due signori si convinca che abbiate preso le parti del suo rivale.
-str__of_course_the_land_is_currently_at_peace_so_you_may_have_better_luck_in_other_realms| Naturalmente, questa terra è attualmente in pace, per cui potreste avere avere più fortuna in altri regni.
+str__of_course_the_land_is_currently_at_peace_so_you_may_have_better_luck_in_other_realms|Naturalmente, questa terra è attualmente in pace, per cui potreste avere avere più fortuna in altri regni.
 str_here|qui
 str_over|oltre
 str_s8_in_s12|{s8} in {s12}
@@ -2515,7 +2515,7 @@ str_track_down_s7_and_defeat_him_defusing_calls_for_war_within_the_s11|Rintracci
 str_track_down_the_s9_who_attacked_travellers_near_s8_then_report_back_to_the_town|Rintraccia i {s9} che attaccano i viaggiatori vicino {s8}, e poi fai rapporto alla città.
 str_do_you_wish_to_award_it_to_one_of_your_vassals|Vuoi darlo in premio ad uno dei tuoi vassalli?
 str_who_do_you_wish_to_give_it_to|A chi vuoi darlo?
-str_sire_my_lady_we_have_taken_s1_s2|{sire/mia signora}, abbiamo preso {s1}. {s2}
+str_sire_my_lady_we_have_taken_s1_s2|{Sire/Mia signora}, abbiamo preso {s1}. {s2}
 str_s12i_want_to_have_s1_for_myself|{s12}Voglio avere {s1} per me. {s2}
 str_fiefs_s0|(feudi: {s0})
 str_production_setting_buy_from_market|Stiamo comprando le materie prime dal mercato.
@@ -2558,7 +2558,7 @@ str_default_kingdom_name|Regno di {s0}
 str_lord_defects_ordinary|Defezione di un lord^^{s1} ha rinnegato la {reg4?sua:sua} fedeltà al {s3}, e si è unito al {s2}
 str_lord_defects_player|Defezione di un lord^^{s1} ha rinnegato il {reg4?suo:suo} giuramento al {s3}. Si è provvisoriamente unito al tuo regno. Puoi tornare alla tua corte per riceverne l'omaggio, se lo desideri.
 str_lord_defects_player_faction|Defezione di un lord^^{s1} è venuto meno {reg4?alla sua:alla sua} fedeltà al {s3}. Si è temporaneamente unito al tuo regno. Puoi andare nella tua corte per ricevere il suo atto d'omaggio, se lo desideri.
-str_lord_indicted_player_faction|Per ordine di{s6}, {s4} del {s5} è stato condannato per alto tradimento. Il lord è stato privato di tutte le {reg4?sue:sue} proprietà, ed è fuggito per salvare la {reg4?sua:sua} vita. Egli desidera unirsi al tuo regno. Lo puoi incontrare alla tua corte per ricevere il {reg?suo:suo} atto di fedeltà, se lo desideri.
+str_lord_indicted_player_faction|Per ordine di{s6}, {s4} del {s5} è stato condannato per alto tradimento. Il lord è stato privato di tutte le {reg4?sue:sue} proprietà, ed è fuggito per salvare la sua vita. Egli desidera unirsi al tuo regno. Lo puoi incontrare alla tua corte per ricevere il suo atto di fedeltà, se lo desideri.
 str_lord_indicted_dialog_approach|Saluti, {mio signore/mia signora}. Potreste aver sentito dei maltrattamenti ai miei danni subiti per mano di {s10}. Voi avete la reputazione di un nobile, che tratta bene {i suoi/i suoi} vassalli, e se mi volete al vostro fianco, sarei onorato di rendervi omaggio come vostro vassallo.
 str_lord_indicted_dialog_approach_yes|E io sarei onorato di accettare il tuo omaggio.
 str_lord_indicted_dialog_approach_no|Mi dispiace. Il tuo servigio non è necessario.
@@ -2686,7 +2686,7 @@ str_tutorial_training_ground_horseman_text_4|Colpisci il manichino indicato dall
 str_tutorial_training_ground_horseman_text_5|Tira al bersaglio indicato dalla freccia!
 str_tutorial_training_ground_horseman_text_6|Hai terminato l'esercizio con successo. Ora torna dall'addestratore e parla con lui.
 str_the_great_lords_of_your_kingdom_plan_to_gather_at_your_hall_in_s10_for_a_feast|I maggiori lords del tuo regno intendono riunirsi nel vostro salone a {s10} per una festa.
-str_your_previous_court_some_time_ago|la vostra corte precedente qualche tempo fa,
+str_your_previous_court_some_time_ago|il possedimento in cui aveva sede il tuo seguito,
 str_awaiting_the_capture_of_a_fortress_which_can_serve_as_your_court| in attesa della riconquista di una fortezza dove possa instaurare la vostra corte.
 str_but_if_this_goes_badly| Apprezzo il vostro consiglio. Ma se darà risultati negativi, vi riterrò personalmente responsabile.
 str_i_realize_that_you_are_on_good_terms_with_s4_but_we_ask_you_to_do_this_for_the_good_of_the_realm|Comprendo come siate in buoni rapporti con {s4}, ma questo è tutto per il bene del regno.
@@ -2765,9 +2765,9 @@ str_i_am_not_accompanying_the_marshal_because_will_be_reappointment| Non sto acc
 str_persuasion_opportunity|Opportunità di Persuadere.^Livello di relazione necessario per un successo automatico: {reg4}^Livello di relazione corrente: {reg5}^Possibilità di successo: {reg7}^Possibilità di perdere {reg9} punto(i) di relazione: {reg8}
 str_marshal_warning|Non stai seguendo {s1}. Tuttavia, non subirai alcuna punizione.
 str_follow_army_quest_brief_2|La tua missione è completata. Puoi continuare a seguire l'armata di {s9}, se vuoi che ti vengano assegnati altri compiti.
-str_greetings_playername__it_is_good_to_see_you_i_hope_that_you_have_had_success_in_your_efforts_to_make_your_name_in_the_world| Sono contento di vedervi. Confido che stiate avendo un certo successo là fuori, rendendo famoso il vostro nome nel mondo.
-str_minister_advice_select_fief| Potrei suggerirvi di scegliere {s4}, visto che i vassalli stavano facendo congetture su come potreste assegnarlo.
-str_minister_advice_select_fief_wait| Posso suggerire che aspettiate prima di nominare un Comandante in Capo, il che darebbe tempo ai vassalli di decidere chi desiderano sostenere?
+str_greetings_playername__it_is_good_to_see_you_i_hope_that_you_have_had_success_in_your_efforts_to_make_your_name_in_the_world|Sono contento di vedervi. Confido che stiate avendo un certo successo là fuori, rendendo famoso il vostro nome nel mondo.
+str_minister_advice_select_fief|Potrei suggerirvi di scegliere {s4}, visto che i vassalli stavano facendo congetture su come potreste assegnarlo.
+str_minister_advice_select_fief_wait|Posso suggerire che aspettiate prima di nominare un Comandante in Capo, il che darebbe tempo ai vassalli di decidere chi desiderano sostenere?
 str_minister_advice_fief_leading_vassal| {s4}, comunque, ha già ricevuto il supporto di {reg4} vostri vassalli.
 str_unassigned_center| (non assegnato)
 str_s43_also_you_should_know_that_an_unprovoked_assault_is_declaration_of_war|{s43} Inoltre, dato che voi siete il sovrano del vostro regno, dovreste sapere che questo attacco rappresenta una dichiarazione di guerra.
@@ -2782,13 +2782,13 @@ str_master_vinter|Capocantiere
 str_s54_has_left_the_realm|{s54} ha lasciato il regno.
 str_enterprise_s5_at_s0|Guadagno netto da {s5} a {s0}
 str_bread_site|mulino
-str_ale_site|fabbrica di birra
+str_ale_site|stabilimento di birra
 str_oil_site|pressa di olio
 str_wine_site|torchio
 str_tool_site|fucina
 str_leather_site|conceria
-str_linen_site|fabbrica di tessuti di lino
-str_wool_cloth_site|fabbrica di tessuti di lana
+str_linen_site|laboratorio di tessuti di lino
+str_wool_cloth_site|laboratorio di tessuti di lana
 str_velvet_site|tintoria
 str_under_sequestration|Sotto sequestro
 str_describe_secondary_input| In più, avrete anche bisogno di comprare {s11} che costano {reg10} denari.

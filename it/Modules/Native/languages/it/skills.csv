@@ -13,7 +13,7 @@ skl_reserved_3_desc|Questa è un'abilità riservata.
 skl_reserved_4|Abilità riservata 4
 skl_reserved_4_desc|Questa è un'abilità riservata.
 skl_persuasion|Persuasione
-skl_persuasion_desc|Questa abilità ti aiuta a convincere le persone ad accettare il tuo punto di vista. (Abilità Personale)
+skl_persuasion_desc|Questa abilità ti aiuta a convincere le persone ad accettare il tuo punto di vista. Si abbassa anche il livello minimo di relazione necessaria per ottenere che gli NPC facciano quello che vuoi. (Abilità Personale)
 skl_engineer|Ingegneria
 skl_engineer_desc|Questa abilità ti permette di costruire macchine d'assedio o miglioramenti cittadini con maggiore efficienza. (Abilità di Gruppo)
 skl_first_aid|Pronto soccorso
@@ -65,7 +65,7 @@ skl_reserved_12_desc|Questa è un'abilità riservata.
 skl_reserved_13|Abilità riservata 13
 skl_reserved_13_desc|Questa è un'abilità riservata.
 skl_power_draw|Tiro potente
-skl_power_draw_desc|Maggiore efficienza del personaggio nell'uso di archi e balestre. Ogni punto abilità (fino a 4 oltre al livello richiesto dall'arma) incrementa i danni provocati del 12%%. (Abilità Personale)
+skl_power_draw_desc|Maggiore efficienza del personaggio nell'uso di archi. Ogni punto abilità (fino a 4 oltre al livello richiesto dall'arma) incrementa i danni provocati del 14%%. (Abilità Personale)
 skl_power_throw|Lancio potente
 skl_power_throw_desc|Ogni punto incrementa del 10%% i danni provocati con armi da lancio. (Abilità Personale)
 skl_power_strike|Colpo potente

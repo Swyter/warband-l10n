@@ -85,9 +85,9 @@ ui_m_ultra_high|Ultra High
 ui_force_single_threading|Force Single Threading
 ui_not_enough_memory|It seems that you currently have %d MB of available total physical and virtual memory. Mount&Blade Warband requires at least 700 MB of available memory in order to run without a problem. If Mount&Blade Warband continuously crashes during your play, please close some of your programs before starting Mount&Blade Warband or increase your virtual memory from Control Panel -> System menu.
 ui_install|Install Mount&Blade Warband
-DirectXText|"Mount&Blade Warband requires DirectX 9.0c or above to run. This computer does not meet the requirement. To fix the problem you need to download and install the latest version of DirectX from Microsoft's website. Would you like to visit TaleWorlds DirectX Download page now?"
-NoMountAndBladeText|"Mount&Blade Warband has not been installed on this computer. Please download the full installer from www.taleworlds.com and use it to install the game."
-ui_SavegamesText|"Do you want to keep your save files?"
+DirectXText|Mount&Blade Warband requires DirectX 9.0c or above to run. This computer does not meet the requirement. To fix the problem you need to download and install the latest version of DirectX from Microsoft's website. Would you like to visit TaleWorlds DirectX Download page now?"
+NoMountAndBladeText|Mount&Blade Warband has not been installed on this computer. Please download the full installer from www.taleworlds.com and use it to install the game."
+ui_SavegamesText|Do you want to keep your save files?"
 ui_trialmode_online|Mount&&Blade Warband is currently running in Trial Mode. In this mode you can play the game freely until your character reaches level 7. To continue further, you need to enter a serial key and activate the game. If you have already purchased the game, please enter your serial key now. If not you may easily purchase the game from Taleworlds.com. It takes only a minute to buy a license online and unlock the complete mode.
 ui_launch_activate|Enter Your Serial Key
 ui_trialmode2_online|After buying a license, you will obtain your serial key.\nTo unlock the full mode just proceed to...
