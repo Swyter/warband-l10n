@@ -1,4 +1,4 @@
-﻿ui_music_volume|Volume de la musique :
+ui_music_volume|Volume de la musique :
 ui_sound_volume|Volume des sons :
 ui_mouse_sensitivity|Sensibilité de la souris :
 ui_invert_mouse_y_axis|Inverser l'axe Y de la souris
@@ -144,6 +144,7 @@ ui_retreated_battle|%s a fui la bataille.
 ui_retreated_battle|%s a fui la bataille.
 ui_retreat|Retraite
 ui_talk|Parler
+ui_duel|Duel
 ui_mount|Monter
 ui_riding_skill_not_adequate_to_mount|(compétence Équitation trop faible pour monter)
 ui_dismount|Descendre
@@ -538,6 +539,7 @@ ui_order_button_fire_orders|Ordres de tir
 ui_follow_me_e_|%s, suivez-moi !
 ui_charge_e_|%s, chargez !!!
 ui_stand_ground_e_|%s, défendez vos positions !
+; ui_retreat_e_|%s, retreat!
 ui_mount_horses_e_|%s, montez à cheval !
 ui_dismount_e_|%s, descendez de cheval !
 ui_advance_e_|%s, avancez de dix pas !
@@ -742,3 +744,10 @@ ui_password|Mot de passe
 ui_error_incorrect_username_or_password|Utilisateur ou mot de passe incorrect
 ui_validating_account|Validation du compte...
 ui_plase_enter_your_serial_key|Veuillez saisir votre numéro de série
+ui_texture_detail2|Finesse des textures :
+ui_antialiasing2|Anti-aliasing :
+; ui_napoleonic_key_does_not_exist|This mod requires the Napoleonic Wars DLC to play!
+; ui_delete_module_workshop|Are you sure you want to unsubscribe from this module?
+; ui_delete_module|Are you sure you want to delete the module?
+; ui_delete_native_module|You cannot delete native mods.
+; ui_incompatible_module|This server is incompatible with your current module. You can use the configuration utility to change module.

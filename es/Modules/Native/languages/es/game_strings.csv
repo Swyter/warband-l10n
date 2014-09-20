@@ -1796,7 +1796,7 @@ str_fatherinlaw|suegro
 str_sisterinlaw|cuñada
 str_brotherinlaw|cuñado
 str_print_party_members_entered|imprimir miembros del grupo ingresados
-str_num_companion_stacks_=_reg10|num stacks compañeros = {reg10}
+str_num_companion_stacks_=_reg10|num filas de compañeros = {reg10}
 str_someone|alguien
 str_i_take_what_work_i_can_sirmadame_i_carry_water_or_help_the_merchants_with_their_loads_or_help_build_things_if_theres_things_to_be_built|Trabajaré de lo que sea, {señor/señora}. Llevar agua, o ayudar a los mercaderes con sus cargamentos, o ayudar a construir cosas, si hay cosas que construir.
 str_im_not_doing_anything_sirmadame_theres_no_work_to_be_had_around_here_these_days|No estoy haciendo nada, {señor/señora}. Últimamente no hay trabajo por aquí.

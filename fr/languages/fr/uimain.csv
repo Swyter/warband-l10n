@@ -1,4 +1,3 @@
-lockitver|DO NOT DELETE THIS LINE ! 2896
 ui_texture_detail|Finesse des textures :
 ui_max_frame_rate|Taux de rafraîchissement max :
 ui_enable_bumpmap|Utiliser le bump mapping
@@ -86,9 +85,9 @@ ui_m_ultra_high|Très élevé
 ui_force_single_threading|Forcer le Single Threading
 ui_not_enough_memory|Il semble que vous avez actuellement% d Mo de mémoire physique disponible et virtuels total. Mount & Blade Warband exige au moins 700 Mo de mémoire disponible afin d'exécuter sans problème. Si le jeu se bloque continuellement au cours de votre jeu, s'il vous plaît fermer certains de vos programmes avant de lancer Mount & Blade Warbands ou d'augmenter votre mémoire virtuelle du Panneau de configuration -> système de menus.
 ui_install|Installer Mount&Blade Warband
-DirectXText|"Mount&Blade Warband a besoin de DirectX 9.0c pour fonctionner. Votre ordinateur n'en dispose pas. Pour régler ce problème, télécharger DirectX depuis le site de Microsoft. Voulez vous également visiter TaleWorlds DirectX Download maintenant?"
-"NoMountAndBladeText|"Mount&Blade Warband n'est pas installé sur cet ordinateur. Télécharger le jeu complet sur www.taleworlds.com et installer le."
-ui_SavegamesText|"Voulez-vous conserver vos fichiers de sauvegarde ?"
+DirectXText|Mount&Blade Warband a besoin de DirectX 9.0c pour fonctionner. Votre ordinateur n'en dispose pas. Pour régler ce problème, télécharger DirectX depuis le site de Microsoft. Voulez vous également visiter TaleWorlds DirectX Download maintenant?"
+; NoMountAndBladeText|Mount&Blade Warband has not been installed on this computer. Please download the full installer from www.taleworlds.com and use it to install the game."
+ui_SavegamesText|Voulez-vous conserver vos fichiers de sauvegarde ?"
 ui_trialmode_online|Mount&&Blade Warband est en version d'essai. Dans cette démo, vous êtes bloqué au level 7. Pour aller plus loin, vous devez activer votre jeu. Si vous voulez acheter le jeu, vous pouvez vous rendre sur Taleworlds.com.
 ui_launch_activate|Saisir votre numéro de série
 ui_trialmode2_online|Après avoir acheté une licence, vous obtiendrez un numéro de série.\nPour déverrouiller la version complète, veuillez...

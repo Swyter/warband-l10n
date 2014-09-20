@@ -312,8 +312,8 @@ itm_hide_boots|Stivali di pelle
 itm_hide_boots_pl|Stivali di pelle
 itm_ankle_boots|Stivaletti
 itm_ankle_boots_pl|Stivaletti
-itm_nomad_boots|Stivali dei nomadi
-itm_nomad_boots_pl|Stivali dei nomadi
+itm_nomad_boots|Stivali da nomade
+itm_nomad_boots_pl|Stivali da nomade
 itm_leather_boots|Stivali in cuoio
 itm_leather_boots_pl|Stivali in cuoio
 itm_splinted_leather_greaves|Gambiere in Cuoio Steccato
@@ -338,34 +338,34 @@ itm_sarranid_boots_c|Stivali corazzati
 itm_sarranid_boots_c_pl|Stivali corazzati
 itm_sarranid_boots_d|Stivali Sarranidi in maglia metallica
 itm_sarranid_boots_d_pl|Stivali Sarranidi in maglia metallica
-itm_sarranid_head_cloth|Turbante da Lady
-itm_sarranid_head_cloth_pl|Turbante da Lady
-itm_sarranid_head_cloth_b|Turbante da Lady
-itm_sarranid_head_cloth_b_pl|Turbante da Lady
+itm_sarranid_head_cloth|Turbante da donna
+itm_sarranid_head_cloth_pl|Turbante da donna
+itm_sarranid_head_cloth_b|Turbante da donna
+itm_sarranid_head_cloth_b_pl|Turbante da donna
 itm_sarranid_felt_head_cloth|Turbante
 itm_sarranid_felt_head_cloth_pl|Turbante
 itm_sarranid_felt_head_cloth_b|Turbante
 itm_sarranid_felt_head_cloth_b_pl|Turbante
-itm_lady_dress_ruby|Veste da Lady Rosso
-itm_lady_dress_ruby_pl|Veste da Lady Rosso
-itm_lady_dress_green|Veste da Lady Verde
-itm_lady_dress_green_pl|Veste da Lady Verde
-itm_lady_dress_blue|Veste da Lady Blu
-itm_lady_dress_blue_pl|Veste da Lady Blu
-itm_red_dress|Veste rosso
-itm_red_dress_pl|Veste rosso
+itm_lady_dress_ruby|Veste rossa da donna 
+itm_lady_dress_ruby_pl|Veste rossa da donna
+itm_lady_dress_green|Veste verde da donna
+itm_lady_dress_green_pl|Veste verde da donna
+itm_lady_dress_blue|Veste blu da donna
+itm_lady_dress_blue_pl|Veste blu da donna
+itm_red_dress|Veste rossa
+itm_red_dress_pl|Veste rossa
 itm_brown_dress|Veste marrone
 itm_brown_dress_pl|Veste marrone
 itm_green_dress|Veste verde
 itm_green_dress_pl|Veste verde
-itm_khergit_lady_dress|Veste Khergit da Lady
-itm_khergit_lady_dress_pl|Veste Khergit da Lady
-itm_khergit_lady_dress_b|Veste Khergit da Lady in cuoio
-itm_khergit_lady_dress_b_pl|Veste Khergit da Lady in cuoio
-itm_sarranid_lady_dress|Veste Sarranide da Lady
-itm_sarranid_lady_dress_pl|Veste Sarranide da Lady
-itm_sarranid_lady_dress_b|Veste Sarranide da Lady
-itm_sarranid_lady_dress_b_pl|Veste Sarranide da Lady
+itm_khergit_lady_dress|Veste Khergit da donna
+itm_khergit_lady_dress_pl|Veste Khergit da donna
+itm_khergit_lady_dress_b|Veste Khergit da donna in cuoio
+itm_khergit_lady_dress_b_pl|Veste Khergit da donna in cuoio
+itm_sarranid_lady_dress|Veste Sarranide da donna
+itm_sarranid_lady_dress_pl|Veste Sarranide da donna
+itm_sarranid_lady_dress_b|Veste Sarranide da donna
+itm_sarranid_lady_dress_b_pl|Veste Sarranide da donna
 itm_sarranid_common_dress|Veste Sarranide
 itm_sarranid_common_dress_pl|Veste Sarranide
 itm_sarranid_common_dress_b|Veste Sarranide
@@ -638,10 +638,10 @@ itm_spiked_helmet|Elmo Chiodato
 itm_spiked_helmet_pl|Elmo Chiodato
 itm_nordic_helmet|Elmo Nordico
 itm_nordic_helmet_pl|Elmo Nordico
-itm_khergit_lady_hat|Cappello Khergit da Lady
-itm_khergit_lady_hat_pl|Cappello Khergit da Lady
-itm_khergit_lady_hat_b|Cappello Khergit da Lady in pelle
-itm_khergit_lady_hat_b_pl|Cappello Khergit da Lady in pelle
+itm_khergit_lady_hat|Cappello Khergit da donna
+itm_khergit_lady_hat_pl|Cappello Khergit da donna
+itm_khergit_lady_hat_b|Cappello Khergit da donna in pelle
+itm_khergit_lady_hat_b_pl|Cappello Khergit da donna in pelle
 itm_sarranid_felt_hat|Cappello Sarranide di Feltro
 itm_sarranid_felt_hat_pl|Cappello Sarranide di Feltro
 itm_turban|Turbante
@@ -1086,8 +1086,8 @@ itm_crossbow|Balestra
 itm_crossbow_pl|Balestra
 itm_heavy_crossbow|Balestra pesante
 itm_heavy_crossbow_pl|Balestra pesante
-itm_sniper_crossbow|Balestra d'Assedio
-itm_sniper_crossbow_pl|Balestra d'Assedio
+itm_sniper_crossbow|Balestra da assedio
+itm_sniper_crossbow_pl|Balestra da assedio
 itm_flintlock_pistol|Pistola a Pietra Focaia
 itm_flintlock_pistol_pl|Pistola a Pietra Focaia
 itm_torch|Torcia
