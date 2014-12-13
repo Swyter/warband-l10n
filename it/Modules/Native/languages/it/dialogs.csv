@@ -744,7 +744,7 @@ dlga_lord_internal_politics_cur_stance:lord_internal_politics_cur_stance_plyr_re
 dlga_lord_internal_politics_cur_stance:lord_internal_politics_cur_stance_plyr_response.1|Non sono in grado di decidere adesso
 dlga_lord_internal_politics_cur_stance:lord_internal_politics_cur_stance_plyr_response.2|Io appoggio {s15}. {s10}
 dlga_lord_internal_politics_cur_stance_plyr_response:lord_internal_politics_plyr_choose_candidate|Lasciate che vi dica chi io appoggio...
-dlga_lord_internal_politics_cur_stance_plyr_response:lord_internal_politics_cur_stance_plyr_response|CHEAT -- Reset support
+dlga_lord_internal_politics_cur_stance_plyr_response:lord_internal_politics_cur_stance_plyr_response|TRUCCO -- Cancella supporto
 dlga_lord_internal_politics_plyr_choose_candidate:lord_internal_politics_plyr_choose_candidate_select|A chi darete il vostro appoggio?
 dlga_lord_internal_politics_plyr_choose_candidate_select:lord_internal_politics_pretalk|Vorrei candidare me stesso per questo onore.
 dlga_lord_internal_politics_plyr_choose_candidate_select:lord_internal_politics_pretalk.1|Io appoggio mio marito, {s4}
@@ -1053,8 +1053,8 @@ dlga_lord_talk_ask_marriage_1:lord_pretalk|Non vi offendere se vi dico che, in q
 dlga_lord_talk_ask_marriage_1:lord_pretalk.1|È nostra consuetudine sigillare tali alleanze con un matrimonio. Sfortunatamente, nessuna persona nella mia casata è in condizione di sposarsi.
 dlga_lord_talk_ask_marriage_1:lord_courtship_pre_permission|{s15}
 dlga_lord_talk_ask_marriage_1:lord_marriage_proposal_female_pc_confirm|State proponendo che noi due ci sposiamo?
-dlga_lord_courtship_pre_permission:lord_courtship_permission|Posso {s15}suggerire di essere considerato un pretendente?
-dlga_lord_courtship_pre_permission:lord_marriage_permission_engagement_date|CHEAT -- Start engagement
+dlga_lord_courtship_pre_permission:lord_courtship_permission|Posso {s15} suggerire di essere considerato un pretendente?
+dlga_lord_courtship_pre_permission:lord_marriage_permission_engagement_date|TRUCCO -- Inizia fidanzamento
 dlga_lord_courtship_pre_permission:lord_pretalk|Non importa
 dlga_lord_marriage_proposal_female_pc_confirm:lord_marriage_proposal_female_pc_reax|Si. Questa è la mia proposta.
 dlga_lord_marriage_proposal_female_pc_confirm:lord_pretalk|No, credo che voi mi abbiate frainteso.

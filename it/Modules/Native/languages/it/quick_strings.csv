@@ -126,7 +126,7 @@ qstr_{s2}_{reg3?was:is_cu|{s2} {reg3?era:è attualmente} a {s3}.
 qstr_{s2}_{reg3?was:is}_t|{s2} {reg3?stava:sta} viaggiando verso {s3} e... {reg3?era:dovrebbe essere} vicino a {s4}{reg3?: in questo momento}.
 qstr_{s2}_{reg3?was:is}_i|{s2} {reg3?stava:sta} vagando nelle terre selvagge e... {reg3?era:dovrebbe essere} vicino a {s3}{reg3?: in questo momento}.
 qstr_{s2}_{reg3?was:is}_b|{s2} {reg3?era:è} prigioniero a {s3}.
-qstr_{s2}_{reg3?was:has_b|{s2} {reg3?era:era stato} fatto prigioniero da {reg4?i suoi:i suoi} nemici.
+qstr_{s2}_{reg3?was:has_b|{s2} {reg3?era:è} prigionier{reg4?a:o} dei suoi nemici.
 qstr_{reg3?{s2}_s_locatio|Non so dove {reg3?{s2} sia:è diretto, {s2}}.
 qstr_{s6}_has_joined_your|{s6} si è unito alla Compagnia
 qstr_You_now_owe_{reg2}_d| Sei debitore di {reg2} denari a {s1}.
