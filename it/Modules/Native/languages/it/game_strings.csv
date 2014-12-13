@@ -12,7 +12,7 @@ str_given_by_s1_in_wilderness|Dato da {s1} nella zona
 str_s7_raiders|{s7} Predoni
 str_bandits_eliminated_by_another|I banditi sono stati eliminati da un'altra Compagnia.
 str_msg_battle_won|La battaglia è vinta! Premi Tab per uscire...
-str_tutorial_map1|Stai osservando la mappa strategica. Click-sinistro sulla mappa per muovere la tua Compagnia verso quella locazione, entrare nella città selezionata o seguire un'altra Compagnia. Il gioco entrerà in pausa nella mappa strategica se la tua Compagnia non si muove, aspetta o si ferma. Puoi mettere il gioco in pausa semplicemente premendo la barra spaziatrice.
+str_tutorial_map1|Stai osservando la mappa strategica. Click-sinistro sulla mappa per muovere la tua Compagnia verso quella locazione, entrare nella città selezionata o seguire un'altra Compagnia. Il gioco entrerà in pausa nella mappa strategica se la tua Compagnia non si muove o si ferma. Puoi attendere e far scorrere il tempo semplicemente tenendo premuta la barra spaziatrice.
 str_randomize|Casuale
 str_charge|Carica
 str_color|Colore
@@ -66,7 +66,7 @@ str_attack_walls_success|Al termine di una sanguinosa battaglia, i tuoi valorosi
 str_attack_walls_failure|Nel tentativo di assaltare le mura, i tuoi uomini vengono falcidiati e quei pochi che sopravvivono si danno alla fuga, non li rivedrai mai più.
 str_attack_walls_continue|Le due armate si equivalgono, nonostante i tentativi dei tuoi uomini, il castello resta in mano al nemico.
 str_order_attack_success|I tuoi uomini hanno sconfitto il nemico combattendo eroicamente.
-str_order_attack_failure|Osservi la battaglia non riuscendo a credere alla facilità con la quale il nemico ha decimato i tuoi uomini, facendo fuggire i pochi superstiti.
+str_order_attack_failure|Osservi la battaglia non riuscendo a credere alla facilità con la quale il nemico decima i tuoi uomini, facendo fuggire i pochi superstiti.
 str_order_attack_continue|Nonostante numerosi tentativi, le tue truppe non riescono ad ottenere una vittoria decisiva.
 str_join_order_attack_success|I tuoi uomini combattono bene a fianco degli alleati, dividendosi la gloria di una vittoria sul nemico.
 str_join_order_attack_failure|Osservi la battaglia non riuscendo a credere alla facilità con la quale il nemico ha decimato i tuoi uomini , facendo fuggire i pochi superstiti.
@@ -2263,7 +2263,7 @@ str_the_s12_is_fairly_solid_some_lords_bear_enmities_for_each_other_but_they_ten
 str_the_s12_is_a_rock_of_stability_politically_speaking_whatever_the_lords_may_think_of_each_other_they_fight_as_one_against_the_common_foe|Il {s12} è una roccia di stabilità, politicamente parlando. Qualunque cosa i lords possano pensare l'uno dell'altro, combattono come un'unico uomo contro il nemico comune.
 str_tribune_s12|Tribuno {s12}
 str_lady_s12|Lady {s12}
-str_lord_s12|lord {s12}
+str_lord_s12|Lord {s12}
 str_resolve_the_dispute_between_s11_and_s12|Risolvi la disputa tra {s11} e {s12}
 str_in_doing_so_you_will_be_in_violation_of_your_truce_is_that_what_you_want|Facendo questo, violerete la vostra stessa tregua. È ciò che volete?
 str_if_you_attack_without_provocation_some_of_your_vassals_may_consider_you_to_be_too_warlike_is_that_what_you_want|Se attaccate senza essere stato provocato, alcuni dei vostri vassalli potrebbero considerarvi troppo bellicoso. È questo che volete?
@@ -2539,7 +2539,7 @@ str_we_shall_cut_a_fiery_trail_through_their_richest_lands_to_draw_them_out_to_b
 str_strategy_criticism_rash|Ritengo che questa strategia sia avventata ed espone inutilmente le nostre forze ad un grave pericolo.
 str_strategy_criticism_cautious|Credo che questa strategia sia troppo prudente, e che vedremo il nostro esercito disperdersi per noia senza che noi si raggiunga alcun successo.
 str_tavernkeeper_invalid_quest| aveva un affare di qualche tipo in corso, ma sto avendo difficoltà a ricordarne i dettagli.
-str_faction_title_male_player|lord {s0}
+str_faction_title_male_player|Lord {s0}
 str_faction_title_male_1|Conte {s0}
 str_faction_title_male_2|Boyar {s0}
 str_faction_title_male_3|{s0} Noyan
