@@ -22,7 +22,8 @@ ui_trialmode2|In attesa d'attivazione...
 ui_trialmode3|Oppure, puoi anche...
 ui_trialmode4|Se hai qualche domanda a proposito dell'attivazione, puoi leggere...
 ui_serial_key_caption|Codice d'attivazione
-ui_notification_serial_input|Inserisci il tuo codice (puoi copiarlo e incollarlo) e clicca sul bottone d'attivazione
+ui_notification_serial_input|Inserisci il tuo codice seriale (puoi copiarlo e incollarlo) e clicca sul bottone d'attivazione
+ui_notification_serial_input_vc|Questo modulo richiede un seriale per funzionare. Inserisci il tuo codice seriale di Viking Conquest (puoi copiarlo e incollarlo) e clicca sul bottone d'attivazione
 ui_activate|Attivazione
 ui_paste|Incolla
 ui_notification_serial_internet_connection|L'attivazione richiede una connessione Internet!

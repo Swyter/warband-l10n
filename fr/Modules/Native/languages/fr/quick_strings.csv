@@ -187,9 +187,11 @@ qstr_Best_threat_of_{s4}_|La meilleure menace de {s4} à une valeur de {reg1}
 qstr_No_center_found_to_d|Rien à défendre
 qstr_You_gain_right_to_ru|Vous gagnez en droit de régner.
 qstr_You_lose_right_to_ru|Vous perdez en droit de régner.
+; qstr_Added_money_for_your|Added money for your old horse
 qstr_You_got_keys_of_dung|Vous obtenez les clés du donjon.
 qstr_You_must_stay_behind|Vous devez rester derrière la ligne, le point ne compte pas.
 qstr_Tutorial|Tutoriel
+; qstr_Calculating_value_of|Calculating value of original items!
 qstr_You_came_into_the_wo|Vous êtes {reg3?la fille:le fils} d'une famille noble sur le déclin, ne possédant plus que la maison dans laquelle ils vécurent. Cependant, malgré les épreuves, vous avez toujours reçu une bonne éducation et votre famille vous a {reg3?préparée:préparé} depuis votre enfance aux rigueurs de l'aristocratie et de la vie à la cour.
 qstr_You_were_born_the_{r|Vous êtes {reg3?la fille:le fils} de marchands itinérants, parcourant le monde à la recherche du moindre profit. Bien que vos parents étaient plutôt aisés et vous éduquèrent de leur mieux, les opportunités de vous faire des {reg3?amies:amis} furent rares. Vous passiez le plus clair de votre temps à chercher à vendre n'importe quoi à n'importe qui.
 qstr_As_a_child_your_fami|Quand vous étiez enfant, votre famille survivait grâce à la maigre solde que touchait votre père comme garde d'un seigneur local. Ce n'était pas une existence facile et vous étiez trop pauvre pour recevoir une instruction décente. Vous avez principalement appris à vous défendre vous-même dans les rues, avec ou sans arme.

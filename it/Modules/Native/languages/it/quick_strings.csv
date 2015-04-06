@@ -187,9 +187,11 @@ qstr_Best_threat_of_{s4}_|La maggior minaccia di {s4} ha un valore pari a {reg1}
 qstr_No_center_found_to_d|Nessun centro da difendere rilevato
 qstr_You_gain_right_to_ru|Guadagni il diritto a governare.
 qstr_You_lose_right_to_ru|Perdi il diritto a governare.
+qstr_Added_money_for_your|Aggiunte le monete per il tuo vecchio cavallo
 qstr_You_got_keys_of_dung|Prendi le chiavi della prigione.
 qstr_You_must_stay_behind|Devi stare dietro alla linea! Il lancio non è valido.
 qstr_Tutorial|Tutorial
+qstr_Calculating_value_of|Valutando il prezzo di base degli oggetti!
 qstr_You_came_into_the_wo|I tuoi natali come {reg3?figlia:figlio} di una famiglia nobile decaduta, il cui unico possedimento rimasto è la casa in cui vive, sono stati difficili. Tuttavia, nonostante le avversità, i tuoi genitori ti hanno permesso di avere una buona istruzione e ti hanno insegnato fin dalla tenera età l'intransigenza dell'aristocrazia e della vita di corte.
 qstr_You_were_born_the_{r|La tua nascita e crescita come {reg3?figlia:figlio} di un mercante itinerante ti ha visto sempre in movimento da un posto all'altro in cerca di un profitto. Anche se i tuoi genitori,  essendo più ricchi di molte altre persone, ti hanno dato una buona educazione, hai trovato sempre il modo di frequentare gli amici di strada provando un immenso piacere vendendo loro qualcosa.
 qstr_As_a_child_your_fami|La vita ti ha visto crescere in una famiglia che vive di stenti, il lavoro di tuo padre come guardia del signore locale è pagato molto poco. Non è una vita facile, i tuoi genitori sono così poveri da non poterti permettere un'istruzione valida. Hai imparato a difenderti con o senza armi passando molto tempo in strada.
