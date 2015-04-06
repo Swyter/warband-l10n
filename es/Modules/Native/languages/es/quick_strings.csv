@@ -187,9 +187,11 @@ qstr_Best_threat_of_{s4}_|Mejor amenaza de {s4} tiene el valor de {reg1}
 qstr_No_center_found_to_d|No se ha encontrado un centro para defender
 qstr_You_gain_right_to_ru|Ganáis en derecho a gobernar.
 qstr_You_lose_right_to_ru|Perdéis en derecho a gobernar.
+; qstr_Added_money_for_your|Added money for your old horse
 qstr_You_got_keys_of_dung|Tenéis las llaves de la mazmorra.
 qstr_You_must_stay_behind|¡Debéis permanecer detrás de la línea! El punto no ha sido anotado.
 qstr_Tutorial|Tutorial
+; qstr_Calculating_value_of|Calculating value of original items!
 qstr_You_came_into_the_wo|Habéis llegado al mundo como {reg3?hija:hijo} de una familia noble en decadencia, dueña únicamente de la casa donde residían. Sin embargo, a pesar de las tribulaciones familiares, vuestra familia pudo pagaros una buena educación, instruyéndoos desde la niñez en los rigores de la aristocracia y la vida en la corte.
 qstr_You_were_born_the_{r|Habéis nacido como {reg3?hija:hijo} de mercaderes ambulantes, siempre yendo de un sitio a otro en busca de beneficios. Aunque vuestros padres eran más ricos que muchos y os educaron tanto como pudieron, vos no tuvisteis demasiadas oportunidades para crear lazos de amistad con otras personas, ya que sólo visitabais las aldeas atendiendo al negocio familiar.
 qstr_As_a_child_your_fami|De {reg3?niña:niño}, vuestra familia podía sustentarse austeramente gracias al sueldo que cobraba vuestro padre como guardia del señor local. No fue una niñez fácil, y erais demasiado pobre como para acceder a una buena educación. Aprendisteis a defenderos en las calles, con o sin un arma en la mano.

@@ -22,7 +22,8 @@ ui_trialmode2|Afin d'activer le jeu dès maintenant...
 ui_trialmode3|Sinon, vous pouvez également...
 ui_trialmode4|Si vous avez des questions concernant le processus d'activation, vous pouvez consulter...
 ui_serial_key_caption|Numéro de série
-ui_notification_serial_input|Saisissez votre numéro de série ci-dessous (vous pouvez effectuer un copier-coller) puis cliquez sur le bouton Activer
+; ui_notification_serial_input|Enter your serial key below (you can copy && paste it) and click the Activate button
+; ui_notification_serial_input_vc|This module requires a Viking Conquest serial key to run. Enter your Viking Conquest serial key below (you can copy && paste it) and click the Activate button
 ui_activate|Activer
 ui_paste|Coller
 ui_notification_serial_internet_connection|Vous devez être connecté à Internet pour l'activation.
