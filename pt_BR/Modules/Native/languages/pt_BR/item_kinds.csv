@@ -1,0 +1,1174 @@
+itm_no_item|ITEM INVÁLIDO
+itm_no_item_pl|ITEM INVÁLIDO
+itm_tutorial_spear|Azagaia
+itm_tutorial_spear_pl|Lança
+itm_tutorial_club|Clava
+itm_tutorial_club_pl|Clava
+itm_tutorial_battle_axe|Machado de Batalha
+itm_tutorial_battle_axe_pl|Machado de Batalha
+itm_tutorial_arrows|Flechas
+itm_tutorial_arrows_pl|Flechas
+itm_tutorial_bolts|Virotes
+itm_tutorial_bolts_pl|Virotes
+itm_tutorial_short_bow|Arco Curto
+itm_tutorial_short_bow_pl|Arco Curto
+itm_tutorial_crossbow|Besta
+itm_tutorial_crossbow_pl|Besta
+itm_tutorial_throwing_daggers|Facas de Arremesso
+itm_tutorial_throwing_daggers_pl|Facas de Arremesso
+itm_tutorial_saddle_horse|Cavalo Selado
+itm_tutorial_saddle_horse_pl|Cavalo Selado
+itm_tutorial_shield|Escudo Triangular
+itm_tutorial_shield_pl|Escudo Triangular
+itm_tutorial_staff_no_attack|Bastão
+itm_tutorial_staff_no_attack_pl|Bastão
+itm_tutorial_staff|Bastão
+itm_tutorial_staff_pl|Bastão
+itm_tutorial_sword|Espada
+itm_tutorial_sword_pl|Espada
+itm_tutorial_axe|Machado
+itm_tutorial_axe_pl|Machado
+itm_tutorial_dagger|Adaga
+itm_tutorial_dagger_pl|Adaga
+itm_horse_meat|Carne de Cavalo
+itm_horse_meat_pl|Carne de Cavalo
+itm_practice_sword|Espada de Treino
+itm_practice_sword_pl|Espada de Treino
+itm_heavy_practice_sword|Espada de Treino Pesada
+itm_heavy_practice_sword_pl|Espada de Treino Pesada
+itm_practice_dagger|Adaga de Treino
+itm_practice_dagger_pl|Adaga de Treino
+itm_practice_axe|Machado de Treino
+itm_practice_axe_pl|Machado de Treino
+itm_arena_axe|Machado
+itm_arena_axe_pl|Machado
+itm_arena_sword|Espada
+itm_arena_sword_pl|Espada
+itm_arena_sword_two_handed|Espada de Duas-Mãos
+itm_arena_sword_two_handed_pl|Espada de Duas-Mãos
+itm_arena_lance|Lança
+itm_arena_lance_pl|Lança
+itm_practice_staff|Bastão de Treino
+itm_practice_staff_pl|Bastão de Treino
+itm_practice_lance|Lança de Treino
+itm_practice_lance_pl|Lança de Treino
+itm_practice_shield|Escudo de Treino
+itm_practice_shield_pl|Escudo de Treino
+itm_practice_bow|Arco de Treino
+itm_practice_bow_pl|Arco de Treino
+itm_practice_crossbow|Besta de Treino
+itm_practice_crossbow_pl|Besta de Treino
+itm_practice_javelin|Dardos de Treino
+itm_practice_javelin_pl|Dardos de Treino
+itm_practice_javelin_melee|dardo de treino corpo a corpo
+itm_practice_javelin_melee_pl|dardo de treino corpo a corpo
+itm_practice_throwing_daggers|Facas de Arremesso
+itm_practice_throwing_daggers_pl|Facas de Arremesso
+itm_practice_throwing_daggers_100_amount|Facas de Arremesso
+itm_practice_throwing_daggers_100_amount_pl|Facas de Arremesso
+itm_practice_horse|Cavalo de Treino
+itm_practice_horse_pl|Cavalo de Treino
+itm_practice_arrows|Flechas de Treino
+itm_practice_arrows_pl|Flechas de Treino
+itm_practice_bolts|Virotes de Treino
+itm_practice_bolts_pl|Virotes de Treino
+itm_practice_arrows_10_amount|Flechas de Treino
+itm_practice_arrows_10_amount_pl|Flechas de Treino
+itm_practice_arrows_100_amount|Flechas de Treino
+itm_practice_arrows_100_amount_pl|Flechas de Treino
+itm_practice_bolts_9_amount|Virotes de Treino
+itm_practice_bolts_9_amount_pl|Virotes de Treino
+itm_practice_boots|Botas de Treino
+itm_practice_boots_pl|Botas de Treino
+itm_red_tourney_armor|Armadura de Torneio Vermelha
+itm_red_tourney_armor_pl|Armadura de Torneio Vermelha
+itm_blue_tourney_armor|Armadura de Torneio Azul
+itm_blue_tourney_armor_pl|Armadura de Torneio Azul
+itm_green_tourney_armor|Armadura de Torneio Verde
+itm_green_tourney_armor_pl|Armadura de Torneio Verde
+itm_gold_tourney_armor|Armadura de Torneio Dourada
+itm_gold_tourney_armor_pl|Armadura de Torneio Dourada
+itm_red_tourney_helmet|Elmo de Torneio Vermelho
+itm_red_tourney_helmet_pl|Elmo de Torneio Vermelho
+itm_blue_tourney_helmet|Elmo de Torneio Azul
+itm_blue_tourney_helmet_pl|Elmo de Torneio Azul
+itm_green_tourney_helmet|Elmo de Torneio Verde
+itm_green_tourney_helmet_pl|Elmo de Torneio Verde
+itm_gold_tourney_helmet|Elmo de Torneio Dourado
+itm_gold_tourney_helmet_pl|Elmo de Torneio Dourado
+itm_arena_shield_red|Escudo
+itm_arena_shield_red_pl|Escudo
+itm_arena_shield_blue|Escudo
+itm_arena_shield_blue_pl|Escudo
+itm_arena_shield_green|Escudo
+itm_arena_shield_green_pl|Escudo
+itm_arena_shield_yellow|Escudo
+itm_arena_shield_yellow_pl|Escudo
+itm_arena_armor_white|Armadura de Arena Branca
+itm_arena_armor_white_pl|Armadura de Arena Branca
+itm_arena_armor_red|Armadura de Arena Vermelha
+itm_arena_armor_red_pl|Armadura de Arena Vermelha
+itm_arena_armor_blue|Armadura de Arena Azul
+itm_arena_armor_blue_pl|Armadura de Arena Azul
+itm_arena_armor_green|Armadura de Arena Verde
+itm_arena_armor_green_pl|Armadura de Arena Verde
+itm_arena_armor_yellow|Armadura de Arena Amarela
+itm_arena_armor_yellow_pl|Armadura de Arena Amarela
+itm_arena_tunic_white|Túnica de Arena Branca
+itm_arena_tunic_white_pl|Túnica de Arena Branca
+itm_arena_tunic_red|Túnica de Arena Vermelha
+itm_arena_tunic_red_pl|Túnica de Arena Vermelha
+itm_arena_tunic_blue|Túnica de Arena Azul
+itm_arena_tunic_blue_pl|Túnica de Arena Azul
+itm_arena_tunic_green|Túnica de Arena Verde
+itm_arena_tunic_green_pl|Túnica de Arena Verde
+itm_arena_tunic_yellow|Túnica de Arena Amarela
+itm_arena_tunic_yellow_pl|Túnica de Arena Amarela
+itm_arena_helmet_red|Elmo de Arena Vermelho
+itm_arena_helmet_red_pl|Elmo de Arena Vermelho
+itm_arena_helmet_blue|Elmo de Arena Azul
+itm_arena_helmet_blue_pl|Elmo de Arena Azul
+itm_arena_helmet_green|Elmo de Arena Verde
+itm_arena_helmet_green_pl|Elmo de Arena Verde
+itm_arena_helmet_yellow|Elmo de Arena Amarelo
+itm_arena_helmet_yellow_pl|Elmo de Arena Amarelo
+itm_steppe_helmet_white|Capacete da Estepe Branco
+itm_steppe_helmet_white_pl|Capacete da Estepe Branco
+itm_steppe_helmet_red|Capacete da Estepe Vermelho
+itm_steppe_helmet_red_pl|Capacete da Estepe Vermelho
+itm_steppe_helmet_blue|Capacete da Estepe Azul
+itm_steppe_helmet_blue_pl|Capacete da Estepe Azul
+itm_steppe_helmet_green|Capacete da Estepe Verde
+itm_steppe_helmet_green_pl|Capacete da Estepe Verde
+itm_steppe_helmet_yellow|Capacete da Estepe Amarel
+itm_steppe_helmet_yellow_pl|Capacete da Estepe Amarel
+itm_tourney_helm_white|Elmo de Torneio Branco
+itm_tourney_helm_white_pl|Elmo de Torneio Branco
+itm_tourney_helm_red|Elmo de Torneio Vermelho
+itm_tourney_helm_red_pl|Elmo de Torneio Vermelho
+itm_tourney_helm_blue|Elmo de Torneio Azul
+itm_tourney_helm_blue_pl|Elmo de Torneio Azul
+itm_tourney_helm_green|Elmo de Torneio Verde
+itm_tourney_helm_green_pl|Elmo de Torneio Verde
+itm_tourney_helm_yellow|Elmo de Torneio Amarelo
+itm_tourney_helm_yellow_pl|Elmo de Torneio Amarelo
+itm_arena_turban_red|Turbante de Arena
+itm_arena_turban_red_pl|Turbante de Arena
+itm_arena_turban_blue|Turbante de Arena
+itm_arena_turban_blue_pl|Turbante de Arena
+itm_arena_turban_green|Turbante de Arena
+itm_arena_turban_green_pl|Turbante de Arena
+itm_arena_turban_yellow|Turbante de Arena
+itm_arena_turban_yellow_pl|Turbante de Arena
+itm_book_tactics|De Re Militari
+itm_book_tactics_pl|De Re Militari
+itm_book_persuasion|Rhetorica ad Herennium
+itm_book_persuasion_pl|Rhetorica ad Herennium
+itm_book_leadership|A Vida de Alixenus O Grande
+itm_book_leadership_pl|A Vida de Alixenus O Grande
+itm_book_intelligence|Ensaios de Lógica
+itm_book_intelligence_pl|Ensaios de Lógica
+itm_book_trade|Um Tratado sobre o Valor das Coisas
+itm_book_trade_pl|Um Tratado sobre o Valor das Coisas
+itm_book_weapon_mastery|Sobre a Arte de Lutar com Espadas
+itm_book_weapon_mastery_pl|Sobre a Arte de Lutar com Espadas
+itm_book_engineering|Método de Teoremas Mecânicos
+itm_book_engineering_pl|Método de Teoremas Mecânicos
+itm_book_wound_treatment_reference|O Livro da Cura
+itm_book_wound_treatment_reference_pl|O Livro da Cura
+itm_book_training_reference|Manual das Armas
+itm_book_training_reference_pl|Manual das Armas
+itm_book_surgery_reference|O Grande Livro de Cirurgia
+itm_book_surgery_reference_pl|O Grande Livro de Cirurgia
+itm_spice|Especiaria
+itm_spice_pl|Especiaria
+itm_salt|Sal
+itm_salt_pl|Sal
+itm_oil|Óleo
+itm_oil_pl|Óleo
+itm_pottery|Cerâmica
+itm_pottery_pl|Cerâmica
+itm_raw_flax|Fardo de Linho
+itm_raw_flax_pl|Fardo de Linho
+itm_linen|Linho
+itm_linen_pl|Linho
+itm_wool|Lã
+itm_wool_pl|Lã
+itm_wool_cloth|Tecido de Lã
+itm_wool_cloth_pl|Tecido de Lã
+itm_raw_silk|Seda Bruta
+itm_raw_silk_pl|Seda Bruta
+itm_raw_dyes|Corantes
+itm_raw_dyes_pl|Corantes
+itm_velvet|Veludo
+itm_velvet_pl|Veludo
+itm_iron|Ferro em barras
+itm_iron_pl|Ferro em barras
+itm_tools|Ferramentas
+itm_tools_pl|Ferramentas
+itm_raw_leather|Peles
+itm_raw_leather_pl|Peles
+itm_leatherwork|Couros
+itm_leatherwork_pl|Couros
+itm_raw_date_fruit|Tâmara
+itm_raw_date_fruit_pl|Tâmara
+itm_furs|Peles
+itm_furs_pl|Peles
+itm_wine|Vinho
+itm_wine_pl|Vinho
+itm_ale|Cerveja
+itm_ale_pl|Cerveja
+itm_smoked_fish|Peixe Defumado
+itm_smoked_fish_pl|Peixe Defumado
+itm_cheese|Queijo
+itm_cheese_pl|Queijo
+itm_honey|Mel
+itm_honey_pl|Mel
+itm_sausages|Salsicha
+itm_sausages_pl|Salsicha
+itm_cabbages|Repolho
+itm_cabbages_pl|Repolho
+itm_dried_meat|Carne Seca
+itm_dried_meat_pl|Carne Seca
+itm_apples|Fruta
+itm_apples_pl|Fruta
+itm_raw_grapes|Uvas
+itm_raw_grapes_pl|Uvas
+itm_raw_olives|Azeitonas
+itm_raw_olives_pl|Azeitonas
+itm_grain|Grão
+itm_grain_pl|Grão
+itm_cattle_meat|Carne Bovina
+itm_cattle_meat_pl|Carne
+itm_bread|Pão
+itm_bread_pl|Pão
+itm_chicken|Frango
+itm_chicken_pl|Frango
+itm_pork|Carne Suína
+itm_pork_pl|Carne Suína
+itm_butter|Manteiga
+itm_butter_pl|Manteiga
+itm_siege_supply|Suprimentos
+itm_siege_supply_pl|Suprimentos
+itm_quest_wine|Vinho
+itm_quest_wine_pl|Vinho
+itm_quest_ale|Cerveja
+itm_quest_ale_pl|Cerveja
+itm_sumpter_horse|Cavalo de Carga
+itm_sumpter_horse_pl|Cavalo de Carga
+itm_saddle_horse|Cavalo Selado
+itm_saddle_horse_pl|Cavalo Selado
+itm_steppe_horse|Cavalo da Estepe
+itm_steppe_horse_pl|Cavalo da Estepe
+itm_arabian_horse_a|Cavalo do Deserto
+itm_arabian_horse_a_pl|Cavalo do Deserto
+itm_courser|Corcel
+itm_courser_pl|Corcel
+itm_arabian_horse_b|Cavalo Sarranid
+itm_arabian_horse_b_pl|Cavalo Sarranid
+itm_hunter|Cavalo de Caça
+itm_hunter_pl|Cavalo de Caça
+itm_warhorse|Cavalo de Guerra
+itm_warhorse_pl|Cavalo de Guerra
+itm_charger|Cavalo de Choque
+itm_charger_pl|Cavalo de Choque
+itm_arrows|Flechas
+itm_arrows_pl|Flechas
+itm_khergit_arrows|Flechas Khergit
+itm_khergit_arrows_pl|Flechas Khergit
+itm_barbed_arrows|Flechas Farpadas
+itm_barbed_arrows_pl|Flechas Farpadas
+itm_bodkin_arrows|Flechas Cortantes
+itm_bodkin_arrows_pl|Flechas Cortantes
+itm_bolts|Virotes
+itm_bolts_pl|Virotes
+itm_steel_bolts|Virotes de Aço
+itm_steel_bolts_pl|Virotes de Aço
+itm_cartridges|Cartuchos
+itm_cartridges_pl|Cartuchos
+itm_pilgrim_disguise|Disfarce de Peregrino
+itm_pilgrim_disguise_pl|Disfarce de Peregrino
+itm_pilgrim_hood|Capuz de Peregrino
+itm_pilgrim_hood_pl|Capuz de Peregrino
+itm_leather_gloves|Luvas de Couro
+itm_leather_gloves_pl|Luvas de Couro
+itm_mail_mittens|Manoplas de Malha
+itm_mail_mittens_pl|Manoplas de Malha
+itm_scale_gauntlets|Manoplas de Escamas
+itm_scale_gauntlets_pl|Manoplas de Escamas
+itm_lamellar_gauntlets|Manoplas Lamelares
+itm_lamellar_gauntlets_pl|Manoplas Lamelares
+itm_gauntlets|Manoplas
+itm_gauntlets_pl|Manoplas
+itm_wrapping_boots|Botas de Pano Envolvido
+itm_wrapping_boots_pl|Botas de Pano Envolvido
+itm_woolen_hose|Meião de lã
+itm_woolen_hose_pl|Meião de lã
+itm_blue_hose|Meião Azul
+itm_blue_hose_pl|Meião Azul
+itm_hunter_boots|Botas de Caçador
+itm_hunter_boots_pl|Botas de Caçador
+itm_hide_boots|Botas de Couro
+itm_hide_boots_pl|Botas de Couro
+itm_ankle_boots|Tornozeleira
+itm_ankle_boots_pl|Tornozeleira
+itm_nomad_boots|Botas de Nômade
+itm_nomad_boots_pl|Botas de Nômade
+itm_leather_boots|Botas de Couro Curtido
+itm_leather_boots_pl|Botas de Couro Curtido
+itm_splinted_leather_greaves|Grevas de Couro com Talas
+itm_splinted_leather_greaves_pl|Grevas de Couro com Talas
+itm_mail_chausses|Calças de Malha
+itm_mail_chausses_pl|Calças de Malha
+itm_splinted_greaves|Grevas de Talas
+itm_splinted_greaves_pl|Grevas de Talas
+itm_mail_boots|Botas de Malha
+itm_mail_boots_pl|Botas de Malha
+itm_iron_greaves|Grevas de Ferro
+itm_iron_greaves_pl|Grevas de Ferro
+itm_black_greaves|Grevas Pretas
+itm_black_greaves_pl|Grevas Pretas
+itm_khergit_leather_boots|Botas Khergit de Couro
+itm_khergit_leather_boots_pl|Botas Khergit de Couro
+itm_sarranid_boots_a|Sapato Sarranid
+itm_sarranid_boots_a_pl|Sapato Sarranid
+itm_sarranid_boots_b|Botas Sarranid de Couro
+itm_sarranid_boots_b_pl|Botas Sarranid de Couro
+itm_sarranid_boots_c|Botas de Placas
+itm_sarranid_boots_c_pl|Botas de Placas
+itm_sarranid_boots_d|Botas Sarranid de Malha
+itm_sarranid_boots_d_pl|Botas Sarranid de Malha
+itm_sarranid_head_cloth|Lenço de Cabeça para Mulheres
+itm_sarranid_head_cloth_pl|Lenço de Cabeça
+itm_sarranid_head_cloth_b|Lenço de Cabeça
+itm_sarranid_head_cloth_b_pl|Lenço de Cabeça
+itm_sarranid_felt_head_cloth|Lenço de Cabeça
+itm_sarranid_felt_head_cloth_pl|Lenço de Cabeça
+itm_sarranid_felt_head_cloth_b|Lenço de Cabeça
+itm_sarranid_felt_head_cloth_b_pl|Lenço de Cabeça
+itm_lady_dress_ruby|Vestido
+itm_lady_dress_ruby_pl|Vestido
+itm_lady_dress_green|Vestido
+itm_lady_dress_green_pl|Vestido
+itm_lady_dress_blue|Vestido
+itm_lady_dress_blue_pl|Vestido
+itm_red_dress|Vestido Vermelho
+itm_red_dress_pl|Vestido Vermelho
+itm_brown_dress|Vestido Marrom
+itm_brown_dress_pl|Vestido Marrom
+itm_green_dress|Vestido Verde
+itm_green_dress_pl|Vestido Verde
+itm_khergit_lady_dress|Vestido Khergit
+itm_khergit_lady_dress_pl|Vestido Khergit
+itm_khergit_lady_dress_b|Vestido Khergit de Couro
+itm_khergit_lady_dress_b_pl|Vestido Khergit de Couro
+itm_sarranid_lady_dress|Vestido Sarranid
+itm_sarranid_lady_dress_pl|Vestido Sarranid
+itm_sarranid_lady_dress_b|Vestido Sarranid
+itm_sarranid_lady_dress_b_pl|Vestido Sarranid
+itm_sarranid_common_dress|Vestido Sarranid
+itm_sarranid_common_dress_pl|Vestido Sarranid
+itm_sarranid_common_dress_b|Vestido Sarranid
+itm_sarranid_common_dress_b_pl|Vestido Sarranid
+itm_courtly_outfit|Roupa da Corte
+itm_courtly_outfit_pl|Roupa da Corte
+itm_nobleman_outfit|Roupa de Nobre
+itm_nobleman_outfit_pl|Roupa de Nobre
+itm_nomad_armor|Armadura de Nômade
+itm_nomad_armor_pl|Armadura de Nômade
+itm_khergit_armor|Armadura Khergit
+itm_khergit_armor_pl|Armadura Khergit
+itm_leather_jacket|Jaqueta de Couro
+itm_leather_jacket_pl|Jaqueta de Couro
+itm_rawhide_coat|Casaco de Couro Crú
+itm_rawhide_coat_pl|Casaco de Couro Crú
+itm_leather_armor|Armadura de Couro
+itm_leather_armor_pl|Armadura de Couro
+itm_fur_coat|Casaco de Pele
+itm_fur_coat_pl|Casaco de Pele
+itm_coat|Casaco
+itm_coat_pl|Casaco
+itm_leather_coat|Casaco de Couro
+itm_leather_coat_pl|Casaco de Couro
+itm_mail_coat|Casaco de Malha
+itm_mail_coat_pl|Casaco de Malha
+itm_long_mail_coat|Casaco Longo de Malha
+itm_long_mail_coat_pl|Casaco Longo de Malha
+itm_mail_with_tunic_red|Túnica de Malha
+itm_mail_with_tunic_red_pl|Túnica de Malha
+itm_mail_with_tunic_green|Túnica de Malha
+itm_mail_with_tunic_green_pl|Túnica de Malha
+itm_hide_coat|Casaco de Couro
+itm_hide_coat_pl|Casaco de Couro
+itm_merchant_outfit|Roupa de Comerciante
+itm_merchant_outfit_pl|Roupa de Comerciante
+itm_homespun_dress|Vestido Rude
+itm_homespun_dress_pl|Vestido Rude
+itm_thick_coat|Casaco Grosso
+itm_thick_coat_pl|Casaco Grosso
+itm_coat_with_cape|Casaco com Capa
+itm_coat_with_cape_pl|Casaco com Capa
+itm_steppe_outfit|Roupa da Estepe
+itm_steppe_outfit_pl|Roupa da Estepe
+itm_nordic_outfit|Roupa Nórdica
+itm_nordic_outfit_pl|Roupa Nórdica
+itm_nordic_armor|Armadura Nórdica
+itm_nordic_armor_pl|Armadura Nórdica
+itm_hide_armor|Armadura de Couro
+itm_hide_armor_pl|Armadura de Couro
+itm_cloaked_tunic|Túnica Camuflada
+itm_cloaked_tunic_pl|Túnica Camuflada
+itm_sleeveless_tunic|Túnica sem Mangas
+itm_sleeveless_tunic_pl|Túnica sem Mangas
+itm_sleeveless_leather_tunic|Túnica de Couro sem Mangas
+itm_sleeveless_leather_tunic_pl|Túnica de Couro sem Mangas
+itm_linen_shirt|Camisa de Linho
+itm_linen_shirt_pl|Camisa de Linho
+itm_wool_coat|Casaco de Lã
+itm_wool_coat_pl|Casaco de Lã
+itm_dress|Vestido
+itm_dress_pl|Vestido
+itm_blue_dress|Vestido Azul
+itm_blue_dress_pl|Vestido Azul
+itm_peasant_dress|Vestido de Camponesa
+itm_peasant_dress_pl|Vestido de Camponesa
+itm_woolen_dress|Vestido de Lã
+itm_woolen_dress_pl|Vestido de Lã
+itm_shirt|Camisa
+itm_shirt_pl|Camisa
+itm_linen_tunic|Túnica de Linho
+itm_linen_tunic_pl|Túnica de Linho
+itm_short_tunic|Túnica Vermelha
+itm_short_tunic_pl|Túnica Vermelha
+itm_red_shirt|Camisa Vermelha
+itm_red_shirt_pl|Camisa Vermelha
+itm_red_tunic|Túnica Vermelha
+itm_red_tunic_pl|Túnica Vermelha
+itm_green_tunic|Túnica Verde
+itm_green_tunic_pl|Túnica Verde
+itm_blue_tunic|Túnica Azul
+itm_blue_tunic_pl|Túnica Azul
+itm_robe|Manto
+itm_robe_pl|Manto
+itm_coarse_tunic|Túnica com Colete
+itm_coarse_tunic_pl|Túnica com Colete
+itm_leather_apron|Avental de Couro
+itm_leather_apron_pl|Avental de Couro
+itm_tabard|Tabardo
+itm_tabard_pl|Tabardo
+itm_leather_vest|Colete de Couro
+itm_leather_vest_pl|Colete de Couro
+itm_steppe_armor|Armadura da Estepe
+itm_steppe_armor_pl|Armadura da Estepe
+itm_gambeson|Jaquetão
+itm_gambeson_pl|Jaquetão
+itm_blue_gambeson|Jaquetão Azul
+itm_blue_gambeson_pl|Jaquetão Azul
+itm_red_gambeson|Jaquetão Vermelho
+itm_red_gambeson_pl|Jaquetão Vermelho
+itm_padded_cloth|Jaquetão Acolchoado
+itm_padded_cloth_pl|Jaquetão Acolchoado
+itm_aketon_green|Tecido Acolchoado
+itm_aketon_green_pl|Tecido Acolchoado
+itm_leather_jerkin|Justilho de Couro
+itm_leather_jerkin_pl|Justilho de Couro
+itm_nomad_vest|Colete de Nômade
+itm_nomad_vest_pl|Colete de Nômade
+itm_ragged_outfit|Roupas Esfarrapadas
+itm_ragged_outfit_pl|Roupas Esfarrapadas
+itm_padded_leather|Roupa de Couro Acolchoado
+itm_padded_leather_pl|Couro Acolchoado
+itm_tribal_warrior_outfit|Roupa de Guerreiro Tribal
+itm_tribal_warrior_outfit_pl|Roupa de Guerreiro Tribal
+itm_nomad_robe|Manto de Nômade
+itm_nomad_robe_pl|Manto de Nômade
+itm_studded_leather_coat|Casaco de Couro Acolchoado
+itm_studded_leather_coat_pl|Casaco de Couro Acolchoado
+itm_byrnie|Camisa de Malha
+itm_byrnie_pl|Camisa de Malha
+itm_haubergeon|Camisa de Malha Manga Longa
+itm_haubergeon_pl|Camisa de Malha Manga Longa
+itm_lamellar_vest|Colete Lamelado
+itm_lamellar_vest_pl|Colete Lamelado
+itm_lamellar_vest_khergit|Colete Khergit Lamelado
+itm_lamellar_vest_khergit_pl|Colete Khergit Lamelado
+itm_mail_shirt|Camisa de Malha
+itm_mail_shirt_pl|Camisa de Malha
+itm_mail_hauberk|Lorigão
+itm_mail_hauberk_pl|Camisa de Malha Manga Longa
+itm_mail_with_surcoat|Malha com Brasão
+itm_mail_with_surcoat_pl|Malha com Brasão
+itm_surcoat_over_mail|Brasão sobre Malha
+itm_surcoat_over_mail_pl|Brasão sobre Malha
+itm_brigandine_red|Brigandina
+itm_brigandine_red_pl|Brigandina
+itm_lamellar_armor|Armadura Lamelar
+itm_lamellar_armor_pl|Armadura Lamelar
+itm_scale_armor|Armadura com Escamas
+itm_scale_armor_pl|Armadura com Escamas
+itm_banded_armor|Malha Rebitada
+itm_banded_armor_pl|Malha Rebitada
+itm_cuir_bouilli|Malha com Couro Tratado
+itm_cuir_bouilli_pl|Malha com Couro Tratado
+itm_coat_of_plates|Casaco de Placas
+itm_coat_of_plates_pl|Casaco de Placas
+itm_coat_of_plates_red|Casaco de Placas
+itm_coat_of_plates_red_pl|Casaco de Placas
+itm_plate_armor|Armadura de Placas
+itm_plate_armor_pl|Armadura de Placas
+itm_black_armor|Armadura Preta
+itm_black_armor_pl|Armadura Preta
+itm_pelt_coat|Casaco de Pele
+itm_pelt_coat_pl|Casaco de Pele
+itm_khergit_elite_armor|Armadura Khergit de Elite
+itm_khergit_elite_armor_pl|Armadura Khergit de Elite
+itm_vaegir_elite_armor|Armadura Vaegir de Elite
+itm_vaegir_elite_armor_pl|Armadura Vaegir de Elite
+itm_sarranid_elite_armor|Armadura Sarranid de Elite
+itm_sarranid_elite_armor_pl|Armadura Sarranid de Elite
+itm_sarranid_dress_a|Vestido
+itm_sarranid_dress_a_pl|Vestido
+itm_sarranid_dress_b|Vestido
+itm_sarranid_dress_b_pl|Vestido
+itm_sarranid_cloth_robe|Manto Usado
+itm_sarranid_cloth_robe_pl|Manto Usado
+itm_sarranid_cloth_robe_b|Manto Usado
+itm_sarranid_cloth_robe_b_pl|Manto Usado
+itm_skirmisher_armor|Armadura de Escaramuça
+itm_skirmisher_armor_pl|Armadura de Escaramuça
+itm_archers_vest|Colete Acolchoado para Arqueiro
+itm_archers_vest_pl|Colete Acolchoado para Arqueiro
+itm_sarranid_leather_armor|Armadura Sarranid de Couro
+itm_sarranid_leather_armor_pl|Armadura Sarranid de Couro
+itm_sarranid_cavalry_robe|Manto de Cavalaria
+itm_sarranid_cavalry_robe_pl|Manto de Cavalaria
+itm_arabian_armor_b|Armadura Sarranid de Guarda
+itm_arabian_armor_b_pl|Armadura Sarranid de Guarda
+itm_sarranid_mail_shirt|Camisa Sarranid de Malha
+itm_sarranid_mail_shirt_pl|Camisa Sarranid de Malha
+itm_mamluke_mail|Malha dos Mamelucos
+itm_mamluke_mail_pl|Malha dos Mamelucos
+itm_burlap_tunic|Túnica de Juta
+itm_burlap_tunic_pl|Túnica de Juta
+itm_heraldic_mail_with_surcoat|Malha com Brasão Customizável
+itm_heraldic_mail_with_surcoat_pl|Malha com Brasão Customizável
+itm_heraldic_mail_with_tunic|Malha Heráldica
+itm_heraldic_mail_with_tunic_pl|Malha Heráldica
+itm_heraldic_mail_with_tunic_b|Malha Heráldica
+itm_heraldic_mail_with_tunic_b_pl|Malha Heráldica
+itm_heraldic_mail_with_tabard|Malha Heráldica com Tabardo
+itm_heraldic_mail_with_tabard_pl|Malha Heráldica com Tabardo
+itm_turret_hat_ruby|Chapéu Torre
+itm_turret_hat_ruby_pl|Chapéu Torre
+itm_turret_hat_blue|Chapéu Torre
+itm_turret_hat_blue_pl|Chapéu Torre
+itm_turret_hat_green|Barbeta
+itm_turret_hat_green_pl|Barbeta
+itm_head_wrappings|Panos Envoltos na Cabeça
+itm_head_wrappings_pl|Panos Envoltos na Cabeça
+itm_court_hat|Chapéu Torre
+itm_court_hat_pl|Chapéu Torre
+itm_wimple_a|Touca
+itm_wimple_a_pl|Touca
+itm_wimple_with_veil|Touca com Véu
+itm_wimple_with_veil_pl|Touca com Véu
+itm_straw_hat|Chapéu de Palha
+itm_straw_hat_pl|Chapéu de Palha
+itm_common_hood|Capuz
+itm_common_hood_pl|Capuz
+itm_hood_b|Capuz
+itm_hood_b_pl|Capuz
+itm_hood_c|Capuz
+itm_hood_c_pl|Capuz
+itm_hood_d|Capuz
+itm_hood_d_pl|Capuz
+itm_headcloth|Turbante Pequeno
+itm_headcloth_pl|Turbante Pequeno
+itm_woolen_hood|Capuz de Lã
+itm_woolen_hood_pl|Capuz de Lã
+itm_arming_cap|Touca Militar
+itm_arming_cap_pl|Touca Militar
+itm_fur_hat|Chapéu de Pele
+itm_fur_hat_pl|Chapéu de Pele
+itm_nomad_cap|Touca Nômade
+itm_nomad_cap_pl|Touca Nômade
+itm_nomad_cap_b|Touca Nômade
+itm_nomad_cap_b_pl|Touca Nômade
+itm_steppe_cap|Touca da Estepe
+itm_steppe_cap_pl|Touca da Estepe
+itm_padded_coif|Coifa Acolchoada
+itm_padded_coif_pl|Coifa Acolchoada
+itm_woolen_cap|Touca de Lã
+itm_woolen_cap_pl|Touca de Lã
+itm_felt_hat|Chapéu de Feltro
+itm_felt_hat_pl|Chapéu de Feltro
+itm_felt_hat_b|Chapéu de Feltro
+itm_felt_hat_b_pl|Chapéu de Feltro
+itm_leather_cap|Touca de Couro
+itm_leather_cap_pl|Touca de Couro
+itm_female_hood|Capuz Feminino
+itm_female_hood_pl|Capuz Feminino
+itm_leather_steppe_cap_a|Touca da Estepe
+itm_leather_steppe_cap_a_pl|Touca da Estepe
+itm_leather_steppe_cap_b|Touca da Estepe
+itm_leather_steppe_cap_b_pl|Touca da Estepe
+itm_leather_steppe_cap_c|Touca da Estepe
+itm_leather_steppe_cap_c_pl|Touca da Estepe
+itm_leather_warrior_cap|Touca de Guerra de Couro
+itm_leather_warrior_cap_pl|Touca de Guerra de Couro
+itm_skullcap|Elmo
+itm_skullcap_pl|Elmo
+itm_mail_coif|Touca de Malha
+itm_mail_coif_pl|Touca de Malha
+itm_footman_helmet|Capacete de Infantaria
+itm_footman_helmet_pl|Capacete de Infantaria
+itm_nasal_helmet|Capacete com Proteção Nasal
+itm_nasal_helmet_pl|Capacete com Proteção Nasal
+itm_norman_helmet|Capacete com Aba
+itm_norman_helmet_pl|Capacete com Aba
+itm_segmented_helmet|Capacete Segmentado
+itm_segmented_helmet_pl|Capacete Segmentado
+itm_helmet_with_neckguard|Capacete com Gorjal
+itm_helmet_with_neckguard_pl|Capacete com Gorjal
+itm_flat_topped_helmet|Capacete de Topo Chato
+itm_flat_topped_helmet_pl|Capacete de Topo Chato
+itm_kettle_hat|Chapéu Chaleira
+itm_kettle_hat_pl|Chapéu Chaleira
+itm_spiked_helmet|Capacete com Ponta
+itm_spiked_helmet_pl|Capacete com Ponta
+itm_nordic_helmet|Capacete Nórdico
+itm_nordic_helmet_pl|Capacete Nórdico
+itm_khergit_lady_hat|Chapéu de Dama Khergit
+itm_khergit_lady_hat_pl|Chapéu de Dama Khergit
+itm_khergit_lady_hat_b|Chapéu de Dama Khergit de Couro
+itm_khergit_lady_hat_b_pl|Chapéu de Dama Khergit de Couro
+itm_sarranid_felt_hat|Chapéu Sarranid de Feltro
+itm_sarranid_felt_hat_pl|Chapéu Sarranid de Feltro
+itm_turban|Turbante
+itm_turban_pl|Turbante
+itm_desert_turban|Turbante do Deserto
+itm_desert_turban_pl|Turbante do Deserto
+itm_sarranid_warrior_cap|Quepe de Guerreiro Sarranid
+itm_sarranid_warrior_cap_pl|Quepe de Guerreiro Sarranid
+itm_sarranid_horseman_helmet|Capacete de Cavaleiro
+itm_sarranid_horseman_helmet_pl|Capacete de Cavaleiro
+itm_sarranid_helmet1|Capacete Sarranid com Kufiya
+itm_sarranid_helmet1_pl|Capacete Sarranid com Kufiya
+itm_sarranid_mail_coif|Coifa Sarranid de Malha
+itm_sarranid_mail_coif_pl|Coifa Sarranid de Malha
+itm_sarranid_veiled_helmet|Capacete Sarranid com Véu
+itm_sarranid_veiled_helmet_pl|Capacete Sarranid com Véu
+itm_nordic_archer_helmet|Capacete Nórdico de Couro
+itm_nordic_archer_helmet_pl|Capacete Nórdico de Couro
+itm_nordic_veteran_archer_helmet|Capacete Nórdico de Couro
+itm_nordic_veteran_archer_helmet_pl|Capacete Nórdico de Couro
+itm_nordic_footman_helmet|Capacete Nórdico Militar
+itm_nordic_footman_helmet_pl|Capacete Nórdico Militar
+itm_nordic_fighter_helmet|Capacete Nórdico de Lutador
+itm_nordic_fighter_helmet_pl|Capacete Nórdico de Lutador
+itm_nordic_huscarl_helmet|Capacete Nórdico de Huscarl
+itm_nordic_huscarl_helmet_pl|Capacete Nórdico de Huscarl
+itm_nordic_warlord_helmet|Capacete de Chefão Nórdico 
+itm_nordic_warlord_helmet_pl|Capacete de Chefão Nórdico 
+itm_vaegir_fur_cap|Quepe com Pele
+itm_vaegir_fur_cap_pl|Quepe com Pele
+itm_vaegir_fur_helmet|Capacete Vaegir
+itm_vaegir_fur_helmet_pl|Capacete Vaegir
+itm_vaegir_spiked_helmet|Quepe com Ponta
+itm_vaegir_spiked_helmet_pl|Quepe com Ponta
+itm_vaegir_lamellar_helmet|Capacete com Guarda Lamelar
+itm_vaegir_lamellar_helmet_pl|Capacete com Guarda Lamelar
+itm_vaegir_noble_helmet|Capacete Vaegir Nobre
+itm_vaegir_noble_helmet_pl|Capacete Vaegir Nobre
+itm_vaegir_war_helmet|Capacete Vaegir de Guerra
+itm_vaegir_war_helmet_pl|Capacete Vaegir de Guerra
+itm_vaegir_mask|Máscara de Guerra Vaegir
+itm_vaegir_mask_pl|Máscara de Guerra Vaegir
+itm_bascinet|Bacinete
+itm_bascinet_pl|Bacinete
+itm_bascinet_2|Bacinete com Camal
+itm_bascinet_2_pl|Bacinete com Camal
+itm_bascinet_3|Bacinete com Guarda Nasal
+itm_bascinet_3_pl|Bacinete com Guarda Nasal
+itm_guard_helmet|Capacete de Guarda
+itm_guard_helmet_pl|Capacete de Guarda
+itm_black_helmet|Capacete Preto
+itm_black_helmet_pl|Capacete Preto
+itm_full_helm|Elmo Completo
+itm_full_helm_pl|Elmo Completo
+itm_great_helmet|Capacete Grande
+itm_great_helmet_pl|Capacete Grande
+itm_winged_great_helmet|Capacete Grande com Asas
+itm_winged_great_helmet_pl|Capacete Grande com Asas
+itm_wooden_stick|Pedaço de Pau
+itm_wooden_stick_pl|Pedaço de Pau
+itm_cudgel|Clava
+itm_cudgel_pl|Clava
+itm_hammer|Martelo
+itm_hammer_pl|Martelo
+itm_club|Clava
+itm_club_pl|Clava
+itm_winged_mace|Maça
+itm_winged_mace_pl|Maça
+itm_spiked_mace|Maça com Ponta
+itm_spiked_mace_pl|Maça com Ponta
+itm_military_hammer|Martelo Militar
+itm_military_hammer_pl|Martelo Militar
+itm_maul|Malho
+itm_maul_pl|Marreta
+itm_sledgehammer|Marreta
+itm_sledgehammer_pl|Marreta
+itm_warhammer|Martelo Grande
+itm_warhammer_pl|Martelo Grande
+itm_pickaxe|Picareta
+itm_pickaxe_pl|Picareta
+itm_spiked_club|Maça com Ponta
+itm_spiked_club_pl|Maça com Ponta
+itm_fighting_pick|Picareta de Compate
+itm_fighting_pick_pl|Picareta de Compate
+itm_military_pick|Picareta Militar
+itm_military_pick_pl|Picareta Militar
+itm_morningstar|Estrela da Manhã
+itm_morningstar_pl|Estrela da Manhã
+itm_sickle|Foice
+itm_sickle_pl|Foice
+itm_cleaver|Cutelo
+itm_cleaver_pl|Cutelo
+itm_knife|Faca
+itm_knife_pl|Faca
+itm_butchering_knife|Faca de Carnear
+itm_butchering_knife_pl|Faca de Carnear
+itm_dagger|Adaga
+itm_dagger_pl|Adaga
+itm_falchion|Machete
+itm_falchion_pl|Machete
+itm_scimitar|Cimitarra
+itm_scimitar_pl|Cimitarra
+itm_scimitar_b|Cimitarra de Elite
+itm_scimitar_b_pl|Cimitarra de Elite
+itm_arabian_sword_a|Espada Sarranid
+itm_arabian_sword_a_pl|Espada Sarranid
+itm_arabian_sword_b|Espada Sarranid de Infantaria
+itm_arabian_sword_b_pl|Espada Sarranid de Infantaria
+itm_sarranid_cavalry_sword|Espada Sarranid de Cavalaria
+itm_sarranid_cavalry_sword_pl|Espada Sarranid de Cavalaria
+itm_arabian_sword_d|Espada Sarranid de Guarda
+itm_arabian_sword_d_pl|Espada Sarranid de Guarda
+itm_great_sword|Espada Grande
+itm_great_sword_pl|Espada Grande
+itm_sword_of_war|Espada de Guerra
+itm_sword_of_war_pl|Espada de Guerra
+itm_hatchet|Machadinha
+itm_hatchet_pl|Machadinha
+itm_hand_axe|Machado de Mão
+itm_hand_axe_pl|Machado de Mão
+itm_fighting_axe|Machado de Combate
+itm_fighting_axe_pl|Machado de Combate
+itm_axe|Machado
+itm_axe_pl|Machado
+itm_voulge|Bardiche
+itm_voulge_pl|Bardiche
+itm_battle_axe|Machado de Batalha
+itm_battle_axe_pl|Machado de Batalha
+itm_war_axe|Machado de Guerra
+itm_war_axe_pl|Machado de Guerra
+itm_sword_two_handed_b|Espada de Duas-Mãos
+itm_sword_two_handed_b_pl|Espada de Duas-Mãos
+itm_sword_two_handed_a|Espada Grande
+itm_sword_two_handed_a_pl|Espada Grande
+itm_khergit_sword_two_handed_a|Sabre de Duas Mãos
+itm_khergit_sword_two_handed_a_pl|Sabre de Duas Mãos
+itm_khergit_sword_two_handed_b|Sabre de Duas Mãos
+itm_khergit_sword_two_handed_b_pl|Sabre de Duas Mãos
+itm_two_handed_cleaver|Cutelo de Guerra
+itm_two_handed_cleaver_pl|Cutelo de Guerra
+itm_military_cleaver_b|Cutelo do Soldado
+itm_military_cleaver_b_pl|Cutelo do Soldado
+itm_military_cleaver_c|Cutelo Militar
+itm_military_cleaver_c_pl|Cutelo Militar
+itm_military_sickle_a|Foice Militar
+itm_military_sickle_a_pl|Foice Militar
+itm_bastard_sword_a|Espada Bastarda
+itm_bastard_sword_a_pl|Espada Bastarda
+itm_bastard_sword_b|Espada Bastarda Pesada
+itm_bastard_sword_b_pl|Espada Bastarda Pesada
+itm_one_handed_war_axe_a|Machado de Uma Mão
+itm_one_handed_war_axe_a_pl|Machado de Mão
+itm_one_handed_battle_axe_a|Machado de Batalha de Uma Mão
+itm_one_handed_battle_axe_a_pl|Machado de Batalha de Uma Mão
+itm_one_handed_war_axe_b|Machado de Guerra de Uma Mão
+itm_one_handed_war_axe_b_pl|Machado de Guerra de Uma Mão
+itm_one_handed_battle_axe_b|Machado de Batalha de Uma Mão
+itm_one_handed_battle_axe_b_pl|Machado de Batalha de Uma Mão
+itm_one_handed_battle_axe_c|Machado de Batalha de Uma Mão
+itm_one_handed_battle_axe_c_pl|Machado de Batalha de Uma Mão
+itm_two_handed_axe|Machado de Duas Mãos
+itm_two_handed_axe_pl|Machado de Duas Mãos
+itm_two_handed_battle_axe_2|Machado de Guerra de Duas Mãos
+itm_two_handed_battle_axe_2_pl|Machado de Guerra de Duas Mãos
+itm_shortened_voulge|Bardiche Curto
+itm_shortened_voulge_pl|Bardiche Curto
+itm_great_axe|Grande Machado
+itm_great_axe_pl|Grande Machado
+itm_long_axe|Machado Longo
+itm_long_axe_pl|Machado Longo
+itm_long_axe_alt|Machado Longo
+itm_long_axe_alt_pl|Machado Longo
+itm_long_axe_b|Machado Longo de Guerra
+itm_long_axe_b_pl|Machado Longo de Guerra
+itm_long_axe_b_alt|Machado Longo de Guerra
+itm_long_axe_b_alt_pl|Machado Longo de Guerra
+itm_long_axe_c|Grande Machado Longo
+itm_long_axe_c_pl|Grande Machado Longo
+itm_long_axe_c_alt|Grande Machado Longo
+itm_long_axe_c_alt_pl|Grande Machado Longo
+itm_bardiche|Alabarda
+itm_bardiche_pl|Alabarda
+itm_great_bardiche|Grande Alabarda
+itm_great_bardiche_pl|Grande Alabarda
+itm_long_bardiche|Alabarda Longa
+itm_long_bardiche_pl|Alabarda Longa
+itm_great_long_bardiche|Grande Alabarda Longa
+itm_great_long_bardiche_pl|Grande Alabarda Longa
+itm_hafted_blade_b|Sturmsense
+itm_hafted_blade_b_pl|Sturmsense
+itm_hafted_blade_a|Sturmsense
+itm_hafted_blade_a_pl|Sturmsense
+itm_shortened_military_scythe|Foice Militar Curta
+itm_shortened_military_scythe_pl|Foice Militar Curta
+itm_sword_medieval_a|Espada
+itm_sword_medieval_a_pl|Espada
+itm_sword_medieval_b|Espada
+itm_sword_medieval_b_pl|Espada
+itm_sword_medieval_b_small|Espada Curta
+itm_sword_medieval_b_small_pl|Espada Curta
+itm_sword_medieval_c|Espada de Infantaria
+itm_sword_medieval_c_pl|Espada de Infantaria
+itm_sword_medieval_c_small|Espada Curta de Infantaria
+itm_sword_medieval_c_small_pl|Espada Curta de Infantaria
+itm_sword_medieval_c_long|Espada de Infantaria
+itm_sword_medieval_c_long_pl|Espada de Infantaria
+itm_sword_medieval_d_long|Espada Longa de Infantaria
+itm_sword_medieval_d_long_pl|Espada Longa de Infantaria
+itm_sword_viking_1|Espada Nórdica
+itm_sword_viking_1_pl|Espada Nórdica
+itm_sword_viking_2|Espada Nórdica
+itm_sword_viking_2_pl|Espada Nórdica
+itm_sword_viking_2_small|Espada Curta Nórdica
+itm_sword_viking_2_small_pl|Espada Curta Nórdica
+itm_sword_viking_3|Espada de Guerra Nórdica
+itm_sword_viking_3_pl|Espada de Guerra Nórdica
+itm_sword_viking_3_small|Espada de Guerra Curta Nórdica
+itm_sword_viking_3_small_pl|Espada de Guerra Curta Nórdica
+itm_sword_khergit_1|Sabre Nômade
+itm_sword_khergit_1_pl|Sabre Nômade
+itm_sword_khergit_2|Sabre
+itm_sword_khergit_2_pl|Sabre
+itm_sword_khergit_3|Sabre
+itm_sword_khergit_3_pl|Sabre
+itm_sword_khergit_4|Sabre Pesado
+itm_sword_khergit_4_pl|Sabre Pesado
+itm_mace_1|Maça com Ponta
+itm_mace_1_pl|Maça com Ponta
+itm_mace_2|Maça Nodosa
+itm_mace_2_pl|Maça Nodosa
+itm_mace_3|Maça com Ponta
+itm_mace_3_pl|Maça com Ponta
+itm_mace_4|Maça Alada
+itm_mace_4_pl|Maça Alada
+itm_club_with_spike_head|Bastão com Ponta
+itm_club_with_spike_head_pl|Bastão com Ponta
+itm_long_spiked_club|Clava Longa com Ponta
+itm_long_spiked_club_pl|Clava Longa com Ponta
+itm_long_hafted_knobbed_mace|Maça Longa Nodosa
+itm_long_hafted_knobbed_mace_pl|Maça Longa Nodosa
+itm_long_hafted_spiked_mace|Maça Longa com Ponta
+itm_long_hafted_spiked_mace_pl|Maça Longa com Ponta
+itm_sarranid_two_handed_mace_1|Maça de Ferro
+itm_sarranid_two_handed_mace_1_pl|Maça de Ferro
+itm_sarranid_mace_1|Maça de Ferro
+itm_sarranid_mace_1_pl|Maça de Ferro
+itm_sarranid_axe_a|Machado de Batalha de Ferro
+itm_sarranid_axe_a_pl|Machado de Batalha de Ferro
+itm_sarranid_axe_b|Machado de Guerra de Ferro
+itm_sarranid_axe_b_pl|Machado de Guerra de Ferro
+itm_sarranid_two_handed_axe_a|Machado de Batalha Sarranídeo
+itm_sarranid_two_handed_axe_a_pl|Machado de Batalha Sarranídeo
+itm_sarranid_two_handed_axe_b|Machado de Guerra Sarranídeo
+itm_sarranid_two_handed_axe_b_pl|Machado de Guerra Sarranídeo
+itm_scythe|Foice
+itm_scythe_pl|Foice
+itm_pitch_fork|Forcado
+itm_pitch_fork_pl|Forcado
+itm_military_fork|Forcado Militar
+itm_military_fork_pl|Forcado Militar
+itm_battle_fork|Forcado de Batalha
+itm_battle_fork_pl|Forcado de Batalha
+itm_boar_spear|Lança de Caça
+itm_boar_spear_pl|Lança de Caça
+itm_jousting_lance|Lança de Justa
+itm_jousting_lance_pl|Lança de Justa
+itm_double_sided_lance|Lança Dupla
+itm_double_sided_lance_pl|Lança Dupla
+itm_glaive|Glefe
+itm_glaive_pl|Glefe
+itm_poleaxe|Lança-Machado
+itm_poleaxe_pl|Lança-Machado
+itm_polehammer|Lança-Martelo
+itm_polehammer_pl|Lança-Martelo
+itm_staff|Bastão
+itm_staff_pl|Bastão
+itm_quarter_staff|Bastão Curto
+itm_quarter_staff_pl|Bastão Curto
+itm_iron_staff|Bastão de Ferro
+itm_iron_staff_pl|Bastão de Ferro
+itm_shortened_spear|Lança Curta
+itm_shortened_spear_pl|Lança Curta
+itm_spear|Lança
+itm_spear_pl|Lança
+itm_bamboo_spear|Lança de Bambu
+itm_bamboo_spear_pl|Lança de Bambu
+itm_war_spear|Lança de Guerra
+itm_war_spear_pl|Lança de Guerra
+itm_military_scythe|Foice Militar
+itm_military_scythe_pl|Foice Militar
+itm_light_lance|Lança Leve
+itm_light_lance_pl|Lança Leve
+itm_lance|Lança
+itm_lance_pl|Lança
+itm_heavy_lance|Lança Pesada
+itm_heavy_lance_pl|Lança Pesada
+itm_great_lance|Grande Lança
+itm_great_lance_pl|Grande Lança
+itm_pike|Pique
+itm_pike_pl|Pique
+itm_ashwood_pike|Pique de Freixo
+itm_ashwood_pike_pl|Pique de Freixo
+itm_awlpike|Pique com Guardamão
+itm_awlpike_pl|Pique com Guardamão
+itm_awlpike_long|Pique Longo com Guardamão
+itm_awlpike_long_pl|Pique Longo com Guardamão
+itm_bec_de_corbin_a|Martelo de Guerra
+itm_bec_de_corbin_a_pl|Martelo de Guerra
+itm_wooden_shield|Escudo de Madeira
+itm_wooden_shield_pl|Escudo de Madeira
+itm_nordic_shield|Escudo Nórdico
+itm_nordic_shield_pl|Escudo Nórdico
+itm_fur_covered_shield|Escudo Coberto com Pele
+itm_fur_covered_shield_pl|Escudo Coberto com Pele
+itm_steel_shield|Escudo de Aço
+itm_steel_shield_pl|Escudo de Aço
+itm_plate_covered_round_shield|Escudo Redondo Coberto com Placas
+itm_plate_covered_round_shield_pl|Escudo Redondo Coberto com Placas
+itm_leather_covered_round_shield|Escudo Redondo Coberto com Couro
+itm_leather_covered_round_shield_pl|Escudo Redondo Coberto com Couro
+itm_hide_covered_round_shield|Escudo Redondo Coberto com Couro Cru
+itm_hide_covered_round_shield_pl|Escudo Redondo Coberto com Couro Cru
+itm_shield_heater_c|Escudo Tradicional
+itm_shield_heater_c_pl|Escudo Tradicional
+itm_norman_shield_1|Escudo Triangular
+itm_norman_shield_1_pl|Escudo Triangular
+itm_norman_shield_2|Escudo Triangular
+itm_norman_shield_2_pl|Escudo Triangular
+itm_norman_shield_3|Escudo Triangular
+itm_norman_shield_3_pl|Escudo Triangular
+itm_norman_shield_4|Escudo Triangular
+itm_norman_shield_4_pl|Escudo Triangular
+itm_norman_shield_5|Escudo Triangular
+itm_norman_shield_5_pl|Escudo Triangular
+itm_norman_shield_6|Escudo Triangular
+itm_norman_shield_6_pl|Escudo Triangular
+itm_norman_shield_7|Escudo Triangular
+itm_norman_shield_7_pl|Escudo Triangular
+itm_norman_shield_8|Escudo Triangular
+itm_norman_shield_8_pl|Escudo Triangular
+itm_tab_shield_round_a|Velho Escudo Redondo
+itm_tab_shield_round_a_pl|Velho Escudo Redondo
+itm_tab_shield_round_b|Escudo Redondo Chato
+itm_tab_shield_round_b_pl|Escudo Redondo Chato
+itm_tab_shield_round_c|Escudo Redondo
+itm_tab_shield_round_c_pl|Escudo Redondo
+itm_tab_shield_round_d|Escudo Redondo Pesado
+itm_tab_shield_round_d_pl|Escudo Redondo Pesado
+itm_tab_shield_round_e|Escudo Redondo do Huscarl
+itm_tab_shield_round_e_pl|Escudo Redondo do Huscarl
+itm_tab_shield_kite_a|Velho Escudo Triangular
+itm_tab_shield_kite_a_pl|Velho Escudo Triangular
+itm_tab_shield_kite_b|Escudo Triangular Chato
+itm_tab_shield_kite_b_pl|Escudo Triangular Chato
+itm_tab_shield_kite_c|Escudo Triangular
+itm_tab_shield_kite_c_pl|Escudo Triangular
+itm_tab_shield_kite_d|Escudo Triangular Pesado
+itm_tab_shield_kite_d_pl|Escudo Triangular Pesado
+itm_tab_shield_kite_cav_a|Escudo Triangular de Cavalaria
+itm_tab_shield_kite_cav_a_pl|Escudo Triangular de Cavalaria
+itm_tab_shield_kite_cav_b|Escudo Triangular de Cavaleiro
+itm_tab_shield_kite_cav_b_pl|Escudo Triangular de Cavaleiro
+itm_tab_shield_heater_a|Velho Escudo Tradicional
+itm_tab_shield_heater_a_pl|Velho Escudo Tradicional
+itm_tab_shield_heater_b|Escudo Tradicional Chato
+itm_tab_shield_heater_b_pl|Escudo Tradicional Chato
+itm_tab_shield_heater_c|Escudo Tradicional
+itm_tab_shield_heater_c_pl|Escudo Tradicional
+itm_tab_shield_heater_d|Escudo Tradicional Pesado
+itm_tab_shield_heater_d_pl|Escudo Tradicional Pesado
+itm_tab_shield_heater_cav_a|Escudo Tradicional de Cavalaria
+itm_tab_shield_heater_cav_a_pl|Escudo Tradicional de Cavalaria
+itm_tab_shield_heater_cav_b|Escudo Tradicional de Cavaleiro
+itm_tab_shield_heater_cav_b_pl|Escudo Tradicional de Cavaleiro
+itm_tab_shield_pavise_a|Velho Escudo de Tábuas
+itm_tab_shield_pavise_a_pl|Velho Escudo de Tábuas
+itm_tab_shield_pavise_b|Escudo de Tábuas Chato
+itm_tab_shield_pavise_b_pl|Escudo de Tábuas Chato
+itm_tab_shield_pavise_c|Escudo de Tábuas
+itm_tab_shield_pavise_c_pl|Escudo de Tábuas
+itm_tab_shield_pavise_d|Escudo de Tábuas Pesado
+itm_tab_shield_pavise_d_pl|Escudo de Tábuas Pesado
+itm_tab_shield_small_round_a|Escudo de Cavalaria Chato
+itm_tab_shield_small_round_a_pl|Escudo de Cavalaria Chato
+itm_tab_shield_small_round_b|Escudo de Cavalaria Redondo
+itm_tab_shield_small_round_b_pl|Escudo de Cavalaria Redondo
+itm_tab_shield_small_round_c|Escudo de Cavalaria de Elite
+itm_tab_shield_small_round_c_pl|Escudo de Cavalaria de Elite
+itm_darts|Dardos
+itm_darts_pl|Dardos
+itm_war_darts|Dardos de Guerra
+itm_war_darts_pl|Dardos de Guerra
+itm_javelin|Azagaias
+itm_javelin_pl|Azagaia
+itm_javelin_melee|Azagaia
+itm_javelin_melee_pl|Azagaia
+itm_throwing_spears|Lanças de Arremesso
+itm_throwing_spears_pl|Lanças de Arremesso
+itm_throwing_spear_melee|Lança de Arremesso
+itm_throwing_spear_melee_pl|Lança de Arremesso
+itm_jarid|Jarids
+itm_jarid_pl|Jarids
+itm_jarid_melee|Jarid
+itm_jarid_melee_pl|Jarid
+itm_stones|Pedras
+itm_stones_pl|Pedras
+itm_throwing_knives|Facas de Arremesso
+itm_throwing_knives_pl|Facas de Arremesso
+itm_throwing_daggers|Facas de Arremesso
+itm_throwing_daggers_pl|Facas de Arremesso
+itm_light_throwing_axes|Machados de Arremesso Leves
+itm_light_throwing_axes_pl|Machados de Arremesso Leves
+itm_light_throwing_axes_melee|Machado de Arremesso Leve
+itm_light_throwing_axes_melee_pl|Machado de Arremesso Leve
+itm_throwing_axes|Machados de Arremesso
+itm_throwing_axes_pl|Machados de Arremesso
+itm_throwing_axes_melee|Machado de Arremesso
+itm_throwing_axes_melee_pl|Machado de Arremesso
+itm_heavy_throwing_axes|Machados de Arremesso Pesados
+itm_heavy_throwing_axes_pl|Machados de Arremesso Pesados
+itm_heavy_throwing_axes_melee|Machado de Arremesso Pesado
+itm_heavy_throwing_axes_melee_pl|Machado de Arremesso Pesado
+itm_hunting_bow|Arco de Caça
+itm_hunting_bow_pl|Arco de Caça
+itm_short_bow|Arco Curto
+itm_short_bow_pl|Arco Curto
+itm_nomad_bow|Arco de Nômade
+itm_nomad_bow_pl|Arco de Nômade
+itm_long_bow|Arco Longo
+itm_long_bow_pl|Arco Longo
+itm_khergit_bow|Arco Khergit
+itm_khergit_bow_pl|Arco Khergit
+itm_strong_bow|Arco Forte
+itm_strong_bow_pl|Arco Forte
+itm_war_bow|Arco de Guerra
+itm_war_bow_pl|Arco de Guerra
+itm_hunting_crossbow|Besta de Caça
+itm_hunting_crossbow_pl|Besta de Caça
+itm_light_crossbow|Besta Leve
+itm_light_crossbow_pl|Besta Leve
+itm_crossbow|Besta
+itm_crossbow_pl|Besta
+itm_heavy_crossbow|Besta Pesada
+itm_heavy_crossbow_pl|Besta Pesada
+itm_sniper_crossbow|Besta de Cerco
+itm_sniper_crossbow_pl|Besta de Cerco
+itm_flintlock_pistol|Pistola de Pederneira
+itm_flintlock_pistol_pl|Pistola de Pederneira
+itm_torch|Tocha
+itm_torch_pl|Tocha
+itm_lyre|Lira
+itm_lyre_pl|Lira
+itm_lute|Alaúde
+itm_lute_pl|Alaúde
+itm_strange_armor|Armadura Estranha
+itm_strange_armor_pl|Armadura Estranha
+itm_strange_boots|Botas Estranhas
+itm_strange_boots_pl|Botas Estranhas
+itm_strange_helmet|Capacete Estranho
+itm_strange_helmet_pl|Capacete Estranho
+itm_strange_sword|Espada Estranha
+itm_strange_sword_pl|Espada Estranha
+itm_strange_great_sword|Grande Espada Estranha
+itm_strange_great_sword_pl|Grande Espada Estranha
+itm_strange_short_sword|Espada Curta Estranha
+itm_strange_short_sword_pl|Espada Curta Estranha
+itm_court_dress|Vestido de Corte
+itm_court_dress_pl|Vestido de Corte
+itm_rich_outfit|Roupa Opulenta
+itm_rich_outfit_pl|Roupa Opulenta
+itm_khergit_guard_armor|Armadura de Guarda Khergit
+itm_khergit_guard_armor_pl|Armadura de Guarda Khergit
+itm_felt_steppe_cap|Touca de Feltro da Estepe
+itm_felt_steppe_cap_pl|Touca de Feltro da Estepe
+itm_khergit_war_helmet|Capacete Khergit de Guerra
+itm_khergit_war_helmet_pl|Capacete Khergit de Guerra
+itm_khergit_helmet|Capacete Khergit
+itm_khergit_helmet_pl|Capacete Khergit
+itm_khergit_guard_boots|Botas Khergit de Guarda
+itm_khergit_guard_boots_pl|Botas Khergit de Guarda
+itm_khergit_guard_helmet|Capacete Khergit de Guarda
+itm_khergit_guard_helmet_pl|Capacete Khergit de Guarda
+itm_khergit_cavalry_helmet|Capacete Khergit de Cavalaria
+itm_khergit_cavalry_helmet_pl|Capacete Khergit de Cavalaria
+itm_black_hood|Capuz Preto
+itm_black_hood_pl|Capuz Preto
+itm_light_leather|Couro Leve
+itm_light_leather_pl|Couro Leve
+itm_light_leather_boots|Botas de Couro Leve
+itm_light_leather_boots_pl|Botas de Couro Leve
+itm_mail_and_plate|Malha e Placas
+itm_mail_and_plate_pl|Malha e Placas
+itm_light_mail_and_plate|Malha e Placas Leve
+itm_light_mail_and_plate_pl|Malha e Placas Leve
+itm_byzantion_helmet_a|Capacete Bizantino
+itm_byzantion_helmet_a_pl|Capacete Bizantino
+itm_magyar_helmet_a|Capacete Magyar
+itm_magyar_helmet_a_pl|Capacete Magyar
+itm_rus_helmet_a|Capacete Rus
+itm_rus_helmet_a_pl|Capacete Rus
+itm_sipahi_helmet_a|Capacete Sipahi
+itm_sipahi_helmet_a_pl|Capacete Sipahi
+itm_shahi|Shahi
+itm_shahi_pl|Shahi
+itm_rabati|Rabati
+itm_rabati_pl|Rabati
+itm_tunic_with_green_cape|Túnica com Capa Verde
+itm_tunic_with_green_cape_pl|Túnica com Capa Verde
+itm_keys|Argola de Chaves
+itm_keys_pl|Argola de Chaves
+itm_bride_dress|Vestido de Noiva
+itm_bride_dress_pl|Vestido de Noiva
+itm_bride_crown|Coroa de Flores
+itm_bride_crown_pl|Coroa de Flores
+itm_bride_shoes|Sapatos de Noiva
+itm_bride_shoes_pl|Sapatos de Noiva
+itm_practice_bow_2|Arco de Treino
+itm_practice_bow_2_pl|Arco de Treino
+itm_practice_arrows_2|Flechas de Treino
+itm_practice_arrows_2_pl|Flechas de Treino
+itm_plate_boots|Botas de Placas
+itm_plate_boots_pl|Botas de Placas
+itm_mail_boots_for_tableau|Botas de Malha
+itm_mail_boots_for_tableau_pl|Botas de Malha
+itm_warhorse_sarranid|Cavalo de Guerra Sarranídeo
+itm_warhorse_sarranid_pl|Cavalo de Guerra Sarranídeo
+itm_warhorse_steppe|Arremetedor da Estepe
+itm_warhorse_steppe_pl|Arremetedor da Estepe
+itm_items_end|Fim dos Itens
+itm_items_end_pl|Fim dos Itens

@@ -1,0 +1,65 @@
+qst_deliver_message|Dostarcz wiadomość do {s13}
+qst_deliver_message_to_enemy_lord|Dostarcz wiadomość do {s13}
+qst_raise_troops|Podnieś {reg1} {s14}
+qst_escort_lady|Eskortuj {s13} do {s14}
+qst_deal_with_bandits_at_lords_village|Ocal wioskę {s15} przed bandytami
+qst_collect_taxes|Zbierz podatki z {s3}
+qst_hunt_down_fugitive|Upoluj {s4}
+qst_kill_local_merchant|Zabij Miejscowego Kupca w {s3}
+; qst_bring_back_runaway_serfs|Bring Back Runaway Serfs
+qst_follow_spy|Podążaj za Szpiegiem na Spotkanie
+; qst_capture_enemy_hero|Capture a Lord from {s13}
+; qst_lend_companion|Lend Your Companion {s3} to {s9}
+qst_collect_debt|Zbierz należność od {s3} dla {s9}
+; qst_incriminate_loyal_commander|Incriminate the Loyal Commander of {s13}, {s16}
+qst_meet_spy_in_enemy_town|Spotkaj szpiega w {s13}
+qst_capture_prisoners|Dostarcz {reg1} {s3} Więźniów
+; qst_lend_surgeon|Lend Your Surgeon {s3} to {s1}
+qst_follow_army|Podążaj za armią {s9}
+qst_report_to_army|Dostarcz raport Marszałkowi {s13}
+; qst_deliver_cattle_to_army|Deliver {reg3} Heads of Cattle to {s13}
+qst_join_siege_with_army|Dołącz do oblężenia {s14}
+; qst_screen_army|Screen the Advance of {s13}'s Army
+qst_scout_waypoints|Przeprowadź zwiad {s13}, {s14} i {s15}
+qst_rescue_lord_by_replace|Ocal {s13} z {s14}
+qst_deliver_message_to_prisoner_lord|Dostarcz Wiadomość z {s13} do {s14}
+; qst_duel_for_lady|Challenge {s13} to a Trial of Arms
+; qst_duel_courtship_rival|Challenge {s13} to a Trial of Arms (optional)
+; qst_duel_avenge_insult|Challenge {s13} to a Trial of Arms
+; qst_move_cattle_herd|Move Cattle Herd to {s13}
+qst_escort_merchant_caravan|Eskortuj Karawanę Kupców do {s8}
+qst_deliver_wine|Dostarcz {reg5} {s6} do {s4}
+qst_troublesome_bandits|Zabij problematycznych bandytów
+qst_kidnapped_girl|Odbij Dziewczynę z rąk bandytów
+; qst_persuade_lords_to_make_peace|Make Sure Two Lords Do Not Object to Peace
+qst_deal_with_looters|Dogadaj się z Grabieżcami
+; qst_deal_with_night_bandits|Deal with Night Bandits
+qst_deliver_grain|Dostarcz pszenicę do {s3}
+; qst_deliver_cattle|Deliver {reg5} Heads of Cattle to {s3}
+qst_train_peasants_against_bandits|Wytrenuj chłopów z {s13} Przeciwko Bandytom
+; qst_eliminate_bandits_infesting_village|Save the Village of {s7} from Marauding Bandits
+qst_visit_lady|Odwiedź Lady
+qst_formal_marriage_proposal|Formalna Propozycja Małóżeństwa
+qst_obtain_liege_blessing|Formalna Propozycja Małóżeństwa
+; qst_wed_betrothed|Wed Your Betrothed
+; qst_wed_betrothed_female|Wed Your Betrothed
+; qst_join_faction|Give Oath of Homage to {s1}
+qst_rebel_against_kingdom|Pomóż odzyskać tron {s14} dla {s13}
+qst_consult_with_minister|Porozmawiaj z Ministrem
+qst_organize_feast|Zorganizuj ucztę
+; qst_resolve_dispute|Resolve Dispute
+; qst_offer_gift|Procure Gift
+; qst_denounce_lord|Denounce Lord
+; qst_intrigue_against_lord|Intrigue against Lord
+qst_track_down_bandits|Znajdź i Zabij Bandytów
+qst_track_down_provocateurs|Znajdź i Zabij Prowokatorów
+; qst_retaliate_for_border_incident|Retaliate for a Border Incident
+qst_raid_caravan_to_start_war|Zaatakuj Neutralną Karawanę, aby Sprowokować Wojnę
+qst_cause_provocation|Daj Królestwu Powód do Ataku na Inne
+; qst_rescue_prisoner|Rescue or Ransom a Prisoner
+qst_destroy_bandit_lair|Zniszcz Kryjówkę Bandytów
+qst_collect_men|Zbierz Pięciu Ludzi
+; qst_learn_where_merchant_brother_is|Learn Where the Hostages are Held.
+qst_save_relative_of_merchant|Zaatakuj Kryjówkę Bandytów
+qst_save_town_from_bandits|Ocal Miasto przed Bandytami
+qst_quests_end|Zadanie Ukończone

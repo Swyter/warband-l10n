@@ -1,0 +1,1174 @@
+itm_no_item|INVALID ITEM
+itm_no_item_pl|INVALID ITEM
+itm_tutorial_spear|Włócznia
+itm_tutorial_spear_pl|Włócznia
+itm_tutorial_club|Pałka
+itm_tutorial_club_pl|Pałka
+itm_tutorial_battle_axe|Topór bojowy
+itm_tutorial_battle_axe_pl|Topór bojowy
+itm_tutorial_arrows|Strzała
+itm_tutorial_arrows_pl|Strzała
+itm_tutorial_bolts|Bełt
+itm_tutorial_bolts_pl|Bełt
+itm_tutorial_short_bow|Krótki łuk
+itm_tutorial_short_bow_pl|Krótki łuk
+itm_tutorial_crossbow|Kusza
+itm_tutorial_crossbow_pl|Kusza
+itm_tutorial_throwing_daggers|Sztylety do rzucania
+itm_tutorial_throwing_daggers_pl|Sztylety do rzucania
+itm_tutorial_saddle_horse|Osiodłany koń
+itm_tutorial_saddle_horse_pl|Osiodłany koń
+itm_tutorial_shield|Pawęż
+itm_tutorial_shield_pl|Pawęż
+itm_tutorial_staff_no_attack|Laga
+itm_tutorial_staff_no_attack_pl|Laga
+itm_tutorial_staff|Laga
+itm_tutorial_staff_pl|Laga
+itm_tutorial_sword|Miecz
+itm_tutorial_sword_pl|Miecz
+itm_tutorial_axe|Topór
+itm_tutorial_axe_pl|Topór
+itm_tutorial_dagger|Sztylet
+itm_tutorial_dagger_pl|Sztylet
+itm_horse_meat|Końskie mięso
+itm_horse_meat_pl|Końskie mięso
+itm_practice_sword|Miecz do ćwiczeń
+itm_practice_sword_pl|Miecz do ćwiczeń
+itm_heavy_practice_sword|Ciężki miecz do ćwiczeń
+itm_heavy_practice_sword_pl|Ciężki miecz do ćwiczeń
+itm_practice_dagger|Sztylet do ćwiczeń
+itm_practice_dagger_pl|Sztylet do ćwiczeń
+itm_practice_axe|Topór do ćwiczeń
+itm_practice_axe_pl|Topór do ćwiczeń
+itm_arena_axe|Topór
+itm_arena_axe_pl|Topór
+itm_arena_sword|Miecz
+itm_arena_sword_pl|Miecz
+itm_arena_sword_two_handed|Miecz dwuręczny
+itm_arena_sword_two_handed_pl|Miecz dwuręczny
+itm_arena_lance|Lanca
+itm_arena_lance_pl|Lanca
+itm_practice_staff|Laga do ćwiczeń
+itm_practice_staff_pl|Laga do ćwiczeń
+itm_practice_lance|Lanca do ćwiczeń
+itm_practice_lance_pl|Lanca do ćwiczeń
+itm_practice_shield|Tarcza do ćwiczeń
+itm_practice_shield_pl|Tarcza do ćwiczeń
+itm_practice_bow|Łuk do ćwiczeń
+itm_practice_bow_pl|Łuk do ćwiczeń
+itm_practice_crossbow|Kusza  do ćwiczeń
+itm_practice_crossbow_pl|Kusza do ćwiczeń
+itm_practice_javelin|Oszczep do ćwiczeń
+itm_practice_javelin_pl|Oszczep do ćwiczeń
+; itm_practice_javelin_melee|practice javelin melee
+; itm_practice_javelin_melee_pl|practice javelin melee
+itm_practice_throwing_daggers|Sztylety do rzucania
+itm_practice_throwing_daggers_pl|Sztylety do rzucania
+itm_practice_throwing_daggers_100_amount|Sztylety do rzucania
+itm_practice_throwing_daggers_100_amount_pl|Sztylety do rzucania
+itm_practice_horse|Koń do ćwiczeń
+itm_practice_horse_pl|Koń do ćwiczeń
+itm_practice_arrows|Strzały do ćwiczeń
+itm_practice_arrows_pl|Strzały do ćwiczeń
+itm_practice_bolts|Bełty do ćwiczeń
+itm_practice_bolts_pl|Bełty do ćwiczeń
+itm_practice_arrows_10_amount|Strzały do ćwiczeń
+itm_practice_arrows_10_amount_pl|Strzały do ćwiczeń
+itm_practice_arrows_100_amount|Strzały do ćwiczeń
+itm_practice_arrows_100_amount_pl|Strzały do ćwiczeń
+itm_practice_bolts_9_amount|Bełty do ćwiczeń
+itm_practice_bolts_9_amount_pl|Bełty do ćwiczeń
+itm_practice_boots|Buty do ćwiczeń
+itm_practice_boots_pl|Buty do ćwiczeń
+itm_red_tourney_armor|Czerwona zbroja turniejowa
+itm_red_tourney_armor_pl|Czerwona zbroja turniejowa
+itm_blue_tourney_armor|Niebieska zbroja turniejowa
+itm_blue_tourney_armor_pl|Niebieska zbroja turniejowa
+itm_green_tourney_armor|Zielona zbroja turniejowa
+itm_green_tourney_armor_pl|Zielona zbroja turniejowa
+itm_gold_tourney_armor|Złota zbroja turniejowa
+itm_gold_tourney_armor_pl|Złota zbroja turniejowa
+itm_red_tourney_helmet|Czerwony hełm turniejowy
+itm_red_tourney_helmet_pl|Czerwony hełm turniejowy
+itm_blue_tourney_helmet|Niebieski hełm turniejowy
+itm_blue_tourney_helmet_pl|Niebieski hełm turniejowy
+itm_green_tourney_helmet|Zielony hełm turniejowy
+itm_green_tourney_helmet_pl|Zielony hełm turniejowy
+itm_gold_tourney_helmet|Złoty hełm turniejowy
+itm_gold_tourney_helmet_pl|Złoty hełm turniejowy
+itm_arena_shield_red|Tarcza
+itm_arena_shield_red_pl|Tarcza
+itm_arena_shield_blue|Tarcza
+itm_arena_shield_blue_pl|Tarcza
+itm_arena_shield_green|Tarcza
+itm_arena_shield_green_pl|Tarcza
+itm_arena_shield_yellow|Tarcza
+itm_arena_shield_yellow_pl|Tarcza
+itm_arena_armor_white|Biała zbroja na arenę
+itm_arena_armor_white_pl|Biała zbroja na arenę
+itm_arena_armor_red|Czerwona zbroja na arenę
+itm_arena_armor_red_pl|Czerwona zbroja na arenę
+itm_arena_armor_blue|Niebieska zbroja na arenę
+itm_arena_armor_blue_pl|Niebieska zbroja na arenę
+itm_arena_armor_green|Zielona zbroja na arenę
+itm_arena_armor_green_pl|Zielona zbroja na arenę
+itm_arena_armor_yellow|Żółta zbroja na arenę
+itm_arena_armor_yellow_pl|Żółta zbroja na arenę
+itm_arena_tunic_white|Biała tunika na arenę
+itm_arena_tunic_white_pl|Biała tunika na arenę
+itm_arena_tunic_red|Czerwona tunika na arenę
+itm_arena_tunic_red_pl|Czerwona tunika na arenę
+itm_arena_tunic_blue|Niebieska tunika na arenę
+itm_arena_tunic_blue_pl|Niebieska tunika na arenę
+itm_arena_tunic_green|Zielona tunika na arenę
+itm_arena_tunic_green_pl|Zielona tunika na arenę
+itm_arena_tunic_yellow|Żółta  tunika na arenę
+itm_arena_tunic_yellow_pl|Żółta tunika na arenę
+itm_arena_helmet_red|Czerwony hełm na arenę
+itm_arena_helmet_red_pl|Czerwony hełm na arenę
+itm_arena_helmet_blue|Niebieski hełm na arenę
+itm_arena_helmet_blue_pl|Niebieski hełm na arenę
+itm_arena_helmet_green|Zielony hełm na arenę
+itm_arena_helmet_green_pl|Zielony hełm na arenę
+itm_arena_helmet_yellow|Żółty hełm na arenę
+itm_arena_helmet_yellow_pl|Żółty hełm na arenę
+itm_steppe_helmet_white|Biały hełm stepowy
+itm_steppe_helmet_white_pl|Biały hełm stepowy
+itm_steppe_helmet_red|Czerwony hełm stepowy
+itm_steppe_helmet_red_pl|Czerwony hełm stepowy
+itm_steppe_helmet_blue|Niebieski hełm stepowy
+itm_steppe_helmet_blue_pl|Niebieski hełm stepowy
+itm_steppe_helmet_green|Zielony hełm stepowy
+itm_steppe_helmet_green_pl|Zielony hełm stepowy
+itm_steppe_helmet_yellow|Żółty hełm stepowy
+itm_steppe_helmet_yellow_pl|Żółty hełm stepowy
+itm_tourney_helm_white|Biały hełm turniejowy
+itm_tourney_helm_white_pl|Biały hełm turniejowy
+itm_tourney_helm_red|Czerwony hełm turniejowy
+itm_tourney_helm_red_pl|Czerwony hełm turniejowy
+itm_tourney_helm_blue|Niebieski hełm turniejowy
+itm_tourney_helm_blue_pl|Niebieski hełm turniejowy
+itm_tourney_helm_green|Zielony hełm turniejowy
+itm_tourney_helm_green_pl|Zielony hełm turniejowy
+itm_tourney_helm_yellow|Żółty hełm turniejowy
+itm_tourney_helm_yellow_pl|Żółty hełm turniejowy
+itm_arena_turban_red|Turban na arenę
+itm_arena_turban_red_pl|Turban na arenę
+itm_arena_turban_blue|Turban na arenę
+itm_arena_turban_blue_pl|Turban na arenę
+itm_arena_turban_green|Turban na arenę
+itm_arena_turban_green_pl|Turban na arenę
+itm_arena_turban_yellow|Turban na arenę
+itm_arena_turban_yellow_pl|Turban na arenę
+itm_book_tactics|Odnośnie Spraw Militarnych
+itm_book_tactics_pl|Odnoście Spraw Militarnych
+itm_book_persuasion|Retoryka do Herenniusza
+itm_book_persuasion_pl|Retoryka do Herenniusza
+itm_book_leadership|Życie Aleksandra Wielkiego
+itm_book_leadership_pl|Życie Aleksandra Wielkiego
+itm_book_intelligence|Eseje o Logice
+itm_book_intelligence_pl|Eseje o Logice
+itm_book_trade|Traktaty o Wartości Rzeczy
+itm_book_trade_pl|Traktaty o Wartości Rzeczy
+itm_book_weapon_mastery|O Sztuce Walki Mieczem
+itm_book_weapon_mastery_pl|O Sztuce Walki Mieczem
+itm_book_engineering|Metoda Twierdzeń Mechanicznych
+itm_book_engineering_pl|Metoda Twierdzeń Mechanicznych
+itm_book_wound_treatment_reference|Księga o Leczeniu
+itm_book_wound_treatment_reference_pl|Księga o Leczeniu
+itm_book_training_reference|O Broni
+itm_book_training_reference_pl|O Broni
+itm_book_surgery_reference|Wielka Księga Operowania
+itm_book_surgery_reference_pl|Wielka Księga Operowania
+itm_spice|Przyprawa
+itm_spice_pl|Przyprawa
+itm_salt|Sól
+itm_salt_pl|Sól
+itm_oil|Olej
+itm_oil_pl|Olej
+itm_pottery|Porcelana
+itm_pottery_pl|Porcelana
+itm_raw_flax|Paczka lnu
+; itm_raw_flax_pl|Flax Bundle
+itm_linen|Płótno
+itm_linen_pl|Płótno
+itm_wool|Wełna
+itm_wool_pl|Wełna
+itm_wool_cloth|Tkanina wełniana
+itm_wool_cloth_pl|Tkanina wełniana
+itm_raw_silk|Czysty jedwab
+itm_raw_silk_pl|Czysty jedwab
+itm_raw_dyes|Barwniki
+itm_raw_dyes_pl|Barwniki
+itm_velvet|Aksamit
+itm_velvet_pl|Aksamit
+itm_iron|Żelazo
+itm_iron_pl|Żelazo
+itm_tools|Narzędzia
+itm_tools_pl|Narzędzia
+itm_raw_leather|Skóry
+itm_raw_leather_pl|Skóry
+itm_leatherwork|Wyroby skórzane
+; itm_leatherwork_pl|Leatherwork
+itm_raw_date_fruit|Daktyle
+itm_raw_date_fruit_pl|Daktyle
+itm_furs|Futra
+itm_furs_pl|Futra
+itm_wine|Wino
+itm_wine_pl|Wino
+itm_ale|Piwo
+itm_ale_pl|Piwo
+itm_smoked_fish|Wędzona ryba
+itm_smoked_fish_pl|Wędzona ryba
+itm_cheese|Ser
+itm_cheese_pl|Ser
+itm_honey|Miód
+itm_honey_pl|Miód
+itm_sausages|Kiełbasa
+itm_sausages_pl|Kiełbasa
+itm_cabbages|Kapusta
+itm_cabbages_pl|Kapusta
+itm_dried_meat|Suszone mięso
+itm_dried_meat_pl|Suszone mięso
+itm_apples|Owoce
+itm_apples_pl|Owoce
+itm_raw_grapes|Winogrona
+itm_raw_grapes_pl|Winogrona
+itm_raw_olives|Oliwki
+itm_raw_olives_pl|Oliwki
+itm_grain|Nasiona
+itm_grain_pl|Nasiona
+itm_cattle_meat|Wołowina
+itm_cattle_meat_pl|Wołowina
+itm_bread|Chleb
+itm_bread_pl|Chleb
+itm_chicken|Kurczak
+itm_chicken_pl|Kurczak
+itm_pork|Wieprzowina
+itm_pork_pl|Wieprzowina
+itm_butter|Masło
+itm_butter_pl|Masło
+itm_siege_supply|Zapasy
+itm_siege_supply_pl|Zapasy
+itm_quest_wine|Wino
+itm_quest_wine_pl|Wino
+itm_quest_ale|Piwo
+itm_quest_ale_pl|Piwo
+itm_sumpter_horse|Stadny koń
+itm_sumpter_horse_pl|Stadny koń
+itm_saddle_horse|Osiodłany koń
+itm_saddle_horse_pl|Osiodłany koń
+itm_steppe_horse|Koń stepowy
+itm_steppe_horse_pl|Koń stepowy
+itm_arabian_horse_a|Koń pustynny
+itm_arabian_horse_a_pl|Koń pustynny
+itm_courser|Rumak
+itm_courser_pl|Rumak
+itm_arabian_horse_b|Koń Sarranidzki
+itm_arabian_horse_b_pl|Koń Sarranidzki
+itm_hunter|Łowca
+itm_hunter_pl|Łowca
+itm_warhorse|Koń wojenny
+itm_warhorse_pl|Koń wojenny
+itm_charger|Koń kawaleryjski
+itm_charger_pl|Koń kawaleryjski
+itm_arrows|Strzały
+itm_arrows_pl|Strzały
+itm_khergit_arrows|Strzały Khergickie
+itm_khergit_arrows_pl|Strzały Khergickie
+itm_barbed_arrows|Strzały kolczaste
+itm_barbed_arrows_pl|Strzały kolczaste
+itm_bodkin_arrows|Strzały szydłowe
+itm_bodkin_arrows_pl|Strzały szydłowe
+itm_bolts|Bełty
+itm_bolts_pl|Bełty
+itm_steel_bolts|Bełty stalowe
+itm_steel_bolts_pl|Bełty stalowe
+itm_cartridges|Naboje
+itm_cartridges_pl|Naboje
+itm_pilgrim_disguise|Przebranie pielgrzyma
+itm_pilgrim_disguise_pl|Przebranie pielgrzyma
+itm_pilgrim_hood|Kaptur pielgrzyma
+itm_pilgrim_hood_pl|Kaptur pielgrzyma
+itm_leather_gloves|Skórzane rękawice
+itm_leather_gloves_pl|Skórzane rękawice
+itm_mail_mittens|Metalowe rękawice
+itm_mail_mittens_pl|Metalowe rękawice
+itm_scale_gauntlets|Rękawice z łuski
+itm_scale_gauntlets_pl|Rękawice z łuski
+itm_lamellar_gauntlets|Rękawice Lamellarskie
+itm_lamellar_gauntlets_pl|Rękawice Lamellarskie
+itm_gauntlets|Rękawice
+itm_gauntlets_pl|Rękawice
+itm_wrapping_boots|Płócienne buty
+itm_wrapping_boots_pl|Płócienne buty
+itm_woolen_hose|Wełniane kalesony
+itm_woolen_hose_pl|Wełniane kalesony
+itm_blue_hose|Niebieskie kalesony
+itm_blue_hose_pl|Niebieskie kalesony
+itm_hunter_boots|Buty myśliwskie
+itm_hunter_boots_pl|Buty myśliwskie
+itm_hide_boots|Buty skórzane
+itm_hide_boots_pl|Buty skórzane
+itm_ankle_boots|Buty za kostkę
+itm_ankle_boots_pl|Buty za kostkę
+itm_nomad_boots|Buty nomada
+itm_nomad_boots_pl|Buty nomada
+itm_leather_boots|Buty ze skóry
+itm_leather_boots_pl|Buty ze skóry
+itm_splinted_leather_greaves|Sznurowane skórzane nagolenniki
+itm_splinted_leather_greaves_pl|Sznurowane skórzane nagolenniki
+itm_mail_chausses|Metalowe nagolenniki
+itm_mail_chausses_pl|Metalowe nagolenniki
+itm_splinted_greaves|Sznurowane nagolenniki
+itm_splinted_greaves_pl|Sznurowane nagolenniki
+itm_mail_boots|Metalowe buty
+itm_mail_boots_pl|Metalowe buty
+itm_iron_greaves|Żelazne nagolenniki
+itm_iron_greaves_pl|Żelazne nagolenniki
+itm_black_greaves|Czarne nagolenniki
+itm_black_greaves_pl|Czarne nagolenniki
+itm_khergit_leather_boots|Skórzane buty Khergickie
+itm_khergit_leather_boots_pl|Skórzane buty Khergickie
+itm_sarranid_boots_a|Buty Sarranidzkie
+itm_sarranid_boots_a_pl|Buty Sarranidzkie
+itm_sarranid_boots_b|Skórzane buty Sarranidzkie
+itm_sarranid_boots_b_pl|Skórzane buty Sarranidzkie
+itm_sarranid_boots_c|Buty pokryte metalem
+itm_sarranid_boots_c_pl|Buty pokryte metalem
+itm_sarranid_boots_d|Metalowe buty Sarranidzkie
+itm_sarranid_boots_d_pl|Metalowe buty Sarranidzkie
+itm_sarranid_head_cloth|Kobiece nakrycie głowy
+itm_sarranid_head_cloth_pl|Kobiece nakrycie głowy
+itm_sarranid_head_cloth_b|Kobiece nakrycie głowy
+itm_sarranid_head_cloth_b_pl|Kobiece nakrycie głowy
+itm_sarranid_felt_head_cloth|Nakrycie głowy
+itm_sarranid_felt_head_cloth_pl|Nakrycie głowy
+itm_sarranid_felt_head_cloth_b|Nakrycie głowy
+itm_sarranid_felt_head_cloth_b_pl|Nakrycie głowy
+itm_lady_dress_ruby|Sukienka
+itm_lady_dress_ruby_pl|Sukienka
+itm_lady_dress_green|Sukienka
+itm_lady_dress_green_pl|Sukienka
+itm_lady_dress_blue|Sukienka
+itm_lady_dress_blue_pl|Sukienka
+itm_red_dress|Czerwona sukienka
+itm_red_dress_pl|Czerwona sukienka
+itm_brown_dress|Brązowa sukienka
+itm_brown_dress_pl|Brązowa sukienka
+itm_green_dress|Zielona sukienka
+itm_green_dress_pl|Zielona sukienka
+itm_khergit_lady_dress|Sukienka Khergicka
+itm_khergit_lady_dress_pl|Sukienka Khergicka
+itm_khergit_lady_dress_b|Skórzana sukienka Khergicka
+itm_khergit_lady_dress_b_pl|Skórzana sukienka Khergicka
+itm_sarranid_lady_dress|Sukienka Sarranicka
+itm_sarranid_lady_dress_pl|Sukienka Sarranicka
+itm_sarranid_lady_dress_b|Sukienka Sarranicka
+itm_sarranid_lady_dress_b_pl|Sukienka Sarranicka
+itm_sarranid_common_dress|Sukienka Sarranicka
+itm_sarranid_common_dress_pl|Sukienka Sarranicka
+itm_sarranid_common_dress_b|Sukienka Sarranicka
+itm_sarranid_common_dress_b_pl|Sukienka Sarranicka
+itm_courtly_outfit|Odzienie dworskie
+itm_courtly_outfit_pl|Odzienie dworskie
+itm_nobleman_outfit|Odzienie szlachcica
+itm_nobleman_outfit_pl|Odzienie szlachcica
+itm_nomad_armor|Zbroja nomada
+itm_nomad_armor_pl|Zbroja nomada
+itm_khergit_armor|Zbroja Khergicka
+itm_khergit_armor_pl|Zbroja Khergicka
+itm_leather_jacket|Skórzana kurta
+itm_leather_jacket_pl|Skórzana kurta
+itm_rawhide_coat|Płaszcz z nieoprawionej skóry
+itm_rawhide_coat_pl|Płaszcz z nieoprawionej skóry
+itm_leather_armor|Skórzana zbroja
+itm_leather_armor_pl|Skórzana zbroja
+itm_fur_coat|Futrzany płaszcz
+itm_fur_coat_pl|Futrzany płaszcz
+itm_coat|Płaszcz
+itm_coat_pl|Płaszcz
+itm_leather_coat|Skórzany płaszcz
+itm_leather_coat_pl|Skórzany płaszcz
+itm_mail_coat|Kolczuga
+itm_mail_coat_pl|Kolczuga
+itm_long_mail_coat|Długa kolczuga
+itm_long_mail_coat_pl|Długa kolczuga
+itm_mail_with_tunic_red|Kolczuga z tuniką
+itm_mail_with_tunic_red_pl|Kolczuga z tuniką
+itm_mail_with_tunic_green|Kolczuga z tuniką
+itm_mail_with_tunic_green_pl|Kolczuga z tuniką
+itm_hide_coat|Skórzany płaszcz
+itm_hide_coat_pl|Skórzany płaszcz
+itm_merchant_outfit|Ubiór kupca
+itm_merchant_outfit_pl|Ubiór kupca
+itm_homespun_dress|Prosta sukienka
+itm_homespun_dress_pl|Prosta sukienka
+itm_thick_coat|Gruby płaszcz
+itm_thick_coat_pl|Gruby płaszcz
+itm_coat_with_cape|Płaszcz z peleryną
+itm_coat_with_cape_pl|Płaszcz z peleryną
+itm_steppe_outfit|Ubiór stepowy
+itm_steppe_outfit_pl|Ubiór stepowy
+itm_nordic_outfit|Odzienie nordyckie
+itm_nordic_outfit_pl|Odzienie nordyckie
+itm_nordic_armor|Zbroja nordycka
+itm_nordic_armor_pl|Zbroja nordycka
+itm_hide_armor|Zbroja skórzana
+itm_hide_armor_pl|Zbroja skórzana
+itm_cloaked_tunic|Tunika z peleryną
+itm_cloaked_tunic_pl|Tunika z peleryną
+itm_sleeveless_tunic|Tunika bez rękawów
+itm_sleeveless_tunic_pl|Tunika bez rękawów
+itm_sleeveless_leather_tunic|Skórzana tunika bez rękawów
+itm_sleeveless_leather_tunic_pl|Skórzana tunika bez rękawów
+itm_linen_shirt|Lniana koszula
+itm_linen_shirt_pl|Lniana koszula
+itm_wool_coat|Wełniany płaszcz
+itm_wool_coat_pl|Wełniany płaszcz
+itm_dress|Sukienka
+itm_dress_pl|Sukienka
+itm_blue_dress|Niebieska sukienka
+itm_blue_dress_pl|Niebieska sukienka
+itm_peasant_dress|Sukienka chłopska
+itm_peasant_dress_pl|Sukienka chłopska
+itm_woolen_dress|Wełniana sukienka
+itm_woolen_dress_pl|Wełniana sukienka
+itm_shirt|Koszula
+itm_shirt_pl|Koszula
+itm_linen_tunic|Lniana tunika
+itm_linen_tunic_pl|Lniana tunika
+itm_short_tunic|Czerwona tunika
+itm_short_tunic_pl|Czerwona tunika
+itm_red_shirt|Czerwona koszula
+itm_red_shirt_pl|Czerwona koszula
+itm_red_tunic|Czerwona tunika
+itm_red_tunic_pl|Czerwona tunika
+itm_green_tunic|Zielona tunika
+itm_green_tunic_pl|Zielona tunika
+itm_blue_tunic|Niebieska tunika
+itm_blue_tunic_pl|Niebieska tunika
+itm_robe|Szata
+itm_robe_pl|Szata
+itm_coarse_tunic|Tunika z kamizelką
+itm_coarse_tunic_pl|Tunika z kamizelką
+itm_leather_apron|Skórzany fartuch
+itm_leather_apron_pl|Skórzany fartuch
+itm_tabard|Kamizela
+itm_tabard_pl|Kamizela
+itm_leather_vest|Skórzana kamizelka
+itm_leather_vest_pl|Skórzana kamizelka
+itm_steppe_armor|Zbroja stepowa
+itm_steppe_armor_pl|Zbroja stepowa
+itm_gambeson|Przeszywanica
+itm_gambeson_pl|Przeszywanica
+itm_blue_gambeson|Niebieska przeszywanica
+itm_blue_gambeson_pl|Niebieska przeszywanica
+itm_red_gambeson|Czerwona przeszywanica
+itm_red_gambeson_pl|Czerwona przeszywanica
+itm_padded_cloth|Przeszywanica
+itm_padded_cloth_pl|Przeszywanica
+itm_aketon_green|Wyściełany ubiór
+itm_aketon_green_pl|Wyściełany ubiór
+itm_leather_jerkin|Skórzany bezrękawnik
+itm_leather_jerkin_pl|Skórzany bezrękawnik
+itm_nomad_vest|Kamizelka nomada
+itm_nomad_vest_pl|Kamizelka nomada
+itm_ragged_outfit|Wyświechtany ubiór
+itm_ragged_outfit_pl|Wyświechtany ubiór
+itm_padded_leather|Wyściełana skóra
+itm_padded_leather_pl|Wyściełana skóra
+itm_tribal_warrior_outfit|Ubiór wojownika plemiennego
+itm_tribal_warrior_outfit_pl|Ubiór wojownika plemiennego
+itm_nomad_robe|Szata nomada
+itm_nomad_robe_pl|Szata nomada
+itm_studded_leather_coat|Nabijany skórzany płaszcz
+itm_studded_leather_coat_pl|Nabijany skórzany płaszcz
+itm_byrnie|Kolczuga
+itm_byrnie_pl|Kolczuga
+itm_haubergeon|Pancerz kolczy
+itm_haubergeon_pl|Pancerz kolczy
+itm_lamellar_vest|Kamizela płytkowa
+itm_lamellar_vest_pl|Kamizela płytkowa
+itm_lamellar_vest_khergit|Khergicka kamizela płytkowa
+itm_lamellar_vest_khergit_pl|Khergicka kamizela płytkowa
+itm_mail_shirt|Kolczuga
+itm_mail_shirt_pl|Kolczuga
+itm_mail_hauberk|Pancerz kolczy
+itm_mail_hauberk_pl|Pancerz kolczy
+itm_mail_with_surcoat|Zbroja z opończą
+itm_mail_with_surcoat_pl|Zbroja z opończą
+itm_surcoat_over_mail|Zbroja z opończą
+itm_surcoat_over_mail_pl|Zbroja z opończą
+itm_brigandine_red|Brygantyna
+itm_brigandine_red_pl|Brygantyna
+itm_lamellar_armor|Zbroja płytowa
+itm_lamellar_armor_pl|Zbroja płytowa
+itm_scale_armor|Zbroja łuskowa
+itm_scale_armor_pl|Zbroja łuskowa
+itm_banded_armor|Zbroja łączona
+itm_banded_armor_pl|Zbroja łączona
+itm_cuir_bouilli|Zbroja z utwardzonej skóry
+itm_cuir_bouilli_pl|Zbroja z utwardzonej skóry
+itm_coat_of_plates|Zbroja płytowa
+itm_coat_of_plates_pl|Zbroja płytowa
+itm_coat_of_plates_red|Zbroja płytowa
+itm_coat_of_plates_red_pl|Zbroja płytowa
+itm_plate_armor|Zbroja płytowa
+itm_plate_armor_pl|Zbroja płytowa
+itm_black_armor|Czarna zbroja
+itm_black_armor_pl|Czarna zbroja
+itm_pelt_coat|Płaszcz z futrem
+itm_pelt_coat_pl|Płaszcz z futrem
+itm_khergit_elite_armor|Elitarna zbroja Khergicka
+itm_khergit_elite_armor_pl|Elitarna zbroja Khergicka
+itm_vaegir_elite_armor|Elitarna zbroja Vaegirska
+itm_vaegir_elite_armor_pl|Elitarna zbroja Vaegirska
+itm_sarranid_elite_armor|Elitarna zbroja Sarranidzka
+itm_sarranid_elite_armor_pl|Elitarna zbroja Sarranidzka
+itm_sarranid_dress_a|Sukienka
+itm_sarranid_dress_a_pl|Sukienka
+itm_sarranid_dress_b|Sukienka
+itm_sarranid_dress_b_pl|Sukienka
+itm_sarranid_cloth_robe|Znoszona szata
+itm_sarranid_cloth_robe_pl|Znoszona szata
+itm_sarranid_cloth_robe_b|Znoszona szata
+itm_sarranid_cloth_robe_b_pl|Znoszona szata
+itm_skirmisher_armor|Zbroja potyczkowa
+itm_skirmisher_armor_pl|Zbroja potyczkowa
+itm_archers_vest|Gruba kamizelka łucznika
+itm_archers_vest_pl|Gruba kamizelka łucznika
+itm_sarranid_leather_armor|Skórzana zbroja Sarranidzka
+itm_sarranid_leather_armor_pl|Skórzana zbroja Sarranidzka
+itm_sarranid_cavalry_robe|Szata kawalerii
+itm_sarranid_cavalry_robe_pl|Szata kawalerii
+itm_arabian_armor_b|Sarranidzka zbroja strażnika
+itm_arabian_armor_b_pl|Sarranidzka zbroja strażnika
+itm_sarranid_mail_shirt|Sarranidzka kolczuga
+itm_sarranid_mail_shirt_pl|Sarranidzka kolczuga
+itm_mamluke_mail|Zbroja Mamlucka
+itm_mamluke_mail_pl|Zbroja Mamlucka
+itm_burlap_tunic|Tunika z konopii
+itm_burlap_tunic_pl|Tunika z konopii
+itm_heraldic_mail_with_surcoat|Zbroja herolda z opończą
+itm_heraldic_mail_with_surcoat_pl|Zbroja herolda z opończą
+itm_heraldic_mail_with_tunic|Zbroja herolda
+itm_heraldic_mail_with_tunic_pl|Zbroja herolda
+itm_heraldic_mail_with_tunic_b|Zbroja herolda
+itm_heraldic_mail_with_tunic_b_pl|Zbroja herolda
+itm_heraldic_mail_with_tabard|Zbroja herolda z kamizelą
+itm_heraldic_mail_with_tabard_pl|Zbroja herolda z kamizelą
+itm_turret_hat_ruby|Szpiczasta czapka
+itm_turret_hat_ruby_pl|Szpiczasta czapka
+itm_turret_hat_blue|Szpiczasta czapka
+itm_turret_hat_blue_pl|Szpiczasta czapka
+itm_turret_hat_green|Płaska czapka
+itm_turret_hat_green_pl|Płaska czapka
+itm_head_wrappings|Nakrycie głowy
+itm_head_wrappings_pl|Nakrycie głowy
+itm_court_hat|Szpiczasta czapka
+itm_court_hat_pl|Szpiczasta czapka
+itm_wimple_a|Podwika
+itm_wimple_a_pl|Podwika
+itm_wimple_with_veil|Podwika z woalką
+itm_wimple_with_veil_pl|Podwika z woalką
+itm_straw_hat|Słomiany kapelusz
+itm_straw_hat_pl|Słomiany kapelusz
+itm_common_hood|Kaptur
+itm_common_hood_pl|Kaptur
+itm_hood_b|Kaptur
+itm_hood_b_pl|Kaptur
+itm_hood_c|Kaptur
+itm_hood_c_pl|Kaptur
+itm_hood_d|Kaptur
+itm_hood_d_pl|Kaptur
+itm_headcloth|Nakrycie głowy
+itm_headcloth_pl|Nakrycie głowy
+itm_woolen_hood|Wełniany kaptur
+itm_woolen_hood_pl|Wełniany kaptur
+itm_arming_cap|Czepek pod hełm
+itm_arming_cap_pl|Czepek pod hełm
+itm_fur_hat|Futrzana czapa
+itm_fur_hat_pl|Futrzana czapa
+itm_nomad_cap|Czapka nomada
+itm_nomad_cap_pl|Czapka nomada
+itm_nomad_cap_b|Czapka nomada
+itm_nomad_cap_b_pl|Czapka nomada
+itm_steppe_cap|Czapka stepowa
+itm_steppe_cap_pl|Czapka stepowa
+itm_padded_coif|Kaptur kolczy
+itm_padded_coif_pl|Kaptur kolczy
+itm_woolen_cap|Wełniany czepek
+itm_woolen_cap_pl|Wełniany czepek
+itm_felt_hat|Filcowa czapka
+itm_felt_hat_pl|Filcowa czapka
+itm_felt_hat_b|Filcowa czapka
+itm_felt_hat_b_pl|Filcowa czapka
+itm_leather_cap|Skórzana czapa
+itm_leather_cap_pl|Skórzana czapa
+itm_female_hood|Damski kaptur
+itm_female_hood_pl|Damski kaptur
+itm_leather_steppe_cap_a|Stepowa czapa
+itm_leather_steppe_cap_a_pl|Stepowa czapa
+itm_leather_steppe_cap_b|Czapka stepowa
+itm_leather_steppe_cap_b_pl|Czapka stepowa
+itm_leather_steppe_cap_c|Stepowa czapa
+itm_leather_steppe_cap_c_pl|Czapka stepowa
+itm_leather_warrior_cap|Skórzana czapa wojownika
+itm_leather_warrior_cap_pl|Skórzana czapa wojownika
+itm_skullcap|Przylegająca czapa
+itm_skullcap_pl|Przylegająca czapa
+itm_mail_coif|Kaptur kolczy
+itm_mail_coif_pl|Kaptur kolczy
+itm_footman_helmet|Hełm piechura
+itm_footman_helmet_pl|Hełm piechura
+itm_nasal_helmet|Hełm normandzki
+itm_nasal_helmet_pl|Hełm normandzki
+itm_norman_helmet|Hełm z czapą
+itm_norman_helmet_pl|Hełm z czapą
+itm_segmented_helmet|Hełm segmentowy
+itm_segmented_helmet_pl|Hełm segmentowy
+itm_helmet_with_neckguard|Hełm z osłoną na szyję
+itm_helmet_with_neckguard_pl|Hełm z osłoną na szyję
+itm_flat_topped_helmet|Hełm garnczkowy
+itm_flat_topped_helmet_pl|Hełm garnczkowy
+itm_kettle_hat|Hełm
+itm_kettle_hat_pl|Hełm
+itm_spiked_helmet|Hełm kolczasty
+itm_spiked_helmet_pl|Hełm kolczasty
+itm_nordic_helmet|Hełm nordycki
+itm_nordic_helmet_pl|Hełm nordycki
+itm_khergit_lady_hat|Damska czapka Khergicka
+itm_khergit_lady_hat_pl|Damska czapka Khergicka
+itm_khergit_lady_hat_b|Skórzana kobieca czapka Khergicka
+itm_khergit_lady_hat_b_pl|Skórzana kobieca czapka Khergicka
+itm_sarranid_felt_hat|Sarranicka filcowa czapka
+itm_sarranid_felt_hat_pl|Sarranicka filcowa czapka
+itm_turban|Turban
+itm_turban_pl|Turban
+itm_desert_turban|Pustynny turban
+itm_desert_turban_pl|Pustynny turban
+itm_sarranid_warrior_cap|Sarranicka czapa wojownika
+itm_sarranid_warrior_cap_pl|Sarranicka czapa wojownika
+itm_sarranid_horseman_helmet|Hełm kawalerzysty
+itm_sarranid_horseman_helmet_pl|Hełm kawalerzysty
+; itm_sarranid_helmet1|Sarranid Keffiyeh Helmet
+; itm_sarranid_helmet1_pl|Sarranid Keffiyeh Helmet
+; itm_sarranid_mail_coif|Sarranid Mail Coif
+; itm_sarranid_mail_coif_pl|Sarranid Mail Coif
+; itm_sarranid_veiled_helmet|Sarranid Veiled Helmet
+; itm_sarranid_veiled_helmet_pl|Sarranid Veiled Helmet
+; itm_nordic_archer_helmet|Nordic Leather Helmet
+; itm_nordic_archer_helmet_pl|Nordic Leather Helmet
+; itm_nordic_veteran_archer_helmet|Nordic Leather Helmet
+; itm_nordic_veteran_archer_helmet_pl|Nordic Leather Helmet
+; itm_nordic_footman_helmet|Nordic Footman Helmet
+; itm_nordic_footman_helmet_pl|Nordic Footman Helmet
+; itm_nordic_fighter_helmet|Nordic Fighter Helmet
+; itm_nordic_fighter_helmet_pl|Nordic Fighter Helmet
+; itm_nordic_huscarl_helmet|Nordic Huscarl's Helmet
+; itm_nordic_huscarl_helmet_pl|Nordic Huscarl's Helmet
+; itm_nordic_warlord_helmet|Nordic Warlord Helmet
+; itm_nordic_warlord_helmet_pl|Nordic Warlord Helmet
+; itm_vaegir_fur_cap|Cap with Fur
+; itm_vaegir_fur_cap_pl|Cap with Fur
+; itm_vaegir_fur_helmet|Vaegir Helmet
+; itm_vaegir_fur_helmet_pl|Vaegir Helmet
+; itm_vaegir_spiked_helmet|Spiked Cap
+; itm_vaegir_spiked_helmet_pl|Spiked Cap
+; itm_vaegir_lamellar_helmet|Helmet with Lamellar Guard
+; itm_vaegir_lamellar_helmet_pl|Helmet with Lamellar Guard
+; itm_vaegir_noble_helmet|Vaegir Nobleman Helmet
+; itm_vaegir_noble_helmet_pl|Vaegir Nobleman Helmet
+; itm_vaegir_war_helmet|Vaegir War Helmet
+; itm_vaegir_war_helmet_pl|Vaegir War Helmet
+; itm_vaegir_mask|Vaegir War Mask
+; itm_vaegir_mask_pl|Vaegir War Mask
+; itm_bascinet|Bascinet
+; itm_bascinet_pl|Bascinet
+; itm_bascinet_2|Bascinet with Aventail
+; itm_bascinet_2_pl|Bascinet with Aventail
+; itm_bascinet_3|Bascinet with Nose Guard
+; itm_bascinet_3_pl|Bascinet with Nose Guard
+; itm_guard_helmet|Guard Helmet
+; itm_guard_helmet_pl|Guard Helmet
+; itm_black_helmet|Black Helmet
+; itm_black_helmet_pl|Black Helmet
+; itm_full_helm|Full Helm
+; itm_full_helm_pl|Full Helm
+; itm_great_helmet|Great Helmet
+; itm_great_helmet_pl|Great Helmet
+; itm_winged_great_helmet|Winged Great Helmet
+; itm_winged_great_helmet_pl|Winged Great Helmet
+; itm_wooden_stick|Wooden Stick
+; itm_wooden_stick_pl|Wooden Stick
+; itm_cudgel|Cudgel
+; itm_cudgel_pl|Cudgel
+; itm_hammer|Hammer
+; itm_hammer_pl|Hammer
+; itm_club|Club
+; itm_club_pl|Club
+; itm_winged_mace|Flanged Mace
+; itm_winged_mace_pl|Flanged Mace
+; itm_spiked_mace|Spiked Mace
+; itm_spiked_mace_pl|Spiked Mace
+; itm_military_hammer|Military Hammer
+; itm_military_hammer_pl|Military Hammer
+; itm_maul|Maul
+; itm_maul_pl|Maul
+; itm_sledgehammer|Sledgehammer
+; itm_sledgehammer_pl|Sledgehammer
+; itm_warhammer|Great Hammer
+; itm_warhammer_pl|Great Hammer
+; itm_pickaxe|Pickaxe
+; itm_pickaxe_pl|Pickaxe
+; itm_spiked_club|Spiked Club
+; itm_spiked_club_pl|Spiked Club
+; itm_fighting_pick|Fighting Pick
+; itm_fighting_pick_pl|Fighting Pick
+; itm_military_pick|Military Pick
+; itm_military_pick_pl|Military Pick
+; itm_morningstar|Morningstar
+; itm_morningstar_pl|Morningstar
+; itm_sickle|Sickle
+; itm_sickle_pl|Sickle
+; itm_cleaver|Cleaver
+; itm_cleaver_pl|Cleaver
+; itm_knife|Knife
+; itm_knife_pl|Knife
+; itm_butchering_knife|Butchering Knife
+; itm_butchering_knife_pl|Butchering Knife
+; itm_dagger|Dagger
+; itm_dagger_pl|Dagger
+; itm_falchion|Falchion
+; itm_falchion_pl|Falchion
+; itm_scimitar|Scimitar
+; itm_scimitar_pl|Scimitar
+; itm_scimitar_b|Elite Scimitar
+; itm_scimitar_b_pl|Elite Scimitar
+; itm_arabian_sword_a|Sarranid Sword
+; itm_arabian_sword_a_pl|Sarranid Sword
+; itm_arabian_sword_b|Sarranid Arming Sword
+; itm_arabian_sword_b_pl|Sarranid Arming Sword
+; itm_sarranid_cavalry_sword|Sarranid Cavalry Sword
+; itm_sarranid_cavalry_sword_pl|Sarranid Cavalry Sword
+; itm_arabian_sword_d|Sarranid Guard Sword
+; itm_arabian_sword_d_pl|Sarranid Guard Sword
+; itm_great_sword|Great Sword
+; itm_great_sword_pl|Great Sword
+; itm_sword_of_war|Sword of War
+; itm_sword_of_war_pl|Sword of War
+; itm_hatchet|Hatchet
+; itm_hatchet_pl|Hatchet
+; itm_hand_axe|Hand Axe
+; itm_hand_axe_pl|Hand Axe
+; itm_fighting_axe|Fighting Axe
+; itm_fighting_axe_pl|Fighting Axe
+; itm_axe|Axe
+; itm_axe_pl|Axe
+; itm_voulge|Voulge
+; itm_voulge_pl|Voulge
+; itm_battle_axe|Battle Axe
+; itm_battle_axe_pl|Battle Axe
+; itm_war_axe|War Axe
+; itm_war_axe_pl|War Axe
+; itm_sword_two_handed_b|Two Handed Sword
+; itm_sword_two_handed_b_pl|Two Handed Sword
+; itm_sword_two_handed_a|Great Sword
+; itm_sword_two_handed_a_pl|Great Sword
+; itm_khergit_sword_two_handed_a|Two Handed Sabre
+; itm_khergit_sword_two_handed_a_pl|Two Handed Sabre
+; itm_khergit_sword_two_handed_b|Two Handed Sabre
+; itm_khergit_sword_two_handed_b_pl|Two Handed Sabre
+; itm_two_handed_cleaver|War Cleaver
+; itm_two_handed_cleaver_pl|War Cleaver
+; itm_military_cleaver_b|Soldier's Cleaver
+; itm_military_cleaver_b_pl|Soldier's Cleaver
+; itm_military_cleaver_c|Military Cleaver
+; itm_military_cleaver_c_pl|Military Cleaver
+; itm_military_sickle_a|Military Sickle
+; itm_military_sickle_a_pl|Military Sickle
+; itm_bastard_sword_a|Bastard Sword
+; itm_bastard_sword_a_pl|Bastard Sword
+; itm_bastard_sword_b|Heavy Bastard Sword
+; itm_bastard_sword_b_pl|Heavy Bastard Sword
+; itm_one_handed_war_axe_a|One Handed Axe
+; itm_one_handed_war_axe_a_pl|One Handed Axe
+; itm_one_handed_battle_axe_a|One Handed Battle Axe
+; itm_one_handed_battle_axe_a_pl|One Handed Battle Axe
+; itm_one_handed_war_axe_b|One Handed War Axe
+; itm_one_handed_war_axe_b_pl|One Handed War Axe
+; itm_one_handed_battle_axe_b|One Handed Battle Axe
+; itm_one_handed_battle_axe_b_pl|One Handed Battle Axe
+; itm_one_handed_battle_axe_c|One Handed Battle Axe
+; itm_one_handed_battle_axe_c_pl|One Handed Battle Axe
+; itm_two_handed_axe|Two Handed Axe
+; itm_two_handed_axe_pl|Two Handed Axe
+; itm_two_handed_battle_axe_2|Two Handed War Axe
+; itm_two_handed_battle_axe_2_pl|Two Handed War Axe
+; itm_shortened_voulge|Shortened Voulge
+; itm_shortened_voulge_pl|Shortened Voulge
+; itm_great_axe|Great Axe
+; itm_great_axe_pl|Great Axe
+; itm_long_axe|Long Axe
+; itm_long_axe_pl|Long Axe
+; itm_long_axe_alt|Long Axe
+; itm_long_axe_alt_pl|Long Axe
+; itm_long_axe_b|Long War Axe
+; itm_long_axe_b_pl|Long War Axe
+; itm_long_axe_b_alt|Long War Axe
+; itm_long_axe_b_alt_pl|Long War Axe
+; itm_long_axe_c|Great Long Axe
+; itm_long_axe_c_pl|Great Long Axe
+; itm_long_axe_c_alt|Great Long Axe
+; itm_long_axe_c_alt_pl|Great Long Axe
+; itm_bardiche|Bardiche
+; itm_bardiche_pl|Bardiche
+; itm_great_bardiche|Great Bardiche
+; itm_great_bardiche_pl|Great Bardiche
+; itm_long_bardiche|Long Bardiche
+; itm_long_bardiche_pl|Long Bardiche
+; itm_great_long_bardiche|Great Long Bardiche
+; itm_great_long_bardiche_pl|Great Long Bardiche
+; itm_hafted_blade_b|Hafted Blade
+; itm_hafted_blade_b_pl|Hafted Blade
+; itm_hafted_blade_a|Hafted Blade
+; itm_hafted_blade_a_pl|Hafted Blade
+; itm_shortened_military_scythe|Shortened Military Scythe
+; itm_shortened_military_scythe_pl|Shortened Military Scythe
+; itm_sword_medieval_a|Sword
+; itm_sword_medieval_a_pl|Sword
+; itm_sword_medieval_b|Sword
+; itm_sword_medieval_b_pl|Sword
+; itm_sword_medieval_b_small|Short Sword
+; itm_sword_medieval_b_small_pl|Short Sword
+; itm_sword_medieval_c|Arming Sword
+; itm_sword_medieval_c_pl|Arming Sword
+; itm_sword_medieval_c_small|Short Arming Sword
+; itm_sword_medieval_c_small_pl|Short Arming Sword
+; itm_sword_medieval_c_long|Arming Sword
+; itm_sword_medieval_c_long_pl|Arming Sword
+; itm_sword_medieval_d_long|Long Arming Sword
+; itm_sword_medieval_d_long_pl|Long Arming Sword
+; itm_sword_viking_1|Nordic Sword
+; itm_sword_viking_1_pl|Nordic Sword
+; itm_sword_viking_2|Nordic Sword
+; itm_sword_viking_2_pl|Nordic Sword
+; itm_sword_viking_2_small|Nordic Short Sword
+; itm_sword_viking_2_small_pl|Nordic Short Sword
+; itm_sword_viking_3|Nordic War Sword
+; itm_sword_viking_3_pl|Nordic War Sword
+; itm_sword_viking_3_small|Nordic Short War Sword
+; itm_sword_viking_3_small_pl|Nordic Short War Sword
+; itm_sword_khergit_1|Nomad Sabre
+; itm_sword_khergit_1_pl|Nomad Sabre
+; itm_sword_khergit_2|Sabre
+; itm_sword_khergit_2_pl|Sabre
+; itm_sword_khergit_3|Sabre
+; itm_sword_khergit_3_pl|Sabre
+; itm_sword_khergit_4|Heavy Sabre
+; itm_sword_khergit_4_pl|Heavy Sabre
+; itm_mace_1|Spiked Club
+; itm_mace_1_pl|Spiked Club
+; itm_mace_2|Knobbed Mace
+; itm_mace_2_pl|Knobbed Mace
+; itm_mace_3|Spiked Mace
+; itm_mace_3_pl|Spiked Mace
+; itm_mace_4|Winged Mace
+; itm_mace_4_pl|Winged Mace
+; itm_club_with_spike_head|Spiked Staff
+; itm_club_with_spike_head_pl|Spiked Staff
+; itm_long_spiked_club|Long Spiked Club
+; itm_long_spiked_club_pl|Long Spiked Club
+; itm_long_hafted_knobbed_mace|Long Hafted Knobbed Mace
+; itm_long_hafted_knobbed_mace_pl|Long Hafted Knobbed Mace
+; itm_long_hafted_spiked_mace|Long Hafted Spiked Mace
+; itm_long_hafted_spiked_mace_pl|Long Hafted Spiked Mace
+; itm_sarranid_two_handed_mace_1|Iron Mace
+; itm_sarranid_two_handed_mace_1_pl|Iron Mace
+; itm_sarranid_mace_1|Iron Mace
+; itm_sarranid_mace_1_pl|Iron Mace
+; itm_sarranid_axe_a|Iron Battle Axe
+; itm_sarranid_axe_a_pl|Iron Battle Axe
+; itm_sarranid_axe_b|Iron War Axe
+; itm_sarranid_axe_b_pl|Iron War Axe
+; itm_sarranid_two_handed_axe_a|Sarranid Battle Axe
+; itm_sarranid_two_handed_axe_a_pl|Sarranid Battle Axe
+; itm_sarranid_two_handed_axe_b|Sarranid War Axe
+; itm_sarranid_two_handed_axe_b_pl|Sarranid War Axe
+; itm_scythe|Scythe
+; itm_scythe_pl|Scythe
+; itm_pitch_fork|Pitch Fork
+; itm_pitch_fork_pl|Pitch Fork
+; itm_military_fork|Military Fork
+; itm_military_fork_pl|Military Fork
+; itm_battle_fork|Battle Fork
+; itm_battle_fork_pl|Battle Fork
+; itm_boar_spear|Boar Spear
+; itm_boar_spear_pl|Boar Spear
+; itm_jousting_lance|Jousting Lance
+; itm_jousting_lance_pl|Jousting Lance
+; itm_double_sided_lance|Double Sided Lance
+; itm_double_sided_lance_pl|Double Sided Lance
+; itm_glaive|Glaive
+; itm_glaive_pl|Glaive
+; itm_poleaxe|Poleaxe
+; itm_poleaxe_pl|Poleaxe
+; itm_polehammer|Polehammer
+; itm_polehammer_pl|Polehammer
+; itm_staff|Staff
+; itm_staff_pl|Staff
+; itm_quarter_staff|Quarter Staff
+; itm_quarter_staff_pl|Quarter Staff
+; itm_iron_staff|Iron Staff
+; itm_iron_staff_pl|Iron Staff
+; itm_shortened_spear|Shortened Spear
+; itm_shortened_spear_pl|Shortened Spear
+; itm_spear|Spear
+; itm_spear_pl|Spear
+; itm_bamboo_spear|Bamboo Spear
+; itm_bamboo_spear_pl|Bamboo Spear
+; itm_war_spear|War Spear
+; itm_war_spear_pl|War Spear
+; itm_military_scythe|Military Scythe
+; itm_military_scythe_pl|Military Scythe
+; itm_light_lance|Light Lance
+; itm_light_lance_pl|Light Lance
+; itm_lance|Lance
+; itm_lance_pl|Lance
+; itm_heavy_lance|Heavy Lance
+; itm_heavy_lance_pl|Heavy Lance
+; itm_great_lance|Great Lance
+; itm_great_lance_pl|Great Lance
+; itm_pike|Pike
+; itm_pike_pl|Pike
+; itm_ashwood_pike|Ashwood Pike
+; itm_ashwood_pike_pl|Ashwood Pike
+; itm_awlpike|Awlpike
+; itm_awlpike_pl|Awlpike
+; itm_awlpike_long|Long Awlpike
+; itm_awlpike_long_pl|Long Awlpike
+; itm_bec_de_corbin_a|War Hammer
+; itm_bec_de_corbin_a_pl|War Hammer
+; itm_wooden_shield|Wooden Shield
+; itm_wooden_shield_pl|Wooden Shield
+; itm_nordic_shield|Nordic Shield
+; itm_nordic_shield_pl|Nordic Shield
+; itm_fur_covered_shield|Fur Covered Shield
+; itm_fur_covered_shield_pl|Fur Covered Shield
+; itm_steel_shield|Steel Shield
+; itm_steel_shield_pl|Steel Shield
+; itm_plate_covered_round_shield|Plate Covered Round Shield
+; itm_plate_covered_round_shield_pl|Plate Covered Round Shield
+; itm_leather_covered_round_shield|Leather Covered Round Shield
+; itm_leather_covered_round_shield_pl|Leather Covered Round Shield
+; itm_hide_covered_round_shield|Hide Covered Round Shield
+; itm_hide_covered_round_shield_pl|Hide Covered Round Shield
+; itm_shield_heater_c|Heater Shield
+; itm_shield_heater_c_pl|Heater Shield
+; itm_norman_shield_1|Kite Shield
+; itm_norman_shield_1_pl|Kite Shield
+; itm_norman_shield_2|Kite Shield
+; itm_norman_shield_2_pl|Kite Shield
+; itm_norman_shield_3|Kite Shield
+; itm_norman_shield_3_pl|Kite Shield
+; itm_norman_shield_4|Kite Shield
+; itm_norman_shield_4_pl|Kite Shield
+; itm_norman_shield_5|Kite Shield
+; itm_norman_shield_5_pl|Kite Shield
+; itm_norman_shield_6|Kite Shield
+; itm_norman_shield_6_pl|Kite Shield
+; itm_norman_shield_7|Kite Shield
+; itm_norman_shield_7_pl|Kite Shield
+; itm_norman_shield_8|Kite Shield
+; itm_norman_shield_8_pl|Kite Shield
+; itm_tab_shield_round_a|Old Round Shield
+; itm_tab_shield_round_a_pl|Old Round Shield
+; itm_tab_shield_round_b|Plain Round Shield
+; itm_tab_shield_round_b_pl|Plain Round Shield
+; itm_tab_shield_round_c|Round Shield
+; itm_tab_shield_round_c_pl|Round Shield
+; itm_tab_shield_round_d|Heavy Round Shield
+; itm_tab_shield_round_d_pl|Heavy Round Shield
+; itm_tab_shield_round_e|Huscarl's Round Shield
+; itm_tab_shield_round_e_pl|Huscarl's Round Shield
+; itm_tab_shield_kite_a|Old Kite Shield
+; itm_tab_shield_kite_a_pl|Old Kite Shield
+; itm_tab_shield_kite_b|Plain Kite Shield
+; itm_tab_shield_kite_b_pl|Plain Kite Shield
+; itm_tab_shield_kite_c|Kite Shield
+; itm_tab_shield_kite_c_pl|Kite Shield
+; itm_tab_shield_kite_d|Heavy Kite Shield
+; itm_tab_shield_kite_d_pl|Heavy Kite Shield
+; itm_tab_shield_kite_cav_a|Horseman's Kite Shield
+; itm_tab_shield_kite_cav_a_pl|Horseman's Kite Shield
+; itm_tab_shield_kite_cav_b|Knightly Kite Shield
+; itm_tab_shield_kite_cav_b_pl|Knightly Kite Shield
+; itm_tab_shield_heater_a|Old Heater Shield
+; itm_tab_shield_heater_a_pl|Old Heater Shield
+; itm_tab_shield_heater_b|Plain Heater Shield
+; itm_tab_shield_heater_b_pl|Plain Heater Shield
+; itm_tab_shield_heater_c|Heater Shield
+; itm_tab_shield_heater_c_pl|Heater Shield
+; itm_tab_shield_heater_d|Heavy Heater Shield
+; itm_tab_shield_heater_d_pl|Heavy Heater Shield
+; itm_tab_shield_heater_cav_a|Horseman's Heater Shield
+; itm_tab_shield_heater_cav_a_pl|Horseman's Heater Shield
+; itm_tab_shield_heater_cav_b|Knightly Heater Shield
+; itm_tab_shield_heater_cav_b_pl|Knightly Heater Shield
+; itm_tab_shield_pavise_a|Old Board Shield
+; itm_tab_shield_pavise_a_pl|Old Board Shield
+; itm_tab_shield_pavise_b|Plain Board Shield
+; itm_tab_shield_pavise_b_pl|Plain Board Shield
+; itm_tab_shield_pavise_c|Board Shield
+; itm_tab_shield_pavise_c_pl|Board Shield
+; itm_tab_shield_pavise_d|Heavy Board Shield
+; itm_tab_shield_pavise_d_pl|Heavy Board Shield
+; itm_tab_shield_small_round_a|Plain Cavalry Shield
+; itm_tab_shield_small_round_a_pl|Plain Cavalry Shield
+; itm_tab_shield_small_round_b|Round Cavalry Shield
+; itm_tab_shield_small_round_b_pl|Round Cavalry Shield
+; itm_tab_shield_small_round_c|Elite Cavalry Shield
+; itm_tab_shield_small_round_c_pl|Elite Cavalry Shield
+; itm_darts|Darts
+; itm_darts_pl|Darts
+; itm_war_darts|War Darts
+; itm_war_darts_pl|War Darts
+itm_javelin|Oszczepy
+itm_javelin_pl|Oszczepy
+itm_javelin_melee|Oszczep
+itm_javelin_melee_pl|Oszczep
+itm_throwing_spears|Włócznie do rzucania
+itm_throwing_spears_pl|Włócznie do rzucania
+itm_throwing_spear_melee|Włócznia do rzucania
+itm_throwing_spear_melee_pl|Włócznia do rzucania
+; itm_jarid|Jarids
+; itm_jarid_pl|Jarids
+; itm_jarid_melee|Jarid
+; itm_jarid_melee_pl|Jarid
+itm_stones|Kamienie
+itm_stones_pl|Kamienie
+itm_throwing_knives|Noże do rzucania
+itm_throwing_knives_pl|Noże do rzucania
+itm_throwing_daggers|Sztylety do rzucania
+itm_throwing_daggers_pl|Sztylety do rzucania
+itm_light_throwing_axes|Lekkie toporki do rzucania
+itm_light_throwing_axes_pl|Lekkie toporki do rzucania
+itm_light_throwing_axes_melee|Lekki toporek do rzucania
+itm_light_throwing_axes_melee_pl|Lekki toporek do rzucania
+itm_throwing_axes|Topory do rzucania
+itm_throwing_axes_pl|Topory do rzucania
+itm_throwing_axes_melee|Topór do rzucania
+itm_throwing_axes_melee_pl|Topór do rzucania
+itm_heavy_throwing_axes|Ciężkie topory do rzucania
+itm_heavy_throwing_axes_pl|Ciężkie topory do rzucania
+itm_heavy_throwing_axes_melee|Ciężki topór do rzucania
+itm_heavy_throwing_axes_melee_pl|Ciężki topór do rzucania
+itm_hunting_bow|Łuk myśliwski
+itm_hunting_bow_pl|Łuk myśliwski
+itm_short_bow|Krótki łuk
+itm_short_bow_pl|Krótki łuk
+itm_nomad_bow|Łuk nomada
+itm_nomad_bow_pl|Łuk nomada
+itm_long_bow|Długi łuk
+itm_long_bow_pl|Długi łuk
+itm_khergit_bow|Łuk Khergicki
+itm_khergit_bow_pl|Łuk Khergicki
+itm_strong_bow|Mocny łuk
+itm_strong_bow_pl|Mocny łuk
+itm_war_bow|Łuk wojenny
+itm_war_bow_pl|Łuk wojenny
+itm_hunting_crossbow|Kusza myśliwska
+itm_hunting_crossbow_pl|Kusza myśliwska
+itm_light_crossbow|Lekka kusza
+itm_light_crossbow_pl|Lekka kusza
+itm_crossbow|Kusz
+itm_crossbow_pl|Kusza
+itm_heavy_crossbow|Ciężka kusza
+itm_heavy_crossbow_pl|Ciężka kusza
+itm_sniper_crossbow|Kusza oblężnicza
+itm_sniper_crossbow_pl|Kusza oblężnicza
+itm_flintlock_pistol|Pistolet skałkowy
+itm_flintlock_pistol_pl|Pistolet skałkowy
+itm_torch|Pochodnia
+itm_torch_pl|Pochodnia
+itm_lyre|Lira
+itm_lyre_pl|Lira
+itm_lute|Lutnia
+itm_lute_pl|Lutnia
+itm_strange_armor|Dziwna zbroja
+itm_strange_armor_pl|Dziwna zbroja
+itm_strange_boots|Dziwne buty
+itm_strange_boots_pl|Dziwne buty
+itm_strange_helmet|Dziwny hełm
+itm_strange_helmet_pl|Dziwny hełm
+itm_strange_sword|Dziwny miecz
+itm_strange_sword_pl|Dziwny miecz
+itm_strange_great_sword|Dziwny miecz dwuręczny
+itm_strange_great_sword_pl|Dziwny mecz dwuręczny
+itm_strange_short_sword|Dziwny krótki miecz
+itm_strange_short_sword_pl|Dziwny krótki miecz
+itm_court_dress|Suknia dworska
+itm_court_dress_pl|Suknia dworska
+itm_rich_outfit|Bogate odzienie
+itm_rich_outfit_pl|Bogate odzienie
+; itm_khergit_guard_armor|Khergit Guard Armor
+; itm_khergit_guard_armor_pl|Khergit Guard Armor
+; itm_felt_steppe_cap|Felt Steppe Cap
+; itm_felt_steppe_cap_pl|Felt Steppe Cap
+; itm_khergit_war_helmet|Khergit War Helmet
+; itm_khergit_war_helmet_pl|Khergit War Helmet
+; itm_khergit_helmet|Khergit Helmet
+; itm_khergit_helmet_pl|Khergit Helmet
+; itm_khergit_guard_boots|Khergit Guard Boots
+; itm_khergit_guard_boots_pl|Khergit Guard Boots
+; itm_khergit_guard_helmet|Khergit Guard Helmet
+; itm_khergit_guard_helmet_pl|Khergit Guard Helmet
+; itm_khergit_cavalry_helmet|Khergit Cavalry Helmet
+; itm_khergit_cavalry_helmet_pl|Khergit Cavalry Helmet
+itm_black_hood|Czarny kaptur
+itm_black_hood_pl|Czarny kaptur
+itm_light_leather|Lekka skóra
+itm_light_leather_pl|Lekka skóra
+itm_light_leather_boots|Buty z lekkiej skóry
+itm_light_leather_boots_pl|Buty z lekkiej skóry
+; itm_mail_and_plate|Mail and Plate
+; itm_mail_and_plate_pl|Mail and Plate
+; itm_light_mail_and_plate|Light Mail and Plate
+; itm_light_mail_and_plate_pl|Light Mail and Plate
+; itm_byzantion_helmet_a|Byzantion Helmet
+; itm_byzantion_helmet_a_pl|Byzantion Helmet
+; itm_magyar_helmet_a|Magyar Helmet
+; itm_magyar_helmet_a_pl|Magyar Helmet
+; itm_rus_helmet_a|Rus Helmet
+; itm_rus_helmet_a_pl|Rus Helmet
+; itm_sipahi_helmet_a|Sipahi Helmet
+; itm_sipahi_helmet_a_pl|Sipahi Helmet
+; itm_shahi|Shahi
+; itm_shahi_pl|Shahi
+; itm_rabati|Rabati
+; itm_rabati_pl|Rabati
+; itm_tunic_with_green_cape|Tunic with Green Cape
+; itm_tunic_with_green_cape_pl|Tunic with Green Cape
+; itm_keys|Ring of Keys
+; itm_keys_pl|Ring of Keys
+; itm_bride_dress|Bride Dress
+; itm_bride_dress_pl|Bride Dress
+; itm_bride_crown|Crown of Flowers
+; itm_bride_crown_pl|Crown of Flowers
+; itm_bride_shoes|Bride Shoes
+; itm_bride_shoes_pl|Bride Shoes
+; itm_practice_bow_2|Practice Bow
+; itm_practice_bow_2_pl|Practice Bow
+; itm_practice_arrows_2|Practice Arrows
+; itm_practice_arrows_2_pl|Practice Arrows
+; itm_plate_boots|Plate Boots
+; itm_plate_boots_pl|Plate Boots
+; itm_mail_boots_for_tableau|Mail Boots
+; itm_mail_boots_for_tableau_pl|Mail Boots
+; itm_warhorse_sarranid|Sarranian War Horse
+; itm_warhorse_sarranid_pl|Sarranian War Horse
+; itm_warhorse_steppe|Steppe Charger
+; itm_warhorse_steppe_pl|Steppe Charger
+; itm_items_end|Items End
+; itm_items_end_pl|Items End

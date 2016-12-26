@@ -1,0 +1,108 @@
+ui_texture_detail|Jakość tekstur:
+ui_max_frame_rate|Maks. ilość klatek na sekundę:
+ui_enable_bumpmap|Używaj Bump Mappingu
+ui_disable_blood|Ukryj krew
+ui_disable_music|Wyłącz muzykę
+ui_disable_sound|Wyłącz dźwięk
+ui_enable_cheats|Włącz kody
+ui_enable_edit_mode|Włącz Tryb Edycji (uważaj, może to spowolnić grę)
+ui_enable_pixel_shaders|Używaj Pixel Shaders
+ui_enable_sound_variation|Używaj zróżnicowania dźwięku
+ui_enable_vertex_shaders|Metoda renderowania:
+ui_shadow_quality|Jakość cieni:
+ui_directx_7|DirectX 7
+ui_directx_9|DirectX 9
+ui_show_framerate|Pokaż ilość klatek na sekundę
+ui_start_windowed|Uruchom w oknie
+ui_trialmode_caption|Aktywacja
+ui_trialmode|Poświęć chwilę na aktywację Mount&&Blade Warband za pomocą swojego klucza seryjnego. Twój unikalny 16-znakowy klucz znajduje się w środku pudełka.\nJeśli z jakiegoś powodu nie chcesz aktywować teraz gry, nadal możesz grać, ale nie możesz awansować ponad poziom 8.
+ui_launch_buy|Kup Licencję na stronie TaleWorlds.com
+ui_launch_faq|Często zadawane pytania związane z aktywacją
+ui_trialmode2|Aby teraz aktywować grę...
+ui_trialmode3|Możesz też...
+ui_trialmode4|Jeśli masz jakieś pytania związane z procesem aktywacji możesz przeczytać...
+ui_serial_key_caption|Klucz seryjny
+ui_notification_serial_input|Wprowadź swój klucz seryjny poniżej (możesz skopiować i wkleić) i naciśnij przycisk Aktywacja
+ui_notification_serial_input_vc|Ten moduł wymaga klucza seryjnego Podboju Wikingów, aby działać. Wprowadź swój klucz seryjny Podboju Wikingów poniżej (możesz skopiować i wkleić) i naciśnij przycisk Aktywacja.
+ui_activate|Aktywacja
+ui_paste|Wklej
+ui_notification_serial_internet_connection|Aktywacja wymaga aktywnego połączenia z internetem!
+ui_notification_serial_offline|Jeżeli ten komputer nie ma połączenia z Internetem możesz również użyć:
+ui_manual_activation|Ręczna Aktywacja
+ui_offline_activation|Aktywacja Offline
+ui_manual_activation_caption|Ręczna Aktywacja
+ui_offline_activation_caption|Aktywacja Offline
+ui_cancel2|Anuluj
+ui_close|Zamknij
+ui_ok2|OK
+ui_activation_successful|Aktywacja zakończona powodzeniem.
+ui_activation_successful2|Zachowaj swój klucz seryjny na przyszłość. Może być potrzebny ponownie jeśli będziesz chciał zainstalować Mount&&Blade Warband na nowym komputerze.
+ui_activation_denied|Aktywacja nieudana!
+ui_notification_serial_already_used|Klucz seryjny jest już wykorzystany na innym komputerze. Musisz poczekać kilka tygodni, aby reaktywować grę na tym komputerze.
+ui_notification_unable_to_connect_to_activation_server|Nie udało się połączyć z serwerem aktywacyjnym!
+ui_notification_unable_to_connect_to_activation_server2|Upewnij się, że Twoje połączenie internetowe jest aktywne, działa prawidłowo i spróbuj ponownie. Jeśli korzystasz z zapory może być wymagane nadanie grze uprawnień do połączenia z internetem. Jeśli wszystko zawiedzie możesz spróbować wykonać ręczną aktywację.
+ui_incorrect_serial_number|Niepoprawny klucz seryjny!
+ui_incorrect_hardware_hash|Niepoprawny kod sprzętowy!
+ui_incorrect_activation_code|Niepoprawny kod aktywacyjny!
+ui_cant_write_to_registry|Nie można wpisać do rejestru!
+ui_video|Wideo
+ui_audio|Audio
+ui_game|Gra
+ui_advanced|Zaawansowane
+ui_mount_and_blade_is_ready|Mount&&Blade Warband jest gotowy.
+ui_notification_trial_mode|Mount&&Blade Warband działa aktualnie w Trybie Próbnym. W tym trybie możesz grać dopóki Twoja postać nie osiągnie poziomu 6. Aby kontynuować proszę kupić licencję ze strony taleworlds.com. Kupienie licencji i odblokowanie gry zajmuje tylko kilka minut.
+ui_there_are_no_modules_installed|Żadne moduły nie są zainstalowane!
+ui_notification_new_version|Została znaleziona nowsza wersja Mount&Blade Warband.\nAktualnie zainstalowaną wersją jest %d.%d%d%d.\nNajnowszą wersją Mount&Blade Warband jest %d.%d%d%d.\nMożesz pobrać nową wersję z www.taleworlds.com.
+ui_new_version_found|Nowa wersja została znaleziona!
+ui_notification_unable_to_retreive_new_version|Nie udało się uzyskać informacji o nowej wersji. Spróbuj później.
+ui_new_version|Nowa wersja:
+ui_notification_latest_version|Obecnie zainstalowana wersja Mount&Blade Warband jest aktualna.
+ui_mount_and_blade_is_up_to_date|Mount&Blade Warband jest aktualne!
+ui_off|Wyłącz
+ui_continue_playing_the_trial_mode|Kontynuuj grę w Trybie Próbnym
+ui_faq_caption|FAQ
+ui_faq_text|Q: Czym jest aktywacja?\nA: System aktywacji jest przyjaznym dla użytkownika sposobem zabezpieczeń który opiera się na dystrybuowaniu z każdą kopią gry unikalnego klucza seryjnego. Musisz aktywować grę na każdym komputerze na którym chcesz grać. Po jednorazowej aktywacji nie musisz już robić nic więcej jak na przykład wkładać płyty do napędu. Tak długo jak posiadasz swój klucz będziesz mógł z łatwością aktywować grę nawet po kilku latach.\n\nQ: Gdzie znajdę klucz seryjny?\nA: Każda pudełkowa kopia gry zawiera unikalny klucz seryjny. Różni wydawcy mogą dystrybuować klucz na różne sposoby, ale najczęściej jest nadrukowany na okładce instrukcji. Jeśli kupiłeś grę online sprzedawca powinien dostarczyć Ci klucz seryjny.\n\nQ: Jak działa proces aktywacji?\nA: Gra tworzy ciąg posługując się specyfikacją Twojego komputera i wysyła go razem z kluczem seryjnym do serwera aktywacyjnego. Serwer przypisuje klucz do Twojego komputera i wysyła kod aktywacyjny który odblokowuje pełen tryb gry.\n\nQ: Czy mogę aktywować grę na wielu komputerach?\nA: Tak, możesz. Pamiętaj tylko, że gra jest zarejestrowana na Ciebie w celach użytku osobistego. Serwer aktywacyjny może czasowo odrzucić klucz seryjny jeżeli zostanie użyty na zbyt dużej ilości komputerów w krótkim czasie.\n\nQ: Program przestał odpowiadać po kliknięciu w przycisk aktywacji.\nA: Czasami proces aktywacji może zająć nawet pół minuty. Cierpliwości, gra w końcu odpowie.\n\nQ: Mój komputer nie ma połączenia z internetem. Jak mogę aktywować grę?\nA: W takim wypadku możesz skorzystać z ręcznej aktywacji. Kliknij w "Wprowadź klucz seryjny", a później przycisk "Ręczna aktywacja". Będziesz musiał otworzyć stronę ręcznej aktywacji na innym komputerze połączonym z internetem.\n
+ui_auto_adjust|Dopasowanie automatyczne
+ui_screen_size|Rozdzielczość ekranu:
+ui_antialiasing|Antialiasing:
+ui_use_desktop_resolution|Użyj rozdzielczości pulpitu
+ui_play|Graj w Mount&&Blade Warband
+ui_check_for_new_version|Sprawdź w poszukiwaniu nowej wersji
+ui_configure|Skonfiguruj
+ui_configure_caption|Skonfiguruj
+ui_mountandblade_website|Strona Mount&Blade Warband
+ui_current_setting|Obecny moduł:
+ui_manual_activation_text1|1) W swojej przeglądarce internetowej otwórz następujący adres:
+ui_manual_activation_text2|2) Na stronie która się otworzy wprowadź swój klucz seryjny...
+ui_manual_activation_text3|3) ...i identyfikator sprzętowy tego komputera:
+ui_manual_activation_text4|4) Ta strona poda Ci kod aktywacyjny. Wklej lub wprowadź go poniżej i naciśnij OK.
+ui_activation_code|Kod aktywacyjny:
+ui_force_vsync|Wymuś synchronizację poziomą.
+ui_module_newer_than_application|Moduł który został wybrany NIE DZIAŁA z obecną wersją gry. Nie zaleca się używania tych ustawień. Możesz sprawdzić czy jest dostępna nowsza wersja gry, co może rozwiązać problem.
+ui_module_older_than_application|Moduł który wybrałeś przeznaczony jest dla starszej wersji gry i może nie współpracować z obecną wersją gry. Możesz spróbować uruchomić grę, ale możesz spotkać się z pewnymi problemami. Możesz sprawdzić czy jest dostępna nowsza wersja modułu, co może rozwiązać problem.
+ui_m_low|Niskie
+ui_m_high|Wysokie
+ui_m_ultra_high|Ultra wysokie
+ui_force_single_threading|Wymuś jednowątkowość.
+ui_not_enough_memory|Wygląda na to, że aktualnie posiadasz %d MB dostępnej fizycznej i wirtualnej pamięci. Mount&Blade Warband wymaga co najmniej 700 MB dostępnej pamięci, aby działać bez problemów. Jeśli Mount&Blade Warband ciągle ma problemy w trakcie działania zamknij inne programy przed uruchomieniem Mount&Blade Warband albo zwiększ swoją pamięć wirtualną w Panel Sterowania -> System.
+ui_install|Zainstaluj Mount&Blade Warband
+DirectXText|"Mount&Blade Warband wymaga DirectX 9.0c albo wyżej, aby działać. Ten komputer nie spełnia tych wymagań. Aby rozwiązać ten problem musisz pobrać i zainstalować najnowszą wersję DirectX ze strony Microsoft. Czy chciałbyś odwiedzić odpowiednią stronę?"
+NoMountAndBladeText|"Mount&Blade Warband nie jest zainstalowane na tym komputerze. Proszę pobrać instalator ze strony www.taleworlds.com i zainstalować grę."
+ui_SavegamesText|"Czy chcesz zachować zapisane stany gry?"
+ui_trialmode_online|Mount&&Blade Warband działa aktualnie w Trybie Próbnym. W tym trybie możesz grać dopóki Twoja postać nie osiągnie poziomu 7. Aby kontynuować musisz wprowadzić klucz seryjny i aktywować grę. Jeśli już kupiłeś grę wprowadź teraz swój klucz seryjny. Jeśli nie możesz kupić grę na Taleworlds.com. Kupienie licencji i odblokowanie gry zajmuje tylko kilka minut.
+ui_launch_activate|Wprowadź swój klucz seryjny
+ui_trialmode2_online|Po zakupieniu licencji otrzymasz klucz seryjny.\nAby odblokować pełen tryb gry przejdź do...
+ui_trialmode3_online|Albo jeśli nie chcesz jeszcze kupować gry możesz także...
+ui_trialmode4_online|Nasza sprzedaż online jest w pełni zabezpieczona i respektujemy prawo naszych klientów do bezpieczeństwa, prywatności, posiadania kopii zapasowych swoich gier i aktualizacji swojego komputera/sprzętu. Jeśli chcesz dowiedzieć się więcej o naszej polityce dotyczącej sprzedaży, przeczytaj:
+ui_ondemand_textures|Wczytuj tekstury na żądanie
+ui_language|Język:
+ui_steam_not_running|Nie udało się poprawnie uruchomić Steam. Steam jest wymagany do uruchomienia tej gry.
+ui_switch_to_turkish_explanation|Czy chcesz przełączyć język na turecki?
+ui_switch_to_turkish_yes|Tak
+ui_switch_to_turkish_no|Nie
+ui_new_version_message|Nowsza wersja gry jest dostępna. Czy chcesz teraz odwiedzić stronę pobrań?
+ui_enable_version_check|Uruchom sprawdzanie wersji
+ui_disable|Wyłącz
+ui_yes2|Tak
+ui_no2|Nie
+ui_new_version_message2|Nowsza wersja gry jest dostępna. Odwiedź portal na którym dokonałeś zakupu, aby pobrać nową wersję.
