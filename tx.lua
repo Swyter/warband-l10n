@@ -47,7 +47,7 @@ end
 
 
 if arg[1] == "convert" then
-  regex = {"^([^%|]+)%|(.*)","%1  = \"%2\""} print("Converting format...")
+  regex = {"^([^%|]+)%|([^\n\r]*)","%1  = \"%2\""} print("Converting format...")
 else
   regex = {"  %= \"(.*)\"","|%1"} print("Reverting format...")
 end
