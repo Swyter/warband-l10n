@@ -107,7 +107,7 @@ ui_explanation_intelligence|Intelligenza: Ogni punto dà un punto abilità extra
 ui_explanation_charisma|Carisma: Ogni punto aumenta il limite di truppe di +1. Queste abilità non possono essere sviluppate oltre 1/3 del Carisma: Controllo prigionieri, Comando, Commercio.
 ui_level|Livello: %d
 ui_xp|Esperienza: %d
-ui_next_level_at|Prossimo livello tra: %d
+ui_next_level_at|Prossimo livello a: %d
 ui_health_player|Punti Ferita: %d/%d
 ui_health|Punti Ferita: %d
 ui_attribute_points|Punti Attributi: %d

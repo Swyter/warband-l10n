@@ -1,0 +1,84 @@
+skl_trade|Comércio
+skl_trade_desc|Cada nível desta Perícia reduz sua desvantagem comercial em 5%%. (Perícia de Equipe)
+skl_leadership|Liderança
+skl_leadership_desc|Cada ponto aumenta o número máximo de tropas que você pode comandar em 5 e a moral da tropa. Cada ponto reduz os custos da tropa por 5%%. (Perícia de Líder)
+skl_prisoner_management|Gestão de Prisioneiros
+skl_prisoner_management_desc|Cada nível desta Perícia aumenta o número máximo de prisioneiros em %d. (Perícia de Líder)
+skl_reserved_1|Habilidade Reservada 1
+skl_reserved_1_desc|This is a reserved skill.
+skl_reserved_2|Habilidade Reservada 2
+skl_reserved_2_desc|This is a reserved skill.
+skl_reserved_3|Habilidade Reservada 3
+skl_reserved_3_desc|This is a reserved skill.
+skl_reserved_4|Habilidade Reservada 4
+skl_reserved_4_desc|This is a reserved skill.
+skl_persuasion|Persuasão
+skl_persuasion_desc|Esta Perícia o ajuda a fazer outras pessoas aceitarem seu ponto de vista. Ela também reduz o nível mínimo de relacionamento necessário pra conseguir com que NPCs façam o que você quer. (Perícia Pessoal)
+skl_engineer|Engenharia
+skl_engineer_desc|Esta Perícia permite que você construa equipamentos de cerco e melhorias de feudo mais eficientemente. (Perícia de Equipe)
+skl_first_aid|Primeiros Socorros
+skl_first_aid_desc|Heróis recuperam 5%% por nível de Perícia , os pontos de vida perdidos durante missões. (Perícia de Equipe)
+skl_surgery|Cirurgia
+skl_surgery_desc|Cada ponto desta Perícia dá 4%% de chance de que um membro da tropa mortalmente atingido ficará ferido ao invés de morrer. (Perícia de Equipe)
+skl_wound_treatment|Tratamento de Feridas
+skl_wound_treatment_desc|A velocidade de recuperação da tropa é aumentada em 20%% por nível desta Perícia . (Perícia de Equipe)
+skl_inventory_management|Gestão de Inventário
+skl_inventory_management_desc|Aumenta a capacidade do Inventário em +6 por nível de Perícia . (Perícia de Líder)
+skl_spotting|Detecção
+skl_spotting_desc|O alcance de visão da tropa é aumentado em 10%% por nível de Perícia. (Perícia de Equipe)
+skl_pathfinding|Deslocamento
+skl_pathfinding_desc|A velocidade em terra da tropa é aumentada em 3%% por nível de Perícia. (Perícia de Equipe)
+skl_tactics|Táticas
+skl_tactics_desc|Cada 2 níveis desta Perícia aumenta a vantagem inicial de batalha em 1. (Perícia de Equipe)
+skl_tracking|Rastreamento
+skl_tracking_desc|Rastros se tornam mais informativos. (Perícia de Equipe)
+skl_trainer|Treinador
+skl_trainer_desc|Todos os dias, cada herói com esta Perícia adiciona alguma experiência para todos os demais membros da tropa, cujo nível seja inferior ao dele/dela. A experiência adquirida é a seguinte: {0,4,10,16,23,30,38,46,55,65,80}. (Perícia Pessoal)
+skl_reserved_5|Habilidade Reservada 5
+skl_reserved_5_desc|This is a reserved skill.
+skl_reserved_6|Habilidade Reservada 6
+skl_reserved_6_desc|This is a reserved skill.
+skl_reserved_7|Habilidade Reservada 7
+skl_reserved_7_desc|This is a reserved skill.
+skl_reserved_8|Habilidade Reservada 8
+skl_reserved_8_desc|This is a reserved skill.
+skl_looting|Pilhagem
+skl_looting_desc|Esta Perícia aumenta a quantidade de espólios obtidos em 10%% por nível de Perícia. (Perícia de Equipe)
+skl_horse_archery|Arquearia Montada
+skl_horse_archery_desc|Reduz penalidades de dano e precisão para uso de arcos e armas de arremessos a cavalo. (Perícia Pessoal)
+skl_riding|Equitação
+skl_riding_desc|Permite a você cavalgar e montar cavalos de níveis requeridos mais altos, além de melhorar sua velocidade e manobras ao montar. (Perícia Pessoal)
+skl_athletics|Atletismo
+skl_athletics_desc|Melhora sua velocidade de corrida. (Perícia Pessoal)
+skl_shield|Escudo
+skl_shield_desc|Reduz dano a escudos em (8%% por nível de Perícia) e melhora a velocidade de cobertura do escudo. (Perícia Pessoal)
+skl_weapon_master|Maestria em Armas
+skl_weapon_master_desc|Torna mais fácil aprender Proficiências em Armas e aumenta o limite das Proficiências. Os limites de Proficiência são os seguintes: 60, 100, 140, 180, 220, 260, 300, 340, 380, 420. (Perícia Pessoal)
+skl_reserved_9|Habilidade Reservada 9
+skl_reserved_9_desc|This is a reserved skill.
+skl_reserved_10|Habilidade Reservada 10
+skl_reserved_10_desc|This is a reserved skill.
+skl_reserved_11|Habilidade Reservada 11
+skl_reserved_11_desc|This is a reserved skill.
+skl_reserved_12|Habilidade Reservada 12
+skl_reserved_12_desc|This is a reserved skill.
+skl_reserved_13|Habilidade Reservada 13
+skl_reserved_13_desc|This is a reserved skill.
+skl_power_draw|Arqueirismo
+skl_power_draw_desc|Permite ao personagem usar arcos mais poderosos. Cada ponto nesta Perícia (de 1 a 4 acima do nível exigido pelo arco) aumenta o dano com arcos em 14%%. (Perícia Pessoal)
+skl_power_throw|Arremesso
+skl_power_throw_desc|Cada ponto nesta Perícia aumenta o dano do arremesso em 10%%. (Perícia Pessoal)
+skl_power_strike|Força de Ataque
+skl_power_strike_desc|Cada ponto nesta Perícia aumenta o dano com armas corporais em 8%%. (Perícia Pessoal)
+skl_ironflesh|Força Vital
+skl_ironflesh_desc|Cada ponto nesta Perícia aumenta os pontos de vida em +2. (Perícia Pessoal)
+skl_reserved_14|Habilidade Reservada 14
+skl_reserved_14_desc|This is a reserved skill.
+skl_reserved_15|Habilidade Reservada 15
+skl_reserved_15_desc|This is a reserved skill.
+skl_reserved_16|Habilidade reservada 16
+skl_reserved_16_desc|This is a reserved skill.
+skl_reserved_17|Habilidade reservada 17
+skl_reserved_17_desc|This is a reserved skill.
+skl_reserved_18|Habilidade reservada 18
+skl_reserved_18_desc|This is a reserved skill.
