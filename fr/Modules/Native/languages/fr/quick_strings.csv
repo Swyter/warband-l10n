@@ -1,6 +1,7 @@
 qstr_Next_Page|Page suivante
 qstr_Game_Rules:^|Règles du jeu :^
 qstr_0|0
+; qstr_Lv._{reg0}|Lv. {reg0}
 qstr_Show_game_rules|Afficher les règles du jeu
 qstr_Continue...|Continuer...
 qstr_Candidate_#1:_{s1}|Candidat #1 : {s1}
@@ -191,7 +192,6 @@ qstr_You_lose_right_to_ru|Vous perdez en droit de régner.
 qstr_You_got_keys_of_dung|Vous obtenez les clés du donjon.
 qstr_You_must_stay_behind|Vous devez rester derrière la ligne, le point ne compte pas.
 qstr_Tutorial|Tutoriel
-; qstr_Calculating_value_of|Calculating value of original items!
 qstr_You_came_into_the_wo|Vous êtes {reg3?la fille:le fils} d'une famille noble sur le déclin, ne possédant plus que la maison dans laquelle ils vécurent. Cependant, malgré les épreuves, vous avez toujours reçu une bonne éducation et votre famille vous a {reg3?préparée:préparé} depuis votre enfance aux rigueurs de l'aristocratie et de la vie à la cour.
 qstr_You_were_born_the_{r|Vous êtes {reg3?la fille:le fils} de marchands itinérants, parcourant le monde à la recherche du moindre profit. Bien que vos parents étaient plutôt aisés et vous éduquèrent de leur mieux, les opportunités de vous faire des {reg3?amies:amis} furent rares. Vous passiez le plus clair de votre temps à chercher à vendre n'importe quoi à n'importe qui.
 qstr_As_a_child_your_fami|Quand vous étiez enfant, votre famille survivait grâce à la maigre solde que touchait votre père comme garde d'un seigneur local. Ce n'était pas une existence facile et vous étiez trop pauvre pour recevoir une instruction décente. Vous avez principalement appris à vous défendre vous-même dans les rues, avec ou sans arme.

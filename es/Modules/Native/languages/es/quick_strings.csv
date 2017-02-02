@@ -1,6 +1,7 @@
 qstr_Next_Page|Página Siguiente
 qstr_Game_Rules:^|Reglas del juego:^
 qstr_0|0
+; qstr_Lv._{reg0}|Lv. {reg0}
 qstr_Show_game_rules|Mostrar las reglas
 qstr_Continue...|Continuar...
 qstr_Candidate_#1:_{s1}|Candidato #1: {s1}
@@ -191,7 +192,6 @@ qstr_Added_money_for_your|Se ha añadido dinero por tu antigua casa
 qstr_You_got_keys_of_dung|Tenéis las llaves de la mazmorra.
 qstr_You_must_stay_behind|¡Debéis permanecer detrás de la línea! El punto no ha sido anotado.
 qstr_Tutorial|Tutorial
-qstr_Calculating_value_of|¡Calculando el valor de los objetos originales!
 qstr_You_came_into_the_wo|Habéis llegado al mundo como {reg3?hija:hijo} de una familia noble en decadencia, dueña únicamente de la casa donde residían. Sin embargo, a pesar de las tribulaciones familiares, vuestra familia pudo pagaros una buena educación, instruyéndoos desde la niñez en los rigores de la aristocracia y la vida en la corte.
 qstr_You_were_born_the_{r|Habéis nacido como {reg3?hija:hijo} de mercaderes ambulantes, siempre yendo de un sitio a otro en busca de beneficios. Aunque vuestros padres eran más ricos que muchos y os educaron tanto como pudieron, vos no tuvisteis demasiadas oportunidades para crear lazos de amistad con otras personas, ya que sólo visitabais las aldeas atendiendo al negocio familiar.
 qstr_As_a_child_your_fami|De {reg3?niña:niño}, vuestra familia podía sustentarse austeramente gracias al sueldo que cobraba vuestro padre como guardia del señor local. No fue una niñez fácil, y erais demasiado pobre como para acceder a una buena educación. Aprendisteis a defenderos en las calles, con o sin un arma en la mano.

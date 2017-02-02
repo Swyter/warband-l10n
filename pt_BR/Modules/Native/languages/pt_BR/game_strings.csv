@@ -1532,6 +1532,7 @@ str_multi_scene_20|Castelo Jameyyed
 ; str_multi_scene_22|Forest Hideout
 ; str_multi_scene_23|Canyon
 ; str_multi_scene_24|Desert Town
+; str_multi_scene_25|Cold Coast
 ; str_multi_scene_12|Random Plains (Medium)
 ; str_multi_scene_13|Random Plains (Large)
 ; str_multi_scene_14|Random Steppe (Medium)
@@ -1545,6 +1546,7 @@ str_multi_game_type_3|Battle
 ; str_multi_game_type_6|Conquest
 str_multi_game_type_7|Cerco
 str_multi_game_type_8|Duelar
+; str_multi_game_type_9|Invasion
 ; str_multi_game_types_end|multi game types end
 ; str_poll_kick_player_s1_by_s0|{s0} started a poll to kick player {s1}.
 ; str_poll_ban_player_s1_by_s0|{s0} started a poll to ban player {s1}.
@@ -2813,3 +2815,186 @@ str_the_coast|a costa
 ; str_ranged_weapons_are_disallowed|Ranged weapons are disallowed.
 ; str_ranged_weapons_are_allowed|Ranged weapons are allowed.
 ; str_duel_starts_in_reg0_seconds|Duel starts in {reg0} seconds...
+; str_s1_team|{s1} squad
+; str_warning_max_players_count_text2|The recommended number of players for this mode is 16 players
+; str_reason_high_price|This is too expensive!
+; str_return_later|I will come back later. 
+; str_recruit_first|It might be a good idea to hire some soldiers first. 
+; str_squad_size|Squad size:
+; str_squad_size_small|Small squads
+; str_squad_size_normal|Normal squads
+; str_squad_size_big|Big squads
+; str_squad_size_huge|Huge squads
+; str_additional_info_oim_dmitriy_eleonora|The Prince gave you the letter to the jailer {s3}, requesting an escort party. 
+; str_mamay_founded|Now that Mamai has joined you, it is time to find Barabash and find out all he knows.
+; str_kill_radzivall_and_get_pernach|Janush has managed to gain the mace. You must acquire this weapon as soon as possible. 
+; str_talk_to_barabash_pernach|The mace is now yours. It is time to make a decision about Barabash.
+; str_pernach_taken_fight_for_getman|Well, it looks like an average mace. Let's see how it can help...
+; str_pernach_army_bonus|+50 to max army size
+; str_ms_order_for_horse|Here you can buy an excellent horse.
+; str_multi_disable_granades|Disable grenades
+; str_squad_size_s0|Squad size: {s0}
+; str_granades_are_disallowed|Grenades are disallowed.
+; str_granades_are_allowed|Grenades are allowed.
+; str_oim_training_1_caption|Melee Offense:
+; str_oim_training_1_text|That fence is blocking your way. Knock it over! You can attack in 4 different directions: move the mouse up, down, left, or right while clicking the left mouse button to execute an attack.
+; str_oim_training_2_caption|Starting out:
+; str_oim_training_2_text|Move your mouse to look around, and use W, A, S, and D for movement.
+; str_oim_training_3_caption|Ranged Weapons:
+; str_oim_training_3_text|Great! You have a new toy. Press R to switch to first person view -- this will make aiming your pistol easier. To further enhance your aim, hold down [Shift] to zoom in. Lastly, to line up an accurate shot, hold down the left mouse button. Wait until the reticle is smallest, then fire away... Shoot the padlock to proceed.
+; str_oim_training_4_text|Grab yourself a horse and ride away with your new friends. Get close enough to the horse until you see the word mount appear. Press F to mount up.
+; str_oim_training_5_text|It's high time we show those bastards!
+; str_oim_training_6_text|Your travels have taken you to a small Cossack village on the outskirts of the wilderness. As you stroll past, the silence is broken by gunshots.
+; str_oim_training_7_text|Fortunatly your ally's troops arrive in time to rescue you from certain death.
+; str_oim_training_8_text|Wonderful, you're saddled up. Horses can be wily beasts. To control your mount, use the W, A, S, and D keys. Press W to spur the horse onward and S to reign him in. A and D will reign the horse left and right... Riding requires some practice. Don't forget that it's easier to make tight turns if you slow down a bit.
+; str_oim_training_9_text|Look! More enemies on the horizon! Time to put your sword and pistol to use. You can scroll up with the mouse wheel to switch between your weapons. Now go ahead and fight your way out, with fire and sword!
+; str_oim_training_10_caption|Melee Defense:
+; str_oim_training_10_text|Good! Now on to defending... Defense is controlled by the right mouse button. To defend effectively with a weapon, wait for your opponent to commence his attack, then hold down the right mouse button... If your timing is right, you will automatically block in the correct direction.
+; str_oim_training_11_caption|More combat controls:
+; str_oim_training_11_text|Great! You have a new toy. Press R to switch to first person view -- this will make aiming your pistol easier. To further enhance your aim, hold down [Shift] to zoom in. Lastly, to line up an accurate shot, hold down the left mouse button. Wait until the reticle is smallest, then fire away... Shoot the padlock to proceed.
+; str_oim_training_12_caption|Map and Journal Control:
+; str_oim_training_12_text|Use the W, A, S, D keys to navigate around the map.^Left click to select anything on the map.^Hold down the right mouse button to rotate the camera.^Use the mouse wheel to zoom in/out.^Hover the mouse over any element to receive information about it.^Press Q to bring up the in-game log. The log includes information about current quests, important NPCs, NPC locations, villages, castles, and towns.^Be sure to consult the log if you need help finding NPCs or locations.
+; str_oim_training_13_text|After defeating the final enemy, you return to talk with your new ally.
+; str_oim_training_14_text|Keep your wits about you! These scoundrels could come from anywhere.
+; str_oim_training_16_text|Welcome to With Fire & Sword. This is a short tutorial that will guide you through your first steps in the game. Let's begin with the basics. Move your mouse to look around, and use W, A, S, and D for movement. Go to the fence ahead to proceed.
+; str_oim_training_17_text|Excellent! Looks like there's more fighting to be had. That group of adventurers seem to be expecting company!
+; str_oim_training_18_text|Don't forget to reload your gun. Press the left mouse button to do so. Destroy the padlock.
+; str_oim_training_21_text|That guy ahead looks like he's up to no good, you'd better use your new skills to teach him a lesson.
+; str_forget_it|Forget it.
+; str_oim_ms_construct_only_one_instanse_for_player|Stub
+; str_oim_ms_construct_party_has_merchant_guild|Stub
+; str_oim_ms_construct_party_has_arm_buildings|Stub
+; str_oim_ms_construct_party_has_certain_officer|Stub
+; str_oim_ms_construct_party_has_certain_officers|Stub
+; str_oim_ms_price_log|Stub
+; str_oim_ms_construct_time|Stub
+; str_oim_mnu_ms_additional_school|Stub
+; str_oim_mnu_ms_additional_merchant_guild|Stub
+; str_oim_mnu_ms_additional_extra_goods|Stub
+; str_oim_mnu_ms_additional_adviser|Stub
+; str_oim_mnu_ms_additional_officer|Stub
+; str_oim_slot_ms_script_looted|Stub
+; str_oim_script_ms_event_raise_taxes|Stub
+; str_oim_script_ms_event_change_prosperity|Stub
+; str_oim_script_ms_event_raise_taxes_week|Stub
+; str_oim_script_ms_event_notification_about_gold_usage|Stub
+; str_mp_new_1|Tatar town
+; str_mp_new_2|Fortified town
+; str_mp_new_3|Trenches
+; str_all_fire_now|All Fire Now!
+; str_left_fire_now|Left Fire Now!
+; str_middle_fire_now|Middle Fire Now!
+; str_right_fire_now|Right Fire Now!
+; str_fire_at_my_command|Fire At My Command
+; str_use_melee_weapons|Use Melee Weapons
+; str_use_ranged_weapons|Use Ranged Weapons
+; str_melee_weapons|Melee Weapons
+; str_ranged_weapons|Ranged Weapons
+; str_formation|Formation
+; str_very_tight|Very Tight
+; str_tight|Tight
+; str_loose|Loose
+; str_very_loose|Very Loose
+; str_form_1_row|Form 1 Row
+; str_form_reg0_rows|Form {reg0} Rows
+; str_percent_5_tax_is_paid|{reg2} thalers (5% of total profit) is paid as tax. Get a trade patent exempt you from tax.
+; str_percent_10_tax_is_paid|{reg2} thalers (10% of total profit) is paid as tax. Get a trade patent to exempt you from tax 
+; str_you_are_weak_take_these_men_with_you|Your party seems a bit weak, take these 2 volunteers with you.
+; str_meeting_with_thieves|When you enter the village, you see a group of bandits stealing the village livestock. Your presence distracts them from their questionable activity, they approach you. 
+; str_oim_hunt_down_thieves_explanation|The elder of the village of {s3} has asked you to hunt down thiefs at midnight.
+; str_oim_get_feast_supplies_explanation|The elder of the village of {s3} has asked you to bring him 5 ale barrels, 5 grapes, 1 wine barrel, 1 vodka barrel and 1 shag.
+; str_mp_add_troop|Companions
+; str_mp_squad|Squad
+; str_mp_squad_req_size_reg0|Requested: {reg0}
+; str_mp_squad_active_size_reg0|Active: {reg0}
+; str_squad_cost_reg0|Squad cost: {reg0}
+; str_item_cost_reg0|Item cost: {reg0}
+; str_next_wave_in_reg0_mins|Next wave in {reg0} mins...
+; str_wave_info|WAVE INFO
+; str_wave_no_reg1|Wave No: {reg1}
+; str_veteran_wave_no_reg1|Veteran Wave No: {reg1}
+; str_elite_wave_no_reg1|Elite Wave No: {reg1}
+; str_time_left_reg2_mins_reg1_secs|Time Left: {reg2} minutes and {reg1} seconds
+; str_time_left_reg1_secs|Time Left: {reg1} seconds
+; str_enemies_reg1_total_reg2_arriving|Enemies: {reg1} Alive, {reg2} Arriving
+; str_ccoop_enemy_info|   {reg4} {s0} ({reg3} arriving)
+; str_oim_black_hetman_failed|You no longer control the capital, there is no chance of victory. All is lost!
+; str_squad_size_for_captains|Squad size for captains:
+; str_captain_merc_ratio|Captain / Mercenary ratio:
+; str_1_div|1 / 
+; str_accompany|Accompany
+; str_reg2_s1_s2_s2|{reg2?{s1}, {s2}:{s2}}
+; str_reg2_s1_and_s2_s2|{reg2?{s1} and {s2}:{s2}}
+; str_give_the_money_you_took_from_s9_to_s10|Give the money you took from {s9} to {s10}.
+; str_men|men
+; str_you_have_taken_all_infantry|Haha! {Sir/Madam}, you've taken all my infantry already. Will there be anything else?
+; str_you_have_taken_all_musketeer|Haha! {Sir/Madam}, you've taken all my musketeer already. Will there be anything else?
+; str_you_have_taken_all_cavalry|Haha! {Sir/Madam}, you've taken all my cavalry already. Will there be anything else?
+; str_price_there_known|{s1}, ({s2} is {reg1} thalers there)
+; str_price_there_unknown|{s1}
+; str_your_troops_are_dying_because_of_illness|Your troops are dying because of a disease!
+; str_has_died_because_of_illness|has died of {s4}.
+; str_have_died_because_of_illness|have died of {s4}.
+; str_ccoop_wave_reg1_is_coming_in_reg0_seconds|Wave {reg1} is coming in {reg0} seconds
+; str_ccoop_veteran_wave_reg1_is_coming_in_reg0_seconds|Veteran wave {reg1} is coming in {reg0} seconds
+; str_ccoop_elite_wave_reg1_is_coming_in_reg0_seconds|Elite wave {reg1} (Tier {reg2}) is coming in {reg0} seconds
+; str_prison_cart_hint|Destroy the prisoner cart or pass the round to rescue fallen comrades.
+; str_wave_reg1|Wave {reg1}
+; str_veteran_wave_hint|Beware: Veterans have increased numbers and health and do %30 more damage!
+; str_elite_wave_hint|Beware: Elites have increased health and deliver more damage!
+; str_ask_for_help_to_respawn_hint|You'll respawn once your comrades destroy the prisoner cart or pass the current round.
+; str_wait_for_next_turn_to_respawn_hint|You will respawn in the next round.
+; str_mp_cbf_squad_auto_ratio|Auto-balance captain squad ratio
+; str_default|Default
+; str_coop_open_chest|Open Chest
+; str_coop_already_opened|Already Opened!
+; str_ccoop_difficulty|Difficulty:
+; str_ccoop_easy|Easy
+; str_ccoop_normal|Normal
+; str_ccoop_endless|Endless
+; str_ccoop_difficulty_s0|Difficulty: {s0}
+; str_ccoop_victory|Victory!
+; str_ccoop_s0_enemy_defeated_s1|The {s0} {reg1?has:have} been defeated ({s1})
+; str_ccoop_s0_enemy_defeated_endless_reg0|The {s0} {reg1?has:have} been repelled for now...^Prepare for Elite Tier {reg0}
+; str_ccoop_lord_s0_wave_hint|The host of {s0} approaches!
+; str_ccoop_king_s0_wave_hint|The guard of {s0} approaches! (Final Wave)
+; str_ccoop_assign_drop|Assign the dropped item:
+; str_ccoop_select_companion|Choose and equip your companions:
+; str_ccoop_select_companion_class|Equip your companions:
+; str_ccoop_choose_an_item_to_replace|Replace which item?:
+; str_ccoop_cancel|Cancel
+; str_ccoop_lvl_reg0|Lv. {reg0}
+; str_ccoop_dropping_item_on_ground|You didn't have enough free weapon slots, so it fell to the ground.
+; str_ccoop_king_name|King {s0}
+; str_ccoop_queen_name|Queen {s0}
+; str_javelin_bow|A bow that fires javelins
+; str_knockdown_mace|Knocks down everyone it hits
+; str_blood_drain_throwing_knives|Restore health to the thrower, with successful hits
+; str_doom_javelins|Gradually deplete the health of those they impale
+; str_disarming_throwing_axe|Disarms on impact
+; str_instakill_knife|Kills with even the slightest touch
+; str_backstabber|Kills any foe with a stab from behind
+; str_weak_beserker_dart|Depletes health but provokes a dangerous frenzy
+; str_team_change_dart|Causes the person it strikes to change their allegiance
+; str_awesome_spear|Awesome
+; str_running_boots|Make you run faster
+; str_power_gloves|Make you hit harder
+; str_invulnerable_helmet|Keeps your head safer
+; str_kicking_boots|Deliver a nasty kick
+; str_restore_health_armour|Restores health gradually
+; str_npc1_1|-Good with throwing and 1h^-Poor with 2h and crossbows
+; str_npc2_1|-Good with 1h^-Poor with throwing
+; str_npc3_1|-Good with polearms^-Poor with 2h
+; str_npc4_1|-Good with melee weapons^-Poor with ranged weapons
+; str_npc5_1|-Good with bows and throwing^-Poor with 2h and crossbows
+; str_npc6_1|-Good with 1h and 2h^-Poor with bows and crossbows
+; str_npc7_1|-Good with bows and polearms^-Poor with 1h and 2h
+; str_npc8_1|-Good with throwing and 2h^-Poor with polearms and crossbows
+; str_npc9_1|-Good with 2h and bows^-Poor with 1h and crossbows
+; str_npc10_1|-Good with crossbows^-Poor with 2h and polearms
+; str_npc11_1|-Good with 2h and crossbows^-Poor with bows
+; str_npc12_1|-Good with polearms^-Poor with bows
+; str_npc13_1|-Good with 1h and bows^-Poor with 2h
+; str_npc14_1|-Good with 1h^-Good all-rounder
+; str_npc15_1|-Good with 2h and bows^-Poor with crossbows and throwing
+; str_npc16_1|-Good with throwing and 1h^-Poor with 2h and crossbows
