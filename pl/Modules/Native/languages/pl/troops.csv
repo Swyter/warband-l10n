@@ -1331,3 +1331,275 @@ trp_mercenaries_end_pl|koniec najemników
 ; trp_relative_of_merchant|Merchant's Brother
 ; trp_relative_of_merchants_end|relative of merchants end
 ; trp_relative_of_merchants_end_pl|relative of merchants end
+; trp_swadian_crossbowman_multiplayer_coop_tier_1|Swadian Crossbowman
+; trp_swadian_crossbowman_multiplayer_coop_tier_1_pl|Swadian Crossbowmen
+; trp_swadian_infantry_multiplayer_coop_tier_1|Swadian Infantry
+; trp_swadian_infantry_multiplayer_coop_tier_1_pl|Swadian Infantry
+; trp_swadian_man_at_arms_multiplayer_coop_tier_1|Swadian Man at Arms
+; trp_swadian_man_at_arms_multiplayer_coop_tier_1_pl|Swadian Men at Arms
+; trp_vaegir_archer_multiplayer_coop_tier_1|Vaegir Archer
+; trp_vaegir_archer_multiplayer_coop_tier_1_pl|Vaegir Archers
+; trp_vaegir_spearman_multiplayer_coop_tier_1|Vaegir Spearman
+; trp_vaegir_spearman_multiplayer_coop_tier_1_pl|Vaegir spearman
+; trp_vaegir_horseman_multiplayer_coop_tier_1|Vaegir Horseman
+; trp_vaegir_horseman_multiplayer_coop_tier_1_pl|Vaegir Horsemen
+; trp_khergit_veteran_horse_archer_multiplayer_coop_tier_1|Khergit Horse Archer
+; trp_khergit_veteran_horse_archer_multiplayer_coop_tier_1_pl|Khergit Horse Archers
+; trp_khergit_infantry_multiplayer_coop_tier_1|Khergit Infantry
+; trp_khergit_infantry_multiplayer_coop_tier_1_pl|Khergit Infantries
+; trp_khergit_lancer_multiplayer_coop_tier_1|Khergit Lancer
+; trp_khergit_lancer_multiplayer_coop_tier_1_pl|Khergit Lancers
+; trp_nord_archer_multiplayer_coop_tier_1|Nord Archer
+; trp_nord_archer_multiplayer_coop_tier_1_pl|Nord Archers
+; trp_nord_veteran_multiplayer_coop_tier_1|Nord Huscarl
+; trp_nord_veteran_multiplayer_coop_tier_1_pl|Nord Huscarls
+; trp_nord_scout_multiplayer_coop_tier_1|Nord Scout
+; trp_nord_scout_multiplayer_coop_tier_1_pl|Nord Scouts
+; trp_rhodok_veteran_crossbowman_multiplayer_coop_tier_1|Rhodok Crossbowman
+; trp_rhodok_veteran_crossbowman_multiplayer_coop_tier_1_pl|Rhodok Crossbowmen
+; trp_rhodok_sergeant_multiplayer_coop_tier_1|Rhodok Sergeant
+; trp_rhodok_sergeant_multiplayer_coop_tier_1_pl|Rhodok Sergeants
+; trp_rhodok_horseman_multiplayer_coop_tier_1|Rhodok Horseman
+; trp_rhodok_horseman_multiplayer_coop_tier_1_pl|Rhodok Horsemen
+; trp_sarranid_archer_multiplayer_coop_tier_1|Sarranid Archer
+; trp_sarranid_archer_multiplayer_coop_tier_1_pl|Sarranid Archers
+; trp_sarranid_footman_multiplayer_coop_tier_1|Sarranid Footman
+; trp_sarranid_footman_multiplayer_coop_tier_1_pl|Sarranid footman
+; trp_sarranid_mamluke_multiplayer_coop_tier_1|Sarranid Mamluke
+; trp_sarranid_mamluke_multiplayer_coop_tier_1_pl|Sarranid Mamluke
+; trp_swadian_crossbowman_multiplayer_coop_tier_2|Swadian Crossbowman
+; trp_swadian_crossbowman_multiplayer_coop_tier_2_pl|Swadian Crossbowmen
+; trp_swadian_infantry_multiplayer_coop_tier_2|Swadian Infantry
+; trp_swadian_infantry_multiplayer_coop_tier_2_pl|Swadian Infantry
+; trp_swadian_man_at_arms_multiplayer_coop_tier_2|Swadian Man at Arms
+; trp_swadian_man_at_arms_multiplayer_coop_tier_2_pl|Swadian Men at Arms
+; trp_vaegir_archer_multiplayer_coop_tier_2|Vaegir Archer
+; trp_vaegir_archer_multiplayer_coop_tier_2_pl|Vaegir Archers
+; trp_vaegir_spearman_multiplayer_coop_tier_2|Vaegir Spearman
+; trp_vaegir_spearman_multiplayer_coop_tier_2_pl|Vaegir spearman
+; trp_vaegir_horseman_multiplayer_coop_tier_2|Vaegir Horseman
+; trp_vaegir_horseman_multiplayer_coop_tier_2_pl|Vaegir Horsemen
+; trp_khergit_veteran_horse_archer_multiplayer_coop_tier_2|Khergit Horse Archer
+; trp_khergit_veteran_horse_archer_multiplayer_coop_tier_2_pl|Khergit Horse Archers
+; trp_khergit_infantry_multiplayer_coop_tier_2|Khergit Infantry
+; trp_khergit_infantry_multiplayer_coop_tier_2_pl|Khergit Infantries
+; trp_khergit_lancer_multiplayer_coop_tier_2|Khergit Lancer
+; trp_khergit_lancer_multiplayer_coop_tier_2_pl|Khergit Lancers
+; trp_nord_archer_multiplayer_coop_tier_2|Nord Archer
+; trp_nord_archer_multiplayer_coop_tier_2_pl|Nord Archers
+; trp_nord_veteran_multiplayer_coop_tier_2|Nord Huscarl
+; trp_nord_veteran_multiplayer_coop_tier_2_pl|Nord Huscarls
+; trp_nord_scout_multiplayer_coop_tier_2|Nord Scout
+; trp_nord_scout_multiplayer_coop_tier_2_pl|Nord Scouts
+; trp_rhodok_veteran_crossbowman_multiplayer_coop_tier_2|Rhodok Crossbowman
+; trp_rhodok_veteran_crossbowman_multiplayer_coop_tier_2_pl|Rhodok Crossbowmen
+; trp_rhodok_sergeant_multiplayer_coop_tier_2|Rhodok Sergeant
+; trp_rhodok_sergeant_multiplayer_coop_tier_2_pl|Rhodok Sergeants
+; trp_rhodok_horseman_multiplayer_coop_tier_2|Rhodok Horseman
+; trp_rhodok_horseman_multiplayer_coop_tier_2_pl|Rhodok Horsemen
+; trp_sarranid_archer_multiplayer_coop_tier_2|Sarranid Archer
+; trp_sarranid_archer_multiplayer_coop_tier_2_pl|Sarranid Archers
+; trp_sarranid_footman_multiplayer_coop_tier_2|Sarranid Footman
+; trp_sarranid_footman_multiplayer_coop_tier_2_pl|Sarranid footman
+; trp_sarranid_mamluke_multiplayer_coop_tier_2|Sarranid Mamluke
+; trp_sarranid_mamluke_multiplayer_coop_tier_2_pl|Sarranid Mamluke
+; trp_swadian_crossbowman_multiplayer_coop_tier_3|Swadian Crossbowman
+; trp_swadian_crossbowman_multiplayer_coop_tier_3_pl|Swadian Crossbowmen
+; trp_swadian_infantry_multiplayer_coop_tier_3|Swadian Infantry
+; trp_swadian_infantry_multiplayer_coop_tier_3_pl|Swadian Infantry
+; trp_swadian_man_at_arms_multiplayer_coop_tier_3|Swadian Man at Arms
+; trp_swadian_man_at_arms_multiplayer_coop_tier_3_pl|Swadian Men at Arms
+; trp_vaegir_archer_multiplayer_coop_tier_3|Vaegir Archer
+; trp_vaegir_archer_multiplayer_coop_tier_3_pl|Vaegir Archers
+; trp_vaegir_spearman_multiplayer_coop_tier_3|Vaegir Spearman
+; trp_vaegir_spearman_multiplayer_coop_tier_3_pl|Vaegir spearman
+; trp_vaegir_horseman_multiplayer_coop_tier_3|Vaegir Horseman
+; trp_vaegir_horseman_multiplayer_coop_tier_3_pl|Vaegir Horsemen
+; trp_khergit_veteran_horse_archer_multiplayer_coop_tier_3|Khergit Horse Archer
+; trp_khergit_veteran_horse_archer_multiplayer_coop_tier_3_pl|Khergit Horse Archers
+; trp_khergit_infantry_multiplayer_coop_tier_3|Khergit Infantry
+; trp_khergit_infantry_multiplayer_coop_tier_3_pl|Khergit Infantries
+; trp_khergit_lancer_multiplayer_coop_tier_3|Khergit Lancer
+; trp_khergit_lancer_multiplayer_coop_tier_3_pl|Khergit Lancers
+; trp_nord_archer_multiplayer_coop_tier_3|Nord Archer
+; trp_nord_archer_multiplayer_coop_tier_3_pl|Nord Archers
+; trp_nord_veteran_multiplayer_coop_tier_3|Nord Huscarl
+; trp_nord_veteran_multiplayer_coop_tier_3_pl|Nord Huscarls
+; trp_nord_scout_multiplayer_coop_tier_3|Nord Scout
+; trp_nord_scout_multiplayer_coop_tier_3_pl|Nord Scouts
+; trp_rhodok_veteran_crossbowman_multiplayer_coop_tier_3|Rhodok Crossbowman
+; trp_rhodok_veteran_crossbowman_multiplayer_coop_tier_3_pl|Rhodok Crossbowmen
+; trp_rhodok_sergeant_multiplayer_coop_tier_3|Rhodok Sergeant
+; trp_rhodok_sergeant_multiplayer_coop_tier_3_pl|Rhodok Sergeants
+; trp_rhodok_horseman_multiplayer_coop_tier_3|Rhodok Horseman
+; trp_rhodok_horseman_multiplayer_coop_tier_3_pl|Rhodok Horsemen
+; trp_sarranid_archer_multiplayer_coop_tier_3|Sarranid Archer
+; trp_sarranid_archer_multiplayer_coop_tier_3_pl|Sarranid Archers
+; trp_sarranid_footman_multiplayer_coop_tier_3|Sarranid Footman
+; trp_sarranid_footman_multiplayer_coop_tier_3_pl|Sarranid footman
+; trp_sarranid_mamluke_multiplayer_coop_tier_3|Sarranid Mamluke
+; trp_sarranid_mamluke_multiplayer_coop_tier_3_pl|Sarranid Mamluke
+; trp_swadian_crossbowman_multiplayer_coop_tier_4|Swadian Crossbowman
+; trp_swadian_crossbowman_multiplayer_coop_tier_4_pl|Swadian Crossbowmen
+; trp_swadian_infantry_multiplayer_coop_tier_4|Swadian Infantry
+; trp_swadian_infantry_multiplayer_coop_tier_4_pl|Swadian Infantry
+; trp_swadian_man_at_arms_multiplayer_coop_tier_4|Swadian Man at Arms
+; trp_swadian_man_at_arms_multiplayer_coop_tier_4_pl|Swadian Men at Arms
+; trp_vaegir_archer_multiplayer_coop_tier_4|Vaegir Archer
+; trp_vaegir_archer_multiplayer_coop_tier_4_pl|Vaegir Archers
+; trp_vaegir_spearman_multiplayer_coop_tier_4|Vaegir Spearman
+; trp_vaegir_spearman_multiplayer_coop_tier_4_pl|Vaegir spearman
+; trp_vaegir_horseman_multiplayer_coop_tier_4|Vaegir Horseman
+; trp_vaegir_horseman_multiplayer_coop_tier_4_pl|Vaegir Horsemen
+; trp_khergit_veteran_horse_archer_multiplayer_coop_tier_4|Khergit Horse Archer
+; trp_khergit_veteran_horse_archer_multiplayer_coop_tier_4_pl|Khergit Horse Archers
+; trp_khergit_infantry_multiplayer_coop_tier_4|Khergit Infantry
+; trp_khergit_infantry_multiplayer_coop_tier_4_pl|Khergit Infantries
+; trp_khergit_lancer_multiplayer_coop_tier_4|Khergit Lancer
+; trp_khergit_lancer_multiplayer_coop_tier_4_pl|Khergit Lancers
+; trp_nord_archer_multiplayer_coop_tier_4|Nord Archer
+; trp_nord_archer_multiplayer_coop_tier_4_pl|Nord Archers
+; trp_nord_veteran_multiplayer_coop_tier_4|Nord Huscarl
+; trp_nord_veteran_multiplayer_coop_tier_4_pl|Nord Huscarls
+; trp_nord_scout_multiplayer_coop_tier_4|Nord Scout
+; trp_nord_scout_multiplayer_coop_tier_4_pl|Nord Scouts
+; trp_rhodok_veteran_crossbowman_multiplayer_coop_tier_4|Rhodok Crossbowman
+; trp_rhodok_veteran_crossbowman_multiplayer_coop_tier_4_pl|Rhodok Crossbowmen
+; trp_rhodok_sergeant_multiplayer_coop_tier_4|Rhodok Sergeant
+; trp_rhodok_sergeant_multiplayer_coop_tier_4_pl|Rhodok Sergeants
+; trp_rhodok_horseman_multiplayer_coop_tier_4|Rhodok Horseman
+; trp_rhodok_horseman_multiplayer_coop_tier_4_pl|Rhodok Horsemen
+; trp_sarranid_archer_multiplayer_coop_tier_4|Sarranid Archer
+; trp_sarranid_archer_multiplayer_coop_tier_4_pl|Sarranid Archers
+; trp_sarranid_footman_multiplayer_coop_tier_4|Sarranid Footman
+; trp_sarranid_footman_multiplayer_coop_tier_4_pl|Sarranid footman
+; trp_sarranid_mamluke_multiplayer_coop_tier_4|Sarranid Mamluke
+; trp_sarranid_mamluke_multiplayer_coop_tier_4_pl|Sarranid Mamluke
+; trp_npc1_1|Borcha
+; trp_npc1_1_pl|Borcha
+; trp_npc2_1|Marnid
+; trp_npc2_1_pl|Marnid
+; trp_npc3_1|Ymira
+; trp_npc3_1_pl|Ymira
+; trp_npc4_1|Rolf
+; trp_npc4_1_pl|Rolf
+; trp_npc5_1|Baheshtur
+; trp_npc5_1_pl|Baheshtur
+; trp_npc6_1|Firentis
+; trp_npc6_1_pl|Firentis
+; trp_npc7_1|Deshavi
+; trp_npc7_1_pl|Deshavi
+; trp_npc8_1|Matheld
+; trp_npc8_1_pl|Matheld
+; trp_npc9_1|Alayen
+; trp_npc9_1_pl|Alayen
+; trp_npc10_1|Bunduk
+; trp_npc10_1_pl|Bunduk
+; trp_npc11_1|Katrin
+; trp_npc11_1_pl|Katrin
+; trp_npc12_1|Jeremus
+; trp_npc12_1_pl|Jeremus
+; trp_npc13_1|Nizar
+; trp_npc13_1_pl|Nizar
+; trp_npc14_1|Lezalit
+; trp_npc14_1_pl|Lezalit
+; trp_npc15_1|Artimenner
+; trp_npc15_1_pl|Artimenner
+; trp_npc16_1|Klethi
+; trp_npc16_1_pl|Klethi
+; trp_npc1_2|Borcha
+; trp_npc1_2_pl|Borcha
+; trp_npc2_2|Marnid
+; trp_npc2_2_pl|Marnid
+; trp_npc3_2|Ymira
+; trp_npc3_2_pl|Ymira
+; trp_npc4_2|Rolf
+; trp_npc4_2_pl|Rolf
+; trp_npc5_2|Baheshtur
+; trp_npc5_2_pl|Baheshtur
+; trp_npc6_2|Firentis
+; trp_npc6_2_pl|Firentis
+; trp_npc7_2|Deshavi
+; trp_npc7_2_pl|Deshavi
+; trp_npc8_2|Matheld
+; trp_npc8_2_pl|Matheld
+; trp_npc9_2|Alayen
+; trp_npc9_2_pl|Alayen
+; trp_npc10_2|Bunduk
+; trp_npc10_2_pl|Bunduk
+; trp_npc11_2|Katrin
+; trp_npc11_2_pl|Katrin
+; trp_npc12_2|Jeremus
+; trp_npc12_2_pl|Jeremus
+; trp_npc13_2|Nizar
+; trp_npc13_2_pl|Nizar
+; trp_npc14_2|Lezalit
+; trp_npc14_2_pl|Lezalit
+; trp_npc15_2|Artimenner
+; trp_npc15_2_pl|Artimenner
+; trp_npc16_2|Klethi
+; trp_npc16_2_pl|Klethi
+; trp_npc1_3|Borcha
+; trp_npc1_3_pl|Borcha
+; trp_npc2_3|Marnid
+; trp_npc2_3_pl|Marnid
+; trp_npc3_3|Ymira
+; trp_npc3_3_pl|Ymira
+; trp_npc4_3|Rolf
+; trp_npc4_3_pl|Rolf
+; trp_npc5_3|Baheshtur
+; trp_npc5_3_pl|Baheshtur
+; trp_npc6_3|Firentis
+; trp_npc6_3_pl|Firentis
+; trp_npc7_3|Deshavi
+; trp_npc7_3_pl|Deshavi
+; trp_npc8_3|Matheld
+; trp_npc8_3_pl|Matheld
+; trp_npc9_3|Alayen
+; trp_npc9_3_pl|Alayen
+; trp_npc10_3|Bunduk
+; trp_npc10_3_pl|Bunduk
+; trp_npc11_3|Katrin
+; trp_npc11_3_pl|Katrin
+; trp_npc12_3|Jeremus
+; trp_npc12_3_pl|Jeremus
+; trp_npc13_3|Nizar
+; trp_npc13_3_pl|Nizar
+; trp_npc14_3|Lezalit
+; trp_npc14_3_pl|Lezalit
+; trp_npc15_3|Artimenner
+; trp_npc15_3_pl|Artimenner
+; trp_npc16_3|Klethi
+; trp_npc16_3_pl|Klethi
+; trp_npc1_4|Borcha
+; trp_npc1_4_pl|Borcha
+; trp_npc2_4|Marnid
+; trp_npc2_4_pl|Marnid
+; trp_npc3_4|Ymira
+; trp_npc3_4_pl|Ymira
+; trp_npc4_4|Rolf
+; trp_npc4_4_pl|Rolf
+; trp_npc5_4|Baheshtur
+; trp_npc5_4_pl|Baheshtur
+; trp_npc6_4|Firentis
+; trp_npc6_4_pl|Firentis
+; trp_npc7_4|Deshavi
+; trp_npc7_4_pl|Deshavi
+; trp_npc8_4|Matheld
+; trp_npc8_4_pl|Matheld
+; trp_npc9_4|Alayen
+; trp_npc9_4_pl|Alayen
+; trp_npc10_4|Bunduk
+; trp_npc10_4_pl|Bunduk
+; trp_npc11_4|Katrin
+; trp_npc11_4_pl|Katrin
+; trp_npc12_4|Jeremus
+; trp_npc12_4_pl|Jeremus
+; trp_npc13_4|Nizar
+; trp_npc13_4_pl|Nizar
+; trp_npc14_4|Lezalit
+; trp_npc14_4_pl|Lezalit
+; trp_npc15_4|Artimenner
+; trp_npc15_4_pl|Artimenner
+; trp_npc16_4|Klethi
+; trp_npc16_4_pl|Klethi

@@ -1,6 +1,7 @@
 qstr_Next_Page|Próxima página
 qstr_Game_Rules:^|Regras do jogo:^
 qstr_0|0
+; qstr_Lv._{reg0}|Lv. {reg0}
 qstr_Show_game_rules|Mostrar regras do jogo
 qstr_Continue...|Continuar...
 qstr_Candidate_#1:_{s1}|Candidato #1: {s1}
@@ -191,7 +192,6 @@ qstr_You_lose_right_to_ru|Você perde o Direito de Governar.
 ; qstr_You_got_keys_of_dung|You got keys of dungeon.
 ; qstr_You_must_stay_behind|You must stay behind the line on the ground! Point is not counted.
 qstr_Tutorial|Tutorial
-; qstr_Calculating_value_of|Calculating value of original items!
 ; qstr_You_came_into_the_wo|You came into the world a {reg3?daughter:son} of declining nobility, owning only the house in which they lived. However, despite your family's hardships, they afforded you a good education and trained you from childhood for the rigors of aristocracy and life at court.
 ; qstr_You_were_born_the_{r|You were born the {reg3?daughter:son} of travelling merchants, always moving from place to place in search of a profit. Although your parents were wealthier than most and educated you as well as they could, you found little opportunity to make friends on the road, living mostly for the moments when you could sell something to somebody.
 ; qstr_As_a_child_your_fami|As a child, your family scrabbled out a meagre living from your father's wages as a guardsman to the local lord. It was not an easy existence, and you were too poor to get much of an education. You learned mainly how to defend yourself on the streets, with or without a weapon in hand.

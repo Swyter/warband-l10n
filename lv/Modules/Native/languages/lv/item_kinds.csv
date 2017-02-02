@@ -1,23 +1,23 @@
-; itm_no_item|INVALID ITEM
-; itm_no_item_pl|INVALID ITEM
-itm_tutorial_spear|Mızrak
-itm_tutorial_spear_pl|Mızrak
-itm_tutorial_club|Sopa
-itm_tutorial_club_pl|Sopa
-itm_tutorial_battle_axe|Savaş Baltası
-itm_tutorial_battle_axe_pl|Savaş Baltası
-itm_tutorial_arrows|Ok
-itm_tutorial_arrows_pl|Ok
-; itm_tutorial_bolts|Bolts
-; itm_tutorial_bolts_pl|Bolts
-itm_tutorial_short_bow|Kısa Yay
-itm_tutorial_short_bow_pl|Kısa Yay
-itm_tutorial_crossbow|Arbalet
-itm_tutorial_crossbow_pl|Arbalet
-; itm_tutorial_throwing_daggers|Throwing Daggers
-; itm_tutorial_throwing_daggers_pl|Throwing Daggers
-; itm_tutorial_saddle_horse|Saddle Horse
-; itm_tutorial_saddle_horse_pl|Saddle Horse
+itm_no_item|Nederīgs priekšmets
+itm_no_item_pl|Nederīgs priekšmets
+itm_tutorial_spear|Šķēps
+itm_tutorial_spear_pl|Šķēps
+itm_tutorial_club|Vāle
+itm_tutorial_club_pl|Vāle
+itm_tutorial_battle_axe|Kaujas cirvis
+itm_tutorial_battle_axe_pl|Kaujas cirvis
+itm_tutorial_arrows|Loka bultas
+itm_tutorial_arrows_pl|Loka bultas
+itm_tutorial_bolts|Stopa bultas
+itm_tutorial_bolts_pl|Stopa bultas
+itm_tutorial_short_bow|Īsais loks
+itm_tutorial_short_bow_pl|Īsais loks
+itm_tutorial_crossbow|Stops
+itm_tutorial_crossbow_pl|Stops
+itm_tutorial_throwing_daggers|Metamie naži
+itm_tutorial_throwing_daggers_pl|Metamie naži
+itm_tutorial_saddle_horse|Apseglots zirgs
+itm_tutorial_saddle_horse_pl|Apseglots zirgs
 ; itm_tutorial_shield|Kite Shield
 ; itm_tutorial_shield_pl|Kite Shield
 ; itm_tutorial_staff_no_attack|Staff
@@ -1160,16 +1160,16 @@ itm_tutorial_crossbow_pl|Arbalet
 ; itm_bride_shoes_pl|Bride Shoes
 ; itm_practice_bow_2|Practice Bow
 ; itm_practice_bow_2_pl|Practice Bow
-itm_practice_arrows_2|Talim Oku
-itm_practice_arrows_2_pl|Talim Oku
-itm_plate_boots|Plaka Botlar\n
-itm_plate_boots_pl|Plaka Botlar
+; itm_practice_arrows_2|Practice Arrows
+; itm_practice_arrows_2_pl|Practice Arrows
+; itm_plate_boots|Plate Boots
+; itm_plate_boots_pl|Plate Boots
 ; itm_mail_boots_for_tableau|Mail Boots
 ; itm_mail_boots_for_tableau_pl|Mail Boots
-itm_warhorse_sarranid|Sarranid Savaş Atı
-itm_warhorse_sarranid_pl|Sarranid Savaş Atı
-itm_warhorse_steppe|Bozkır Savaş Atı
-itm_warhorse_steppe_pl|Bozkır Savaş Atı
+; itm_warhorse_sarranid|Sarranian War Horse
+; itm_warhorse_sarranid_pl|Sarranian War Horse
+; itm_warhorse_steppe|Steppe Charger
+; itm_warhorse_steppe_pl|Steppe Charger
 ; itm_items_end|Items End
 ; itm_items_end_pl|Items End
 ; itm_javelin_bow|Javelin Bow

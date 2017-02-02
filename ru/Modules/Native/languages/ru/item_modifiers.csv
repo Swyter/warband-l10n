@@ -1,0 +1,43 @@
+imod_plain|одноцветный %s
+imod_cracked|Сломанный %s
+imod_rusty|Ржавый %s
+; imod_bent|Bent %s
+; imod_chipped|Chipped %s
+; imod_battered|Battered %s
+imod_poor|Плохой %s
+imod_crude|Грубый %s
+imod_old|Старый %s
+imod_cheap|Дешёвый %s
+imod_fine|Неплохой %s
+imod_well_made|Хорошо сделанный %s
+imod_sharp|Острый %s
+imod_balanced|Сбалансированный %s
+; imod_tempered|Tempered %s
+imod_deadly|Смертельный %s
+; imod_exquisite|Exquisite %s
+imod_masterwork|Мастерской %s
+imod_heavy|Тяжёлый %s
+imod_strong|Сильный %s
+imod_powerful|Мощный %s
+; imod_tattered|Tattered %s
+; imod_ragged|Ragged %s
+; imod_rough|Rough %s
+; imod_sturdy|Sturdy %s
+; imod_thick|Thick %s
+imod_hardened|Закалённый %s
+imod_reinforced|Перекованый %s
+imod_superb|Превосходный %s
+imod_lordly|Благородный %s
+; imod_lame|Lame %s
+; imod_swaybacked|Swaybacked %s
+; imod_stubborn|Stubborn %s
+; imod_timid|Timid %s
+; imod_meek|Meek %s
+imod_spirited|Душевный %s
+imod_champion|Чемпионский %s
+imod_fresh|Свежий %s
+imod_day_old|Прошлодневный %s
+imod_two_day_old|Двух дневный %s
+imod_smelling|Пахнущий %s
+imod_rotten|Испорченный %s
+; imod_large_bag|Large Bag of %s
