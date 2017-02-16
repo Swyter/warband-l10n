@@ -62,7 +62,7 @@ ui_change_hair|Capelli
 ui_change_hair_color|Colore Capelli
 ui_change_beard|Barba
 ui_tutorial|Tutorial
-ui_tutorial_face_generator|Modifica il volto del personaggio con i pulsanti e gli slider. Per ruotare la testa, clicca e trascina il mouse.
+ui_tutorial_face_generator|Modifica il volto del personaggio con i pulsanti e gli slider. Per ruotare la testa, tieni premuto il tasto sinistro del mouse e trascinalo. Per avvicinare o allontanare l'inquadratura tieni premuto il tasto destro del mouse e trascina.
 ui_restore|Ripristina
 ui_cancel|Annulla
 ui_delete|Elimina
@@ -101,7 +101,7 @@ ui_explanation_archery|Competenza nell'uso degli Archi.
 ui_explanation_crossbow|Competenza nell'uso delle Balestre.
 ui_explanation_throwing|Competenza nell'uso delle armi da lancio quali Giavellotti, Coltelli, Pietre, ecc.
 ui_explanation_firearms|Competenza nell'uso di Pistole e Moschetti.
-ui_explanation_strength|Forza: Ogni punto da +1 ai punti ferita. Queste abilità non possono essere sviluppate oltre 1/3 della Forza: Pelle d'acciaio, Colpo possente, Lancio possente, Tiro possente.
+ui_explanation_strength|Forza: Ogni punto da +1 ai punti ferita. Queste abilità non possono essere sviluppate oltre 1/3 della Forza: Resistenza, Potenza di Colpo, Potenza di Lancio, Potenza di Tiro.
 ui_explanation_agility|Agilita' : Ogni punto da +5 punti arma e aumenta la velocità dell'arma del 0.5%. Queste abilità non possono essere sviluppate oltre 1/3 dell'agilità: Maestria nelle armi, Scudi, Atletica, Cavalcare, Tirare a cavallo, Saccheggiare.
 ui_explanation_intelligence|Intelligenza: Ogni punto dà un punto abilità extra. Queste abilità non possono essere sviluppate oltre 1/3 dell'intelligenza: Addestratore, Seguire tracce, Tattica, Viaggiare, Osservare, Gestione inventario, Trattare ferite, Chirurgia, Pronto soccorso, Ingegneria, Persuasione.
 ui_explanation_charisma|Carisma: Ogni punto aumenta il limite di truppe di +1. Queste abilità non possono essere sviluppate oltre 1/3 del Carisma: Controllo prigionieri, Comando, Commercio.
@@ -343,9 +343,9 @@ ui_horse_crippled|Cavallo azzoppato...
 ui_shot_difficulty|Difficoltà tiro: %2.1f
 ui_you_have_improved_your_proficiency_in_value_to_number|Competenza in %s aumentata a %d.
 ui_your_proficiency_in_value_has_improved_by_number_to_number|Competenza in %s è aumentata di +%d a %d.
-ui_value_killed_by_value|%s ucciso da %s.
+ui_value_killed_by_value|%s ucciso da: %s.
 ui_value_fell_dead|%s cade morto.
-ui_value_knocked_unconscious_by_value|%s stordito da %s.
+ui_value_knocked_unconscious_by_value|%s stordito da: %s.
 ui_value_fell_unconscious|%s cade stordito.
 ui_troop_routed|%s è disperso e in fuga.
 ui_troop_panicked|%s è terrorizzato.
@@ -374,7 +374,7 @@ ui_has_deserted_the_party| ha abbandonato la Compagnia.
 ui_have_deserted_the_party| hanno abbandonato la Compagnia.
 ui_weekly_report| Rapporto settimanale
 ui_shared_number_experience_within_party| Condivisi %d punti esperienza con le truppe.
-ui_got_item_value| Preso oggetto: %s.
+ui_got_item_value| Oggetto ottenuto: %s.
 ui_game_saved_successfully|Partita salvata con successo.
 ui_autosaving| Salvataggio Automatico...
 ui_quick_saving| Salvataggio Veloce...
@@ -485,7 +485,7 @@ ui_zoom_in|Zoom avanti
 ui_zoom_out|Zoom indietro
 ui_wait|Aspetta
 ui_take_screenshot|Fai uno screenshoot
-ui_randomize|Rendi casuale
+ui_randomize|Casuale
 ui_hint|Suggerimento
 ui_press_left_mouse_button_to_continue|Premi il tasto sinistro del mouse per continuare...
 ui_loot|Bottino

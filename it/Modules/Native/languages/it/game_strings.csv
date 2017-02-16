@@ -1561,7 +1561,7 @@ str_poll_change_number_of_bots|Poll to change number of bots to {reg0} for {s0} 
 str_poll_time_left|({reg0} seconds left)
 str_poll_result_yes|The poll is accepted by the majority.
 str_poll_result_no|The poll is rejected by the majority.
-str_total_item_cost_reg0|Total cost: {reg0}
+str_total_item_cost_reg0|Costo totale: {reg0}
 str_server_name|Server name:
 str_game_password|Game password:
 str_map|Map:
@@ -1973,8 +1973,8 @@ str_is_a_man_of_stalwart_character|È un uomo dall'animo coraggioso.
 str_appears_to_be_a_man_of_low_morals|sembra un uomo di bassa moralità.
 str_appears_to_be_a_man_who_lacks_selfdiscipline|sembra un uomo indisciplinato.
 str_bandits_attacked_a_party_on_the_roads_so_a_bounty_is_probably_available|I banditi hanno attaccato un gruppo per le strade, quindi probabilmente c'è una taglia sopra le loro teste.
-str_total_additions_reg4|Addizione totale: {reg4}
-str_total_subtractions_reg4|Sottrazione totale: {reg4}
+str_total_additions_reg4|Supplemento: {reg4}
+str_total_subtractions_reg4|Detrazione: {reg4}
 str_s11_relocates_to_s10|{s11} si trasferisce a {s10}.
 str__i_must_attend_to_this_matter_before_i_worry_about_the_affairs_of_the_realm| Mi devo occupare di questa faccenda prima di poter dar corso agli affari del regno.
 str_the_other_matter_took_precedence|L'altra questione ha la precedenza.
@@ -2851,150 +2851,150 @@ str_oim_training_9_text|Guarda ! Altri nemici all'orizzonte ! E' tempo di fare u
 str_oim_training_10_caption|Difesa all'arma bianca:
 str_oim_training_10_text|Bene ! Ora parliamo di difesa.. La difesa è controllata dal tasto destro del mouse. Per difenderti con efficacia con un'arma, attendi che il tuo avversario inizi il suo attacco, quindi tieni premuto il tasto destro del mouse.. Se la tua scelta di tempo è giusta, bloccherai automaticamente l'attacco verso la giusta direzione.
 str_oim_training_11_caption|Altri comandi in combattimento:
-; str_oim_training_11_text|Great! You have a new toy. Press R to switch to first person view -- this will make aiming your pistol easier. To further enhance your aim, hold down [Shift] to zoom in. Lastly, to line up an accurate shot, hold down the left mouse button. Wait until the reticle is smallest, then fire away... Shoot the padlock to proceed.
-; str_oim_training_12_caption|Map and Journal Control:
-; str_oim_training_12_text|Use the W, A, S, D keys to navigate around the map.^Left click to select anything on the map.^Hold down the right mouse button to rotate the camera.^Use the mouse wheel to zoom in/out.^Hover the mouse over any element to receive information about it.^Press Q to bring up the in-game log. The log includes information about current quests, important NPCs, NPC locations, villages, castles, and towns.^Be sure to consult the log if you need help finding NPCs or locations.
-; str_oim_training_13_text|After defeating the final enemy, you return to talk with your new ally.
-; str_oim_training_14_text|Keep your wits about you! These scoundrels could come from anywhere.
-; str_oim_training_16_text|Welcome to With Fire & Sword. This is a short tutorial that will guide you through your first steps in the game. Let's begin with the basics. Move your mouse to look around, and use W, A, S, and D for movement. Go to the fence ahead to proceed.
-; str_oim_training_17_text|Excellent! Looks like there's more fighting to be had. That group of adventurers seem to be expecting company!
-; str_oim_training_18_text|Don't forget to reload your gun. Press the left mouse button to do so. Destroy the padlock.
-; str_oim_training_21_text|That guy ahead looks like he's up to no good, you'd better use your new skills to teach him a lesson.
+str_oim_training_11_text|Grande ! Hai un nuovo giocattolo. Premi R per passare alla visuale in prima pesona - questo ti consentirà di mirare con la pistola più facilmente. Per migliorare ancora la tua mira, tieni premuto [Shift] per ingrandire. Infine, per un tiro di precisione, tieni premuto il tasto sinistro del mouse. Attendi fino a quando il reticolo di puntamento si restringe al massimo, quindi tira. Spara al lucchetto per procedere.
+str_oim_training_12_caption|Controllo Mappa e Diario:
+str_oim_training_12_text|Usa i tasti W, A, S, e D per navigare sulla mappa.^Premi il tasto sinistro del mouse per selezionare qualcosa sulla mappa.^Tieni premuto il tasto destro del mouse per ruotare la visuale.^Usa la rotellina del mouse per ingrandire la visuale e viceversa.^Trascina il mouse su qualsiasi elemento per ricevere informazioni su di esso.^Premi Q per accedere al diario di gioco. Il diario include informazioni riguardanti le quest attive, personaggi importanti e la loro locazione, villaggi, castelli e città.^Consulta il diario se hai bisogno di trovare la posizione dei personaggi.
+str_oim_training_13_text|Dopo aver sconfitto l'ultimo nemico, torni a parlare con il tuo nuovo alleato.
+str_oim_training_14_text|Tieniti caro il tuo spirito ! Questi lestofanti potrebbero arrivare da qualcunque posto.
+str_oim_training_16_text|Ti diamo il benvenuto in 'With Fire & Sword'. Questa è una breve guida che ti accompagnerà attraverso i tuoi primi passi nel gioco. Iniziamo dalle basi. Muovi il tuo mouse per guardarti attorno, e usa W, A, S, e D per muoverti. Raggiungi lo steccato per procedere.
+str_oim_training_17_text|Eccellente ! Sembra che ci sia ancora molto da combattere. Questo gruppo di avventurieri sembra stiano aspettando compagnia !
+str_oim_training_18_text|Non dimenticare di ricaricare la tua arma. Premi il tasto sinistro del mouse per farlo. Rompi il lucchetto.
+str_oim_training_21_text|Quel tipo là davanti sembra essersi svegliato male, sarà meglio che tu usi le tue nuove abilità per insegnargli una lezione.
 str_forget_it|Scordatevelo.
-; str_oim_ms_construct_only_one_instanse_for_player|Stub
-; str_oim_ms_construct_party_has_merchant_guild|Stub
-; str_oim_ms_construct_party_has_arm_buildings|Stub
-; str_oim_ms_construct_party_has_certain_officer|Stub
-; str_oim_ms_construct_party_has_certain_officers|Stub
-; str_oim_ms_price_log|Stub
-; str_oim_ms_construct_time|Stub
-; str_oim_mnu_ms_additional_school|Stub
-; str_oim_mnu_ms_additional_merchant_guild|Stub
-; str_oim_mnu_ms_additional_extra_goods|Stub
-; str_oim_mnu_ms_additional_adviser|Stub
-; str_oim_mnu_ms_additional_officer|Stub
-; str_oim_slot_ms_script_looted|Stub
-; str_oim_script_ms_event_raise_taxes|Stub
-; str_oim_script_ms_event_change_prosperity|Stub
-; str_oim_script_ms_event_raise_taxes_week|Stub
-; str_oim_script_ms_event_notification_about_gold_usage|Stub
-; str_mp_new_1|Tatar town
-; str_mp_new_2|Fortified town
-; str_mp_new_3|Trenches
-; str_all_fire_now|All Fire Now!
-; str_left_fire_now|Left Fire Now!
-; str_middle_fire_now|Middle Fire Now!
-; str_right_fire_now|Right Fire Now!
-; str_fire_at_my_command|Fire At My Command
-; str_use_melee_weapons|Use Melee Weapons
-; str_use_ranged_weapons|Use Ranged Weapons
-; str_melee_weapons|Melee Weapons
-; str_ranged_weapons|Ranged Weapons
-; str_formation|Formation
-; str_very_tight|Very Tight
-; str_tight|Tight
-; str_loose|Loose
-; str_very_loose|Very Loose
-; str_form_1_row|Form 1 Row
-; str_form_reg0_rows|Form {reg0} Rows
-; str_percent_5_tax_is_paid|{reg2} thalers (5% of total profit) is paid as tax. Get a trade patent exempt you from tax.
-; str_percent_10_tax_is_paid|{reg2} thalers (10% of total profit) is paid as tax. Get a trade patent to exempt you from tax 
-; str_you_are_weak_take_these_men_with_you|Your party seems a bit weak, take these 2 volunteers with you.
-; str_meeting_with_thieves|When you enter the village, you see a group of bandits stealing the village livestock. Your presence distracts them from their questionable activity, they approach you. 
-; str_oim_hunt_down_thieves_explanation|The elder of the village of {s3} has asked you to hunt down thiefs at midnight.
-; str_oim_get_feast_supplies_explanation|The elder of the village of {s3} has asked you to bring him 5 ale barrels, 5 grapes, 1 wine barrel, 1 vodka barrel and 1 shag.
+str_oim_ms_construct_only_one_instanse_for_player|Albero mozzo
+str_oim_ms_construct_party_has_merchant_guild|Albero mozzo
+str_oim_ms_construct_party_has_arm_buildings|Albero mozzo
+str_oim_ms_construct_party_has_certain_officer|Albero mozzo
+str_oim_ms_construct_party_has_certain_officers|Albero mozzo
+str_oim_ms_price_log|Albero mozzo
+str_oim_ms_construct_time|Albero mozzo
+str_oim_mnu_ms_additional_school|Albero mozzo
+str_oim_mnu_ms_additional_merchant_guild|Albero mozzo
+str_oim_mnu_ms_additional_extra_goods|Albero mozzo
+str_oim_mnu_ms_additional_adviser|Albero mozzo
+str_oim_mnu_ms_additional_officer|Albero mozzo
+str_oim_slot_ms_script_looted|Albero mozzo
+str_oim_script_ms_event_raise_taxes|Albero mozzo
+str_oim_script_ms_event_change_prosperity|Albero mozzo
+str_oim_script_ms_event_raise_taxes_week|Albero mozzo
+str_oim_script_ms_event_notification_about_gold_usage|Albero mozzo
+str_mp_new_1|Città Tartara
+str_mp_new_2|Città Fortificata
+str_mp_new_3|Trincee
+str_all_fire_now|Fare Fuoco Tutti !
+str_left_fire_now|Fianco Sinistro: Fuoco !
+str_middle_fire_now|Centro: Fuoco !
+str_right_fire_now|Fianco Destro: Fuoco !
+str_fire_at_my_command|Fuoco al mio comando
+str_use_melee_weapons|Arma bianca
+str_use_ranged_weapons|Armi a distanza
+str_melee_weapons|Armi da mischia
+str_ranged_weapons|Armi a distanza
+str_formation|Formazione
+str_very_tight|Molto stretti
+str_tight|Stretti
+str_loose|Allargatevi
+str_very_loose|Allargatevi molto
+str_form_1_row|Formare una linea
+str_form_reg0_rows|Formare {reg0} linee
+str_percent_5_tax_is_paid|{reg2} talleri (5% del profitto totale) sono pagati come tasse. Ottieni un breveto che ti esenti dalle tasse.
+str_percent_10_tax_is_paid|{reg2} talleri (10% del profitto totale) sono pagati come tasse. Ottieni un breveto che ti esenti dalle tasse.
+str_you_are_weak_take_these_men_with_you|La tua compagnia sembra debole, prendi questi 2 volontari con te.
+str_meeting_with_thieves|Quando entri nel villaggio, vedi un gruppo di banditi che stanno rubando il bestiamo del villaggio. La tua presenza li distrae dalla loro discutibile attività, si avvicinano a te.
+str_oim_hunt_down_thieves_explanation|L'anziano del villaggio di {s3} ti ha chiesto di dare la caccia ai ladri a mezzanotte.
+str_oim_get_feast_supplies_explanation|L'anziano del villaggio di {s3} ti ha chiesto di portargli 5 barili di birra, 5 grappoli d'uva, 1 barile di vino, un barile di vodka e una fornitura di tabacco grezzo.
 str_mp_add_troop|Compagni
-; str_mp_squad|Squad
-; str_mp_squad_req_size_reg0|Requested: {reg0}
-; str_mp_squad_active_size_reg0|Active: {reg0}
-; str_squad_cost_reg0|Squad cost: {reg0}
-; str_item_cost_reg0|Item cost: {reg0}
-; str_next_wave_in_reg0_mins|Next wave in {reg0} mins...
-; str_wave_info|WAVE INFO
-; str_wave_no_reg1|Wave No: {reg1}
-; str_veteran_wave_no_reg1|Veteran Wave No: {reg1}
-; str_elite_wave_no_reg1|Elite Wave No: {reg1}
-; str_time_left_reg2_mins_reg1_secs|Time Left: {reg2} minutes and {reg1} seconds
-; str_time_left_reg1_secs|Time Left: {reg1} seconds
-; str_enemies_reg1_total_reg2_arriving|Enemies: {reg1} Alive, {reg2} Arriving
-; str_ccoop_enemy_info|   {reg4} {s0} ({reg3} arriving)
-; str_oim_black_hetman_failed|You no longer control the capital, there is no chance of victory. All is lost!
-; str_squad_size_for_captains|Squad size for captains:
-; str_captain_merc_ratio|Captain / Mercenary ratio:
+str_mp_squad|Squadra
+str_mp_squad_req_size_reg0|Richiesto: {reg0}
+str_mp_squad_active_size_reg0|Attivo: {reg0}
+str_squad_cost_reg0|Costo squadra: {reg0}
+str_item_cost_reg0|Costo oggetto: {reg0}
+str_next_wave_in_reg0_mins|Prossima ondata fra {reg0} minuti..
+str_wave_info|INFORMAZIONI ONDATA
+str_wave_no_reg1|Ondata n.: {reg1}
+str_veteran_wave_no_reg1|Ondata di Veterani n.: {reg1}
+str_elite_wave_no_reg1|Ondata Elite n.: {reg1}
+str_time_left_reg2_mins_reg1_secs|Tempo rimanente: {reg2} minuti e {reg1} secondi
+str_time_left_reg1_secs|Tempo rimanente: {reg1} secondi
+str_enemies_reg1_total_reg2_arriving|Nemici: {reg1} Vivi, {reg2} In arrivo
+str_ccoop_enemy_info|{reg4} {s0} ({reg3} in arrivo)
+str_oim_black_hetman_failed|Non controlli più la capitale, non ci sono speranze di vittoria. Tutto è perduto !
+str_squad_size_for_captains|Dimensioni squadra per capitani:
+str_captain_merc_ratio|Ratio Capitano/ Mercenario:
 str_1_div|1 / 
 str_accompany|Scorta
 str_reg2_s1_s2_s2|{reg2?{s1}, {s2}:{s2}}
 str_reg2_s1_and_s2_s2|{reg2?{s1} e {s2}:{s2}}
-; str_give_the_money_you_took_from_s9_to_s10|Give the money you took from {s9} to {s10}.
-; str_men|men
-; str_you_have_taken_all_infantry|Haha! {Sir/Madam}, you've taken all my infantry already. Will there be anything else?
-; str_you_have_taken_all_musketeer|Haha! {Sir/Madam}, you've taken all my musketeer already. Will there be anything else?
-; str_you_have_taken_all_cavalry|Haha! {Sir/Madam}, you've taken all my cavalry already. Will there be anything else?
-; str_price_there_known|{s1}, ({s2} is {reg1} thalers there)
+str_give_the_money_you_took_from_s9_to_s10|Consegna i soldi che hai preso a {s9} a {s10}
+str_men|uomini
+str_you_have_taken_all_infantry|Haha ! {signore/Signora}, avete già preso tutta la mia fanteria. Ci sarà qualcos'altro ?
+str_you_have_taken_all_musketeer|Haha ! {signore/Signora}, avete già preso tutti i miei moschettieri. Ci sarà qualcos'altro ?
+str_you_have_taken_all_cavalry|Haha ! {signore/Signora}, avete già preso tutta la mia cavalleria. Ci sarà qualcos'altro ?
+str_price_there_known|{s1}, ({s2} è {reg1} talleri qui)
 str_price_there_unknown|{s1}
-; str_your_troops_are_dying_because_of_illness|Your troops are dying because of a disease!
-; str_has_died_because_of_illness|has died of {s4}.
-; str_have_died_because_of_illness|have died of {s4}.
-; str_ccoop_wave_reg1_is_coming_in_reg0_seconds|Wave {reg1} is coming in {reg0} seconds
-; str_ccoop_veteran_wave_reg1_is_coming_in_reg0_seconds|Veteran wave {reg1} is coming in {reg0} seconds
-; str_ccoop_elite_wave_reg1_is_coming_in_reg0_seconds|Elite wave {reg1} (Tier {reg2}) is coming in {reg0} seconds
-; str_prison_cart_hint|Destroy the prisoner cart or pass the round to rescue fallen comrades.
-; str_wave_reg1|Wave {reg1}
-; str_veteran_wave_hint|Beware: Veterans have increased numbers and health and do %30 more damage!
-; str_elite_wave_hint|Beware: Elites have increased health and deliver more damage!
-; str_ask_for_help_to_respawn_hint|You'll respawn once your comrades destroy the prisoner cart or pass the current round.
-; str_wait_for_next_turn_to_respawn_hint|You will respawn in the next round.
-; str_mp_cbf_squad_auto_ratio|Auto-balance captain squad ratio
+str_your_troops_are_dying_because_of_illness|Le tue truppe subiscono perdite a causa di una malattia !
+str_has_died_because_of_illness|è morto di {s4}.
+str_have_died_because_of_illness|sono morti di {s4}.
+str_ccoop_wave_reg1_is_coming_in_reg0_seconds|Ondata {reg1} in arrivo in {reg0} secondi
+str_ccoop_veteran_wave_reg1_is_coming_in_reg0_seconds|Ondata veterani {reg1} in arrivo in {reg0} secondi
+str_ccoop_elite_wave_reg1_is_coming_in_reg0_seconds|Ondata Elite {reg1} (Fila {reg2}) in arrivo in  {reg0} secondi
+str_prison_cart_hint|Distruggi il carro dei prigionieri o salta il turno per recuperare i compagni caduti.
+str_wave_reg1|Ondata {reg1}
+str_veteran_wave_hint|Attenzione: I veterani hanno incrementato il loro numero e la loro salute, ora infliggono il 30% di danno in più.
+str_elite_wave_hint|Attenzione: I combattenti d'elite hanno incrementato la salute e infliggono un danno maggiore !
+str_ask_for_help_to_respawn_hint|Ti rigenererai una volta che i tuoi compagni avranno distrutto il carro dei prigionieri o saltando il turno attuale.
+str_wait_for_next_turn_to_respawn_hint|Ti rigenererai nel prossimo turno.
+str_mp_cbf_squad_auto_ratio|Auto-bilanciamento ratio squadra capitano
 str_default|Predefinito
-; str_coop_open_chest|Open Chest
-; str_coop_already_opened|Already Opened!
+str_coop_open_chest|Apri la cassa
+str_coop_already_opened|Già aperta !
 str_ccoop_difficulty|Difficoltà:
 str_ccoop_easy|Facile
 str_ccoop_normal|Normale
-; str_ccoop_endless|Endless
+str_ccoop_endless|infinito
 str_ccoop_difficulty_s0|Difficoltà: {s0}
 str_ccoop_victory|Vittoria!
-; str_ccoop_s0_enemy_defeated_s1|The {s0} {reg1?has:have} been defeated ({s1})
-; str_ccoop_s0_enemy_defeated_endless_reg0|The {s0} {reg1?has:have} been repelled for now...^Prepare for Elite Tier {reg0}
-; str_ccoop_lord_s0_wave_hint|The host of {s0} approaches!
-; str_ccoop_king_s0_wave_hint|The guard of {s0} approaches! (Final Wave)
-; str_ccoop_assign_drop|Assign the dropped item:
-; str_ccoop_select_companion|Choose and equip your companions:
-; str_ccoop_select_companion_class|Equip your companions:
-; str_ccoop_choose_an_item_to_replace|Replace which item?:
+str_ccoop_s0_enemy_defeated_s1|{s0} {reg1?ha subito:ha subito} una sconfitta ({s1})
+str_ccoop_s0_enemy_defeated_endless_reg0|{s0} {reg1?è stato:sono stati} respinti per ora...^Preparati per i combattenti Elite Liv. {reg0}
+str_ccoop_lord_s0_wave_hint|La schiera di {s0} si avvicina !
+str_ccoop_king_s0_wave_hint|La guardia di {s0} si avvicina ! (ondata finale)
+str_ccoop_assign_drop|Assegna l'oggetto lasciato:
+str_ccoop_select_companion|Scegli ed equipaggia i tuoi compagni:
+str_ccoop_select_companion_class|Equipaggia i tuoi compagni:
+str_ccoop_choose_an_item_to_replace|Con quale oggetto scambiare ?:
 str_ccoop_cancel|Annulla
 str_ccoop_lvl_reg0|Lv. {reg0}
-; str_ccoop_dropping_item_on_ground|You didn't have enough free weapon slots, so it fell to the ground.
+str_ccoop_dropping_item_on_ground|Non hai abbastanza spazio libero per le armi, quindi cade a terra.
 str_ccoop_king_name|Re {s0}
 str_ccoop_queen_name|Regina {s0}
-; str_javelin_bow|A bow that fires javelins
-; str_knockdown_mace|Knocks down everyone it hits
-; str_blood_drain_throwing_knives|Restore health to the thrower, with successful hits
-; str_doom_javelins|Gradually deplete the health of those they impale
-; str_disarming_throwing_axe|Disarms on impact
-; str_instakill_knife|Kills with even the slightest touch
-; str_backstabber|Kills any foe with a stab from behind
-; str_weak_beserker_dart|Depletes health but provokes a dangerous frenzy
-; str_team_change_dart|Causes the person it strikes to change their allegiance
-; str_awesome_spear|Awesome
-; str_running_boots|Make you run faster
-; str_power_gloves|Make you hit harder
-; str_invulnerable_helmet|Keeps your head safer
-; str_kicking_boots|Deliver a nasty kick
-; str_restore_health_armour|Restores health gradually
-; str_npc1_1|-Good with throwing and 1h^-Poor with 2h and crossbows
-; str_npc2_1|-Good with 1h^-Poor with throwing
-; str_npc3_1|-Good with polearms^-Poor with 2h
-; str_npc4_1|-Good with melee weapons^-Poor with ranged weapons
-; str_npc5_1|-Good with bows and throwing^-Poor with 2h and crossbows
-; str_npc6_1|-Good with 1h and 2h^-Poor with bows and crossbows
-; str_npc7_1|-Good with bows and polearms^-Poor with 1h and 2h
-; str_npc8_1|-Good with throwing and 2h^-Poor with polearms and crossbows
-; str_npc9_1|-Good with 2h and bows^-Poor with 1h and crossbows
-; str_npc10_1|-Good with crossbows^-Poor with 2h and polearms
-; str_npc11_1|-Good with 2h and crossbows^-Poor with bows
-; str_npc12_1|-Good with polearms^-Poor with bows
-; str_npc13_1|-Good with 1h and bows^-Poor with 2h
-; str_npc14_1|-Good with 1h^-Good all-rounder
-; str_npc15_1|-Good with 2h and bows^-Poor with crossbows and throwing
-; str_npc16_1|-Good with throwing and 1h^-Poor with 2h and crossbows
+str_javelin_bow|Un arco che lancia giavellotti
+str_knockdown_mace|Abbatte chiunque colpisca
+str_blood_drain_throwing_knives|Ridona salute al lanciatore, quando centra il nemico
+str_doom_javelins|Diminuisce gradualmente la salute di coloro che infilza
+str_disarming_throwing_axe|Disarma all'impatto
+str_instakill_knife|Uccide anche con il tocco più leggero
+str_backstabber|Uccide ogni avversario con un colpo da dietro
+str_weak_beserker_dart|Esaurisce la saluta ma provoca un pericoloso delirio
+str_team_change_dart|Fa cambiare fazione alla persona colpita
+str_awesome_spear|Eccezionale
+str_running_boots|Ti fa correre più veloce
+str_power_gloves|Ti fa colpire più duramente
+str_invulnerable_helmet|Ti tiene la testa al sicuro
+str_kicking_boots|Ti fa dare un brutto calcio
+str_restore_health_armour|Rigenera la salute gradualmente
+str_npc1_1|-Buono con 1 mano^-Scarso con 2 mani e una balestra
+str_npc2_1|-Buono con 1 mano^-Scarso nel lancio
+str_npc3_1|-Buono con le armi con asta^-Scarso con le armi a 2 mani
+str_npc4_1|-Buono con le armi da mischia^-Scarso con le armi a distanza
+str_npc5_1|-Buono con gli archi e le armi da lancio^-Scarso con le armi a 2 mani e le balestre
+str_npc6_1|-Buono con le armi a 1 e  2 mani^-Scarso con gli archi e le balestre
+str_npc7_1|-Buono con gli archi e le armi con asta^-Scarso con le armi a 1 e 2 mani
+str_npc8_1|-Buono con le armi da lancio e a 2 mani^-Scarso con le armi con asta e le balestre
+str_npc9_1|-Buono con le armi a 2 mani e con gli archi^-Scarso con le armi a 1 mano e con le balestre
+str_npc10_1|-Buono con le balestre^-Scarso con le armi a 2 mani e le armi con asta
+str_npc11_1|-Buono con le armi a 2 mani e le balestre^-Scarso con gli archi
+str_npc12_1|-Buono con le armi con asta^-Scarso con gli archi
+str_npc13_1|-Buono con le armi a 1 mano e con gli archi^-Scarso con le armi a 2 mani
+str_npc14_1|-Buono con le armi a 1 mano^-Buono con tutto il resto
+str_npc15_1|-Buono con le armi a 2 mani e con gli archi^-Scarso con le balestre e le armi da lancio
+str_npc16_1|-Buono con le armi da lancio e le armi a 1 mano^-Scarso con le armi a 2 mani e con le balestre
