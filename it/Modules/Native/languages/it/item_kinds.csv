@@ -1172,10 +1172,10 @@ itm_warhorse_steppe|Destriero della steppa
 itm_warhorse_steppe_pl|Destriero della steppa
 itm_items_end|Items End
 itm_items_end_pl|Items End
-; itm_javelin_bow|Javelin Bow
-; itm_javelin_bow_pl|Javelin Bow
-; itm_knockdown_mace|Knockdown Mace
-; itm_knockdown_mace_pl|Knockdown Mace
+itm_javelin_bow|Arco Giavellotto
+itm_javelin_bow_pl|Arco Giavellotto
+itm_knockdown_mace|Mazza Abbattitrice
+itm_knockdown_mace_pl|Mazza Abbattitrice
 itm_blood_drain_throwing_knives|Coltelli da Lancio Sanguinari
 itm_blood_drain_throwing_knives_pl|Coltelli da Lancio Sanguinari
 itm_doom_javelins|Giavellotti del Destino
@@ -1183,13 +1183,13 @@ itm_doom_javelins_pl|Giavellotti del Destino
 itm_disarming_throwing_axe|Ascia da Lancio Disarmante
 itm_disarming_throwing_axe_pl|Ascia da Lancio Disarmante
 itm_instakill_knife|Coltello Assassino
-; itm_instakill_knife_pl|Instakill Knife
-; itm_backstabber|Backstabber
+itm_instakill_knife_pl|Pugnale Assassino
+itm_backstabber|Traditore
 itm_backstabber_pl|Traditore
 itm_weak_beserker_dart|Dardo Leggero del Berserker
 itm_weak_beserker_dart_pl|Dardo Leggero del Berserker
-; itm_team_change_dart|Team Change Dart
-; itm_team_change_dart_pl|Team Change Dart
+itm_team_change_dart|Dardo Cambio Squadra
+itm_team_change_dart_pl|Dardo Cambio Squadra
 itm_awesome_spear|Lancia Eccezionale
 itm_awesome_spear_pl|Lancia Eccezionale
 itm_running_boots|Stivali da Corsa
@@ -1200,9 +1200,9 @@ itm_invulnerable_helmet|Elmo Invulnerabile
 itm_invulnerable_helmet_pl|Elmo Invulnerabile
 itm_kicking_boots|Stivali da Combattimento
 itm_kicking_boots_pl|Stivali da Combattimento
-; itm_restore_health_armour|Restore Health Armour
-; itm_restore_health_armour_pl|Restore Health Armour
-; itm_javelin_bow_ammo|Shooting Javelins
-; itm_javelin_bow_ammo_pl|Shooting Javelins
+itm_restore_health_armour|Armatura Ripristino Salute
+itm_restore_health_armour_pl|Armatura Ripristino Salute
+itm_javelin_bow_ammo|Giavellotti da Lancio
+itm_javelin_bow_ammo_pl|Giavellotti da Lancio
 itm_ccoop_new_items_end|Fine Oggetti
 itm_ccoop_new_items_end_pl|Fine Oggetti
