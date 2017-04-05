@@ -238,7 +238,7 @@ trp_steppe_bandit|Bandido das Estepes
 trp_steppe_bandit_pl|Bandidos das Estepes
 ; trp_taiga_bandit|Taiga Bandit
 ; trp_taiga_bandit_pl|Taiga Bandits
-; trp_desert_bandit|Desert Bandit
+trp_desert_bandit|Bandido do Deserto
 trp_desert_bandit_pl|Bandidos do Deserto
 ; trp_black_khergit_horseman|Black Khergit Horseman
 ; trp_black_khergit_horseman_pl|Black Khergit Horsemen
@@ -254,15 +254,15 @@ trp_manhunter_pl|Caçadores de recompensa
 ; trp_slaver_chief_pl|Slaver Chiefs
 ; trp_follower_woman|Camp Follower
 ; trp_follower_woman_pl|Camp Follower
-; trp_hunter_woman|Huntress
-; trp_hunter_woman_pl|Huntresses
-; trp_fighter_woman|Camp Defender
-; trp_fighter_woman_pl|Camp Defenders
+trp_hunter_woman|caçadora
+trp_hunter_woman_pl|caçadoras
+trp_fighter_woman|Defensoras em Campanha
+trp_fighter_woman_pl|Defensoras em Campanha
 ; trp_sword_sister|Sword Sister
 ; trp_sword_sister_pl|Sword Sisters
-; trp_refugee|Refugee
-; trp_refugee_pl|Refugees
-; trp_peasant_woman|Peasant Woman
+trp_refugee|Pessoa Refugiada
+trp_refugee_pl|Pessoas Refugiadas
+trp_peasant_woman|Camponesa
 ; trp_peasant_woman_pl|Peasant Women
 ; trp_caravan_master|Caravan Master
 ; trp_caravan_master_pl|Caravan Masters
