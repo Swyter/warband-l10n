@@ -130,7 +130,7 @@ qstr_{s2}_{reg3?was:is}_b|{s2} {reg3? esteve:está} mantido em cativeiro em {s3}
 qstr_{s2}_{reg3?was:has_b|{s2} {reg3?estava:foi} levado em cativeiro por {reg4? seus:seus} inimigos.
 ; qstr_{reg3?{s2}_s_locatio|{reg3?{s2}'s location was unknown:I don't know where {s2} is}.
 qstr_{s6}_has_joined_your|{s6} juntou-se às suas tropas.
-; qstr_You_now_owe_{reg2}_d|You now owe {reg2} denars to {s1}.
+qstr_You_now_owe_{reg2}_d|Você agora deve {reg2} denars a {S1}.
 ; qstr_Renown_value_for_thi|Renown value for this battle is {reg8}.
 qstr_You_have_run_into_a_|Você caiu em uma armadilha!
 qstr_You_are_attacked_by_|Você é atacado por um grupo de bandidos!
@@ -154,7 +154,7 @@ qstr_You_have_{reg0}_days|Você tem {reg0} dias para terminar esta missão.
 ; qstr_This_quest_has_been_s|This quest has been successfully completed. Talk to {s59} to claim your reward.
 qstr_This_quest_has_faile|Esta missão falhou. Fale com {s59} para explicar a situação.
 qstr_At_the_time_quest_wa|Na época a busca foi dada: ^ {s1}
-; qstr_{s5}_has_a_strength_|{s5} has a strength of {reg1} men in total.
+qstr_{s5}_has_a_strength_|{s5} possui a força de {reg1} homens no total.
 ; qstr_The_last_time_you_sa|The last time you saw {reg1?her:him}, {s1}
 ; qstr_The_last_time_you_he|The last time you heard about {reg1?her:him}, {s1}
 ; qstr_Current_garrison_con|Current garrison consists of {reg5} men.^Has food stock for {reg6} days.
@@ -167,7 +167,7 @@ qstr_Manor|Solar
 qstr_A_manor_lets_you_res|Um solar permite que você descanse na Vila e pague metade do salário a suas tropas enquanto você descansa.
 qstr_Mill|Moinho
 qstr_A_mill_increases_vil|Um moinho aumenta a prosperidade da Vila em 5%.
-; qstr_Watch_Tower|Watch Tower
+qstr_Watch_Tower|Torre de Vigia
 ; qstr_A_watch_tower_lets_t|A watch tower lets the villagers raise alarm earlier. The time it takes for enemies to loot the village increases by 50%.
 qstr_School|Escola
 ; qstr_A_shool_increases_th|A shool increases the loyality of the villagers to you by +1 every month.

@@ -360,7 +360,7 @@ mno_reembark_no|No.
 menu_center_reports|Nome della Città: {s1}^Entrate da rendite: {reg1} denari^Entrate da tariffe: {reg2} denari^Scorte di cibo: per {reg3} giorni
 mno_to_price_and_productions|Mostra prezzi e produzioni
 menu_price_and_production|Le produzioni sono:^(Note: base/modified by raw materials/modified by materials plus prosperity)^{s1}^^I fattori dei prezzi sono:^{s2}
-menu_town_trade|Vai verso il mercato.
+menu_town_trade|Vai al mercato.
 mno_assess_prices|Valuta i prezzi locali.
 mno_trade_with_arms_merchant|Commercia con il mercante di armi
 mno_trade_with_armor_merchant|Commercia con il mercante di vesti e armature.
@@ -378,7 +378,7 @@ menu_sneak_into_town_caught_ran_away|Trovi una via di fuga attraverso il cancell
 menu_enemy_offer_ransom_for_prisoner|{s2} ti offre la somma di {reg12} denari in argento, se vorrai liberare {s1}.
 mno_ransom_accept|Accetta l'offerta.
 mno_ransom_reject|Rifiuta l'offerta.
-menu_training_ground|Ti avvicini al campo d'addestramento, dove puoi addestrarti nel combattimento. Quale tipo d'addestramento vuoi praticare?
+menu_training_ground|Ti avvicini al campo d'addestramento, dove puoi apprendere le arti del combattimento. Quale tipo d'addestramento vuoi praticare ?
 mno_camp_trainer|Parla con l'addestratore.
 mno_camp_train_melee|Pratica di combattimento.
 mno_camp_train_archery|Pratica con le armi da tiro.

@@ -32,7 +32,7 @@ skl_tactics|Tattica
 skl_tactics_desc|Ogni due punti di questa abilità incrementano il vantaggio iniziale in battaglia di 1. (Abilità di Gruppo)
 skl_tracking|Seguire Tracce
 skl_tracking_desc|Le orme sul terreno forniscono più informazioni. (Abilità di Gruppo)
-skl_trainer|Addestratore
+skl_trainer|Addestramento
 skl_trainer_desc|Ogni giorno, tutti gli eroi con questa abilità trasmettono esperienza ai membri della Compagnia di livello inferiore. L'esperienza guadagnata ha questa progressione: {0,4,10,16,23,30,38,46,55,65,80}. (Abilità Personale)
 skl_reserved_5|Abilità riservata 5
 skl_reserved_5_desc|Questa è un'abilità riservata.
@@ -49,7 +49,7 @@ skl_horse_archery_desc|Riduce la penalità del danno e della precisione nell'uso
 skl_riding|Cavalcare
 skl_riding_desc|Permette di montare cavalli che richiedono un'abilità maggiore e incrementa la velocità e la capacità di manovra. (Abilità Personale)
 skl_athletics|Atletica
-skl_athletics_desc|Migliora la velocità di corsa. (Abilità Personale)
+skl_athletics_desc|Migliora la velocità della corsa. (Abilità Personale)
 skl_shield|Scudo
 skl_shield_desc|Riduce i danni allo scudo (dell'8%% per punto Abilità) e migliora la copertura e la velocità nell'uso dello scudo. (Abilità Personale)
 skl_weapon_master|Maestria nelle armi
@@ -68,7 +68,7 @@ skl_power_draw|Tiro potente
 skl_power_draw_desc|Maggiore efficienza del personaggio nell'uso di archi. Ogni punto abilità (fino a 4 oltre al livello richiesto dall'arma) incrementa i danni provocati del 14%%. (Abilità Personale)
 skl_power_throw|Lancio potente
 skl_power_throw_desc|Ogni punto incrementa del 10%% i danni provocati con armi da lancio. (Abilità Personale)
-skl_power_strike|Colpo potente
+skl_power_strike|Potenza d'Attacco
 skl_power_strike_desc|Ogni punto incrementa dell'8%% i danni provocati nei combattimenti corpo a corpo. (Abilità Personale)
 skl_ironflesh|Resistenza
 skl_ironflesh_desc|Ogni punto in questa abilità incrementa i punti ferita di +2. (Abilità Personale)
