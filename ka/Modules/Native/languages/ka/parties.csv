@@ -1,0 +1,199 @@
+p_zendar|ზენდარი
+p_town_1|სარგოთი
+p_town_2|ტიჰრი
+p_town_3|ველუცა
+p_town_4|სუნო
+p_town_5|ჯელკალა
+p_town_6|პრავენი
+p_town_7|უქსკალი
+p_town_8|რეივადინი
+p_town_9|ხუდანი
+p_town_10|ტულგა
+p_town_11|კურავი
+p_town_12|ვარჩეგი
+p_town_13|რივაჩეგი
+p_town_14|ჰალმარი
+p_town_15|იელენი
+p_town_16|დირიმი
+p_town_17|იჩამური
+p_town_18|ნარა
+p_town_19|შარიზი
+p_town_20|დურქუბა
+p_town_21|აჰმერადი
+p_town_22|ბარიე
+p_castle_1|კულმარის ციხესიმაგრე
+p_castle_2|მალაურგის ციხესიმაგრე
+p_castle_3|ბულუღას ციხესიმაგრე
+p_castle_4|რადოღირის ციხესიმაგრე
+p_castle_5|ტეჰლორგის ციხესიმაგრე
+p_castle_6|ტილბაუტის ციხესიმაგრე
+p_castle_7|სუნგეჩეს ციხესიმაგრე
+p_castle_8|ჯეირბეს ციხესიმაგრე
+p_castle_9|ჯამიჩეს ციხესიმაგრე
+p_castle_10|ალბურქის ციხესიმაგრე
+p_castle_11|კურინის ციხესიმაგრე
+p_castle_12|ჩალბეკის ციხესიმაგრე
+p_castle_13|კელრედანის ციხესიმაგრე
+p_castle_14|მარასის ციხესიმაგრე
+p_castle_15|ერგელონის ციხესიმაგრე
+p_castle_16|ალმერას ციხესიმაგრე
+p_castle_17|დისტარის ციხესიმაგრე
+p_castle_18|ისმირალას ციხესიმაგრე
+p_castle_19|იურუმას ციხესიმაგრე
+p_castle_20|დერჩიოს ციხესიმაგრე
+p_castle_21|იბდელეს ციხესიმაგრე
+p_castle_22|უნუზდაქის ციხესიმაგრე
+p_castle_23|ტევარინის ციხესიმაგრე
+p_castle_24|რეინდის ციხესიმაგრე
+p_castle_25|რიაბელეტის ციხესიმაგრე
+p_castle_26|სენუზგდას ციხესიმაგრე
+p_castle_27|რინდიარის ციხესიმაგრე
+p_castle_28|გრუნვალდერის ციხესიმაგრე
+p_castle_29|ნელეგის ციხესიმაგრე
+p_castle_30|ასუგანის ციხესიმაგრე
+p_castle_31|ვიუნკორდის ციხესიმაგრე
+p_castle_32|კნუდარის ციხესიმაგრე
+p_castle_33|ელტროსქის ციხესიმაგრე
+p_castle_34|ჰრუს ციხესიმაგრე
+p_castle_35|ჰარინგოთის ციხესიმაგრე
+p_castle_36|ჯელბეგის ციხესიმაგრე
+p_castle_37|\nდრამუგის ციხესიმაგრე
+p_castle_38|ტულბუკის ციხესიმაგრე
+p_castle_39|სლეზხის ციხესიმაგრე
+p_castle_40|უჰუნის ციხესიმაგრე
+p_castle_41|ჯემეიედის ციხესიმაგრე
+p_castle_42|ტერამას ციხესიმაგრე
+p_castle_43|შარვას ციხესიმაგრე
+p_castle_44|დურინის ციხესიმაგრე
+p_castle_45|კარაფის ციხესიმაგრე
+p_castle_46|ვეიას ციხესიმაგრე
+p_castle_47|სამარას ციხესიმაგრე
+p_castle_48|ბარდაქის ციხესიმაგრე
+p_village_1|იარაგარი
+p_village_2|ბურგლენი
+p_village_3|აზგადი
+p_village_4|ნომარი
+p_village_5|კულუმი
+p_village_6|ემირინი
+p_village_7|ამერე
+p_village_8|ჰაენი
+p_village_9|ბუვრანი
+p_village_10|მეჩინი
+p_village_11|დუსტურილი
+p_village_12|ემერი
+p_village_13|ნამეია
+p_village_14|სუმბუჯა
+p_village_15|რიაბელეტი
+p_village_16|შაპეშტე
+p_village_17|მაზენი
+p_village_18|ულბურბანი
+p_village_19|ჰანუნი
+p_village_20|უსლუმი
+p_village_21|ბაზეკი
+p_village_22|შულუსი
+p_village_23|ლივია
+p_village_24|რულდი
+p_village_25|დაშბიღა
+p_village_26|პაგუნდური
+p_village_27|გლუნმარი
+p_village_28|ტაშ კულუნი
+p_village_29|ბუილინი
+p_village_30|რუვარი
+p_village_31|ამბეანი
+p_village_32|ტოსდარი
+p_village_33|რულუნსი
+p_village_34|ეჰლერდაჰი
+p_village_35|ფეარიჩენი
+p_village_36|ჯაიეკი
+p_village_37|ადა კულუნი
+p_village_38|იბირანი
+p_village_39|რევერანი
+p_village_40|სარენი
+p_village_41|დუგანი
+p_village_42|დირიღ აბანი
+p_village_43|ზაგუში
+p_village_44|პეშმი
+p_village_45|ბულუგური
+p_village_46|ფედნერი
+p_village_47|ეპეშე
+p_village_48|ვეიდარი
+p_village_49|ტისმირი
+p_village_50|კარინდი
+p_village_51|ჯელბეგი
+p_village_52|ამაშკე
+p_village_53|ბალანლი
+p_village_54|ჩიდე
+p_village_55|ტედსამეში
+p_village_56|ფენადა
+p_village_57|უშკურუ
+p_village_58|ვეზინი
+p_village_59|დუმარი
+p_village_60|ტაჰლბერლი
+p_village_61|ალდელენი
+p_village_62|რებაჩე
+p_village_63|რდუნა
+p_village_64|სერინდიარი
+p_village_65|ლუინდაჰი
+p_village_66|ფისდნარი
+p_village_67|ტებანდრა
+p_village_68|იბდელეს
+p_village_69|კვუნრი
+p_village_70|დირიგსენე
+p_village_71|ჩიბტინი
+p_village_72|ელბერი
+p_village_73|ჩაეზა
+p_village_74|აიიკე
+p_village_75|ბულაბანი
+p_village_76|კედელკე
+p_village_77|რიზი
+p_village_78|სარიმიში
+p_village_79|ისტინარი
+p_village_80|ვაიაჯეგი
+p_village_81|ოდასანი
+p_village_82|იალიბე
+p_village_83|გისიმი
+p_village_84|ჩელეზი
+p_village_85|ისმირალა
+p_village_86|სლეზხი
+p_village_87|უდინიადი
+p_village_88|ტულბუკი
+p_village_89|უჰუნი
+p_village_90|ჯამიჩე
+p_village_91|აუნ ასსუადი
+p_village_92|დიბაინი
+p_village_93|ქალიუტი
+p_village_94|მაზიღი
+p_village_95|ტამნუჰი
+p_village_96|ჰაბბა
+p_village_97|სეხტემი
+p_village_98|მავიტი
+p_village_99|ფიშარა
+p_village_100|იქბაული
+p_village_101|უზღა
+p_village_102|შიბალ ზუმრი
+p_village_103|მიჯაიეტი
+p_village_104|ტაზჯუნატი
+p_village_105|ააბი
+p_village_106|ჰავაჰა
+p_village_107|უნრია
+p_village_108|მიტ ნუნი
+p_village_109|ტილმსალი
+p_village_110|რუშდიღი
+p_salt_mine|მარილის საბადო
+p_four_ways_inn|სასტუმრო "ოთხი გზა"
+p_test_scene|სატესტო სცენა
+p_battlefields|ბრძოლის ველები
+p_dhorak_keep|დორაკის ციხე
+p_training_ground|საწრვთნელი ველი
+p_training_ground_1|საწვრთნელი ველი
+p_training_ground_2|საწვრთნელი ველი
+p_training_ground_3|საწვრთნელი ველი
+p_training_ground_4|საწვრთნელი ველი
+p_training_ground_5|საწვრთნელი ველი
+p_steppe_bandit_spawn_point|სტეპები
+p_taiga_bandit_spawn_point|ტუნდრა
+p_forest_bandit_spawn_point|ტყეები
+p_mountain_bandit_spawn_point|მთიანეთი
+p_sea_raider_spawn_point_1|საზღვარი
+p_sea_raider_spawn_point_2|საზღვარი
+p_desert_bandit_spawn_point|უდაბნოები

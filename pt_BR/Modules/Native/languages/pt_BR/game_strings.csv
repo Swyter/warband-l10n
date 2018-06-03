@@ -1,5 +1,5 @@
 str_no_string|NO STRING!
-str_empty_string| 
+str_empty_string    =  "  "
 str_yes|Sim.
 str_no|Não.
 str_blank_string| 
@@ -68,11 +68,11 @@ str_attack_walls_continue|Uma sangrenta batalha e ambos os lados estão empatado
 str_order_attack_success|Seus homens lutam bravamente e derrotam o inimigo.
 str_order_attack_failure|Você observa a batalha em desespero enquanto o inimigo aniquila boa parte de seus soldados, fazendo com que o resto fuja.
 str_order_attack_continue|Apesar de uma extensa escaramuça, suas tropas não foram capazes de obter uma vitória decisiva.
-; str_join_order_attack_success|Your men fight well alongside your allies, sharing in the glory as your enemies are beaten.
+str_join_order_attack_success|Seus homens lutam bem ao lado de seus aliados, compartilhando a glória enquanto seus inimigos são espancados.
 str_join_order_attack_failure|Você observa a batalha em desespero enquanto o inimigo aniquila boa parte de seus soldados, fazendo com que o resto fuja.
-; str_join_order_attack_continue|Despite an extended skirmish, neither your troops nor your allies were able to win a decisive victory over the enemy.
-; str_siege_defender_order_attack_success|The men of the garrison hold their walls with skill and courage, breaking the enemy assault and skillfully turning the defeat into a full-fledged rout.
-; str_siege_defender_order_attack_failure|The assault quickly turns into a bloodbath. Valiant efforts are for naught; the overmatched garrison cannot hold the walls, and the enemy puts every last defender to the sword.
+str_join_order_attack_continue|Apesar de uma escaramuça prolongada, nem suas tropas nem seus aliados conseguiram ganhar uma vitória decisiva sobre o inimigo.
+str_siege_defender_order_attack_success|Os homens da guarnição mantêm suas paredes com habilidade e coragem, quebrando o assalto inimigo e habilmente transformando a derrota em uma rota de pleno direito.
+str_siege_defender_order_attack_failure|A investida rapidamente se torna um banho de sangue. Todos os esforços são em vão; a guarnição, sobrepujada, não consegue defender os muros, e o inimigo passa os últimos defensores ao fio da espada.
 str_siege_defender_order_attack_continue|Repetidas e sangrentas tentativas nos muros falham em obter uma vitória decisiva devido aos muitos inimigos defensores. O cerco continua.
 str_hero_taken_prisoner|{s1} de {s3} foi feito prisioneiro por {s2}.
 str_hero_freed|{s1} de {s3} foi libertado do cativeiro por {s2}.
@@ -427,9 +427,9 @@ str_npc11_backstory_a|Eu consegui vender meus vagões e jarros, {rapaz/moça}. F
 str_npc12_backstory_a|Eu direi -- mas saiba que é um conto de uma perversidade bruta. Eu já vou avisando antes caso tenha um temperamento agressivo, e não fique sensibilizado com tamanha injustiça feita a mim que faça você causar algum prejuízo.
 str_npc13_backstory_a|Você não ouviu? Então talvez você tenha ouvido sobre meu corcel, que corta as planícies de Calradia como um feixe de luz da lua? Ou talvez de minha espada, uma apreciadora do sangue dos mais nobres príncipes dessa terra?
 str_npc14_backstory_a|Muito bem. Não me importo. Meu nome é Lazalit.
-; str_npc15_backstory_a|I'm an engineer, specialized in the art of fortification. If you need a wall knocked down, I can do that, given enough time. If you need a wall built back up, I can do that too, although it will take longer and cost you more. And you can't cut costs, either, unless you want your new edifice coming down underneath you, as someone around here has just found out.
-; str_npc16_backstory_a|Well, {sir/madame}, as long as I can remember I've had a weakness for pretty things, and it's gotten me into trouble, you see.
-; str_npc1_backstory_b|I had a bit of a misunderstanding {s19}in {s20} about a horse that I found tied up outside the inn. It was the spitting image of a beast that threw me a few days back and ran off. Naturally I untied it for a closer look. As it turns out, the horse belonged to a merchant, a pinch-faced old goat who wouldn't accept that it all was a simple misunderstanding, and went off to get the guard.
+str_npc15_backstory_a|Sou um engenheiro, especialista em fortificações. Se você precisa derrubar um muro, com tempo suficiente, eu consigo. Construir uma parede? Eu também faço, mas custa mais e demora mais. E não dá para cortar custos, a não ser que você queira seu novo edifício desabando sob você, como alguém aqui acabou de descobrir.
+str_npc16_backstory_a|Bem, (senhor/madame), desde que me entendo por gente, tenho uma fraqueza para as coisas bonitas e isso já me trouxe problemas, não é mesmo?
+str_npc1_backstory_b|Tive um mal-entendido {s19} em {s20} por causa de um cavalo que achei amarrado em uma taverna. Era a imagem cuspida de um outro que tinha me derrubado e fugido uns dias antes. Naturalmente eu o desamarrei, para inspecioná-lo. Acontece que o cavalo pertencia a um mercador, um bode velho e enrugado que não queria aceitar que tudo era apenas um mal-entendido e saiu chamar a guarda.
 ; str_npc2_backstory_b|A while back, I left Geroia with a caravan of goods. I was hoping to sell it all in Sargoth and make a hefty sum. But, what do you know... we were ambushed by a party of Khergit raiders who rode away with most of the horses and goods. And two days later, my own caravan guards ran away with the rest of what I had.
 ; str_npc3_backstory_b|My father, a well-known merchant {s19}in {s20}, decided that I should be married to one of his business partners, a man well past the age of 30. I have been an obedient daughter all of my life, but it was a ridiculous and horrid proposition. So I ran away!
 ; str_npc4_backstory_b|Like all the men of my family, I have come to a foreign land to make a name for myself in the profession of arms before returning home to take over custodianship of my estates. Unfortunately, the authorities in these lands have little understanding of the warrior code, and have chosen to call me a bandit and brigand, and put a price on my head -- a most unfair libel to throw at a gentleman adventurer, you will surely agree.
@@ -478,21 +478,21 @@ str_npc14_backstory_a|Muito bem. Não me importo. Meu nome é Lazalit.
 ; str_npc15_backstory_later|I've been going from castle to castle, looking to see if walls or towers need repair. But either the lord's away, or he's got other things on his mind, or I run into his creditors on the street, begging for change, and I realize that here's one job not to take. So if you hear of anything, let me know.
 ; str_npc16_backstory_later|I do the odd job from time to time. But there's naught like steady employment, and a regular run of corpses to loot.
 ; str_npc1_backstory_response_1|Perhaps. But how do I know that there won't be a 'misunderstanding' about one of my horses?
-; str_npc2_backstory_response_1|Well, perhaps I could offer you work. Can you fight?
-; str_npc3_backstory_response_1|Well, as it happens I run a company of mercenaries.
+str_npc2_backstory_response_1|Bem, talvez eu possa lhe oferecer um trabalho. Sabe lutar?
+str_npc3_backstory_response_1|Bem, acontece que lidero uma companhia de mercenários.
 ; str_npc4_backstory_response_1|I run such a company, and might be able to hire an extra hand.
-; str_npc5_backstory_response_1|That's the spirit! I might be able to offer you something.
+str_npc5_backstory_response_1|É assim que se fala! Talvez eu possa lhe oferecer algo.
 ; str_npc6_backstory_response_1|You could join us. Right wrongs, fight oppressors, redeem yourself, that kind of thing.
-; str_npc7_backstory_response_1|Hmm... Are you by any chance looking for work?
+str_npc7_backstory_response_1|Hmm... Por acaso você está à procura de trabalho?
 ; str_npc8_backstory_response_1|I can offer you opportunities to make money through good honest fighting and pillaging.
 ; str_npc9_backstory_response_1|Perhaps you would like to join my company for a while.
-; str_npc10_backstory_response_1|If you're looking for work, I can use experienced fighters.
-; str_npc11_backstory_response_1|What will you do now?
+str_npc10_backstory_response_1|Se está à procura de trabalho, aceito guerreiros experientes.
+str_npc11_backstory_response_1|O que você vai fazer agora?
 ; str_npc12_backstory_response_1|Well, you could travel with us, but you'd have to be able to fight in our battle line.
 ; str_npc13_backstory_response_1|I might be able to use an extra sword in my company.
 str_npc14_backstory_response_1|Eu talvez possa ter alguma utilidade para você em minha companhia.
-; str_npc15_backstory_response_1|Where do you need to go?
-; str_npc16_backstory_response_1|I might be. What can you do?
+str_npc15_backstory_response_1|Para onde você precisa ir?
+str_npc16_backstory_response_1|Talvez. O que você pode fazer?
 ; str_npc1_backstory_response_2|I'll do no such thing. I have better things to do then to help thieves avoid justice.
 ; str_npc2_backstory_response_2|Hard luck, friend. Good day to you.
 ; str_npc3_backstory_response_2|Go back to your family, lass. Fathers must always be obeyed.

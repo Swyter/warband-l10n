@@ -1,18 +1,18 @@
-; dlga_award_fief_to_vassal:award_fief_to_vassal_defer|I wish to defer the appointment of a lord, until I take the counsel of my subjects
-; dlga_award_fief_to_vassal_defer:close_window|As you wish, {sire/my lady}. You may decide this matter at a later date.
-; dlga_award_fief_to_vassal_2:close_window|As you wish, {sire/my lady}. {reg6?I:{reg7?You:{s11}}} will be the new {reg3?lady:lord} of {s1}.
-; dlga_event_triggered:center_captured_rebellion|{s1} is not being managed by anyone. Whom shall I put in charge?
-; dlga_center_captured_rebellion:center_captured_rebellion_2|{s11}. {s1}
-; dlga_center_captured_rebellion:center_captured_rebellion_2.1|Please {s65}, I want to have {s1} for myself. (fiefs: {s0})
-; dlga_center_captured_rebellion:center_captured_rebellion_2.2|{s66}, you should have {s1} for yourself. (fiefs: {s0})
-; dlga_center_captured_rebellion_2:close_window|Hmmm. All right, {playername}. I value your counsel highly. {reg6?I:{reg7?You:{s11}}} will be the new {reg3?lady:lord} of {s1}.
-; dlga_start:fighter_talk|Hello there. We are polishing off our combat skills here with a bit of sparring practice. You look like you could use a bit of training. Why don't you join us, and we can show you a few tricks. And if you need explanation of any combat concepts, just ask, and I will do my best to fill you in.
-; dlga_start:fighter_talk.1|What do you want to practice?
-; dlga_fighter_pretalk:fighter_talk|Tell me what kind of practice you want.
-; dlga_fighter_talk:fighter_talk_train_attack|I want to practice attacking.
-; dlga_fighter_talk:fighter_talk_train_parry|I want to practice blocking with my weapon.
-; dlga_fighter_talk:fighter_talk_train_combat|Let's do some sparring practice.
-; dlga_fighter_talk:close_window|[Leave]
+dlga_award_fief_to_vassal:award_fief_to_vassal_defer|我想要推迟领主的任命，直到我询问我子民的意见
+dlga_award_fief_to_vassal_defer:close_window|如你所愿，{sire/my lady}。你可以之后再决定这件事
+dlga_award_fief_to_vassal_2:close_window|如你所愿，{sire/my lady}。{reg6?I:{reg7?You:{s11}}}将会成为{s1}新的{reg3?lady:lord}
+dlga_event_triggered:center_captured_rebellion|现在{s1}还没人管理。我应该任命谁负责这件事呢？
+dlga_center_captured_rebellion:center_captured_rebellion_2|{s11}。{s1}
+dlga_center_captured_rebellion:center_captured_rebellion_2.1|请{s65}，我想要把{s1}留给我自己(fiefs: {s0})
+dlga_center_captured_rebellion:center_captured_rebellion_2.2|{s66}，你应该把{s1}留给你自己。(fiefs: {s0})
+dlga_center_captured_rebellion_2:close_window|嗯...好吧，{playername}。我十分看重你的建议。{reg6?I:{reg7?You:{s11}}}将会成为{s1}新的{reg3?lady:lord}。
+dlga_start:fighter_talk|你好。我们正在用切磋的方式来锻炼我们的格斗技巧。你看起来曾经受过训练。为什么你不加入我们然后让我们想你展示一点技巧呢？如果你需要关于格斗的任何解释，尽管问。我会尽我所能为你解答。
+dlga_start:fighter_talk.1|你切磋的目标是什么？
+dlga_fighter_pretalk:fighter_talk|告诉我你想要什么种类的切磋。
+dlga_fighter_talk:fighter_talk_train_attack|我想要训练我的攻击技巧。
+dlga_fighter_talk:fighter_talk_train_parry|我想要训练我的武器格挡技巧。
+dlga_fighter_talk:fighter_talk_train_combat|让我们来切磋吧。
+dlga_fighter_talk:close_window|[Leave]
 ; dlga_fighter_talk_train_attack:fighter_talk_train_attack_2|All right. There are four principle directions for attacking. These are overhead swing, right swing, left swing and thrust. Now, I will tell you which direction to attack from and you must try to do the correct attack. ^^(Move your mouse while you press the left mouse button to specify attack direction. For example, to execute an overhead attack, move the mouse up at the instant you press the left mouse button. The icons on your screen will help you do the correct action.)
 ; dlga_fighter_talk_train_attack_2:close_window|Let's begin then. I am ready.
 ; dlga_fighter_talk_train_attack_2:fighter_pretalk|Actually I want to do something else.

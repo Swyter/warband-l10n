@@ -1,7 +1,7 @@
 qstr_Next_Page|Próxima página
 qstr_Game_Rules:^|Regras do jogo:^
 qstr_0|0
-; qstr_Lv._{reg0}|Lv. {reg0}
+qstr_Lv._{reg0}|Nv. {reg0}
 qstr_Show_game_rules|Mostrar regras do jogo
 qstr_Continue...|Continuar...
 qstr_Candidate_#1:_{s1}|Candidato #1: {s1}
@@ -150,14 +150,14 @@ qstr_{s1}_Rebels|{s1} Rebeldes
 qstr_Given_by:_{s62}|Dada por: {s62}
 qstr_Given_on:_{s60}|Dada em: {s60}
 qstr_You_have_{reg0}_days|Você tem {reg0} dias para terminar esta missão.
-; qstr_This_quest_has_been_|This quest has been concluded. Talk to {s59} to finish it.
-; qstr_This_quest_has_been_s|This quest has been successfully completed. Talk to {s59} to claim your reward.
+qstr_This_quest_has_been_|Esta missão foi concluída. Fale com {s59} para encerrá-la.
+qstr_This_quest_has_been_s|Esta missão foi concluída com êxito. Fale com {s59} para obter sua recompensa.
 qstr_This_quest_has_faile|Esta missão falhou. Fale com {s59} para explicar a situação.
 qstr_At_the_time_quest_wa|Na época a busca foi dada: ^ {s1}
 qstr_{s5}_has_a_strength_|{s5} possui a força de {reg1} homens no total.
-; qstr_The_last_time_you_sa|The last time you saw {reg1?her:him}, {s1}
+qstr_The_last_time_you_sa|A última vez que você viu {reg1?her:him}, {s1}
 ; qstr_The_last_time_you_he|The last time you heard about {reg1?her:him}, {s1}
-; qstr_Current_garrison_con|Current garrison consists of {reg5} men.^Has food stock for {reg6} days.
+qstr_Current_garrison_con|A guarnição atual consiste em {reg5} homens.^Tem estoques de comida para {reg6} dias.
 qstr_Very_Poor|Muito Pobre
 qstr_Poor|Pobre
 qstr_Average|Médio:
@@ -168,33 +168,33 @@ qstr_A_manor_lets_you_res|Um solar permite que você descanse na Vila e pague me
 qstr_Mill|Moinho
 qstr_A_mill_increases_vil|Um moinho aumenta a prosperidade da Vila em 5%.
 qstr_Watch_Tower|Torre de Vigia
-; qstr_A_watch_tower_lets_t|A watch tower lets the villagers raise alarm earlier. The time it takes for enemies to loot the village increases by 50%.
+qstr_A_watch_tower_lets_t|Uma torre de vigia permite que os camponeses soem o alarme mais cedo. O tempo necessário para os inimigos pilharem o vilarejo aumenta em 50%.
 qstr_School|Escola
-; qstr_A_shool_increases_th|A shool increases the loyality of the villagers to you by +1 every month.
+qstr_A_shool_increases_th|Uma escola aumenta a lealdade dos camponeses em +1 a cada mês.
 qstr_Messenger_Post|Posto de Mensageiro
-; qstr_A_messenger_post_let|A messenger post lets the inhabitants send you a message whenever enemies are nearby, even if you are far away from here.
+qstr_A_messenger_post_let|Um posto de mensageiro permite que os habitantes lhe enviem uma mensagem sempre que inimigos estiverem por perto, mesmo se você estiver longe.
 qstr_Prison_Tower|Torre de Prisão
-; qstr_A_prison_tower_reduc|A prison tower reduces the chance of captives held here running away successfully.
-; qstr_Prosperity_of_{s2}_h|Prosperity of {s2} has changed from {s3} to {s4}.
+qstr_A_prison_tower_reduc|Uma torre de prisão reduz a chance de prisioneiros conseguirem fugir.
+qstr_Prosperity_of_{s2}_h|A prosperidade de {s2} foi alterada de {s3} para {s4}.
 qstr_{s4}_looks_upset.|{s4} parece chateado.
 qstr_your_party|suas tropas
-; qstr_{reg0?One_of_your_pr|{reg0?One of your prisoners, :}{s1} of {s3} has escaped from captivity!
-; qstr_You_brought_{reg3}_h|You brought {reg3} heads of cattle to {s1}.
-; qstr_I_heard_that_there_w|I heard that there will be a tournament in {s62} soon.
+qstr_{reg0?One_of_your_pr|{reg0?Um de seus prisioneiros, :}{s1} de {s3} escapou do cativeiro!
+qstr_You_brought_{reg3}_h|Você trouxe {reg3} cabeças de gado para {s1}.
+qstr_I_heard_that_there_w|Ouvi dizer que haverá um torneio em {s62} em breve.
 qstr_I_heard_that_one_can|Ouvi dizer que se pode comprar {s62} muito barato, em {s63}.
 qstr_I_heard_that_they_pa|Ouvi dizer que pagam um preço muito alto por {s62} em {s63}.
 qstr_two_days_ago|dois dias atrás
 ; qstr_Best_threat_of_{s4}_|Best threat of {s4} has value level of {reg1}
-; qstr_No_center_found_to_d|No center found to defend
+qstr_No_center_found_to_d|Nenhum centro foi encontrado para defender
 qstr_You_gain_right_to_ru|Você ganha Direito de Governar.
 qstr_You_lose_right_to_ru|Você perde o Direito de Governar.
 ; qstr_Added_money_for_your|Added money for your old horse
-; qstr_You_got_keys_of_dung|You got keys of dungeon.
-; qstr_You_must_stay_behind|You must stay behind the line on the ground! Point is not counted.
+qstr_You_got_keys_of_dung|Você obteve as chaves da masmorra.
+qstr_You_must_stay_behind|Você deve permanecer atrás da linha no chão! Ponto não computado.
 qstr_Tutorial|Tutorial
-; qstr_You_came_into_the_wo|You came into the world a {reg3?daughter:son} of declining nobility, owning only the house in which they lived. However, despite your family's hardships, they afforded you a good education and trained you from childhood for the rigors of aristocracy and life at court.
-; qstr_You_were_born_the_{r|You were born the {reg3?daughter:son} of travelling merchants, always moving from place to place in search of a profit. Although your parents were wealthier than most and educated you as well as they could, you found little opportunity to make friends on the road, living mostly for the moments when you could sell something to somebody.
-; qstr_As_a_child_your_fami|As a child, your family scrabbled out a meagre living from your father's wages as a guardsman to the local lord. It was not an easy existence, and you were too poor to get much of an education. You learned mainly how to defend yourself on the streets, with or without a weapon in hand.
+qstr_You_came_into_the_wo|Você veio ao mundo como {reg3?filha:filho} de uma família aristocrática em declínio que possuía apenas a casa em que vivia. No entanto, apesar das dificuldades, sua família lhe garantiu uma boa educação e desde a infância instruiu você para lidar com as adversidades da aristocracia e da vida na corte.
+qstr_You_were_born_the_{r|Você é {reg3?filha:filho} de comerciantes ambulantes, sempre vagando de um lugar para o outro em busca de lucro. Embora seus pais fossem mais ricos do que a maioria e tenham lhe garantido a melhor educação possível, você teve poucas oportunidades de fazer amizades na estrada e vivia em função dos momentos em que podia vender algo a alguém.
+qstr_As_a_child_your_fami|Quando criança, sua família vivia uma vida modesta com o salário do seu pai de guarda do lorde local. Não era uma vida fácil e você era pobre demais para conseguir estudar. Você aprendeu a se defender essencialmente nas ruas, com ou sem uma arma em suas mãos.  
 ; qstr_{reg3?daughter:son}|{reg3?daughter:son}
 ; qstr_You_were_the_{reg3?d|You were the {reg3?daughter:son} of a family who lived off the woods, doing whatever they needed to make ends meet. Hunting, woodcutting, making arrows, even a spot of poaching whenever things got tight. Winter was never a good time for your family as the cold took animals and people alike, but you always lived to see another dawn, though your brothers and sisters might not be so fortunate.
 ; qstr_You_were_a_child_of_|You were a child of the steppe, born to a tribe of wandering nomads who lived in great camps throughout the arid grasslands. Like the other tribesmen, your family revered horses above almost everything else, and they taught you how to ride almost before you learned how to walk. 
@@ -218,19 +218,19 @@ qstr_Tutorial|Tutorial
 ; qstr_Only_you_know_exactly_|Only you know exactly what caused you to give up your old life and become an adventurer. You're not even sure when your home became a prison, when the familiar became mundane, but your dreams of wandering have taken over your life. Whether you yearn for some faraway place or merely for the open road and the freedom to travel, you could no longer bear to stay in the same place. You simply went and never looked back...
 ; qstr_Only_you_know_exactly_w|Only you know exactly what caused you to give up your old life and become an adventurer. However, you know you cannot go back. There's nothing to go back to. Whatever home you may have had is gone now, and you must face the fact that you're out in the wide wide world. Alone to sink or swim...
 ; qstr_Only_you_know_exactly_wh|Only you know exactly what caused you to give up your old life and become an adventurer. To everyone else, it's clear that you're now motivated solely by personal gain. You want to be rich, powerful, respected, feared. You want to be the one whom others hurry to obey. You want people to know your name, and tremble whenever it is spoken. You want everything, and you won't let anyone stop you from having it...
-; qstr_Back_to_the_beginnin|Back to the beginning...
-; qstr_View_next_segment...|View next segment...
+qstr_Back_to_the_beginnin|De volta ao começo...
+qstr_View_next_segment...|Ver próximo segmento...
 qstr_^No_food:___{reg7}|^  Sem comida: -{reg7}
 ; qstr_^Wage_debt:___{reg6}|^Wage debt:  -{reg6}
 qstr_On_loan|Em empréstimo,
-; qstr_Appoint_next_marshal|Appoint next marshal
-; qstr_Award_{s12}_as_fief|Award {s12} as fief
+qstr_Appoint_next_marshal|Indicar próximo general
+qstr_Award_{s12}_as_fief|Conceder {s12} como feudo
 ; qstr_No_one|No one
-; qstr_Selected_faction_is:|Selected faction is: {s10}^^{s9}
-; qstr_You_are_currently_re|You are currently reading {s8}.
-; qstr_You_are_not_reading_|You are not reading any books.
+qstr_Selected_faction_is:|A fação selecionada é: {s10}^^{s9}
+qstr_You_are_currently_re|Você está lendo {s8}.
+qstr_You_are_not_reading_|Você não está lendo nenhum livro.
 qstr_none|nenhum
-; qstr_{s5}_and_{s6}|{s5} and {s6}
+qstr_{s5}_and_{s6}|{s5} e {s6}
 ; qstr_Your_estates_are:_{s|Your estates are: {s8}.^{s9}
 ; qstr_Current_party_size_l|Current party size limit is {reg5}.^Current party size modifiers are:^^Base size:  +30^Leadership: {s2}{reg1}^Charisma: {s3}{reg2}^Renown: {s4}{reg3}^TOTAL:  {reg5}
 qstr_Loyal|Leal
@@ -253,80 +253,80 @@ qstr_Hateful|Odioso
 qstr_Vengeful|Vingativo
 ; qstr_Your_relation_with_t|Your relation with the factions are:^{s2}
 ; qstr_Player_renown_is_inc|Player renown is increased by 100. 
-; qstr_Player_honor_is_incr|Player honor is increased by 1 and it is now {reg7}.
+qstr_Player_honor_is_incr|A honra do jogador teve um acréscimo de 1 e agora equivale a {reg7}.
 ; qstr_{reg1}_{s1}_{reg2?ac|{reg1} {s1} {reg2?accept:accepts} the offer.
-; qstr_No_one_accepts_the_o|No one accepts the offer.
-; qstr_You_start_reading_{s|You start reading {s2}. After a few pages, you feel you could learn a lot from this book. You decide to keep it close by and read whenever you have the time.
-; qstr_You_flip_through_the|You flip through the pages of {s2}, but you find the text confusing and difficult to follow. Try as you might, it soon gives you a headache, and you're forced to give up the attempt.
-; qstr_Villagers|Villagers
-; qstr_You_have_encountered|You have encountered {s1}.
-; qstr_You_have_engaged_{s1|You have engaged {s1} while they were raiding {s3}.
+qstr_No_one_accepts_the_o|Ninguém aceita a oferta.
+qstr_You_start_reading_{s|Você começa a ler {s2}. Passadas algumas páginas, você percebe que pode aprender bastante com este livro. Você decide mantê-lo por perto para ler sempre que tiver tempo.
+qstr_You_flip_through_the|Você folheia {s2}, mas percebe que o texto é confuso e difícil de compreender. Por mais que tente ler, você acaba ficando com uma dor de cabeça e desiste da tentativa.
+qstr_Villagers|Camponeses
+qstr_You_have_encountered|Você encontrou {s1}.
+qstr_You_have_engaged_{s1|Você travou combate com {s1} enquanto saqueavam {s3}.
 ; qstr_You_were_caught_by_{|You were caught by {s1} while your forces were raiding {s3}.
-; qstr_You_were_victorious!|You were victorious!
-; qstr_Battle_was_lost._You|Battle was lost. Your forces were utterly crushed.
+qstr_You_were_victorious!|Você venceu!
+qstr_Battle_was_lost._You|Você perdeu a batalha. Suas forças foram completamente derrotadas.
 ; qstr_Your_companions_carr|Your companions carry you away from the fighting.
-; qstr_You_have_defeated_th|You have defeated the enemy.
-; qstr_You_have_retreated_f|You have retreated from the fight.
-; qstr_^^Ally_Casualties:{s|^^Ally Casualties:{s0}
-; qstr_{s1}_of_{s3}_managed|{s1} of {s3} managed to escape.
-; qstr_Some_of_your_tendons|Some of your tendons have been damaged in the battle. You lose 1 strength.
+qstr_You_have_defeated_th|Você derrotou o inimigo.
+qstr_You_have_retreated_f|Você bateu em retirada.
+qstr_^^Ally_Casualties:{s|^^Baixas de aliados:{s0}
+qstr_{s1}_of_{s3}_managed|{s1} de {s3} conseguiu escapar.
+qstr_Some_of_your_tendons|Você lesionou alguns tendões durante a batalha e perdeu 1 ponto de força.
 ; qstr_You_took_a_nasty_wou|You took a nasty wound which will cause you to limp slightly even after it heals. You lose 1 agility.
 ; qstr_You_have_trouble_thi|You have trouble thinking straight after the battle, perhaps from a particularly hard hit to your head, and frequent headaches now plague your existence. Your intelligence is reduced by 1.
-; qstr_Perhaps_I_m_getting_|Perhaps I'm getting unlucky...
+qstr_Perhaps_I_m_getting_|Talvez eu esteja sem sorte...
 ; qstr_Retirement_is_starti|Retirement is starting to sound better and better.
-; qstr_No_matter!_I_will_pe|No matter! I will persevere!
-; qstr_What_did_I_do_to_des|What did I do to deserve this?
-; qstr_I_suppose_it_ll_make|I suppose it'll make for a good story, at least...
-; qstr_{s9}_wants_you_to_fo|{s9} wants you to follow his army until further notice.
-; qstr_{s8}_of_{s9}|{s8} of {s9}
-; qstr__Your_own_banner_fli| Your own banner flies over the castle gate.
-; qstr__You_see_the_banner_| You see the banner of {s7} over the castle gate.
-; qstr__Your_own_banner_flie| Your own banner flies over the town gates.
-; qstr__You_see_the_banner_o| You see the banner of {s7} over the town gates.
+qstr_No_matter!_I_will_pe|Não importa! Vou persistir!
+qstr_What_did_I_do_to_des|O que fiz para merecer isso?
+qstr_I_suppose_it_ll_make|Pelo menos isso vai dar em uma boa história...
+qstr_{s9}_wants_you_to_fo|{s9} quer que você siga o exército dele até segunda ordem.
+qstr_{s8}_of_{s9}|{s8} de {s9}
+qstr__Your_own_banner_fli|Seu estandarte tremula sobre o portão do castelo.
+qstr__You_see_the_banner_|Você vê o estandarte de {s7} sobre o portão do castelo.
+qstr__Your_own_banner_flie|Seu estandarte tremula sobre os portões da cidade.
+qstr__You_see_the_banner_o|Você vê o estandarte de {s7} sobre os portões da cidade.
 ; qstr_The_{reg6?town_s:cas|The {reg6?town's:castle's} food stores should last for {reg3} more days.
 ; qstr_The_{reg6?town_s:cast|The {reg6?town's:castle's} food stores have run out and the defenders are starving.
-; qstr_You_re_preparing_to_|You're preparing to attack the walls, the work should finish in {reg9} hours.
-; qstr_Your_forces_are_buil|Your forces are building a siege tower. They estimate another {reg9} hours to complete the build.
+qstr_You_re_preparing_to_|Você está se preparando para atacar as muralhas. A tarefa deve terminar após {reg9} horas.
+qstr_Your_forces_are_buil|Suas forças estão construindo uma torre de cerco e estimam que serão necessárias {reg9} horas para finalizar a construção.
 ; qstr_You_are_ready_to_att|You are ready to attack the walls at any time.
-; qstr_The_siege_tower_is_b|The siege tower is built and ready to make an assault.
-; qstr_As_a_last_defensive_|As a last defensive effort, you retreat to the main hall of the keep. You and your remaining soldiers will put up a desperate fight here. If you are defeated, there's no other place to fall back to.
+qstr_The_siege_tower_is_b|A torre de cerco foi construída e está pronta para o ataque.
+qstr_As_a_last_defensive_|Em uma última investida defensiva, você se retira para o salão principal da fortaleza. Você e seus soldados restantes travarão uma luta desesperada aqui. Se forem derrotados, não haverá outro lugar para onde recuar.
 ; qstr_You_ve_been_driven_a|You've been driven away from the walls. Now the attackers are pouring into the streets. IF you can defeat them, you can perhaps turn the tide and save the day.
 ; qstr_You_ve_breached_the_|You've breached the town walls, but the stubborn defenders continue to resist you in the streets! You'll have to deal with them before you can attack the keep at the heart of the town.
 ; qstr_The_town_centre_is_y|The town centre is yours, but the remaining defenders have retreated to the castle. It must fall before you can complete your victory.
 ; qstr_The_remaining_defend|The remaining defenders have retreated to the castle as a last defense. You must go in and crush any remaining resistance.
 ; qstr_However_since_you_ar|However, since you are not a sworn {man/follower} of {s9}, there is no chance he would recognize you as the {lord/lady} of this {reg8?town:castle}.
-; qstr_The_enemy_has_been_f|The enemy has been forced to retreat. The assault is over, but the siege continues.
+qstr_The_enemy_has_been_f|O inimigo foi forçado a recuar. A luta terminou, mas o cerco continua.
 ; qstr_As_you_approach_you_|As you approach, you are spotted by the castle guards, who welcome you and open the gates for their {king/queen}.
 ; qstr_As_you_approach_you_a|As you approach, you are spotted by the castle guards, who welcome you and open the gates for their {lord/lady}.
-; qstr__This_village_and_th| This village and the surrounding lands belong to you.
-; qstr__You_remember_that_t| You remember that this village and the surrounding lands belong to {s7}.
-; qstr__These_lands_belong_| These lands belong to no one.
-; qstr__The_village_is_infe| The village is infested by {reg8} {s35}.
+qstr__This_village_and_th|Este vilarejo e as terras circundantes pertencem a você.
+qstr__You_remember_that_t|Você se lembra de que este vilarejo e as terras circundantes pertencem a {s7}.
+qstr__These_lands_belong_|Estas terras não pertencem a ninguém.
+qstr__The_village_is_infe| Este vilarejo está infestado de {reg8} {s35}.
 ; qstr__The_village_has_bee| The village has been looted. A handful of souls scatter as you pass through the burnt out houses.
-; qstr__The_village_is_bein| The village is being raided.
+qstr__The_village_is_bein|O vilarejo está sendo saqueado.
 ; qstr_No_one_here_seems_to|No one here seems to be willing to join your party.
 qstr_One_{s3}_volunteers_|Um {s3} voluntário irá segui-lo.
 qstr_{reg5}_{s3}_voluntee|{reg5} {s3} voluntários irão segui-lo.
 ; qstr_Try_as_you_might_you|Try as you might, you could not defeat the bandits. Infuriated, they raze the village to the ground to punish the peasants, and then leave the burning wasteland behind to find greener pastures to plunder.
 qstr_village|Vila
 qstr_town|Cidade
-; qstr_castle|castle
+qstr_castle|castelo
 ; qstr_The_{s17}_has_no_imp|The {s17} has no improvements.
 ; qstr_The_{s17}_has_the_fo|The {s17} has the following improvements:{s18}.
 ; qstr_The_assasins_beat_yo|The assasins beat you down and leave you for dead. .
 ; qstr_You_have_fallen._The|You have fallen. The bandits quickly search your body for every coin they can find, then vanish into the night. They have left you alive, if only barely.
 ; qstr_Luckily_some_of_your|Luckily some of your companions come to search for you when you do not return, and find you lying by the side of the road. They hurry you to safety and dress your wounds.
 ; qstr_Luckily_some_passing|Luckily some passing townspeople find you lying by the side of the road, and recognise you as something other than a simple beggar. They carry you to the nearest inn and dress your wounds.
-; qstr_You_fail_to_steal_an|You fail to steal any cattle.
+qstr_You_fail_to_steal_an|Você não conseguiu roubar gado.
 ; qstr_You_drive_away_{reg1|You drive away {reg17} {reg12?heads:head} of cattle from the village's herd.
-; qstr_You_are_at_{s2}.|You are at {s2}.
-; qstr__This_castle_has_no_| This castle has no garrison.
-; qstr__This_town_has_no_ga| This town has no garrison.
-; qstr__You_have_successful| You have successfully sneaked in.
-; qstr_{s13}_A_tournament_w|{s13} A tournament will be held here soon.
+qstr_You_are_at_{s2}.|Você está em {s2}.
+qstr__This_castle_has_no_|Este castelo não tem nenhuma guarnição.
+qstr__This_town_has_no_ga|Esta cidade não tem nenhuma guarnição.
+qstr__You_have_successful|Você conseguiu entrar furtivamente.
+qstr_{s13}_A_tournament_w|{s13} Haverá um torneio aqui em breve.
 ; qstr___{reg1}_denars_per_| ({reg1} denars per night)
 ; qstr_Moreover_you_earn_{r|Moreover, you earn {reg8} denars from the clever bets you placed on yourself...
-; qstr_Victory_is_yours!_Yo|Victory is yours! You have won this melee, but now you must prepare yourself for the next round. 
+qstr_Victory_is_yours!_Yo|A vitória é sua! Você venceu este combate, mas agora deve se preparar para a próxima partida.
 ; qstr_You_have_been_bested|You have been bested in this melee, but the master of ceremonies declares a recognition of your skill and bravery, allowing you to take part in the next round. 
 ; qstr_You_were_beaten._The|You were beaten. The peasants are heartened by their success, but the lesson you wanted to teach them probably didn't get through...
 ; qstr_After_beating_your_l|After beating your last opponent, you explain to the peasants how to better defend themselves against such an attack. Hopefully they'll take the experience on board and will be prepared next time.
@@ -343,123 +343,123 @@ qstr_town|Cidade
 ; qstr_The_training_went_qu|The training went quite well.
 ; qstr_The_training_went_ve|The training went very well.
 ; qstr_The_training_went_pe|The training went perfectly.
-; qstr_{s13}_asked_you_to_r|{s13} asked you to report to him with at least {reg13} troops.
-; qstr_{s13}_ordered_you_to|{s13} ordered you to join the assault against {s14}.
-; qstr_Find_and_speak_with_|Find and speak with {s3} of {s4} to give him your oath of homage.
+qstr_{s13}_asked_you_to_r|{s13} pediu que você se apresente a ele com pelo menos {reg13} tropas.
+qstr_{s13}_ordered_you_to|{s13} ordenou que você se junte ao ataque a {s14}.
+qstr_Find_and_speak_with_|Encontre {s3} de {s4} e fale com ele para prestar seu juramento de lealdade.
 ; qstr_There_has_been_an_al|There has been an alleged border incident: {s9}
 ; qstr_^^Note_that_so_long_|^^Note that so long as you remain marshal, the lords of the realm will be expecting you to lead them on campaign. So, if you are awaiting a feast, either for a wedding or for other purposes, you may wish to resign the marshalship by speaking to your liege.
 ; qstr_Breaking_camp...|Breaking camp...
 ; qstr_Your_party_is_spotte|Your party is spotted by {s1}.
 qstr_Party_has_nothing_to|A tropa não tem o que comer!
 ; qstr_{reg1}_{s1}_{reg2?ha|{reg1} {s1} {reg2?have:has} escaped from your party during the night.
-; qstr_{s1}_of_{s3}_has_bee|{s1} of {s3} has been released from captivity.
-; qstr_Building_of_{s0}_in_|Building of {s0} in {s4} has been completed.
-; qstr_{s1}_has_won_the_tou|{s1} has won the tournament at {s2}.
+qstr_{s1}_of_{s3}_has_bee|{s1} de {s3} foi libertado.
+qstr_Building_of_{s0}_in_|A construção de {s0} em {s4} foi finalizada.
+qstr_{s1}_has_won_the_tou|{s1} venceu o torneio em {s2}.
 ; qstr_{s1}_is_no_longer_in|{s1} is no longer infested by bandits (at night).
-; qstr_You_pay_for_accommod|You pay for accommodation.
+qstr_You_pay_for_accommod|Você pagou pelo alojamento.
 ; qstr_Betrothal_to_{s5}_ex|Betrothal to {s5} expires
-; qstr__Your_tactics_skill_| Your tactics skill has increased by 1.
-; qstr__Your_persuasion_ski| Your persuasion skill has increased by 1.
-; qstr__Your_leadership_ski| Your leadership skill has increased by 1.
-; qstr__Your_intelligence_h| Your intelligence has increased by 1.
-; qstr__Your_trade_skill_ha| Your trade skill has increased by 1.
-; qstr__Your_weapon_master_| Your weapon master skill has increased by 1.
-; qstr__Your_engineer_skill| Your engineer skill has increased by 1.
-; qstr_You_have_finished_re|You have finished reading {s1}.{s2}
-; qstr_Book_Read|Book Read
+qstr__Your_tactics_skill_|Sua habilidade em táticas aumentou em 1 ponto.
+qstr__Your_persuasion_ski|Sua habilidade em persuasão aumentou em 1 ponto.
+qstr__Your_leadership_ski|Sua habilidade em liderança aumentou em 1 ponto.
+qstr__Your_intelligence_h|Sua inteligência aumentou em 1 ponto.
+qstr__Your_trade_skill_ha|Sua habilidade em comércio aumentou em 1 ponto.
+qstr__Your_weapon_master_|Sua habilidade como mestre das armas aumentou em 1 ponto.
+qstr__Your_engineer_skill|Sua habilidade em engenharia aumentou em 1 ponto.
+qstr_You_have_finished_re|Você terminou de ler {s1}.{s2}
+qstr_Book_Read|Livro lido
 ; qstr_{s1}_is_scouted.|{s1} is scouted.
 ; qstr_{s1}_has_switched_fr|{s1} has switched from {s2} to {s3}.
 ; qstr_{reg65?my_Lady:my_Lo|{reg65?my Lady:my Lord}
 ; qstr_{reg65?My_Lady:My_Lo|{reg65?My Lady:My Lord}
-; qstr_{reg65?madame:sir}|{reg65?madame:sir}
-; qstr_{reg65?Madame:Sir}|{reg65?Madame:Sir}
+qstr_{reg65?madame:sir}|{reg65?senhora:senhor}
+qstr_{reg65?Madame:Sir}|{reg65?Senhora:Senhor}
 ; qstr__no_fiefs_|(no fiefs)
-; qstr__fiefs:_{s0}_|(fiefs: {s0})
+qstr__fiefs:_{s0}_|(feudos: {s0})
 ; qstr_It_s_your_money_or_y|It's your money or your life, {mate/girlie}. No sudden moves or we'll run you through.
-; qstr_Lucky_for_you_you_ca|Lucky for you, you caught me in a good mood. Give us all your coin and I might just let you live.
+qstr_Lucky_for_you_you_ca|Sorte sua que estou de bom humor. Passe todo o seu dinheiro e talvez eu deixe você viver.
 ; qstr_This_a_robbery_eh?_I|This a robbery, eh? I givin' you one chance to hand over everythin' you got, or me and my mates'll kill you. Understand?
-; qstr_we_have_made_very_li|we have made very little progress so far
+qstr_we_have_made_very_li|fizemos pouquíssimo progresso até agora
 ; qstr_we_have_suceeded_in_|we have suceeded in gaining some ground, but we still have a long way to go
-; qstr_we_have_become_a_sig|we have become a significant force, and we have an even chance of victory
-; qstr_we_are_winning_the_w|we are winning the war, but our enemies are still holding on.
-; qstr_we_are_on_the_verge_|we are on the verge of victory. The remaining enemies pose no threat, but we still need to hunt them down.
+qstr_we_have_become_a_sig|nós nos tornamos uma força considerável, e temos uma chance razoável de vencer
+qstr_we_are_winning_the_w|estamos vencendo a guerra, mas nossos inimigos ainda resistem.
+qstr_we_are_on_the_verge_|estamos muito perto da vitória. Os inimigos restantes não representam ameaça, mas ainda precisamos caçá-los.
 ; qstr_{playername}_when_we|{playername}, when we started our long walk, few people had the courage to support me. And fewer still would be willing to put their lives at risk for my cause. But you didn't hesitate for a moment in throwing yourself at my enemies. We have gone through a lot together, and there were times I came close to losing all hope. But with God's help, we prevailed. It is now time for me to leave your company and take what's rightfully mine. From now on, I will carry out the great responsibility of ruling {s3}. There still lie many challanges ahead and I count on your help in overcoming those. And of course, you will always remain as my foremost vassal.
 ; qstr__We_will_of_course_n| We will of course need to wait until the realm is no longer on campaign.
-; qstr_I_am_{s4}_the_ruler_|I am {s4}, the ruler of {s6}
+qstr_I_am_{s4}_the_ruler_|Eu sou {s4}, governante de {s6}
 ; qstr_I_am_{s4}_a_vassal_o|I am {s4}, a vassal of {s6}
-; qstr_{s9}{reg5?_and_the_l|{s9}{reg5? and the lord of {s8}.:.
-; qstr_{s13}_asked_you_to_g|{s13} asked you to gather {reg3} heads of cattle and deliver them back to him.
-; qstr_{s9}_asked_you_to_sc|{s9} asked you to scout {s13}, {s14} and {s15}, then report back.
+qstr_{s9}{reg5?_and_the_l|{s9}{reg5? e o senhor de {s8}.:.
+qstr_{s13}_asked_you_to_g|{s13} pediu que você obtenha {reg3} cabeças de gado e entregue-as a ele.
+qstr_{s9}_asked_you_to_sc|{s9} pediu que você faça o reconhecimento de {s13}, {s14} e {s15}, e depois volte para relatar tudo.
 ; qstr_you|you
 ; qstr_You_are_challenging_|You are challenging me to a duel? How droll! As you wish, {playername}, it will be good sport to bash your head in.
-; qstr_{s16}_and_{s17}|{s16} and {s17}
+qstr_{s16}_and_{s17}|{s16} e {s17}
 ; qstr_Very_well_I_will_acc|Very well, I will accept you back into my ranks, if you're ready to swear your solemn oath once more.
-; qstr_A_pardon_will_only_b|A pardon will only be possible if you are willing to cede {s17} to me. Do you agree my terms?
-; qstr_No._There_is_no_chan|No. There is no chance of peace between us, I am not interested.
+qstr_A_pardon_will_only_b|Um perdão só será possível se você se dispuser a me ceder {s17}. Concorda com meus termos?
+qstr_No._There_is_no_chan|Não. Não há nenhuma chance de paz entre nós, não tenho interesse.
 ; qstr_Our_marshal_{s1}|Our marshal, {s1}
-; qstr_{s11}_and_{s12}|{s11} and {s12}
-; qstr_We_are_not_at_war_wi|We are not at war with anyone.
-; qstr_We_are_at_war_with_{|We are at war with {s12}.
+qstr_{s11}_and_{s12}|{s11} e {s12}
+qstr_We_are_not_at_war_wi|Não estamos em guerra com ninguém.
+qstr_We_are_at_war_with_{|Estamos em guerra com {s12}.
 ; qstr_go_on_the_offensive_|go on the offensive now.
 ; qstr_act_to_defend_our_la|act to defend our lands.
 ; qstr_take_more_time_to_ga|take more time to gather the army.
-; qstr_You_promised_to_help|You promised to help {s13} claim the throne of {s14}.
+qstr_You_promised_to_help|Você prometeu ajudar {s13} a conquistar o trono de {s14}.
 ; qstr_What_do_you_say_to_e|What do you say to entering the service of {s9} as a mercenary captain? I have no doubt that you would be up to the task.
-; qstr_{s9}_asked_you_to_ta|{s9} asked you to take a message to {s13}. {s13} was believed to be at {s4} when you were given this quest.
-; qstr_{s9}_asked_you_to_tak|{s9} asked you to take a message to {s13} of {s15}. {s13} was believed to be at {s4} when you were given this quest.
+qstr_{s9}_asked_you_to_ta|{s9} lhe pediu para levar uma mensagem a {s13}. {s13} supostamente estava em {s4} quando esta missão foi dada a você.
+qstr_{s9}_asked_you_to_tak|{s9} lhe pediu para levar uma mensagem a {s13} de {s15}. {s13} supostamente estava em {s4} quando esta missão foi dada a você.
 ; qstr_{s11}_asked_you_to_e|{s11} asked you to escort his {s17} {s13} to {s14}.
 ; qstr_{s13}_asked_you_to_d|{s13} asked you to deal with the bandits who are occupying the village of {s15} and then report back to him.
 ; qstr_{s9}_asked_you_to_ra|{s9} asked you to raise {reg1} {s14} and bring them to him.
-; qstr_{s9}_asked_you_to_co|{s9} asked you to collect taxes from {s3}. He offered to leave you one-fifth of all the money you collect there.
-; qstr_{s9}_asked_you_to_hu|{s9} asked you to hunt down a fugitive named {s4}. He is currently believed to be at {s3}.
-; qstr_{s9}_asked_you_to_as|{s9} asked you to assassinate a local merchant at {s3}.
-; qstr_{s9}_has_asked_you_t|{s9} has asked you to meet with a spy in {s13}.
+qstr_{s9}_asked_you_to_co|{s9} lhe pediu para coletar impostos de {s3}. Ele ofereceu deixar você ficar com um quinto de todo o dinheiro arrecadado lá.
+qstr_{s9}_asked_you_to_hu|{s9} lhe pediu pra perseguir um fugitivo chamado {s4}. Acredita-se que ele esteja em {s3}.
+qstr_{s9}_asked_you_to_as|{s9} lhe pediu pra assassinar um mercador local em {s3}.
+qstr_{s9}_has_asked_you_t|{s9} lhe pediu para se encontrar com um espião em {s13}.
 ; qstr_{s11}_asked_you_to_f|{s11} asked you to follow the spy that will leave {s12}. Be careful not to let the spy see you on the way, or he may get suspicious and turn back. Once the spy meets with his accomplice, you are to capture them and bring them back to {s11}.
 ; qstr_{s11}_asked_you_to_c|{s11} asked you to capture a lord from {s13}, any lord, and then drag your victim back to {s11} for safekeeping.
 ; qstr_{s9}_asked_you_to_le|{s9} asked you to lend your companion {s3} to him for a week.
 ; qstr_{s9}_asked_you_to_col|{s9} asked you to collect the debt of {reg4} denars {s3} owes to him. {s3} was at {s4} when you were given this quest.
 ; qstr_{s11}_gave_you_a_fak|{s11} gave you a fake letter to fool {s13} into banishing his vassal {s16}. You are to go near {s14}, give the letter to one of your {s15} and send him into the town as a messenger, believing his orders to be genuine.
-; qstr_{s9}_has_requested_y|{s9} has requested you to bring him {reg1} {s3} as prisoners.
+qstr_{s9}_has_requested_y|{s9} lhe pediu para trazer {reg1} {s3} como prisioneiros.
 ; qstr_Lend_your_experience|Lend your experienced surgeon {s3} to {s1}.
-; qstr_Then_take_it_with_my|Then take it, with my eternal thanks. You are a noble {man/woman}. I will never forget that you helped me in my time of need.
-; qstr_Forgive_me_{playerna|Forgive me, {playername}, but I must insist you accept it. The money means little to me, and I owe you so much. Here, take it, and let us speak no more of this.
+qstr_Then_take_it_with_my|Então fique com isto e aceite minha eterna gratidão. Você é {um homem/uma mulher} nobre. Nunca vou me esquecer de que você me ajudou quando eu mais precisava.
+qstr_Forgive_me_{playerna|Perdão, {playername}, mas devo insistir que você aceite. O dinheiro significa pouco para mim, e devo tanto a você. Tome, pegue-o, e não falemos mais sobre isso.
 ; qstr_{playername}_what_a_|{playername}, what a dear {man/woman} you are, but I will not allow you to refuse this. I owe you far more than I can say, and I am sure you can put this money to far better use than I.
 ; qstr_{s11}_asked_you_to_r|{s11} asked you to rescue her {s17}, {s13}, from {s14} by switching clothes and taking his place in prison.
 ; qstr_{s11}_asked_you_to_re|{s11} asked you to rescue her {s17}, {s13}, from {s14}.
 ; qstr_{s11}_asked_you_to_d|{s11} asked you to deliver a message to {s13}, who is imprisoned at {s14}.
-; qstr_You_agreed_to_challe|You agreed to challenge {s13} to defend {s11}'s honour.
+qstr_You_agreed_to_challe|Você concordou em desafiar {s13} para defender a honra de {s11}.
 ; qstr_{s5}__Persuasion_str|{s5} (Persuasion strength: {reg5})
-; qstr_Persuasion_Attempt|Persuasion Attempt
+qstr_Persuasion_Attempt|Tentativa de Persuasão
 ; qstr_A_villager_from_{s7}|A villager from {s7} begged you to save their village from the bandits that took refuge there.
-; qstr_You_chose_well_{sir/|You chose well, {sir/madam}. My lads know how to keep their word and earn their pay.
+qstr_You_chose_well_{sir/|Boa escolha, {senhor/senhora}. Meus rapazes sabem cumprir com a palavra e fazer por merecer.
 ; qstr_Well_done_{sir/madam|Well done, {sir/madam}. Keep the money and wine coming our way, and there's no foe in Calradia you need fear.
 ; qstr_We_are_at_your_servi|We are at your service, {sir/madam}. Point us in the direction of those who need hurting, and we'll do the rest.
 ; qstr_The_Guildmaster_of_{|The Guildmaster of {s13} has asked you to deal with looters in the surrounding countryside.
-; qstr_{s9}_of_{s3}_asked_y|{s9} of {s3} asked you to deliver {reg5} units of {s6} to the tavern in {s4} in 7 days.
-; qstr_Escort_the_merchant_|Escort the merchant caravan to the town of {s8}.
+qstr_{s9}_of_{s3}_asked_y|{s9} de {s3} lhe pediu para enviar {reg5} unidades de {s6} para a taverna em {s4} dentro de 7 dias.
+qstr_Escort_the_merchant_|Escolte a caravana de mercadores até a cidade de {s8}.
 ; qstr_Merchant_{s9}_of_{s4|Merchant {s9} of {s4} asked you to hunt down the troublesome bandits in the vicinity of the town.
 ; qstr_Guildmaster_of_{s4}_|Guildmaster of {s4} gave you {reg12} denars to pay the ransom of a girl kidnapped by bandits. You are to meet the bandits near {s3} and pay them the ransom fee. After that you are to bring the girl back to {s4}.
 ; qstr_Guildmaster_of_{s4}_p|Guildmaster of {s4} promised you {reg12} denars if you can make sure that {s12} and {s13} no longer pose a threat to a peace settlement between {s15} and {s14}. In order to do that, you must either convince them or make sure they fall captive and remain so until a peace agreement is made.
 ; qstr_The_Guildmaster_of_{s|The Guildmaster of {s14} has asked you to deal with a group of bandits terrorising the streets of {s14}. They only come out at night, and only attack lone travellers on the streets.
 ; qstr_Guildmaster_of_{s10}|Guildmaster of {s10} asked you to move a cattle herd to {s13}. You will earn {reg8} denars in return.
-; qstr_He_is_not_commanding|He is not commanding any men at the moment.
+qstr_He_is_not_commanding|Ele não está comandando homens no momento.
 ; qstr_He_currently_command|He currently commands {reg0} men{reg1?, of which around {reg1} are wounded:}.
-; qstr_The_elder_of_the_vil|The elder of the village of {s3} asked you to bring them {reg5} packs of grain.
+qstr_The_elder_of_the_vil|O ancião do vilarejo de {s3} lhe pediu para trazer {reg5} sacos de grãos.
 ; qstr_The_elder_of_the_vill|The elder of the village of {s13} asked you to train {reg5} peasants to fight against local bandits.
-; qstr_The_elder_of_the_villa|The elder of the village of {s3} asked you to bring them {reg5} heads of cattle.
-; qstr_{s16}_and_{s15}|{s16} and {s15}
+qstr_The_elder_of_the_villa|O ancião do vilarejo de {s3} lhe pediu para trazer {reg5} cabeças de gado.
+qstr_{s16}_and_{s15}|{s16} e {s15}
 ; qstr_I_can_smell_a_fat_pu|I can smell a fat purse a mile away. Methinks yours could do with some lightening, eh?
 ; qstr_Why_it_be_another_tr|Why, it be another traveller, chance met upon the road! I should warn you, country here's a mite dangerous for a good {fellow/woman} like you. But for a small donation my boys and I'll make sure you get rightways to your destination, eh?
 ; qstr_Well_well_look_at_th|Well well, look at this! You'd best start coughing up some silver, friend, or me and my boys'll have to break you.
 ; qstr_There_s_a_toll_for_p|There's a toll for passin' through this land, payable to us, so if you don't mind we'll just be collectin' our due from your purse...
 ; qstr_Another_fool_come_to|Another fool come to throw {him/her}self on my weapon, eh? Fine, let's fight!
 ; qstr_We_re_not_afraid_of_|We're not afraid of you, {sirrah/wench}. Time to bust some heads!
-; qstr_That_was_a_mistake._|That was a mistake. Now I'm going to have to make your death long and painful.
+qstr_That_was_a_mistake._|Isso foi um grande erro. Agora terei de tornar sua morte longa e dolorosa.
 ; qstr_Brave_words._Let_s_s|Brave words. Let's see you back them up with deeds, cur!
 ; qstr_A_{s5}?_Well..._Yes_|A {s5}? Well... Yes, I suppose it is. What a strange thing to ask.
 ; qstr_Eh?_No_it_most_certa|Eh? No, it most certainly is not a {s5}. I'd start questioning my eyesight if I were you.
-; qstr_This_is_the_{reg4?to|This is the {reg4?town:village} of {s5}, {sir/madam}.
-; qstr_{s6}_Our_{reg4?town:|{s6} Our {reg4?town:village} and the surrounding lands belong to you of course, my {lord/lady}.
+qstr_This_is_the_{reg4?to|Esta é a {reg4?cidade:vilarejo} de {s5}, {senhor/senhora}.
+qstr_{s6}_Our_{reg4?town:|{s6} Nossa {reg4?cidade:vilarejo} e as terras circundantes pertencem {ao senhor/à senhora}, é claro.
 ; qstr_{s6}_Our_{reg4?town:v|{s6} Our {reg4?town:village} and the surrounding lands belong to {s7} of {s8}.
-; qstr_{s3}_and_{s5}|{s3} and {s5}
+qstr_{s3}_and_{s5}|{s3} e {s5}
 ; qstr_{reg20?We_mostly_pro|{reg20?We mostly produce {s5} here:We don't produce much here these days}. If you would like to learn more, you can speak with our {reg4?guildmaster:village elder}. He is nearby, right over there.

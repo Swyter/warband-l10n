@@ -1,21 +1,21 @@
-; dlga_award_fief_to_vassal:award_fief_to_vassal_defer|I wish to defer the appointment of a lord, until I take the counsel of my subjects
-; dlga_award_fief_to_vassal_defer:close_window|As you wish, {sire/my lady}. You may decide this matter at a later date.
-; dlga_award_fief_to_vassal_2:close_window|As you wish, {sire/my lady}. {reg6?I:{reg7?You:{s11}}} will be the new {reg3?lady:lord} of {s1}.
-; dlga_event_triggered:center_captured_rebellion|{s1} is not being managed by anyone. Whom shall I put in charge?
-; dlga_center_captured_rebellion:center_captured_rebellion_2|{s11}. {s1}
-; dlga_center_captured_rebellion:center_captured_rebellion_2.1|Please {s65}, I want to have {s1} for myself. (fiefs: {s0})
-; dlga_center_captured_rebellion:center_captured_rebellion_2.2|{s66}, you should have {s1} for yourself. (fiefs: {s0})
-; dlga_center_captured_rebellion_2:close_window|Hmmm. All right, {playername}. I value your counsel highly. {reg6?I:{reg7?You:{s11}}} will be the new {reg3?lady:lord} of {s1}.
-; dlga_start:fighter_talk|Hello there. We are polishing off our combat skills here with a bit of sparring practice. You look like you could use a bit of training. Why don't you join us, and we can show you a few tricks. And if you need explanation of any combat concepts, just ask, and I will do my best to fill you in.
-; dlga_start:fighter_talk.1|What do you want to practice?
-; dlga_fighter_pretalk:fighter_talk|Tell me what kind of practice you want.
-; dlga_fighter_talk:fighter_talk_train_attack|I want to practice attacking.
-; dlga_fighter_talk:fighter_talk_train_parry|I want to practice blocking with my weapon.
-; dlga_fighter_talk:fighter_talk_train_combat|Let's do some sparring practice.
-; dlga_fighter_talk:close_window|[Leave]
-; dlga_fighter_talk_train_attack:fighter_talk_train_attack_2|All right. There are four principle directions for attacking. These are overhead swing, right swing, left swing and thrust. Now, I will tell you which direction to attack from and you must try to do the correct attack. ^^(Move your mouse while you press the left mouse button to specify attack direction. For example, to execute an overhead attack, move the mouse up at the instant you press the left mouse button. The icons on your screen will help you do the correct action.)
-; dlga_fighter_talk_train_attack_2:close_window|Let's begin then. I am ready.
-; dlga_fighter_talk_train_attack_2:fighter_pretalk|Actually I want to do something else.
+dlga_award_fief_to_vassal:award_fief_to_vassal_defer|Vasallarımın önerilerini alana kadar, bir derebeyi atamayı ertelemek istiyorum.
+dlga_award_fief_to_vassal_defer:close_window|Nasıl isterseniz, {sire/my lady}. Buna daha sonra karar verebilirsiniz.
+dlga_award_fief_to_vassal_2:close_window|Nasıl isterseniz, {sire/my lady}. {reg6?I:{reg7?You:{s11}}} 'in yeni {reg3?lady:lord} olacak {s1}.
+dlga_event_triggered:center_captured_rebellion|{s1} Kimse tarafından yönetilmiyor. Kimi atamalıyım?
+dlga_center_captured_rebellion:center_captured_rebellion_2|{s11}. {s1}
+dlga_center_captured_rebellion:center_captured_rebellion_2.1|Lütfen {s65}, Kendim için {s1} almak istiyorum. (fiefs: {s0})
+dlga_center_captured_rebellion:center_captured_rebellion_2.2|{s66}, kendiniz için {s1} sahip olmalısınız. (fiefs: {s0})
+dlga_center_captured_rebellion_2:close_window|Hmmm. Pekala, {playername}. Danışmanınıza çok güveniyorum. {reg6?I:{reg7?You:{s11}}} 'in yeni {reg3?lady:lord} olacak {s1}.
+dlga_start:fighter_talk|Selam. Burada biraz dövüş pratiği ile mücadele becerilerini parlatıyoruz. Biraz egzersiz yapmış gibi görünüyorsun. Neden bize katılmıyorsun, sana birkaç numara gösterebiliriz. Ve eğer herhangi bir dövüş konseptinin açıklamasına ihtiyacınız varsa, sadece isteyin ve sizi doldurmak için elimden gelenin en iyisini yapacağım.
+dlga_start:fighter_talk.1|Ne pratiği yapmak istiyorsunuz?
+dlga_fighter_pretalk:fighter_talk|Bana ne tür bir pratik istediğini söyle.
+dlga_fighter_talk:fighter_talk_train_attack|Saldırma pratiği yapmak istiyorum.
+dlga_fighter_talk:fighter_talk_train_parry|Silahımla savunma pratiği yapmak istiyorum.
+dlga_fighter_talk:fighter_talk_train_combat|Hadi biraz antreman yapalım.
+dlga_fighter_talk:close_window|[Ayrıl]
+dlga_fighter_talk_train_attack:fighter_talk_train_attack_2|Tamam. Saldırıya yönelik dört temel yön vardır. Bunlar yukarı, sağ, sol ve itme. Şimdi, sana saldırı yönünü söyleyeceğim ve doğru hücumu yapmaya çalışmalısın. ^^ (Saldırı yönünü belirlemek için sol fare düğmesine bastığınızda farenizi hareket ettirin Örneğin, bir saldırıyı gerçekleştirmek için farenizin sol tuşuna basmanızın üzerine fareyi yukarı hareket ettirin. Doğru hareket.)
+dlga_fighter_talk_train_attack_2:close_window|Hadi başlayalım, ben hazırım.
+dlga_fighter_talk_train_attack_2:fighter_pretalk|Aslında, başka şeyler yapmak istiyorum.
 ; dlga_fighter_talk_train_parry:fighter_talk_train_parry_2|Unlike a shield, blocking with a weapon can only stop attacks coming from one direction. For example if you block up, you'll deflect overhead attacks, but you can still be hit by side swings or thrust attacks. ^^(You must press and hold down the right mouse button to block.)
 ; dlga_fighter_talk_train_parry_2:fighter_talk_train_parry_3|I'll now attack you with different types of strokes, and I will wait until you do the correct block before attacking. Try to do the correct block as soon as you can. ^^(This practice is easy to do with the 'automatic block direction' setting which is the default. If you go to the Options menu and change defend direction control to 'mouse movement' or 'keyboard', you'll need to manually choose block direction. This is much more challenging, but makes the game much more interesting. This practice can be very useful if you use manual blocking.)
 ; dlga_fighter_talk_train_parry_3:close_window|Let's begin then. I am ready.

@@ -1331,8 +1331,8 @@ trp_bandit_leaders_end_pl|fin de líderes de bandidos
 trp_relative_of_merchant|Hermano del mercader
 trp_relative_of_merchants_end|fin de familia de mercaderes
 trp_relative_of_merchants_end_pl|fin de familia de mercaderes
-; trp_swadian_crossbowman_multiplayer_coop_tier_1|Swadian Crossbowman
-; trp_swadian_crossbowman_multiplayer_coop_tier_1_pl|Swadian Crossbowmen
+trp_swadian_crossbowman_multiplayer_coop_tier_1|Ballestero Swadian
+trp_swadian_crossbowman_multiplayer_coop_tier_1_pl|Ballestero Swadian
 ; trp_swadian_infantry_multiplayer_coop_tier_1|Swadian Infantry
 ; trp_swadian_infantry_multiplayer_coop_tier_1_pl|Swadian Infantry
 ; trp_swadian_man_at_arms_multiplayer_coop_tier_1|Swadian Man at Arms

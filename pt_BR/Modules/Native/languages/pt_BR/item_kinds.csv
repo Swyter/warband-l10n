@@ -1172,37 +1172,37 @@ itm_warhorse_steppe|Arremetedor da Estepe
 itm_warhorse_steppe_pl|Arremetedor da Estepe
 itm_items_end|Fim dos Itens
 itm_items_end_pl|Fim dos Itens
-; itm_javelin_bow|Javelin Bow
-; itm_javelin_bow_pl|Javelin Bow
-; itm_knockdown_mace|Knockdown Mace
-; itm_knockdown_mace_pl|Knockdown Mace
-; itm_blood_drain_throwing_knives|Blood Drain Throwing Knives
-; itm_blood_drain_throwing_knives_pl|Blood Drain Throwing Knives
-; itm_doom_javelins|Doom Javelins
-; itm_doom_javelins_pl|Doom Javelins
-; itm_disarming_throwing_axe|Disarming Throwing Axe
-; itm_disarming_throwing_axe_pl|Disarming Throwing Axe
-; itm_instakill_knife|Instakill Knife
-; itm_instakill_knife_pl|Instakill Knife
-; itm_backstabber|Backstabber
-; itm_backstabber_pl|Backstabber
-; itm_weak_beserker_dart|Weak Beserker Dart
-; itm_weak_beserker_dart_pl|Weak Beserker Dart
+itm_javelin_bow|Arco e Javelin
+itm_javelin_bow_pl|Arco e Javelin
+itm_knockdown_mace|Maça de Nocaute
+itm_knockdown_mace_pl|Maça de Nocaute
+itm_blood_drain_throwing_knives|Facas de Arremesso da Drenagem de Sangue
+itm_blood_drain_throwing_knives_pl|Facas de Arremesso da Drenagem de Sangue
+itm_doom_javelins|Dardos da Destruição
+itm_doom_javelins_pl|Dardos da Destruição
+itm_disarming_throwing_axe|Machado de Arremesso do Desarme
+itm_disarming_throwing_axe_pl|Machado de Arremesso do Desarme
+itm_instakill_knife|Faca de Morte Instantânea 
+itm_instakill_knife_pl|Faca de Morte Instantânea 
+itm_backstabber|Apunhalador de Costas
+itm_backstabber_pl|Apunhalador de Costas
+itm_weak_beserker_dart|Dardo berserker fraco
+itm_weak_beserker_dart_pl|Dardo berserker fraco
 ; itm_team_change_dart|Team Change Dart
 ; itm_team_change_dart_pl|Team Change Dart
-; itm_awesome_spear|Awesome Spear
-; itm_awesome_spear_pl|Awesome Spear
-; itm_running_boots|Running Boots
-; itm_running_boots_pl|Running Boots
-; itm_power_gloves|Power Gloves
-; itm_power_gloves_pl|Power Gloves
-; itm_invulnerable_helmet|Invulnerable Helmet
-; itm_invulnerable_helmet_pl|Invulnerable Helmet
+itm_awesome_spear|Lança Formidável
+itm_awesome_spear_pl|Lança Formidável
+itm_running_boots|Botas de Corredor
+itm_running_boots_pl|Botas de Corredor
+itm_power_gloves|Luvas do Poder
+itm_power_gloves_pl|Luvas do Poder
+itm_invulnerable_helmet|Elmo Invulnerável
+itm_invulnerable_helmet_pl|Elmo Invulnerável
 ; itm_kicking_boots|Kicking Boots
 ; itm_kicking_boots_pl|Kicking Boots
 ; itm_restore_health_armour|Restore Health Armour
 ; itm_restore_health_armour_pl|Restore Health Armour
-; itm_javelin_bow_ammo|Shooting Javelins
-; itm_javelin_bow_ammo_pl|Shooting Javelins
+itm_javelin_bow_ammo|Dardos de Arremesso
+itm_javelin_bow_ammo_pl|Dardos de Arremesso
 ; itm_ccoop_new_items_end|Items End
 ; itm_ccoop_new_items_end_pl|Items End

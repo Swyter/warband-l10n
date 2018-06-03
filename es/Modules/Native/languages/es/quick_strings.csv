@@ -1,7 +1,7 @@
 qstr_Next_Page|Página Siguiente
 qstr_Game_Rules:^|Reglas del juego:^
 qstr_0|0
-; qstr_Lv._{reg0}|Lv. {reg0}
+qstr_Lv._{reg0}|Lv. {reg0}
 qstr_Show_game_rules|Mostrar las reglas
 qstr_Continue...|Continuar...
 qstr_Candidate_#1:_{s1}|Candidato #1: {s1}
