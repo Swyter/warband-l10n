@@ -1532,7 +1532,7 @@ str_multi_scene_21|Arena
 str_multi_scene_22|Escondite del Bosque
 str_multi_scene_23|Cañón
 str_multi_scene_24|Ciudad del Desierto
-; str_multi_scene_25|Cold Coast
+str_multi_scene_25|Costa Fría
 str_multi_scene_12|Castillo Derwiqa
 str_multi_scene_13|Llanuras aleatorias (Grandes)
 str_multi_scene_14|Estepa aleatoria (Media)
@@ -1546,7 +1546,7 @@ str_multi_game_type_5|Capturar la bandera
 str_multi_game_type_6|Conquista
 str_multi_game_type_7|Asedio
 str_multi_game_type_8|Duelo
-; str_multi_game_type_9|Invasion
+str_multi_game_type_9|Invasión
 str_multi_game_types_end|fin de tipo multijuego
 str_poll_kick_player_s1_by_s0|{s0} inició una votación para echar al jugador {s1}.
 str_poll_ban_player_s1_by_s0|{s0} inició una votación para banear al jugador {s1}.
@@ -2815,9 +2815,9 @@ str_disallow_ranged_weapons|Inhabilitar armas de tiro
 str_ranged_weapons_are_disallowed|Armas de tiro están inhabilitadas.
 str_ranged_weapons_are_allowed|Armas de tiro están habilitadas.
 str_duel_starts_in_reg0_seconds|El duelo comienza en {reg0} segundos...
-; str_s1_team|{s1} squad
-; str_warning_max_players_count_text2|The recommended number of players for this mode is 16 players
-; str_reason_high_price|This is too expensive!
+str_s1_team|escuadrón {s1}
+str_warning_max_players_count_text2|La cantidad recomendada de jugadores para este modo es de 16 jugadores
+str_reason_high_price|¡Esto es demasiado caro!
 ; str_return_later|I will come back later. 
 ; str_recruit_first|It might be a good idea to hire some soldiers first. 
 ; str_squad_size|Squad size:

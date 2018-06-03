@@ -1,0 +1,108 @@
+ui_texture_detail|ტექსტურის დეტალები:
+ui_max_frame_rate|ეკრანის მაქსიმალური გაფართოება
+; ui_enable_bumpmap|Use Bump Mapping
+ui_disable_blood|სისხლის დამალვა
+ui_disable_music|მუსიკის გათიშვა
+ui_disable_sound|ხმის გათიშვა
+ui_enable_cheats|ჩეთის გააქტიურება
+ui_enable_edit_mode|რედაქტირების რეჟიმის ჩართვა (ფრთხილად, ეს  შეამცირებს თამაშს.)
+ui_enable_pixel_shaders|ფიქსელური დაჩრდილვის გამოყენება
+ui_enable_sound_variation|ხმის ვარიაციის გააქტიურება
+ui_enable_vertex_shaders|დარენდერების მეთოდი
+ui_shadow_quality|ჩრდილის ხარისხი
+ui_directx_7|DirectX 7
+ui_directx_9|DirectX 9
+ui_show_framerate|კადრების სიხშირის ჩვენება
+ui_start_windowed|ფანჯარაში გახსნა
+ui_trialmode_caption|აქტივაცია
+ui_trialmode|გთხოვთ გააქტიუროთ თამაში თქვენი უნიკალური 16 ნიშნა სერიული გასაღებით . თუ არ გსურთ გააქტიურება მაშინ თამაში დემო ვერსიაში იქნება , ეს იმას ნიშნავს რომ თქვენი პერსონაჟის განვითარება მხოლოდ მე-8 საფეხურამდე შეგეძლებათ.
+ui_launch_buy|შეიძინეთ ლიცენზია TaleWorlds.com ზე
+ui_launch_faq|ხშირად დასმული კითხვები
+ui_trialmode2|იმისათვის , რომ გააქტიუროთ თამაში..
+ui_trialmode3|ან, ასევე შეგიძლიათ ...
+ui_trialmode4|თუ თქვენ გაქვთ რაიმე შეკითხვები გააქტიურების პროცესის შესახებ, შეგიძლიათ წაიკითხოთ ...
+ui_serial_key_caption|სერიული გასაღები
+ui_notification_serial_input|ჩასვით თქვენი სერიული გასაღები(შენ შეგიძლია ჩასვა&ამოჭრა) და დააჭირე აქტივაციას
+; ui_notification_serial_input_vc|This module requires a Viking Conquest serial key to run. Enter your Viking Conquest serial key below (you can copy && paste it) and click the Activate button
+ui_activate|აქტივაცია
+ui_paste|ჩასმა
+ui_notification_serial_internet_connection|გასააქტიურებლად საჭიროა ინტერნეტთან წვდომა
+ui_notification_serial_offline|თუ თქვენს კომპიუტერს არ გააჩნია ინტერნეტთან წვდომა , მაშინ შეგიძლიათ გამოიყენოთ:
+ui_manual_activation|მექანიკური აქტივაცია
+ui_offline_activation|ოფლაინ რეჟიმში გააქტიურება
+ui_manual_activation_caption|მექანიკური აქტივაცია
+ui_offline_activation_caption|ოფლაინ რეჟიმში გააქტიურება
+ui_cancel2|გაუქმება
+ui_close|დახურვა
+ui_ok2|კარგი
+ui_activation_successful|თამაში წარმატებით გააქტიურდა
+ui_activation_successful2|გთხოვთ შეინახოთ სერიული გასაღები სამომავლო მითითებისთვის.შეიძლება მომავალში გამოგადგეთ ახალ კომპიუტერში დასაყენებლად
+ui_activation_denied|აქტივაციის უარყოფა !
+ui_notification_serial_already_used|სერიული გასაღები უკვე გააქტიურებულია სხვა კომპიუტერზე. ხელახლა გააქტიურებისათვის რამოდენიმე კვირა უნდა დაიცადოთ.
+ui_notification_unable_to_connect_to_activation_server|დაკავშირება ვერ ხერხდება სერვერთან
+ui_notification_unable_to_connect_to_activation_server2|გთხოვთ დარწმუნდეთ რომ თქვენს კომპიუტერს ინტერნეტთან უხარვეზო წვდომა აქვს , თუ თქვენს კომპიუტერზე Firewall არის ჩართული ამ შემთხვევაში საჭიროა თამაშს მისცეთ ინტერნეტთან წვდომის უფლება . თუ ამ ყველაფრის გაკეთება არ შეგიძლიათ , მაშინ ყოველთვის შეგიძლიათ მექანიკური აქტივაციის გამოყენება .
+ui_incorrect_serial_number|არასწორი სერიული გასაღები!
+ui_incorrect_hardware_hash|არასწორი აპარატურის ჰეში!
+ui_incorrect_activation_code|არასწორია აქტივაციის კოდი!
+ui_cant_write_to_registry|რეესტრში მონაცემების შეტანა ვერ ხერხდება!
+ui_video|ვიდეო
+ui_audio|აუდიო
+ui_game|თამაში
+ui_advanced|მოწინავე
+ui_mount_and_blade_is_ready|Mount&&Blade Warband მზადაა
+ui_notification_trial_mode|Mount&&Blade Warband გაშვებულია სატესტო რეჯიმში..ამ მოდში თქვენ შეგიძლია თქვენი პერსონაჯი აიყვანოთ 6 Level-მდე..გაგრძელების შემთხვევაში, გთხოვთ შეიძინოთ ლიცენზია taleworlds.com.. მხოლოდ ერთი წუთი სჭირდება ლიცენზიის ინტერნეტით ყიდვას და შემდეგ გაიხსენბა სრული რეჯიმი
+ui_there_are_no_modules_installed|თქვენ არ გაქვთ არცერთი მოდული დაყენებული!
+ui_notification_new_version|Mount&Blade Warband ახალი ვერსია მოიძებნა\nამჟამად აყენია %d.%d%d%d.\nუკანასკნელი ვერსია Mount&Blade Warband-ის %d.%d%d%d.\nშენ შეგიძლია გადმოწერო ახალი ვერსია www.taleworlds.com დან
+ui_new_version_found|ახალი ვერსია ნაპოვნია!
+ui_notification_unable_to_retreive_new_version|ახალი ვერსიის მოძიება ვერ მოხერხდა. გთხოვთ სცადოთ მოგვიანებით.
+ui_new_version|ახალი ვერსია:
+ui_notification_latest_version|ეს ვერსია Mount&&Blade Warband-ის არის ყველაზე ახალი
+ui_mount_and_blade_is_up_to_date|Mount&Blade Warband განახდება
+ui_off|გამორთვა
+ui_continue_playing_the_trial_mode|სატესტო რეჯიმში გაგრძელება თამაშის
+ui_faq_caption|კითხვები
+; ui_faq_text|Q: What is activation?\r\nA: The activation system is a user-friendly copy-protection method which is based on distributing a unique serial key along with each copy of the game. You need to activate the game once on every computer that you want to play the game with your serial key. After activating once, you don't need to do anything else to play such as keeping the game disc in the drive. As long as you keep your serial key, you will be able to activate and play the game easily, even after many years.\r\n\r\nQ: Where can I find my serial key?\r\nA: Each boxed copy of the game includes a unique serial key. Different vendors may distribute the keys in different ways, but it is typically attached to the cover of your printed manual. If you have purchased your game online, then the online vendor should supply you your serial key.\r\n\r\nQ: How does the activation process work?\r\nA: The game creates a hash-value from the specifications of your computer and sends it to an activation server over the internet together with your serial key. The activation server registers the serial key to your computer and responds with an activation number, which then unlocks the full mode of the game.\r\n\r\nQ: Can I activate the game on multiple computers?\r\nA: Yes, you can. But please remember that the game is licensed to you for your own personal use. The activation server may reject a serial key temporarily if it is used on too many computers in a short period of time. \r\n\r\nQ: The program stops to respond after I click on the activate button.\r\nA: Sometimes it may take up to half a minute to carry out the activation process. Be patient, the game will eventually report the result.\r\n\r\nQ: My computer does not have access to the internet. How can I activate the game?\r\nA: In this case you may use manual activation. Just click on "Enter Your Serial Key", and then "Manual Activation" buttons. You will still need to open up the manual activation web-page from another computer that is linked to the internet.\r\n
+ui_auto_adjust|ავტომატური შესწორება
+ui_screen_size|ეკრანის რეზოლუცია:
+ui_antialiasing|ანტიალიზირება:
+ui_use_desktop_resolution|გამოიყენეთ კომპიუტერის რეზოლუცია
+ui_play|ითამაშე Mount&&Blade Warband
+ui_check_for_new_version|შეამოწმეთ ახალი ვერსია
+ui_configure|კონფიგურაცია
+ui_configure_caption|კონფიგურაცია
+ui_mountandblade_website|Mount & Blade Warband ვებ გვერდი
+ui_current_setting|ამჟამინდელი მოდული:
+ui_manual_activation_text1|1) შეიყვანეთ თქვენს ვებ ბრაუზერში შემდეგი მისამართი:
+ui_manual_activation_text2|2) შესაბამის ვებ გვერდზე შეიყვანეთ თქვენი სერიული გასაღები...
+ui_manual_activation_text3|3)...და ამ მოწყობილობის აპარატურის ჰეში:
+ui_manual_activation_text4|4) ვებ გვერდი შემდეგ მოგცემთ აქტივაციის კოდს რომელიც უნდა შეიყვანოთ ქვემოთ მოცემულ გრაფაში.
+ui_activation_code|აქტივაციის კოდი:
+ui_force_vsync|V-Sync ის ჩართვა.
+ui_module_newer_than_application|მოდული რომელიც თქვენ აირჩიეთ ამჟამინდელ ვერსიას არ ეწყობა , გთხოვთ განაახლოთ.
+ui_module_older_than_application|მოდული რომელიც თქვენ აირჩიეთ არის შექმნილი თამაშის ძველი ვერსიისათვის და შესაძლოა ამჟამინდელ ვერსიას არ შეეწყოს.
+ui_m_low|დაბალი
+ui_m_high|მაღალი
+ui_m_ultra_high|ძალიან მაღალი
+; ui_force_single_threading|Force Single Threading
+; ui_not_enough_memory|It seems that you currently have %d MB of available total physical and virtual memory. Mount&Blade Warband requires at least 700 MB of available memory in order to run without a problem. If Mount&Blade Warband continuously crashes during your play, please close some of your programs before starting Mount&Blade Warband or increase your virtual memory from Control Panel -> System menu.
+ui_install|დააინსტალირე Mount&Blade Warband
+; DirectXText|"Mount&Blade Warband requires DirectX 9.0c or above to run. This computer does not meet the requirement. To fix the problem you need to download and install the latest version of DirectX from Microsoft's website. Would you like to visit TaleWorlds DirectX Download page now?"
+; NoMountAndBladeText|"Mount&Blade Warband has not been installed on this computer. Please download the full installer from www.taleworlds.com and use it to install the game."
+ui_SavegamesText|"გსურთ შეინახოთ თქვენი Save ფაილები?"
+; ui_trialmode_online|Mount&&Blade Warband is currently running in Trial Mode. In this mode you can play the game freely until your character reaches level 7. To continue further, you need to enter a serial key and activate the game. If you have already purchased the game, please enter your serial key now. If not you may easily purchase the game from Taleworlds.com. It takes only a minute to buy a license online and unlock the complete mode.
+ui_launch_activate|შეიყვანეთ თქვენი სერიული გასაღები
+; ui_trialmode2_online|After buying a license, you will obtain your serial key.\nTo unlock the full mode just proceed to...
+; ui_trialmode3_online|Or, if you don't wish to purchase the game yet you can also...
+; ui_trialmode4_online|Our online sales process is fully secure and we greatly respect our customers' rights to security, privacy, having backup copies of their game and upgrading their computers/hardware. If you'd like to learn more about our sales policy, please take a look at:
+ui_ondemand_textures|ტექსტურების ჩატვირთვა მოთხოვნისთანავე
+ui_language|ენები
+; ui_steam_not_running|Steam could not be initialized properly. Steam must be running to play this game.
+; ui_switch_to_turkish_explanation|Oyunun dilini Turkce'ye cevirmek ister misiniz?
+; ui_switch_to_turkish_yes|Evet
+; ui_switch_to_turkish_no|Hayir
+ui_new_version_message|თამაშის ახალი ვერსია არის ხელმისაწვდომი , გსურთ გადმოსაწერ ვებ გვერდზე შესვლა ?
+ui_enable_version_check|ვერსიის შემოწმების ჩართვა
+ui_disable|გამორთვა
+ui_yes2|კი
+ui_no2|არა
+; ui_new_version_message2|A newer version of the game is available. Please visit the online portal you purchased the game from to download the new version.

@@ -1172,10 +1172,10 @@ itm_warhorse_steppe|Cargador de la estepa
 itm_warhorse_steppe_pl|Vargador de la estepa
 itm_items_end|Fin de objetos
 itm_items_end_pl|Fin de objetos
-; itm_javelin_bow|Javelin Bow
-; itm_javelin_bow_pl|Javelin Bow
-; itm_knockdown_mace|Knockdown Mace
-; itm_knockdown_mace_pl|Knockdown Mace
+itm_javelin_bow|Arco Jabalina
+itm_javelin_bow_pl|Arco Jabalina
+itm_knockdown_mace|Descuento de Maza
+itm_knockdown_mace_pl|Descuento de Maza
 ; itm_blood_drain_throwing_knives|Blood Drain Throwing Knives
 ; itm_blood_drain_throwing_knives_pl|Blood Drain Throwing Knives
 ; itm_doom_javelins|Doom Javelins

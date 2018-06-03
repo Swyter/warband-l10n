@@ -21,7 +21,7 @@ mno_lord_relations|查看与已知王族的关系
 mno_courtship_relations|查看姻亲关系
 mno_view_faction_relations_report|查看与势力关系
 mno_resume_travelling|继续旅行
-; menu_custom_battle_scene|(NO TRANS)
+menu_custom_battle_scene|(NO TRANS)
 menu_custom_battle_end|战斗结束。 {s1} 战斗中，我军击杀 {reg5}个 敌人， 我军伤亡人数{reg6}人。你在战斗中亲手击杀  {reg7}个敌人。
 menu_start_game_1|选择角色性别
 mno_start_male|男
@@ -115,19 +115,19 @@ mno_encounter_surrender|投降。
 menu_encounter_retreat_confirm|你在队伍中拥有最高的战略技能, ({reg2}), {reg3?你制定了:{s3} 制定了} 一个计划，便于你和你的军队活着逃脱，但你得留下 {reg4} 位士兵阻止敌人追击你。
 mno_leave_behind|就这么做。少数人的牺牲能够挽救多数人。
 mno_dont_leave_behind|不，我们一个人也不会扔下。
-; menu_encounter_retreat|You tell {reg4} of your troops to hold the enemy while you retreat with the rest of your party.
-; menu_order_attack_begin|Your troops prepare to attack the enemy.
-; mno_order_attack_begin|Order the attack to begin.
-; mno_call_back|Call them back.
-; menu_order_attack_2|{s4}^^Your casualties: {s8}^^Enemy casualties: {s9}
-; mno_order_attack_continue|Order your soldiers to continue the attack.
-; mno_order_retreat|Call your soldiers back.
-; menu_battle_debrief|{s11}^^Your Casualties:{s8}{s10}^^Enemy Casualties:{s9}
-; menu_total_victory|You shouldn't be reading this... {s9}
-; menu_enemy_slipped_away|{s17}
-; menu_permanent_damage|{s0}
-; mno_s0|{s0}
-; menu_pre_join|You come across a battle between {s2} and {s1}. You decide to...
+menu_encounter_retreat|告诉部队的{reg4}在剩下的部队撤退时为他们掩护。
+menu_order_attack_begin|你的部队已经准备好进攻敌人了。
+mno_order_attack_begin|下达攻击的命令。
+mno_call_back|下达撤退的命令。
+menu_order_attack_2|{s4}^^你的伤亡: {s8}^^敌人伤亡: {s9}
+mno_order_attack_continue|让你的部队继续攻击。
+mno_order_retreat|让你的士兵回来。
+menu_battle_debrief|{s11}^^你的伤亡:{s8}{s10}^^敌人伤亡:{s9}
+menu_total_victory|你不应该读这个的...{s9}
+menu_enemy_slipped_away|{s17}
+menu_permanent_damage|{s0}
+mno_s0|{s0}
+menu_pre_join|你卷入了{s2}和{s1}之间的战斗。你决定...
 ; mno_pre_join_help_attackers|Move in to help the {s2}.
 ; mno_pre_join_help_defenders|Rush to the aid of the {s1}.
 ; mno_pre_join_leave|Don't get involved.

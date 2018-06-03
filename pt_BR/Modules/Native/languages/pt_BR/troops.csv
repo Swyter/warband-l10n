@@ -1,7 +1,7 @@
-; trp_multiplayer_profile_troop_male|multiplayer profile troop male
-; trp_multiplayer_profile_troop_male_pl|multiplayer profile troop male
-; trp_multiplayer_profile_troop_female|multiplayer profile troop female
-; trp_multiplayer_profile_troop_female_pl|multiplayer profile troop female
+trp_multiplayer_profile_troop_male|perfil de tropa multijogador masculino
+trp_multiplayer_profile_troop_male_pl|perfil de tropa multijogador masculino
+trp_multiplayer_profile_troop_female|perfil de tropa multijogador feminino
+trp_multiplayer_profile_troop_female_pl|perfil de tropa multijogador feminino
 ; trp_temp_troop|Temp Troop
 ; trp_temp_troop_pl|Temp Troop
 ; trp_find_item_cheat|find item cheat
@@ -236,76 +236,76 @@ trp_sea_raider|Corsário
 trp_sea_raider_pl|Corsários
 trp_steppe_bandit|Bandido das Estepes
 trp_steppe_bandit_pl|Bandidos das Estepes
-; trp_taiga_bandit|Taiga Bandit
-; trp_taiga_bandit_pl|Taiga Bandits
+trp_taiga_bandit|Bandido da taiga
+trp_taiga_bandit_pl|Bandidos da taiga
 trp_desert_bandit|Bandido do Deserto
 trp_desert_bandit_pl|Bandidos do Deserto
-; trp_black_khergit_horseman|Black Khergit Horseman
-; trp_black_khergit_horseman_pl|Black Khergit Horsemen
-; trp_manhunter|Manhunter
+trp_black_khergit_horseman|Cavaleiro negro Khergit
+trp_black_khergit_horseman_pl|Cavaleiros negros Khergits
+trp_manhunter|Caçadores de bandidos
 trp_manhunter_pl|Caçadores de recompensa
-; trp_slave_driver|Slave Driver
-; trp_slave_driver_pl|Slave Drivers
-; trp_slave_hunter|Slave Hunter
-; trp_slave_hunter_pl|Slave Hunters
+trp_slave_driver|Condutor de Escravos
+trp_slave_driver_pl|Condutores de escravos
+trp_slave_hunter|Caçador de Escravos
+trp_slave_hunter_pl|Caçadores de Escravos
 ; trp_slave_crusher|Slave Crusher
 ; trp_slave_crusher_pl|Slave Crushers
-; trp_slaver_chief|Slaver Chief
-; trp_slaver_chief_pl|Slaver Chiefs
+trp_slaver_chief|Chefe Escravista
+trp_slaver_chief_pl|Chefes Escravistas
 ; trp_follower_woman|Camp Follower
 ; trp_follower_woman_pl|Camp Follower
 trp_hunter_woman|caçadora
 trp_hunter_woman_pl|caçadoras
 trp_fighter_woman|Defensoras em Campanha
 trp_fighter_woman_pl|Defensoras em Campanha
-; trp_sword_sister|Sword Sister
-; trp_sword_sister_pl|Sword Sisters
+trp_sword_sister|Irmã de espada
+trp_sword_sister_pl|Irmãs de espada
 trp_refugee|Pessoa Refugiada
 trp_refugee_pl|Pessoas Refugiadas
 trp_peasant_woman|Camponesa
-; trp_peasant_woman_pl|Peasant Women
-; trp_caravan_master|Caravan Master
-; trp_caravan_master_pl|Caravan Masters
+trp_peasant_woman_pl|Camponesas
+trp_caravan_master|Mestre de caravana
+trp_caravan_master_pl|Mestres de caravana
 trp_kidnapped_girl|Garota Sequestrada
-; trp_kidnapped_girl_pl|Kidnapped Girls
+trp_kidnapped_girl_pl|Garotas Sequestradas
 trp_town_walker_1|Cidadão
 trp_town_walker_1_pl|Cidadões
-; trp_town_walker_2|Townswoman
-; trp_town_walker_2_pl|Townswomen
+trp_town_walker_2|Citadina
+trp_town_walker_2_pl|Citadinas
 trp_khergit_townsman|Cidadão
 trp_khergit_townsman_pl|Cidadões
-; trp_khergit_townswoman|Townswoman
-; trp_khergit_townswoman_pl|Townswomen
+trp_khergit_townswoman|Citadina
+trp_khergit_townswoman_pl|Citadinas
 trp_sarranid_townsman|Cidadão
 trp_sarranid_townsman_pl|Cidadões
-; trp_sarranid_townswoman|Townswoman
-; trp_sarranid_townswoman_pl|Townswomen
-; trp_village_walker_1|Villager
-; trp_village_walker_1_pl|Villagers
-; trp_village_walker_2|Villager
-; trp_village_walker_2_pl|Villagers
+trp_sarranid_townswoman|Citadina
+trp_sarranid_townswoman_pl|Citadinas
+trp_village_walker_1|Camponês
+trp_village_walker_1_pl|Camponeses
+trp_village_walker_2|Camponês
+trp_village_walker_2_pl|Camponeses
 trp_spy_walker_1|Cidadão
 trp_spy_walker_1_pl|Cidadões
-; trp_spy_walker_2|Townswoman
-; trp_spy_walker_2_pl|Townswomen
-; trp_tournament_master|Tournament Master
-; trp_tournament_master_pl|Tournament Master
+trp_spy_walker_2|Citadina
+trp_spy_walker_2_pl|Citadinas
+trp_tournament_master|Mestre de Torneio
+trp_tournament_master_pl|Mestre de Torneio
 trp_trainer|Treinador
 trp_trainer_pl|Treinador
-; trp_constable_hareck|Constable Hareck
-; trp_constable_hareck_pl|Constable Hareck
-; trp_ramun_the_slave_trader|Ramun, the slave trader
-; trp_ramun_the_slave_trader_pl|Ramun, the slave trader
-; trp_guide|Quick Jimmy
-; trp_guide_pl|Quick Jimmy
-; trp_xerina|Xerina
-; trp_xerina_pl|Xerina
-; trp_dranton|Dranton
-; trp_dranton_pl|Dranton
-; trp_kradus|Kradus
-; trp_kradus_pl|Kradus
-; trp_tutorial_trainer|Training Ground Master
-; trp_tutorial_trainer_pl|Training Ground Master
+trp_constable_hareck|Guarda Hareck
+trp_constable_hareck_pl|Guarda Hareck
+trp_ramun_the_slave_trader|Ramun, o Mercador de Escravos
+trp_ramun_the_slave_trader_pl|Ramun, o Mercador de Escravos
+trp_guide|Jimmy Rápido
+trp_guide_pl|Jimmy Rápido
+trp_xerina|Xerina
+trp_xerina_pl|Xerina
+trp_dranton|Dranton
+trp_dranton_pl|Dranton
+trp_kradus|Kradus
+trp_kradus_pl|Kradus
+trp_tutorial_trainer|Mestre do Campo de Treinamento
+trp_tutorial_trainer_pl|Mestre do Campo de Treinamento
 ; trp_galeas|Galeas
 ; trp_galeas_pl|Galeas
 trp_farmer_from_bandit_village|Fazendeiro
@@ -320,50 +320,50 @@ trp_trainer_4|Treinador
 trp_trainer_4_pl|Treinador
 trp_trainer_5|Treinador
 trp_trainer_5_pl|Treinador
-; trp_ransom_broker_1|Ransom Broker
-; trp_ransom_broker_1_pl|Ransom Broker
-; trp_ransom_broker_2|Ransom Broker
-; trp_ransom_broker_2_pl|Ransom Broker
-; trp_ransom_broker_3|Ransom Broker
-; trp_ransom_broker_3_pl|Ransom Broker
-; trp_ransom_broker_4|Ransom Broker
-; trp_ransom_broker_4_pl|Ransom Broker
-; trp_ransom_broker_5|Ransom Broker
-; trp_ransom_broker_5_pl|Ransom Broker
-; trp_ransom_broker_6|Ransom Broker
-; trp_ransom_broker_6_pl|Ransom Broker
-; trp_ransom_broker_7|Ransom Broker
-; trp_ransom_broker_7_pl|Ransom Broker
-; trp_ransom_broker_8|Ransom Broker
-; trp_ransom_broker_8_pl|Ransom Broker
-; trp_ransom_broker_9|Ransom Broker
-; trp_ransom_broker_9_pl|Ransom Broker
-; trp_ransom_broker_10|Ransom Broker
-; trp_ransom_broker_10_pl|Ransom Broker
-; trp_tavern_traveler_1|Traveller
-; trp_tavern_traveler_1_pl|Traveller
-; trp_tavern_traveler_2|Traveller
-; trp_tavern_traveler_2_pl|Traveller
-; trp_tavern_traveler_3|Traveller
-; trp_tavern_traveler_3_pl|Traveller
-; trp_tavern_traveler_4|Traveller
-; trp_tavern_traveler_4_pl|Traveller
-; trp_tavern_traveler_5|Traveller
-; trp_tavern_traveler_5_pl|Traveller
-; trp_tavern_traveler_6|Traveller
-; trp_tavern_traveler_6_pl|Traveller
-; trp_tavern_traveler_7|Traveller
-; trp_tavern_traveler_7_pl|Traveller
-; trp_tavern_traveler_8|Traveller
-; trp_tavern_traveler_8_pl|Traveller
-; trp_tavern_traveler_9|Traveller
-; trp_tavern_traveler_9_pl|Traveller
-; trp_tavern_traveler_10|Traveller
-; trp_tavern_traveler_10_pl|Traveller
-; trp_tavern_bookseller_1|Book Merchant
-; trp_tavern_bookseller_1_pl|Book Merchant
-; trp_tavern_bookseller_2|Book Merchant
-; trp_tavern_bookseller_2_pl|Book Merchant
+trp_ransom_broker_1|Comerciante de Escravos
+trp_ransom_broker_1_pl|Comerciante de Escravos
+trp_ransom_broker_2|Comerciante de Escravos
+trp_ransom_broker_2_pl|Comerciante de Escravos
+trp_ransom_broker_3|Comerciante de Escravos
+trp_ransom_broker_3_pl|Comerciante de Escravos
+trp_ransom_broker_4|Comerciante de Escravos
+trp_ransom_broker_4_pl|Comerciante de Escravos
+trp_ransom_broker_5|Comerciante de Escravos
+trp_ransom_broker_5_pl|Comerciante de Escravos
+trp_ransom_broker_6|Comerciante de Escravos
+trp_ransom_broker_6_pl|Comerciante de Escravos
+trp_ransom_broker_7|Comerciante de Escravos
+trp_ransom_broker_7_pl|Comerciante de Escravos
+trp_ransom_broker_8|Comerciante de Escravos
+trp_ransom_broker_8_pl|Comerciante de Escravos
+trp_ransom_broker_9|Comerciante de Escravos
+trp_ransom_broker_9_pl|Comerciante de Escravos
+trp_ransom_broker_10|Comerciante de Escravos
+trp_ransom_broker_10_pl|Comerciante de Escravos
+trp_tavern_traveler_1|Viajante
+trp_tavern_traveler_1_pl|Viajante
+trp_tavern_traveler_2|Viajante
+trp_tavern_traveler_2_pl|Viajante
+trp_tavern_traveler_3|Viajante
+trp_tavern_traveler_3_pl|Viajante
+trp_tavern_traveler_4|Viajante
+trp_tavern_traveler_4_pl|Viajante
+trp_tavern_traveler_5|Viajante
+trp_tavern_traveler_5_pl|Viajante
+trp_tavern_traveler_6|Viajante
+trp_tavern_traveler_6_pl|Viajante
+trp_tavern_traveler_7|Viajante
+trp_tavern_traveler_7_pl|Viajante
+trp_tavern_traveler_8|Viajante
+trp_tavern_traveler_8_pl|Viajante
+trp_tavern_traveler_9|Viajante
+trp_tavern_traveler_9_pl|Viajante
+trp_tavern_traveler_10|Viajante
+trp_tavern_traveler_10_pl|Viajante
+trp_tavern_bookseller_1|Vendedor de Livros
+trp_tavern_bookseller_1_pl|Vendedor de Livros
+trp_tavern_bookseller_2|Vendedor de Livros
+trp_tavern_bookseller_2_pl|Vendedor de Livros
 ; trp_tavern_minstrel_1|Wandering Minstrel
 ; trp_tavern_minstrel_1_pl|Minstrel
 ; trp_tavern_minstrel_2|Wandering Bard
@@ -1070,117 +1070,117 @@ trp_town_22_merchant|Comerciante
 ; trp_town_20_mayor|Guild Master
 ; trp_town_21_mayor|Guild Master
 ; trp_town_22_mayor|Guild Master
-; trp_village_1_elder|Village Elder
-; trp_village_2_elder|Village Elder
-; trp_village_3_elder|Village Elder
-; trp_village_4_elder|Village Elder
-; trp_village_5_elder|Village Elder
-; trp_village_6_elder|Village Elder
-; trp_village_7_elder|Village Elder
-; trp_village_8_elder|Village Elder
-; trp_village_9_elder|Village Elder
-; trp_village_10_elder|Village Elder
-; trp_village_11_elder|Village Elder
-; trp_village_12_elder|Village Elder
-; trp_village_13_elder|Village Elder
-; trp_village_14_elder|Village Elder
-; trp_village_15_elder|Village Elder
-; trp_village_16_elder|Village Elder
-; trp_village_17_elder|Village Elder
-; trp_village_18_elder|Village Elder
-; trp_village_19_elder|Village Elder
-; trp_village_20_elder|Village Elder
-; trp_village_21_elder|Village Elder
-; trp_village_22_elder|Village Elder
-; trp_village_23_elder|Village Elder
-; trp_village_24_elder|Village Elder
-; trp_village_25_elder|Village Elder
-; trp_village_26_elder|Village Elder
-; trp_village_27_elder|Village Elder
-; trp_village_28_elder|Village Elder
-; trp_village_29_elder|Village Elder
-; trp_village_30_elder|Village Elder
-; trp_village_31_elder|Village Elder
-; trp_village_32_elder|Village Elder
-; trp_village_33_elder|Village Elder
-; trp_village_34_elder|Village Elder
-; trp_village_35_elder|Village Elder
-; trp_village_36_elder|Village Elder
-; trp_village_37_elder|Village Elder
-; trp_village_38_elder|Village Elder
-; trp_village_39_elder|Village Elder
-; trp_village_40_elder|Village Elder
-; trp_village_41_elder|Village Elder
-; trp_village_42_elder|Village Elder
-; trp_village_43_elder|Village Elder
-; trp_village_44_elder|Village Elder
-; trp_village_45_elder|Village Elder
-; trp_village_46_elder|Village Elder
-; trp_village_47_elder|Village Elder
-; trp_village_48_elder|Village Elder
-; trp_village_49_elder|Village Elder
-; trp_village_50_elder|Village Elder
-; trp_village_51_elder|Village Elder
-; trp_village_52_elder|Village Elder
-; trp_village_53_elder|Village Elder
-; trp_village_54_elder|Village Elder
-; trp_village_55_elder|Village Elder
-; trp_village_56_elder|Village Elder
-; trp_village_57_elder|Village Elder
-; trp_village_58_elder|Village Elder
-; trp_village_59_elder|Village Elder
-; trp_village_60_elder|Village Elder
-; trp_village_61_elder|Village Elder
-; trp_village_62_elder|Village Elder
-; trp_village_63_elder|Village Elder
-; trp_village_64_elder|Village Elder
-; trp_village_65_elder|Village Elder
-; trp_village_66_elder|Village Elder
-; trp_village_67_elder|Village Elder
-; trp_village_68_elder|Village Elder
-; trp_village_69_elder|Village Elder
-; trp_village_70_elder|Village Elder
-; trp_village_71_elder|Village Elder
-; trp_village_72_elder|Village Elder
-; trp_village_73_elder|Village Elder
-; trp_village_74_elder|Village Elder
-; trp_village_75_elder|Village Elder
-; trp_village_76_elder|Village Elder
-; trp_village_77_elder|Village Elder
-; trp_village_78_elder|Village Elder
-; trp_village_79_elder|Village Elder
-; trp_village_80_elder|Village Elder
-; trp_village_81_elder|Village Elder
-; trp_village_82_elder|Village Elder
-; trp_village_83_elder|Village Elder
-; trp_village_84_elder|Village Elder
-; trp_village_85_elder|Village Elder
-; trp_village_86_elder|Village Elder
-; trp_village_87_elder|Village Elder
-; trp_village_88_elder|Village Elder
-; trp_village_89_elder|Village Elder
-; trp_village_90_elder|Village Elder
-; trp_village_91_elder|Village Elder
-; trp_village_92_elder|Village Elder
-; trp_village_93_elder|Village Elder
-; trp_village_94_elder|Village Elder
-; trp_village_95_elder|Village Elder
-; trp_village_96_elder|Village Elder
-; trp_village_97_elder|Village Elder
-; trp_village_98_elder|Village Elder
-; trp_village_99_elder|Village Elder
-; trp_village_100_elder|Village Elder
-; trp_village_101_elder|Village Elder
-; trp_village_102_elder|Village Elder
-; trp_village_103_elder|Village Elder
-; trp_village_104_elder|Village Elder
-; trp_village_105_elder|Village Elder
-; trp_village_106_elder|Village Elder
-; trp_village_107_elder|Village Elder
-; trp_village_108_elder|Village Elder
-; trp_village_109_elder|Village Elder
-; trp_village_110_elder|Village Elder
-; trp_merchants_end|merchants end
+trp_village_1_elder|Ancião do Vilarejo
+trp_village_2_elder|Ancião do Vilarejo
+trp_village_3_elder|Ancião do Vilarejo
+trp_village_4_elder|Ancião do Vilarejo
+trp_village_5_elder|Ancião do Vilarejo
+trp_village_6_elder|Ancião do Vilarejo
+trp_village_7_elder|Ancião do Vilarejo
+trp_village_8_elder|Ancião do Vilarejo
+trp_village_9_elder|Ancião do Vilarejo
+trp_village_10_elder|Ancião do Vilarejo
+trp_village_11_elder|Ancião do Vilarejo
+trp_village_12_elder|Ancião do Vilarejo
+trp_village_13_elder|Ancião do Vilarejo
+trp_village_14_elder|Ancião do Vilarejo
+trp_village_15_elder|Ancião do Vilarejo
+trp_village_16_elder|Ancião do Vilarejo
+trp_village_17_elder|Ancião do Vilarejo
+trp_village_18_elder|Ancião do Vilarejo
+trp_village_19_elder|Ancião do Vilarejo
+trp_village_20_elder|Ancião do Vilarejo
+trp_village_21_elder|Ancião do Vilarejo
+trp_village_22_elder|Ancião do Vilarejo
+trp_village_23_elder|Ancião do Vilarejo
+trp_village_24_elder|Ancião do Vilarejo
+trp_village_25_elder|Ancião do Vilarejo
+trp_village_26_elder|Ancião do Vilarejo
+trp_village_27_elder|Ancião do Vilarejo
+trp_village_28_elder|Ancião do Vilarejo
+trp_village_29_elder|Ancião do Vilarejo
+trp_village_30_elder|Ancião do Vilarejo
+trp_village_31_elder|Ancião do Vilarejo
+trp_village_32_elder|Ancião do Vilarejo
+trp_village_33_elder|Ancião do Vilarejo
+trp_village_34_elder|Ancião do Vilarejo
+trp_village_35_elder|Ancião do Vilarejo
+trp_village_36_elder|Ancião do Vilarejo
+trp_village_37_elder|Ancião do Vilarejo
+trp_village_38_elder|Ancião do Vilarejo
+trp_village_39_elder|Ancião do Vilarejo
+trp_village_40_elder|Ancião do Vilarejo
+trp_village_41_elder|Ancião do Vilarejo
+trp_village_42_elder|Ancião do Vilarejo
+trp_village_43_elder|Ancião do Vilarejo
+trp_village_44_elder|Ancião do Vilarejo
+trp_village_45_elder|Ancião do Vilarejo
+trp_village_46_elder|Ancião do Vilarejo
+trp_village_47_elder|Ancião do Vilarejo
+trp_village_48_elder|Ancião do Vilarejo
+trp_village_49_elder|Ancião do Vilarejo
+trp_village_50_elder|Ancião do Vilarejo
+trp_village_51_elder|Ancião do Vilarejo
+trp_village_52_elder|Ancião do Vilarejo
+trp_village_53_elder|Ancião do Vilarejo
+trp_village_54_elder|Ancião do Vilarejo
+trp_village_55_elder|Ancião do Vilarejo
+trp_village_56_elder|Ancião do Vilarejo
+trp_village_57_elder|Ancião do Vilarejo
+trp_village_58_elder|Ancião do Vilarejo
+trp_village_59_elder|Ancião do Vilarejo
+trp_village_60_elder|Ancião do Vilarejo
+trp_village_61_elder|Ancião do Vilarejo
+trp_village_62_elder|Ancião do Vilarejo
+trp_village_63_elder|Ancião do Vilarejo
+trp_village_64_elder|Ancião do Vilarejo
+trp_village_65_elder|Ancião do Vilarejo
+trp_village_66_elder|Ancião do Vilarejo
+trp_village_67_elder|Ancião do Vilarejo
+trp_village_68_elder|Ancião do Vilarejo
+trp_village_69_elder|Ancião do Vilarejo
+trp_village_70_elder|Ancião do Vilarejo
+trp_village_71_elder|Ancião do Vilarejo
+trp_village_72_elder|Ancião do Vilarejo
+trp_village_73_elder|Ancião do Vilarejo
+trp_village_74_elder|Ancião do Vilarejo
+trp_village_75_elder|Ancião do Vilarejo
+trp_village_76_elder|Ancião do Vilarejo
+trp_village_77_elder|Ancião do Vilarejo
+trp_village_78_elder|Ancião do Vilarejo
+trp_village_79_elder|Ancião do Vilarejo
+trp_village_80_elder|Ancião do Vilarejo
+trp_village_81_elder|Ancião do Vilarejo
+trp_village_82_elder|Ancião do Vilarejo
+trp_village_83_elder|Ancião do Vilarejo
+trp_village_84_elder|Ancião do Vilarejo
+trp_village_85_elder|Ancião do Vilarejo
+trp_village_86_elder|Ancião do Vilarejo
+trp_village_87_elder|Ancião do Vilarejo
+trp_village_88_elder|Ancião do Vilarejo
+trp_village_89_elder|Ancião do Vilarejo
+trp_village_90_elder|Ancião do Vilarejo
+trp_village_91_elder|Ancião do Vilarejo
+trp_village_92_elder|Ancião do Vilarejo
+trp_village_93_elder|Ancião do Vilarejo
+trp_village_94_elder|Ancião do Vilarejo
+trp_village_95_elder|Ancião do Vilarejo
+trp_village_96_elder|Ancião do Vilarejo
+trp_village_97_elder|Ancião do Vilarejo
+trp_village_98_elder|Ancião do Vilarejo
+trp_village_99_elder|Ancião do Vilarejo
+trp_village_100_elder|Ancião do Vilarejo
+trp_village_101_elder|Ancião do Vilarejo
+trp_village_102_elder|Ancião do Vilarejo
+trp_village_103_elder|Ancião do Vilarejo
+trp_village_104_elder|Ancião do Vilarejo
+trp_village_105_elder|Ancião do Vilarejo
+trp_village_106_elder|Ancião do Vilarejo
+trp_village_107_elder|Ancião do Vilarejo
+trp_village_108_elder|Ancião do Vilarejo
+trp_village_109_elder|Ancião do Vilarejo
+trp_village_110_elder|Ancião do Vilarejo
+trp_merchants_end|fim de comerciantes
 ; trp_merchants_end_pl|merchants end
 ; trp_local_merchant|Local Merchant
 ; trp_local_merchant_pl|Local Merchants
