@@ -12,7 +12,7 @@ luajit tx.lua convert
 # tx push -t -l sv --skip --no-interactive
 
 # pull latest translations
-tx pull -a -f --skip --minimum-perc=0
+"./tx-`uname -m`.elf" pull -a -f --skip --minimum-perc=0
 
 # revert back to mab format
 luajit tx.lua revert
