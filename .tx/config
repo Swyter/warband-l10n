@@ -1,116 +1,111 @@
 [main]
 host = https://www.transifex.com
 
+
 ; Native module files
 
-[warband.dialogs]
+[o:swyter:p:warband:r:dialogs]
 file_filter = <lang>/Modules/Native/languages/<lang>/dialogs.csv
 source_file = _base/dialogs.csv
 source_lang = en
-type = INI
+type        = INI
 
-[warband.factions]
+[o:swyter:p:warband:r:factions]
 file_filter = <lang>/Modules/Native/languages/<lang>/factions.csv
 source_file = _base/factions.csv
 source_lang = en
-type = INI
+type        = INI
 
-[warband.game_menus]
+[o:swyter:p:warband:r:game_menus]
 file_filter = <lang>/Modules/Native/languages/<lang>/game_menus.csv
 source_file = _base/game_menus.csv
 source_lang = en
-type = INI
+type        = INI
 
-[warband.game_strings]
+[o:swyter:p:warband:r:game_strings]
 file_filter = <lang>/Modules/Native/languages/<lang>/game_strings.csv
 source_file = _base/game_strings.csv
 source_lang = en
-type = INI
+type        = INI
 
-[warband.info_pages]
+[o:swyter:p:warband:r:info_pages]
 file_filter = <lang>/Modules/Native/languages/<lang>/info_pages.csv
 source_file = _base/info_pages.csv
 source_lang = en
-type = INI
+type        = INI
 
-[warband.item_kinds]
+[o:swyter:p:warband:r:item_kinds]
 file_filter = <lang>/Modules/Native/languages/<lang>/item_kinds.csv
 source_file = _base/item_kinds.csv
 source_lang = en
-type = INI
+type        = INI
 
-[warband.item_modifiers]
-file_filter = <lang>/Modules/Native/languages/<lang>/modifiers.csv
-source_file = _base/modifiers.csv
-source_lang = en
-type = INI
-
-
-[warband.item_modifiers]
+[o:swyter:p:warband:r:item_modifiers]
 file_filter = <lang>/Modules/Native/languages/<lang>/item_modifiers.csv
 source_file = _base/item_modifiers.csv
 source_lang = en
-type = INI
+type        = INI
 
-[warband.parties]
+[o:swyter:p:warband:r:parties]
 file_filter = <lang>/Modules/Native/languages/<lang>/parties.csv
 source_file = _base/parties.csv
 source_lang = en
-type = INI
+type        = INI
 
-[warband.party_templates]
+[o:swyter:p:warband:r:party_templates]
 file_filter = <lang>/Modules/Native/languages/<lang>/party_templates.csv
 source_file = _base/party_templates.csv
 source_lang = en
-type = INI
+type        = INI
 
-[warband.quests]
+[o:swyter:p:warband:r:quests]
 file_filter = <lang>/Modules/Native/languages/<lang>/quests.csv
 source_file = _base/quests.csv
 source_lang = en
-type = INI
+type        = INI
 
-[warband.quick_strings]
+[o:swyter:p:warband:r:quick_strings]
 file_filter = <lang>/Modules/Native/languages/<lang>/quick_strings.csv
 source_file = _base/quick_strings.csv
 source_lang = en
-type = INI
+type        = INI
 
-[warband.skills]
+[o:swyter:p:warband:r:skills]
 file_filter = <lang>/Modules/Native/languages/<lang>/skills.csv
 source_file = _base/skills.csv
 source_lang = en
-type = INI
+type        = INI
 
-[warband.skins]
+[o:swyter:p:warband:r:skins]
 file_filter = <lang>/Modules/Native/languages/<lang>/skins.csv
 source_file = _base/skins.csv
 source_lang = en
-type = INI
+type        = INI
 
-[warband.troops]
+[o:swyter:p:warband:r:troops]
 file_filter = <lang>/Modules/Native/languages/<lang>/troops.csv
 source_file = _base/troops.csv
 source_lang = en
-type = INI
+type        = INI
 
 
 ; Common game files
 
-[warband.hints]
+[o:swyter:p:warband:r:hints]
 file_filter = <lang>/languages/<lang>/hints.csv
 source_file = _base_common/hints.csv
 source_lang = en
-type = INI
+type        = INI
 
-[warband.ui]
+[o:swyter:p:warband:r:ui]
 file_filter = <lang>/languages/<lang>/ui.csv
 source_file = _base_common/ui.csv
 source_lang = en
-type = INI
+type        = INI
 
-[warband.uimain]
+[o:swyter:p:warband:r:uimain]
 file_filter = <lang>/languages/<lang>/uimain.csv
 source_file = _base_common/uimain.csv
 source_lang = en
-type = INI
+type        = INI
+

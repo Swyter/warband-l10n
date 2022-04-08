@@ -1,0 +1,116 @@
+[main]
+host = https://www.transifex.com
+
+; Native module files
+
+[warband.dialogs]
+file_filter = <lang>/Modules/Native/languages/<lang>/dialogs.csv
+source_file = _base/dialogs.csv
+source_lang = en
+type = INI
+
+[warband.factions]
+file_filter = <lang>/Modules/Native/languages/<lang>/factions.csv
+source_file = _base/factions.csv
+source_lang = en
+type = INI
+
+[warband.game_menus]
+file_filter = <lang>/Modules/Native/languages/<lang>/game_menus.csv
+source_file = _base/game_menus.csv
+source_lang = en
+type = INI
+
+[warband.game_strings]
+file_filter = <lang>/Modules/Native/languages/<lang>/game_strings.csv
+source_file = _base/game_strings.csv
+source_lang = en
+type = INI
+
+[warband.info_pages]
+file_filter = <lang>/Modules/Native/languages/<lang>/info_pages.csv
+source_file = _base/info_pages.csv
+source_lang = en
+type = INI
+
+[warband.item_kinds]
+file_filter = <lang>/Modules/Native/languages/<lang>/item_kinds.csv
+source_file = _base/item_kinds.csv
+source_lang = en
+type = INI
+
+[warband.item_modifiers]
+file_filter = <lang>/Modules/Native/languages/<lang>/modifiers.csv
+source_file = _base/modifiers.csv
+source_lang = en
+type = INI
+
+
+[warband.item_modifiers]
+file_filter = <lang>/Modules/Native/languages/<lang>/item_modifiers.csv
+source_file = _base/item_modifiers.csv
+source_lang = en
+type = INI
+
+[warband.parties]
+file_filter = <lang>/Modules/Native/languages/<lang>/parties.csv
+source_file = _base/parties.csv
+source_lang = en
+type = INI
+
+[warband.party_templates]
+file_filter = <lang>/Modules/Native/languages/<lang>/party_templates.csv
+source_file = _base/party_templates.csv
+source_lang = en
+type = INI
+
+[warband.quests]
+file_filter = <lang>/Modules/Native/languages/<lang>/quests.csv
+source_file = _base/quests.csv
+source_lang = en
+type = INI
+
+[warband.quick_strings]
+file_filter = <lang>/Modules/Native/languages/<lang>/quick_strings.csv
+source_file = _base/quick_strings.csv
+source_lang = en
+type = INI
+
+[warband.skills]
+file_filter = <lang>/Modules/Native/languages/<lang>/skills.csv
+source_file = _base/skills.csv
+source_lang = en
+type = INI
+
+[warband.skins]
+file_filter = <lang>/Modules/Native/languages/<lang>/skins.csv
+source_file = _base/skins.csv
+source_lang = en
+type = INI
+
+[warband.troops]
+file_filter = <lang>/Modules/Native/languages/<lang>/troops.csv
+source_file = _base/troops.csv
+source_lang = en
+type = INI
+
+
+; Common game files
+
+[warband.hints]
+file_filter = <lang>/languages/<lang>/hints.csv
+source_file = _base_common/hints.csv
+source_lang = en
+type = INI
+
+[warband.ui]
+file_filter = <lang>/languages/<lang>/ui.csv
+source_file = _base_common/ui.csv
+source_lang = en
+type = INI
+
+[warband.uimain]
+file_filter = <lang>/languages/<lang>/uimain.csv
+source_file = _base_common/uimain.csv
+source_lang = en
+type = INI
