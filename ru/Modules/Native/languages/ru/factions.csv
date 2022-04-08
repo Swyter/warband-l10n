@@ -1,19 +1,19 @@
-; fac_no_faction|No Faction
-; fac_commoners|Commoners
-; fac_outlaws|Outlaws
-; fac_neutral|Neutral
-; fac_innocents|Innocents
-; fac_merchants|Merchants
-; fac_player_faction|Player Faction
-; fac_player_supporters_faction|Player's Supporters
-; fac_kingdom_1|Kingdom of Swadia
-; fac_kingdom_2|Kingdom of Vaegirs
-; fac_kingdom_3|Khergit Khanate
-; fac_kingdom_4|Kingdom of Nords
-; fac_kingdom_5|Kingdom of Rhodoks
-; fac_kingdom_6|Sarranid Sultanate
-; fac_manhunters|Manhunters
-; fac_deserters|Deserters
-; fac_mountain_bandits|Mountain Bandits
-; fac_forest_bandits|Forest Bandits
-; fac_ccoop_all_stars|All Stars
+fac_no_faction|Без фракции
+fac_commoners|Простолюдины
+fac_outlaws|Изгнанники
+fac_neutral|Нейтралы
+fac_innocents|Мирные
+fac_merchants|Торговцы
+fac_player_faction|Фракция Игрока
+fac_player_supporters_faction|Сторонники Игрока
+fac_kingdom_1|Королевство Свадия
+fac_kingdom_2|Королевство Вегиров
+fac_kingdom_3|Хергитское ханство
+fac_kingdom_4|Королевство Нордов
+fac_kingdom_5|Королевство Родоков
+fac_kingdom_6|Сарранидский султанат
+fac_manhunters|Охотники за головами
+fac_deserters|Дезертиры
+fac_mountain_bandits|Горные бандиты
+fac_forest_bandits|Лесные бандиты
+fac_ccoop_all_stars|Лучшие

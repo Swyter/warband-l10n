@@ -1,61 +1,61 @@
-; str_no_string|NO STRING!
-; str_empty_string _txss _txss= _txss" "
-; str_yes|Yes.
-; str_no|No.
-; str_blank_string _txss _txss= _txss" "
-; str_noone|no one
-; str_s50_and_s51|{s50} and {s51}
-; str_s52_and_s51|{s52} and {s51}
-; str_s5_s_party|{s5}'s Party
-; str_given_by_s1_at_s2|Given by {s1} at {s2}
-; str_given_by_s1_in_wilderness|Given by {s1} whilst in the field
-; str_s7_raiders|{s7} Raiders
-; str_bandits_eliminated_by_another|The troublesome bandits have been eliminated by another party.
-; str_msg_battle_won|Battle won! Press tab key to leave...
-; str_tutorial_map1|You are now viewing the overland map. Left-click on the map to move your party to that location, enter the selected town, or pursue the selected party. Time will pause on the overland map if your party is not moving, waiting or resting. To wait anywhere simply press and hold down the space bar.
-; str_randomize|Randomize
-; str_charge|Charge
-; str_color|Color
-; str_flip_horizontal|Flip Horizontal
-; str_flip_vertical|Flip Vertical
-; str_hold_fire|Hold Fire
-; str_blunt_hold_fire|Blunt / Hold Fire
-; str_tutorial_ammo_refilled|Ammo refilled.
-; str_tutorial_failed|You have been beaten this time, but don't worry. Follow the instructions carefully and you'll do better next time. Press the Tab key to return to to the menu where you can retry this tutorial.
-; str_finished|(Finished)
-; str_delivered_damage|Delivered {reg60} damage.
-; str_archery_target_hit|Distance: {reg61} yards. Score: {reg60}
-; str_use_baggage_for_inventory|Use your baggage to access your inventory during battle (it's at your starting position).
-; str_cant_use_inventory_now|Can't access inventory now.
-; str_cant_use_inventory_arena|Can't access inventory in the arena.
-; str_cant_use_inventory_disguised|Can't access inventory while you're disguised.
-; str_cant_use_inventory_tutorial|Can't access inventory in the training camp.
-; str_1_denar|1 denar
-; str_reg1_denars|{reg1} denars
-; str_january_reg1_reg2|January {reg1}, {reg2}
-; str_february_reg1_reg2|February {reg1}, {reg2}
-; str_march_reg1_reg2|March {reg1}, {reg2}
-; str_april_reg1_reg2|April {reg1}, {reg2}
-; str_may_reg1_reg2|May {reg1}, {reg2}
-; str_june_reg1_reg2|June {reg1}, {reg2}
-; str_july_reg1_reg2|July {reg1}, {reg2}
-; str_august_reg1_reg2|August {reg1}, {reg2}
-; str_september_reg1_reg2|September {reg1}, {reg2}
-; str_october_reg1_reg2|October {reg1}, {reg2}
-; str_november_reg1_reg2|November {reg1}, {reg2}
-; str_december_reg1_reg2|December {reg1}, {reg2}
-; str_town_nighttime| It is late at night and honest folk have abandoned the streets.
-; str_door_locked|The door is locked.
-; str_castle_is_abondened|The castle seems to be unoccupied.
-; str_town_is_abondened|The town has no garrison defending it.
-; str_place_is_occupied_by_player|The place is held by your own troops.
-; str_place_is_occupied_by_enemy|The place is held by hostile troops.
-; str_place_is_occupied_by_friendly|The place is held by friendly troops.
-; str_do_you_want_to_retreat|Are you sure you want to retreat?
-; str_give_up_fight|Give up the fight?
-; str_do_you_wish_to_leave_tutorial|Do you wish to leave the tutorial?
-; str_do_you_wish_to_surrender|Do you wish to surrender?
-; str_can_not_retreat|Can't retreat, there are enemies nearby!
+str_no_string|ვერ მოიძებნა!
+str_empty_string......=..."..."
+str_yes|დიახ.
+str_no|არა.
+str_blank_string......=..."..."
+str_noone|არავინ
+str_s50_and_s51|{s50} და {s51}
+str_s52_and_s51|{s52} და {s51}
+str_s5_s_party|{s5}-ის ლაშქარი
+str_given_by_s1_at_s2|მოცემულია {s1}-ის მიერ {s2}
+str_given_by_s1_in_wilderness|მოცემულია {s1}-ის მიერ ველზე ყოფნისას.
+str_s7_raiders|{s7} მძარცველები
+str_bandits_eliminated_by_another|შარის მაძიებელი ბანდიტები უკვე სხვა ლაშქარმა გაანადგურა.
+str_msg_battle_won|ბრძოლა მოგებულია! დააჭირეთ Tab-ს ...
+str_tutorial_map1|თქვენ ეხლა უყურებთ რუკას. დააწკაპეთ მაუსის მარცხენა ღილაკით რუკაზე რათა გადაადგილოთ თქვენი ლაშქარი მითითებულ მონაკვეთზე , ქალაქზე , ან სხვა ლაშქრისაკენ. დრო შეჩერებულია რუკაზე როდესაც თქვენი ლაშქარი უმოძრაოდ დგას , იცდიან , ან ისვენებენ. მოსაცდელად უბრალოდ დააჭირეთ და გეჭიროთ space ღილაკს კლავიატურაზე.
+str_randomize|შემთხვევითი
+str_charge|შეტევა
+str_color|ფერი
+str_flip_horizontal|ჰორიზონტალურად მოტრიალება
+str_flip_vertical|ვერტიკალურად მოტრიალება
+str_hold_fire|ცეცხლის შეჩერება
+str_blunt_hold_fire|ცივი იარაღი/ცეცხლის შეჩერება
+str_tutorial_ammo_refilled|ისრები შეივსო.
+str_tutorial_failed|თქვენ დამარცხდით , მაგრამ არ ინერვიულოთ . ყურადღებით მიჰყევით ინსტრუქციებს და შემდეგ ჯერზე უკეთესად იბრძოლებთ. დააჭირეთ Tab ღილაკს რათა გაბრუნდეთ მენიუში.
+str_finished|(დასრულებულია)
+str_delivered_damage|მიყენებულია {reg60} ზიანი.
+str_archery_target_hit|მანძილი: {reg61} იარდი. ქულა: {reg60}
+str_use_baggage_for_inventory|გამოიყენეთ თქვენი ბარგი რათა შეძლოთ თქვენი ინვენტარის გამართვა ბრძოლის დროს (ბარგი საწყის პოზიციაზეა).
+str_cant_use_inventory_now|ვერ შეძლებთ ინვენტარის გამართვას ამჟამად.
+str_cant_use_inventory_arena|ამ არენაზე ინვენტარის გამართვა არ შეიძლება.
+str_cant_use_inventory_disguised|ინვენტარის გამართვა არ შეიძლება როდესაც შენიღბული ხართ.
+str_cant_use_inventory_tutorial|ინვენტარის გამართვა საწრვთნელ ბანაკში არ შეიძლება.
+str_1_denar|1 დენარი
+str_reg1_denars|{reg1} დენარი
+str_january_reg1_reg2|იანვარი {reg1}, {reg2}
+str_february_reg1_reg2|თებერვალი {reg1}, {reg2}
+str_march_reg1_reg2|მარტი {reg1}, {reg2}
+str_april_reg1_reg2|აპრილი {reg1}, {reg2}
+str_may_reg1_reg2|მაისი {reg1}, {reg2}
+str_june_reg1_reg2|ივნისი {reg1}, {reg2}
+str_july_reg1_reg2|ივლისი {reg1}, {reg2}
+str_august_reg1_reg2|აგვისტო {reg1}, {reg2}
+str_september_reg1_reg2|სექტემბერი {reg1}, {reg2}
+str_october_reg1_reg2|ოქტომბერი {reg1}, {reg2}
+str_november_reg1_reg2|ნოემბერი {reg1}, {reg2}
+str_december_reg1_reg2|დეკემბერი {reg1}, {reg2}
+str_town_nighttime|გვიანი ღამეა , ალალმა ხალხმა უკვე მიატოვა ქუჩები.
+str_door_locked|კარი ჩაკეტილია.
+str_castle_is_abondened|ციხესიმაგრე როგორც ჩანს მიტოვებულია.
+str_town_is_abondened|ქალაქს არ ყავს დამცველი გარსიონი.
+str_place_is_occupied_by_player|ეს ადგილი შენი ლაშქრის განკარგულებაშია.
+str_place_is_occupied_by_enemy|ეს ადგილი მტრის ლაშქრის განკარგულებაშია.
+str_place_is_occupied_by_friendly|ეს ადგილი მოკავშირე ლაშქრის განკარგულებაშია.
+str_do_you_want_to_retreat|დარწმუნებული ხართ რომ უკან დახევა გნებავთ?
+str_give_up_fight|გსურთ ბრძოლის მიტოვება?
+str_do_you_wish_to_leave_tutorial|გსურთ სწავლების მიტოვება?
+str_do_you_wish_to_surrender|გსურთ დანებება?
+str_can_not_retreat|უკან ვერ დაიხევთ , მტრები ახლოს არიან!
 ; str_s1_joined_battle_enemy|{s1} has joined the battle on the enemy side.
 ; str_s1_joined_battle_friend|{s1} has joined the battle on your side.
 ; str_entrance_to_town_forbidden|The town guards are on the lookout for intruders and it seems that you won't be able to pass through the gates unchallenged.
@@ -2284,15 +2284,15 @@ str_new_debts|ახალი ვალები:
 ; str_unfortunately_s12s_grip_is_very_strong_unless_we_can_loosen_it_it_may_be_difficult_to_find_allies|Unfortunately, {s12}'s grip is very strong. Unless we can loosen it, it may be difficult to find allies.
 ; str_playername_come_to_plague_me_some_more_have_you|{playername}... Come to plague me some more, have you?
 ; str_ah_it_is_you_again|Ah. It is you again...
-; str_well_playername|Well, {playername}
+str_well_playername|კარგად, {playername}
 ; str_flagon_of_mead|flagon of mead
-; str_skin_of_kumis|skin of kumis
-; str_mug_of_kvass|mug of kvass
-; str_cup_of_wine|cup of wine
+str_skin_of_kumis|კუმისის კანი
+str_mug_of_kvass|ბურახის კათხა
+str_cup_of_wine|ღვინის ჭიქა
 ; str_you_intend_to_challenge_s13_to_force_him_to_retract_an_insult|You intend to challenge {s13} to force him to retract an insult.
 ; str_youll_have_to_speak_to_me_at_some_other_time_then|You'll have to speak to me at some other time, then.
-; str_this_is_no_time_for_words|This is no time for words!
-; str_of_course_my_wife|Of course, my wife.
+str_this_is_no_time_for_words|საუბრის დრო არ არის !
+str_of_course_my_wife|რა თქმა უნდა, ჩემო მეუღლევ.
 ; str_perhaps_not_our_marriage_has_become_a_bit_strained_dont_you_think|Perhaps not. Our marriage has become a bit strained, don't you think?
 ; str_why_is_that_my_wife_actually_our_marriage_has_become_such_that_i_prefer_to_have_a_witness_for_all_of_our_converations|Why is that, my wife? Actually, our marriage has become such that I prefer to have a witness for all of our converations.
 ; str_all_right_then_what_do_you_have_to_say_out_with_it|All right then. What do you have to say? Out with it.

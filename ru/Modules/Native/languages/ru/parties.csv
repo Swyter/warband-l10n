@@ -1,199 +1,199 @@
-; p_zendar|Zendar
-; p_town_1|Sargoth
-; p_town_2|Tihr
-; p_town_3|Veluca
-; p_town_4|Suno
-; p_town_5|Jelkala
-; p_town_6|Praven
-; p_town_7|Uxkhal
-; p_town_8|Reyvadin
-; p_town_9|Khudan
-; p_town_10|Tulga
-; p_town_11|Curaw
-; p_town_12|Wercheg
-; p_town_13|Rivacheg
-; p_town_14|Halmar
-; p_town_15|Yalen
-; p_town_16|Dhirim
-; p_town_17|Ichamur
-; p_town_18|Narra
-; p_town_19|Shariz
-; p_town_20|Durquba
-; p_town_21|Ahmerrad
-; p_town_22|Bariyye
-; p_castle_1|Culmarr Castle
-; p_castle_2|Malayurg Castle
-; p_castle_3|Bulugha Castle
-; p_castle_4|Radoghir Castle
-; p_castle_5|Tehlrog Castle
-; p_castle_6|Tilbaut Castle
-; p_castle_7|Sungetche Castle
-; p_castle_8|Jeirbe Castle
-; p_castle_9|Jamiche Castle
-; p_castle_10|Alburq Castle
-; p_castle_11|Curin Castle
-; p_castle_12|Chalbek Castle
-; p_castle_13|Kelredan Castle
-; p_castle_14|Maras Castle
-; p_castle_15|Ergellon Castle
-; p_castle_16|Almerra Castle
-; p_castle_17|Distar Castle
-; p_castle_18|Ismirala Castle
-; p_castle_19|Yruma Castle
-; p_castle_20|Derchios Castle
-; p_castle_21|Ibdeles Castle
-; p_castle_22|Unuzdaq Castle
-; p_castle_23|Tevarin Castle
-; p_castle_24|Reindi Castle
-; p_castle_25|Ryibelet Castle
-; p_castle_26|Senuzgda Castle
-; p_castle_27|Rindyar Castle
-; p_castle_28|Grunwalder Castle
-; p_castle_29|Nelag Castle
-; p_castle_30|Asugan Castle
-; p_castle_31|Vyincourd Castle
-; p_castle_32|Knudarr Castle
-; p_castle_33|Etrosq Castle
-; p_castle_34|Hrus Castle
-; p_castle_35|Haringoth Castle
-; p_castle_36|Jelbegi Castle
-; p_castle_37|Dramug Castle
-; p_castle_38|Tulbuk Castle
-; p_castle_39|Slezkh Castle
-; p_castle_40|Uhhun Castle
-; p_castle_41|Jameyyed Castle
-; p_castle_42|Teramma Castle
-; p_castle_43|Sharwa Castle
-; p_castle_44|Durrin Castle
-; p_castle_45|Caraf Castle
-; p_castle_46|Weyyah Castle
-; p_castle_47|Samarra Castle
-; p_castle_48|Bardaq Castle
-; p_village_1|Yaragar
-; p_village_2|Burglen
-; p_village_3|Azgad
-; p_village_4|Nomar
-; p_village_5|Kulum
-; p_village_6|Emirin
-; p_village_7|Amere
-; p_village_8|Haen
-; p_village_9|Buvran
-; p_village_10|Mechin
-; p_village_11|Dusturil
-; p_village_12|Emer
-; p_village_13|Nemeja
-; p_village_14|Sumbuja
-; p_village_15|Ryibelet
-; p_village_16|Shapeshte
-; p_village_17|Mazen
-; p_village_18|Ulburban
-; p_village_19|Hanun
-; p_village_20|Uslum
-; p_village_21|Bazeck
-; p_village_22|Shulus
-; p_village_23|Ilvia
-; p_village_24|Ruldi
-; p_village_25|Dashbigha
-; p_village_26|Pagundur
-; p_village_27|Glunmar
-; p_village_28|Tash Kulun
-; p_village_29|Buillin
-; p_village_30|Ruvar
-; p_village_31|Ambean
-; p_village_32|Tosdhar
-; p_village_33|Ruluns
-; p_village_34|Ehlerdah
-; p_village_35|Fearichen
-; p_village_36|Jayek
-; p_village_37|Ada Kulun
-; p_village_38|Ibiran
-; p_village_39|Reveran
-; p_village_40|Saren
-; p_village_41|Dugan
-; p_village_42|Dirigh Aban
-; p_village_43|Zagush
-; p_village_44|Peshmi
-; p_village_45|Bulugur
-; p_village_46|Fedner
-; p_village_47|Epeshe
-; p_village_48|Veidar
-; p_village_49|Tismirr
-; p_village_50|Karindi
-; p_village_51|Jelbegi
-; p_village_52|Amashke
-; p_village_53|Balanli
-; p_village_54|Chide
-; p_village_55|Tadsamesh
-; p_village_56|Fenada
-; p_village_57|Ushkuru
-; p_village_58|Vezin
-; p_village_59|Dumar
-; p_village_60|Tahlberl
-; p_village_61|Aldelen
-; p_village_62|Rebache
-; p_village_63|Rduna
-; p_village_64|Serindiar
-; p_village_65|Iyindah
-; p_village_66|Fisdnar
-; p_village_67|Tebandra
-; p_village_68|Ibdeles
-; p_village_69|Kwynn
-; p_village_70|Dirigsene
-; p_village_71|Tshibtin
-; p_village_72|Elberl
-; p_village_73|Chaeza
-; p_village_74|Ayyike
-; p_village_75|Bhulaban
-; p_village_76|Kedelke
-; p_village_77|Rizi
-; p_village_78|Sarimish
-; p_village_79|Istiniar
-; p_village_80|Vayejeg
-; p_village_81|Odasan
-; p_village_82|Yalibe
-; p_village_83|Gisim
-; p_village_84|Chelez
-; p_village_85|Ismirala
-; p_village_86|Slezkh
-; p_village_87|Udiniad
-; p_village_88|Tulbuk
-; p_village_89|Uhhun
-; p_village_90|Jamiche
-; p_village_91|Ayn Assuadi
-; p_village_92|Dhibbain
-; p_village_93|Qalyut
-; p_village_94|Mazigh
-; p_village_95|Tamnuh
-; p_village_96|Habba
-; p_village_97|Sekhtem
-; p_village_98|Mawiti
-; p_village_99|Fishara
-; p_village_100|Iqbayl
-; p_village_101|Uzgha
-; p_village_102|Shibal Zumr
-; p_village_103|Mijayet
-; p_village_104|Tazjunat
-; p_village_105|Aab
-; p_village_106|Hawaha
-; p_village_107|Unriya
-; p_village_108|Mit Nun
-; p_village_109|Tilimsal
-; p_village_110|Rushdigh
-; p_salt_mine|Salt Mine
-; p_four_ways_inn|Four Ways Inn
-; p_test_scene|test scene
-; p_battlefields|battlefields
-; p_dhorak_keep|Dhorak Keep
-; p_training_ground|Training Ground
-; p_training_ground_1|Training Field
-; p_training_ground_2|Training Field
-; p_training_ground_3|Training Field
-; p_training_ground_4|Training Field
-; p_training_ground_5|Training Field
-; p_steppe_bandit_spawn_point|the steppes
-; p_taiga_bandit_spawn_point|the tundra
-; p_forest_bandit_spawn_point|the forests
-; p_mountain_bandit_spawn_point|the highlands
-; p_sea_raider_spawn_point_1|the coast
-; p_sea_raider_spawn_point_2|the coast
-; p_desert_bandit_spawn_point|the deserts
+p_zendar|Зендар
+p_town_1|Саргот
+p_town_2|Тир
+p_town_3|Велука
+p_town_4|Суно
+p_town_5|Джелкала
+p_town_6|Правен
+p_town_7|Уксхал
+p_town_8|Рейвадин
+p_town_9|Кудан
+p_town_10|Тульга
+p_town_11|Курав
+p_town_12|Верчег
+p_town_13|Ривачег
+p_town_14|Хальмар
+p_town_15|Ялен
+p_town_16|Дирим
+p_town_17|Ичамур
+p_town_18|Нарра
+p_town_19|Шариз
+p_town_20|Дуркуба
+p_town_21|Ахмеррад
+p_town_22|Барийе
+p_castle_1|Замок Кульмар
+p_castle_2|Замок Малаюрг
+p_castle_3|Замок Булуга
+p_castle_4|Замок Радогир
+p_castle_5|Замок Телрог
+p_castle_6|Замок Тилбот
+p_castle_7|Замок Сангеш
+p_castle_8|Замок Винкод
+p_castle_9|Замок Джамиш
+p_castle_10|Замок Альбурк
+p_castle_11|Замок Курин
+p_castle_12|Замок Чалбек
+p_castle_13|Замок Келредан
+p_castle_14|Замок Марас
+p_castle_15|Замок Эргеллон
+p_castle_16|Замок Альмерра
+p_castle_17|Замок Дистар
+p_castle_18|Замок Измирала
+p_castle_19|Замок Ирума
+p_castle_20|Замок Дерчиос
+p_castle_21|Замок Ибделес
+p_castle_22|Замок Унуздак
+p_castle_23|Замок Теварин
+p_castle_24|Замок Рейнди
+p_castle_25|Замок Рибелет
+p_castle_26|Замок Сенужда
+p_castle_27|Замок Риндьяр
+p_castle_28|Замок Грюнвальдер
+p_castle_29|Замок Нелаг
+p_castle_30|Замок Азуган
+p_castle_31|Замок Вейнкурд
+p_castle_32|Замок Кнударр
+p_castle_33|Замок Этроск
+p_castle_34|Замок Хрус
+p_castle_35|Замок Харингот
+p_castle_36|Замок Джельбег
+p_castle_37|Замок Драмуг
+p_castle_38|Замок Тульбук
+p_castle_39|Замок Слезк
+p_castle_40|Замок Юхгун
+p_castle_41|Замок Джамид
+p_castle_42|Замок Терамма
+p_castle_43|Замок Шарва
+p_castle_44|Замок Дюррин
+p_castle_45|Замок Караф
+p_castle_46|Замок Виях
+p_castle_47|Замок Самарра
+p_castle_48|Замок Барда
+p_village_1|Ярагар
+p_village_2|Бурглен
+p_village_3|Азгед
+p_village_4|Номар
+p_village_5|Кулум
+p_village_6|Эмирин
+p_village_7|Амир
+p_village_8|Хаен
+p_village_9|Бувран
+p_village_10|Мечин
+p_village_11|Дустурил
+p_village_12|Эмер
+p_village_13|Немеджа
+p_village_14|Сумбуджа
+p_village_15|Рибелет
+p_village_16|Шапешти
+p_village_17|Мазен
+p_village_18|Ульбурбан
+p_village_19|Ханун
+p_village_20|Узлум
+p_village_21|Базек
+p_village_22|Шулус
+p_village_23|Ильвия
+p_village_24|Рульди
+p_village_25|Дашбига
+p_village_26|Пагундур
+p_village_27|Глунмар
+p_village_28|Таш Кулун
+p_village_29|Буиллин
+p_village_30|Рувар
+p_village_31|Амбин
+p_village_32|Тосдар
+p_village_33|Рулунс
+p_village_34|Элердаг
+p_village_35|Фиричан
+p_village_36|Джайек
+p_village_37|Ада Кулун
+p_village_38|Ибиран
+p_village_39|Реверан
+p_village_40|Сарен
+p_village_41|Дуган
+p_village_42|Дириг Абан
+p_village_43|Загуш
+p_village_44|Пешми
+p_village_45|Булугур
+p_village_46|Феднер
+p_village_47|Эспиш
+p_village_48|Вейдар
+p_village_49|Тисмирр
+p_village_50|Каринди
+p_village_51|Джельбег
+p_village_52|Амашк
+p_village_53|Баланли
+p_village_54|Чид
+p_village_55|Тадсамеш
+p_village_56|Фенада
+p_village_57|Ушкуру
+p_village_58|Везин
+p_village_59|Думар
+p_village_60|Тальберил
+p_village_61|Альделен
+p_village_62|Ребаш
+p_village_63|Урудуна
+p_village_64|Сериндьяр
+p_village_65|Иенда
+p_village_66|Фиснар
+p_village_67|Тебанда
+p_village_68|Ибделес
+p_village_69|Квинн
+p_village_70|Диригсен
+p_village_71|Чибтин
+p_village_72|Эльберл
+p_village_73|Чаеза
+p_village_74|Айик
+p_village_75|Булабан
+p_village_76|Кедельк
+p_village_77|Ризи
+p_village_78|Саримиш
+p_village_79|Истиньяр
+p_village_80|Вайджег
+p_village_81|Одасан
+p_village_82|Ялиб
+p_village_83|Гизим
+p_village_84|Челез
+p_village_85|Измирала
+p_village_86|Слезк
+p_village_87|Удиньяд
+p_village_88|Тульбук
+p_village_89|Юхгун
+p_village_90|Джамиш
+p_village_91|Аюн Ассуади
+p_village_92|Диббаин
+p_village_93|Квалит
+p_village_94|Мазиг
+p_village_95|Тамнух
+p_village_96|Хабба
+p_village_97|Сехтем
+p_village_98|Мавити
+p_village_99|Фишара
+p_village_100|Лкюбаюл
+p_village_101|Юзга
+p_village_102|Шибал Зумр
+p_village_103|Мижает
+p_village_104|Тажинат
+p_village_105|Ааб
+p_village_106|Хаваха
+p_village_107|Унрия
+p_village_108|Мит Нун
+p_village_109|Тилимсал
+p_village_110|Рушдиг
+p_salt_mine|Соляные копи
+p_four_ways_inn|Таверна 'На Перепутьи'
+p_test_scene|тестовая сцена
+p_battlefields|поля сражений
+p_dhorak_keep|Крепость Дорак
+p_training_ground|Учебная площадка
+p_training_ground_1|Учебный лагерь
+p_training_ground_2|Учебный лагерь
+p_training_ground_3|Учебный лагерь
+p_training_ground_4|Учебный лагерь
+p_training_ground_5|Учебный лагерь
+p_steppe_bandit_spawn_point|степи
+p_taiga_bandit_spawn_point|тундра
+p_forest_bandit_spawn_point|леса
+p_mountain_bandit_spawn_point|горная местность
+p_sea_raider_spawn_point_1|побережье
+p_sea_raider_spawn_point_2|побережье
+p_desert_bandit_spawn_point|пустыни

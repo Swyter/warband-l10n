@@ -1196,7 +1196,7 @@ itm_items_end_pl|Fin des objets
 ; itm_running_boots_pl|Running Boots
 ; itm_power_gloves|Power Gloves
 ; itm_power_gloves_pl|Power Gloves
-; itm_invulnerable_helmet|Invulnerable Helmet
+itm_invulnerable_helmet|Casque D'invulnirabilité
 ; itm_invulnerable_helmet_pl|Invulnerable Helmet
 ; itm_kicking_boots|Kicking Boots
 ; itm_kicking_boots_pl|Kicking Boots

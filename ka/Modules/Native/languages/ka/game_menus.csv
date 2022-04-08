@@ -1,60 +1,60 @@
-; menu_start_game_0|Welcome, adventurer, to Mount and Blade: Warband. Before beginning the game you must create your character. Remember that in the traditional medieval society depicted in the game, war and politics are usually dominated by male members of the nobility. That does not however mean that you should not choose to play a female character, or one who is not of noble birth. Male nobles may have a somewhat easier start, but women and commoners can attain all of the same goals -- and in fact may have a much more interesting if more challenging early game.
+menu_start_game_0|კეთილი იყოს თქვენი მობრძანება Mount and Blade: Warband-ში . სანამ თამაშს დაიწყებდეთ თქვენ უნდა შექმნათ თქვენი პერსონაჟი. დაიმახსოვრეთ რომ ტრადიციულ შუასაუკუნოებრივ საზოგადოებაში , რომელიც ამ თამაშში არის აღწერილი , ომი და პოლიტიკა ძირითადად დომინირებულია მამრობითი სქესის წარმომადგენელი თავადებით. მიუხედავად ამ ფაქტისა , თქვენ არავინ გართმევთ მდედრობითი სქესის პერსონაჟით თამაშის უფლებას . მამაკაცი თავადებისთვის თამაშის დაწყება შედარებით ადვილია ვიდრე მდედრებისათვის , თუმცა მდედრი პერსონაჟით თამაში გაცილებით საინტერესო და დაბრკოლებებით აღსავსეა.
 mno_continue|გაგრძელება...
 mno_go_back|უკან დაბრუნება
-; menu_start_phase_2|You hear about Calradia, a land torn between rival kingdoms battling each other for supremacy, a haven for knights and mercenaries,  cutthroats and adventurers, all willing to risk their lives in pursuit of fortune, power, or glory... In this land which holds great dangers and even greater opportunities, you believe you may leave your past behind and start a new life. You feel that finally, you hold the key of your destiny in your hands, free to choose as you will, and that whatever course you take, great adventures will await you. Drawn by the stories you hear about Calradia and its kingdoms, you...
-mno_town_1|შეუერთდი პრავენის ქარავანს, შვედიის სამეფოში.
+menu_start_phase_2|შენ გსმენია ამბები კალრადიის შესახებ , ქვეყანა , რომელიც გაყოფილია ერთმანეთის მიმართ მტრულად განწყობილ სამეფოებს შორის , რომლებიც ერთმანეთს ებრძვიან დიდებისათვის . ეს ადგილი ნამდვილი სამოთხეა რაინდებისთვისა და დაქირავებული მებრძოლებისათვის , მკვლელებისა და მოგზაურებისათვის , რომლებიც მზად არიან დათმონ ყველაფერი თავიანთი ბედის ამოსაცნობად , ძალაუფლებისა და დიდების მოსაპოვებლად ... ეს ის ქვეყანაა რომელიც იტევს უდიდეს საფრთხეებს , მაგრამ ასევე იძლევა უდიდეს შესაძლებლობებს . შენ გჯერა რომ შეგიძლია შენი წარსულის უკან მიტოვება და ახალი ცხოვრების დაწყება , გრძნობ რომ როგორც იქნა შენთვითონვე განაგებ შენს ბედს და რომელი გზაც არ უნდა აირჩიო დიდებული თავგადასავლები გელოდება . კალრადიაზე მოსმენილი ისტორიებით გატაცებულმა შენ...
+mno_town_1|შეუერთდი პრავენის ქარავანს, სვადიის სამეფოში.
 mno_town_2|შეუერთდი რეივადინის ქარავანს, ვეგირების სამეფოში.
-mno_town_3|შეუერთდი ტულგას ქარავანს, ხერგიტ ხანნატში.
-mno_town_4|მიიღეთ გემი სარგოთიდან, ნორდის სამეფოში.
-mno_town_5|მიიღეთ გემი ჯელკალადან, როდოკის სამეფოში.
-mno_town_6|მიიღეთ გემი შარიზიდან, სარარდიდის სასულთნოში.
+mno_town_3|შეუერთდი ტულგას ქარავანს, ხერგიტთა სახანატოში.
+mno_town_4|ჩაჯექით სარგოთისკენ მიმავალ გემში, ნორდთა სამეფოში.
+mno_town_5|ჩაჯექით ჯელკალისკენ მიმავალ გემში, როდოკთა სამეფოში.
+mno_town_6|შეუერთდით შარიზისკენ მიმავალ ქარავანს , სარანიდების სასულთანოში.
 menu_start_game_3|აირჩიეთ სცენარი:
-menu_tutorial|თქვენ მიდიხარ ადგილას, სადაც ადგილობრივები იარაღით სწავლობენ. აქ შეგიძლიათ პრაქტიკაში შეიძინოთ საბრძოლო უნარები.
+menu_tutorial|თქვენ მიუახლოვდით ველს , სადაც ადგილობრივები ვარჯიშობენ ორთაბრძოლაში , თქვენ შეგიძლიათ მათ შეუერთდეთ რათა თქვენი ორთაბრძოლის გამოცდილება აიმაღლოთ.
 mno_go_back_dot|უკან დაბრუნება
-menu_reports|პერსონაჟის დიდება: {reg5}^საპატიო რეიტინგი: {reg6}^პარტიის მორალი: {reg8}^პარტიის ზომის ლიმიტი: {reg7}^
+menu_reports|პერსონაჟის დიდება: {reg5}^საპატიო რეიტინგი: {reg6}^ლაშქრის მორალი: {reg8}^ლაშქრის ზომის ლიმიტი: {reg7}^
 mno_view_character_report|პერსონაჟის ანგარიშის ნახვა.
-mno_view_party_size_report|პარტიის ზომის ანგარიშის ნახვა.
-mno_view_npc_mission_report|იხილეთ თანდართული მისიის მოხსენება.
+mno_view_party_size_report|ლაშქრის ზომის ანგარიშის ნახვა.
+mno_view_npc_mission_report|იხილეთ თქვენი თანმხლების მისიის მოხსენება.
 mno_view_weekly_budget_report|ყოველკვირეული ბიუჯეტის ანგარიშის ნახვა.
-mno_view_morale_report|პარტიის მორალის ანგარიშის ნახვა.
+mno_view_morale_report|ლაშქრის მორალის ანგარიშის ნახვა.
 mno_lord_relations|ცნობილ ლორდთა სიის ნახვა.
 mno_courtship_relations|ქორწილის ურთიერთობების ნახვა.
 mno_view_faction_relations_report|ფრაქციის ურთიერთობების ანგარიშის ნახვა.
 mno_resume_travelling|მოგზაურობის გაგრძელება.
-; menu_custom_battle_scene|(NO TRANS)
-menu_custom_battle_end|ბრძოლა დასრულდა. {s1} თქვენი მხარეს მოკლეს {reg5} მტრებმა და დაიკარგნენ {reg6} ჯარების ბრძოლა დასრულდა. თქვენ მოკალით {reg7} მამაკაცი ბრძოლაში.
+menu_custom_battle_scene|(არაფერი)
+menu_custom_battle_end|ბრძოლა დასრულდა. {s1} თქვენმა მხარემ მოკლა {reg5} მტერი და დაკარგა {reg6} მებრძოლი ბრძოლისას. თქვენ მოკალით {reg7} მებრძოლი .
 menu_start_game_1|აირჩიეთ თქვენი გმირის სქესი.
 mno_start_male|მამაკაცი
 mno_start_female|ქალი
 menu_start_character_1|თქვენ დაიბადეთ წლების წინ, შორეულ მიწებზე. მამათქვენი იყო...
 mno_start_noble|გაღატაკებული დიდგვაროვანი.
-mno_start_merchant|მოგზაური ვაქჭარი.
+mno_start_merchant|მოგზაური ვაჭარი.
 mno_start_guard|ვეტერანი მებრძოლი
 mno_start_forester|მონადირე.
 mno_start_nomad|სტეპის მოხეტიალე.
 mno_start_thief|ქურდი.
-menu_start_character_2|{s10}^^ თქვენ დაიწყეთ გაცნობა მსოფლიოსი როდესაც თქვენ შეგეძლოთ სიარული და საუბარი...თქვენს ადრეულ ცხოვრებას გაატარებთ
-mno_page|გვერდზე დიდგვაროვანთა სასამართლოში.
-mno_apprentice|ხელოსნის სტაჟიორი.
+menu_start_character_2|{s10}^^ თქვენ დაიწყეთ მსოფლიოს შესწავლა ჯერ კიდევ მაშინ ,როდესაც თქვენ სიარული და ლაპარაკი ახალი დაწყებული გქონდათ...თქვენი ადრეული ცხოვრება გაატარეთ როგორც...
+mno_page|მსახური დიდგვაროვანთა კარზე.
+mno_apprentice|ხელოსნის მოსწავლე.
 mno_stockboy|კონსულტანტი
-mno_urchin|ქუჩის ბავშვი
+mno_urchin|ქუჩის ბავშვი.
 mno_nomad|ველის შვილი.
-menu_start_character_3|{s11}^^შემდეგ როდესაც იყავი ახალგაზრდა ცხოვრება შეიცვალა.. შენ გინდა გახდე
-mno_squire|ცხენოსანი
-mno_lady|ქალბატონს ელოდება
-mno_troubadour|მუსიკოსი
+menu_start_character_3|{s11}^^შემდეგ , როგორც ახალგაზრდა ზრდასრულმა პიროვნებამ , შენ გადაწყვიტე გამხდარიყავი...
+mno_squire|ქვეშევრდომი.
+mno_lady|გასათხოვარი ქალბატონი.
+mno_troubadour|მუსიკოსი.
 mno_student|უნივერსიტეტის სტუდენტი.
-; mno_peddler|A goods peddler.
-; mno_craftsman|A smith.
-; mno_poacher|A game poacher.
+mno_peddler|სურსათის გამყიდველი.
+mno_craftsman|მჭედელი.
+mno_poacher|კანონდამრღვევი მონადირე.
 menu_start_character_4|{s12}^^მაგრამ მალე ყველაფერი შეიცვალა და გადაწყვიტე გამხდარიყავი ავანტიურისტი..
-mno_revenge|შურისძიება.
-mno_death|საყვარელი ადამიანის დაკარგვა.
-mno_wanderlust|მოგზაურობა
-mno_disown|სახლიდან გამოძევებული
-mno_greed|ფული და ძალაუფლება.
+mno_revenge|შურისძიებამ.
+mno_death|საყვარელი ადამიანის დაკარგვამ.
+mno_wanderlust|მოგზაურობის წყურვილმა.
+mno_disown|სახლიდან გამოძევებამ.
+mno_greed|ფულისა და ძალაუფლების წყურვილმა.
 menu_choose_skill|{s13}
-mno_begin_adventuring|გახდი ავანტიურისტი და მართე შენი ბედი
+mno_begin_adventuring|გახდი მოგზაური და გამართე შენი ბედი.
 menu_past_life_explanation|{s3}
 mno_view_next|{s5}
 menu_morale_report|{s1}
@@ -65,22 +65,22 @@ menu_character_report|{s9}
 menu_party_size_report|{s1}
 menu_faction_relations_report|{s1}
 menu_camp|შეიქმნა შენი ბანაკი.. რა გინდა რომ გააკეთო?
-; mno_camp_action|Take an action.
-mno_camp_wait_here|დაველოდოთ აქ გარკვეული დროის განმავლობაში.
+mno_camp_action|მოქმედების შესრულება.
+mno_camp_wait_here|დაცდა რამოდენიმე ხნით.
 mno_camp_cheat|ჩეთის მენიუ
 menu_camp_cheat|აირჩიე ჩეტ კოდი
 mno_camp_cheat_find_item|ნივთის პოვნა
 menu_camp_action|შეარჩიეთ ქმედება:
-mno_camp_recruit_prisoners|დაპატიჟე ზოგიერთი პატიმარი თქვენს ჯგუფში
-mno_action_read_book|აირჩიე წასაკითხი წიგნი
-mno_action_rename_kingdom|გადაარქვი სახელი შენს სახელმწიფოს
-; mno_action_retire|Retire from adventuring.
-mno_camp_action_4|უკან ბანიკის მენიუში
+mno_camp_recruit_prisoners|დაპატიჟე ზოგიერთი პატიმარი თქვენს ლაშქარში.
+mno_action_read_book|აირჩიე წიგნი წასაკითხად.
+mno_action_rename_kingdom|გადაარქვი სახელი შენს სახელმწიფოს.
+mno_action_retire|შეწყვიტე მოგზაურობა.
+mno_camp_action_4|უკან ბანაკის მენიუში.
 menu_camp_recruit_prisoners|შენ პატიმრებს თავისუფლებას სთავაზობ თუ ისინი დათანხმდებიან რომ გახდნენ შენი მებრძოლები. {s18}
-mno_camp_recruit_prisoners_accept|აიყვანეთ ისინი
-mno_camp_recruit_prisoners_reject|უარყავით ისინი
+mno_camp_recruit_prisoners_accept|აიყვანეთ ისინი.
+mno_camp_recruit_prisoners_reject|უარყავით ისინი.
 menu_camp_no_prisoners|შენ არ გყავს პატიმრები, რომ მიიღო.
-menu_camp_action_read_book|აირჩიე წასაკითხი წიგნი
+menu_camp_action_read_book|აირჩიე წასაკითხი წიგნი.
 mno_action_read_book_1|{s1}.
 mno_action_read_book_2|{s1}.
 mno_action_read_book_3|{s1}.
@@ -89,103 +89,103 @@ mno_action_read_book_5|{s1}.
 mno_action_read_book_6|{s1}.
 mno_action_read_book_7|{s1}.
 menu_camp_action_read_book_start|{s1}
-menu_retirement_verify|შენ დღეს ხარ..{reg0}. შენი მიმდინარე იღბალი{reg1}.დარჭმუნებული ხარ რომ გინდა გადადგეს?
+menu_retirement_verify|ამჟამად არის {reg0} დღე გასული შენი მოგზაურობის დასაწყისიდან. შენი ბედი წარმოადგენს {reg1}. დარწმუნებული ბრძანდებით რომ გსურთ მოგზაურობის მიტოვება?
 mno_retire_yes|დიახ.
 mno_retire_no|არა.
-; menu_end_game|The decision is made, and you resolve to give up your adventurer's life and settle down. You sell off your weapons and armour, gather up all your money, and ride off into the sunset....
-mno_end_game_bye|დამშვიდობება.
-menu_cattle_herd|თქვენ გხვდებათ მსხვილფეხა საქონელი
-mno_cattle_drive_away|პირუტყვთან ერთად გამგზავრება
-mno_cattle_stop|მოიყვანეთ ნახირი
-mno_cattle_kill|დახოცვა რამოდენიმე ცხოველის
-mno_leave|დატოვე.
+menu_end_game|გადაწყვეტილება მიღებულია, შენ გადაწყვიტე რომ დასახლდე სადმე და მიატოვო მოგზაურის ცხოვრება , გაყიდე ყველაზე ძვირად ღირებული იარაღები და აბჯარი და გაეშურე მზის ჩასვლისას ....
+mno_end_game_bye|ნახვამდის.
+menu_cattle_herd|თქვენ გხვდებათ მსხვილფეხა საქონელი.
+mno_cattle_drive_away|პირუტყვის წინ გარეკვა.
+mno_cattle_stop|პირუტყვის შეჩერება.
+mno_cattle_kill|დახოცვა რამოდენიმე ცხოველის.
+mno_leave|წამოსვლა.
 menu_cattle_herd_kill|რამდენი ცხოველის დახოცვა გსურთ?
 mno_cattle_kill_1|ერთი.
 mno_cattle_kill_2|ორი.
 mno_cattle_kill_3|სამი.
 mno_cattle_kill_4|ოთხი.
 mno_cattle_kill_5|ხუთი.
-menu_arena_duel_fight|შენ და შენი მოწინამდეგე ემზადებით დუელში
-menu_simple_encounter|{s2}შენ გაქვს {reg10} ბრძოლაში ჩაბმვა {reg11}.
-mno_encounter_attack|შეუტიე მტერს
-mno_encounter_order_attack|შენს გარეშე ბრძოლა
+menu_arena_duel_fight|შენ და შენი მოწინამდეგე ემზადებით დუელისთვის.
+menu_simple_encounter|{s2} შენ გყავს {reg10} მებრძოლი , მოწინააღმდეგეს კი {reg11} .
+mno_encounter_attack|შეუტიე მტერს.
+mno_encounter_order_attack|უბრძანე ლაშქარს შენს გარეშე ბრძოლა.
 mno_encounter_leave|დატოვე.
-mno_encounter_retreat|უკან დახევა,დატოვე რამდენიმე ჯარისკაცი რადგან დაგიცვან შენ
-mno_encounter_surrender|დანებება
-menu_encounter_retreat_confirm|როგორც ჯგუფის უმაღლესი ტაქტიკის უნარი, ({reg2}), {reg3?თქვენ გამოიმუშავეთ:{s3} devises}  გეგმა რომელიც საშუალობას გაძლევს გაექცე შენს ცხოვრებას,მაგრამ თქვენ უნდა დატოვოთ {reg4} ჯარი რადგან შეჩერდეს მტრის დევნა
-mno_leave_behind|წადი. ამ მამაკაცის თავგანწირვა გაადარჩენს დანარჩენს
-mno_dont_leave_behind|არა..ჩვენ არავის დავტოვებთ 
-; menu_encounter_retreat|You tell {reg4} of your troops to hold the enemy while you retreat with the rest of your party.
-; menu_order_attack_begin|Your troops prepare to attack the enemy.
-; mno_order_attack_begin|Order the attack to begin.
-; mno_call_back|Call them back.
-; menu_order_attack_2|{s4}^^Your casualties: {s8}^^Enemy casualties: {s9}
-; mno_order_attack_continue|Order your soldiers to continue the attack.
-; mno_order_retreat|Call your soldiers back.
-; menu_battle_debrief|{s11}^^Your Casualties:{s8}{s10}^^Enemy Casualties:{s9}
-; menu_total_victory|You shouldn't be reading this... {s9}
+mno_encounter_retreat|უკან დაიხიე , რამოდენიმე ჯარისკაცი კი დატოვე ველზე რათა შეაკავონ მტერი.
+mno_encounter_surrender|დანებება.
+menu_encounter_retreat_confirm|როგორც ჯგუფის უმაღლესი ტაქტიკის უნარის მქონე ({reg2}), {reg3?თქვენ გამოიმუშავეთ:{s3} devises}  გეგმა , რომელიც სიცოცხლეს შეგინარჩუნებთ ,მაგრამ თქვენ უნდა დატოვოთ {reg4} მებრძოლი რათა მტერი შეაკავონ.
+mno_leave_behind|გააგრძელე , ამ მებრძოლების თავგანწირვა დანარჩენებს გადაარჩენს.
+mno_dont_leave_behind|არა..ჩვენ არავის არ გავწირავთ !
+menu_encounter_retreat|შენ უბრძანე {reg4} შენს მებრძოლს რომ დარჩნენ ველზე მტრის შესაკავებლად , ამასობაში შენ და დანარჩენი ლაშქარი უკან იხევთ.
+menu_order_attack_begin|შენი ლაშქარი შესატევად ემზადება.
+mno_order_attack_begin|გაეცი შეტევის ბრძანება.
+mno_call_back|მოუხმე უკან.
+menu_order_attack_2|{s4}^^შენი მსხვერპლი: {s8}^^მტრის მსხვერპლი: {s9}
+mno_order_attack_continue|უბრძანე შენს მებრძოლებს რომ განაგრძონ შეტევა.
+mno_order_retreat|მოუხმე შენს ლაშქარს უკან.
+menu_battle_debrief|{s11}^^შენი მსხვერპლი:{s8}{s10}^^მტრის მსხვერპლი:{s9}
+menu_total_victory|ამას არ უნდა კითხულობდე... {s9}
 menu_enemy_slipped_away|{s17}
 menu_permanent_damage|{s0}
 mno_s0|{s0}
-; menu_pre_join|You come across a battle between {s2} and {s1}. You decide to...
-; mno_pre_join_help_attackers|Move in to help the {s2}.
-; mno_pre_join_help_defenders|Rush to the aid of the {s1}.
-; mno_pre_join_leave|Don't get involved.
-; menu_join_battle|You are helping the {s2} against the {s1}. You have {reg10} troops fit for battle against the enemy's {reg11}.
-; mno_join_attack|Charge the enemy.
-; mno_join_order_attack|Order your troops to attack with your allies while you stay back.
+menu_pre_join|შენ შეესწარი {s2} სა და {s1} ს შორის ბრძოლას , შენ გადაწყვიტე რომ...
+mno_pre_join_help_attackers|დაეხმარო {s2} ს .
+mno_pre_join_help_defenders|დაეხმარო {s1}ს.
+mno_pre_join_leave|არ ჩაერიო.
+menu_join_battle|შენ ეხმარები  {s2}ს  {s1}-ის წინააღმდეგ. თქვენ გყავთ {reg10} მებრძოლი , მათ კი {reg11}.
+mno_join_attack|შეუტიე მტერს.
+mno_join_order_attack|უბრძანე შენს ლაშქარს რომ დაეხმარონ მოკავშირეებს შენს გარეშე.
 mno_join_leave|დატოვე.
-; menu_join_order_attack|{s4}^^Your casualties: {s8}^^Allies' casualties: {s9}^^Enemy casualties: {s10}
-; menu_zendar|You enter the town of Zendar.
-mno_zendar_enter| 
-; mno_zendar_enter_door|Door to the town center.
-mno_zendar_tavern| 
-; mno_zendar_tavern_door|Door to the tavern.
-mno_zendar_merchant| 
-; mno_zendar_merchant_door|Door to the merchant.
-mno_zendar_arena| 
-; mno_zendar_arena_door|Door to the arena.
-mno_town_1_leave| 
-; menu_salt_mine|You enter the salt mine.
-; mno_enter|Enter.
-; menu_four_ways_inn|You arrive at the Four Ways Inn.
-; menu_test_scene|You enter the test scene.
-; menu_dhorak_keep|You enter the Dhorak Keep
-; menu_join_siege_outside|{s1} has come under siege by {s2}.
-; mno_approach_besiegers|Approach the siege camp.
-; mno_pass_through_siege|Pass through the siege lines and enter {s1}.
-; menu_cut_siege_without_fight|The besiegers let you approach the gates without challenge.
-; menu_besiegers_camp_with_allies|{s1} remains under siege. The banners of {s2} fly above the camp of the besiegers, where you and your men are welcomed.
-; mno_talk_to_siege_commander|Request a meeting with the commander.
-; mno_join_siege_with_allies|Join the next assault.
-; mno_join_siege_stay_back|Order your soldiers to join the next assault without you.
-; menu_castle_outside|You are outside {s2}.{s11} {s3} {s4}
-; mno_approach_gates|Approach the gates and hail the guard.
-; mno_town_sneak|Disguise yourself and try to sneak into the {s7}
-; mno_castle_start_siege|Besiege the {reg6?town:castle}.
+menu_join_order_attack|{s4}^^შენი მსხვერპლი: {s8}^^მოკავშირეთა მსხვერპლი: {s9}^^მტრის მსხვერპლი: {s10}
+menu_zendar|შენ შედიხარ ზენდარის ქალაქში.
+mno_zendar_enter .. ..= .." .."
+mno_zendar_enter_door|კარი ქალაქის ცენტრისაკენ.
+mno_zendar_tavern... ... =... "... "
+mno_zendar_tavern_door|ტავერნაში შესასვლელი კარი.
+mno_zendar_merchant ... ...= ..." ..."
+mno_zendar_merchant_door|ვაჭრისაკენ მიმავალი კარი.
+mno_zendar_arena ... ...= ..." ..."
+mno_zendar_arena_door|არენაში მიმავალი კარი.
+mno_town_1_leave ... ...= ..." ..."
+menu_salt_mine|შენ შეხვედი მარილის საბადოში.
+mno_enter|შესვლა.
+menu_four_ways_inn|შენ მიხვედი სასტუმროში სახელად "ოთხი გზა".
+menu_test_scene|შენ შეხვედი სატესტო სცენაში.
+menu_dhorak_keep|შენ შეხვედი დორაკის ციხეში.
+menu_join_siege_outside|{s1} ალყაშია მოქცეული {s2}-ის მიერ.
+mno_approach_besiegers|მიუახლოვდი ალყის ბანაკს.
+mno_pass_through_siege|გაცდი ჯარს და შედი {s1}-ში
+menu_cut_siege_without_fight|ალყის შემომრტყმელებმა მოგცეს უფლება მიახლოვების.
+menu_besiegers_camp_with_allies|{s1} ისევ ალყაშია.{s2}-ის დროშები ფრიალებს ბანაკის თავზე , სადაც შენ და შენი ლაშქარი მიღებულია.
+mno_talk_to_siege_commander|მოითხოვე შეხვედრა მეთაურთან.
+mno_join_siege_with_allies|შეუერთდი შემდეგ შეტევას.
+mno_join_siege_stay_back|უბრძანე შენს ლაშქარს რომ შეუერთდნენ შეტევას შენს გარეშე.
+menu_castle_outside|{s2}.{s11} {s3} {s4}-ის გარეთ ხარ.
+mno_approach_gates|მიახლოვდი ჭიშკარს და მიესალმე მცველებს.
+mno_town_sneak|ეცადე შეინიღბო და შეიპარო {s7}-ის შიგნით.
+mno_castle_start_siege|შემოარტყი ალყა {reg6?town:castle}-ს.
 mno_castle_leave|დატოვე.
-; menu_castle_guard|You approach the gate. The men on the walls watch you closely.
-; mno_request_shelter|Request entry to the castle.
-; mno_request_meeting_commander|Request a meeting with someone.
+menu_castle_guard|შენ მიუახლოვდი ჭიშკარს. კედელზე მდგომი მცველები ყურადღებით გაკვირდებიან.
+mno_request_shelter|მოითხოვე სასახლეში შესვლა.
+mno_request_meeting_commander|მოითხოვე ვინმესთან შეხვედრა.
 mno_guard_leave|დატოვე.
-; menu_castle_entry_granted|After a brief wait, the guards open the gates for you and allow your party inside.
-; menu_castle_entry_denied|The lord of this castle has forbidden you from coming inside these walls, and the guard sergeant informs you that his men will fire if you attempt to come any closer.
-; menu_castle_meeting|With whom do you want to meet?
+menu_castle_entry_granted|პატარა ლოდინის შემდგომ , მცველებმა ჭიშკარი გააღეს და შენი ლაშქარი შემოუშვეს.
+menu_castle_entry_denied|ამ სასახლის ლორდი არ გაძლევს კედლებს შიგნით შესვლის უფლებას , მცველთა სერჟანტი კი გაცნობებს რომ თუ მიახლოვებას შეეცდებით ცეცხლს გახსნიან.
+menu_castle_meeting|ვისთან გსურს შეხვედრა?
 mno_guard_meet_s5|{s5}.
-; mno_forget_it|Forget it.
-; menu_castle_meeting_selected|Your request for a meeting is relayed inside, and finally {s6} appears in the courtyard to speak with you.
-; menu_castle_besiege|You are laying siege to {s1}. {s2} {s3}
-; mno_siege_request_meeting|Call for a meeting with the castle commander.
-; mno_wait_24_hours|Wait until tomorrow.
-; mno_castle_lead_attack|Lead your soldiers in an assault.
-; mno_attack_stay_back|Order your soldiers to attack while you stay back...
-; mno_build_ladders|Prepare ladders to attack the walls.
-; mno_build_siege_tower|Build a siege tower.
-; mno_lift_siege|Abandon the siege.
-; menu_siege_attack_meets_sally|The defenders sally out to meet your assault.
+mno_forget_it|დაივიწყე.
+menu_castle_meeting_selected|შენი შეხვედრის მოთხოვნა ასრულდა , და როგორც იქნა {s6}-ც გამოჩნდა სასახლის ეზოში .
+menu_castle_besiege|შენ ალყას არტყავ {s1}. {s2} {s3}-ს
+mno_siege_request_meeting|მოითხოვე შეხვედრა სასახლის მეთაურთან.
+mno_wait_24_hours|დაიცადე ხვალამდე.
+mno_castle_lead_attack|გაუძეხი შენს ლაშქარს შესატევად.
+mno_attack_stay_back|უბრძანე შენს ლაშქარს შენს გარეშე შეტევა.
+mno_build_ladders|მოამზადე კიბეები კედლების შესატევად.
+mno_build_siege_tower|ააშენე ალყის კოშკურა.
+mno_lift_siege|შეწყვიტე ალყა.
+menu_siege_attack_meets_sally|მცველები გარეთ გამოვიდნენ შენს მოსაგერიებლად.
 menu_castle_besiege_inner_battle|{s1}
-; menu_construct_ladders|As the party member with the highest Engineer skill ({reg2}), {reg3?you estimate:{s3} estimates} that it will take {reg4} hours to build enough scaling ladders for the assault.
-; mno_build_ladders_cont|Do it.
+menu_construct_ladders|როგორც ყველაზე გამოცდილი ინჟინერი ლაშქარში ({reg2}), {reg3?შენ გამოითვალე:{s3}-მ გამოითვალა} რომ კიბეების აშენებას დასჭირდება {reg4} საათი.
+mno_build_ladders_cont|გააკეთე ეს.
 ; menu_construct_siege_tower|As the party member with the highest Engineer skill ({reg2}), {reg3?you estimate:{s3} estimates} that building a siege tower will take {reg4} hours.
 ; mno_build_siege_tower_cont|Start building.
 ; menu_castle_attack_walls_simulate|{s4}^^Your casualties:{s8}^^Enemy casualties were: {s9}
@@ -209,47 +209,47 @@ menu_castle_besiege_inner_battle|{s1}
 ; menu_give_center_to_player|Your lord offers to extend your fiefs! {s1} sends word that he is willing to grant {s2} to you in payment for your loyal service, adding it to your holdings. What is your answer?
 mno_give_center_to_player_accept|მიიღეთ შეთავაზება
 ; mno_give_center_to_player_reject|Reject. You have no interest in holding {s2}.
-; menu_give_center_to_player_2|With a brief ceremony, you are officially confirmed as the new lord of {s2}{reg3? and its bound village {s4}:}. {reg3?They:It} will make a fine part of your fiefdom. You can now claim the rents and revenues from your personal estates there, draft soldiers from the populace, and manage the lands as you see fit. However, you are also expected to defend your fief and your people from harm, as well as maintaining the rule of law and order.
-; menu_oath_fulfilled|You had a contract with {s1} to serve him for a certain duration. Your contract has now expired. What will you do?
-; mno_renew_oath|Renew your contract with {s1} for another month.
-; mno_dont_renew_oath|Become free of your bond.
-; menu_siege_started_defender|{s1} is launching an assault against the walls of {s2}. You have {reg10} troops fit for battle against the enemy's {reg11}. You decide to...
+menu_give_center_to_player_2|თათბირის შემდგომ , თქვენ ოფიციალურად დასახელდით როგორც {s2}{reg3? ლორდი {s4}:} ასევე თქვენს განკარგულებაშია.. {reg3?ეს:ეს} წარმოადგენს თქვენს ქონებას.. თქვენ შეძლებთ შემოსავლის აღებას ბიზნესებიდან., მებრძოლების აყვანას და მიწების დარეგულირებას როგორც თქვენ მოგესურვებათ..მაგრამ , ისიც გაითვალისწინეთ , რომ ამ მიწების და მცხოვრები ხალხის დაცვაც თქვენი ვალდებულებაა.
+menu_oath_fulfilled|თქვენ გქონდათ კონტრაქთი {s1} -თან მსახურობის , კონტრაქტს ვადა გაუვიდა , რას იზავთ? 
+mno_renew_oath|განაახლეთ კონტრაქტი {s1} - თან კიდევ ერთი თვით.
+mno_dont_renew_oath|კონტრაქტისგან განთავისუფლება.
+menu_siege_started_defender|{s1} შეტევას ანხორციელებს {s2} - ზე. თქვენ გყავთ {reg10} მებრძოლი , მოწინააღმდეგეს კი {reg11}. თქვენ გადაწყვიტეთ რომ...
 mno_siege_defender_join_battle|შეურთდი ბრძოლას
-; mno_siege_defender_troops_join_battle|Order your men to join the battle without you.
-; menu_siege_join_defense|{s4}^^Your casualties: {s8}^^Allies' casualties: {s9}^^Enemy casualties: {s10}
+mno_siege_defender_troops_join_battle|უბრძანეთ თქვენს მებრძოლებს თქვენს გარეშე ბრძოლაში ჩაბმა.
+menu_siege_join_defense|{s4}^^თქვენი დანაკარგი: {s8}^^მოკავშირეთა დანაკარგი: {s9}^^მტრის დანაკარგი: {s10}
 menu_enter_your_own_castle|{s10}
 menu_village|{s10} {s12}^{s11}^{s6}{s7}
 mno_village_manage|მართეთ სოფელი
 mno_recruit_volunteers|გაწვევის მოხალისეები.
 mno_village_center|წადით სოფლის ცენტრში
-; mno_village_center_door|Door to the village center.
-; mno_village_buy_food|Buy supplies from the peasants.
-; mno_village_attack_bandits|Attack the bandits.
-; mno_village_wait|Wait here for some time.
-; mno_collect_taxes_qst|{reg5?Continue collecting taxes:Collect taxes} due to {s1}.
-; mno_train_peasants_against_bandits_qst|Train the peasants.
-; mno_village_hostile_action|Take a hostile action.
+mno_village_center_door|სოფლის ცენტრისაკენ მიმავალი კარი.
+mno_village_buy_food|შეიძინეთ პროდუქტი გლეხებისგან.
+mno_village_attack_bandits|შეუთიეთ ყაჩაღებს.
+mno_village_wait|დაიცადეთ ცოტა ხნით.
+mno_collect_taxes_qst|{reg5?გააგრძელეთ გადასახადების შეგროვება:Collect taxes} {s1}.
+mno_train_peasants_against_bandits_qst|გაწრთვენით გლეხები.
+mno_village_hostile_action|სიბოროტის ჩადენა.
 mno_village_leave|დატოვე...
-; menu_village_hostile_action|What action do you have in mind?
-; mno_village_take_food|Force the peasants to give you supplies.
-; mno_village_steal_cattle|Steal cattle.
-; mno_village_loot|Loot and burn this village.
+menu_village_hostile_action|რისი გაკეთება გსურთ?
+mno_village_take_food|გამოძალეთ პროდუქტი გლეხებს.
+mno_village_steal_cattle|საქონლის მოპარვა.
+mno_village_loot|დაწვით და დააყაჩაღეთ სოფელი.
 menu_recruit_volunteers|{s18}
-; mno_continue_not_enough_gold|I don't have enough money...
-; mno_recruit_them|Recruit them ({reg6} denars).
-; menu_village_hunt_down_fugitive_defeated|A heavy blow from the fugitive sends you to the ground, and your vision spins and goes dark. Time passes. When you open your eyes again you find yourself battered and bloody, but luckily none of the wounds appear to be lethal.
+mno_continue_not_enough_gold|არ მაქვს საკმარისი თანხა...
+mno_recruit_them|ლაშქარში აყვანა. ({reg6} დენარი).
+menu_village_hunt_down_fugitive_defeated|ძლიერი დარტყმა ბოროტმოქმედისაგან მიწაზე გაგდებთ , თქვენი ხილვა უარესდება და ნელ ნელა ბნელდება . დრო გადის, როდესაც თვალებს ახელთ და იღვიძებთ სისხლში ხართ ამოსვრილი , მაგრამ საიმედოდ არცერთი ჭრილობა არ არის სასიკვდილო .
 menu_village_infest_bandits_result|{s9}
-; menu_village_infestation_removed|In a battle worthy of song, you and your men drive the bandits out of the village, making it safe once more. The villagers have little left in the way of wealth after their ordeal, but they offer you all they can find.
-; mno_village_bandits_defeated_accept|Take it as your just due.
-; mno_village_bandits_defeated_cont|Refuse, stating that they need these items more than you do.
-; menu_center_manage|{s19}^{reg6?^^You are currently building {s7}. The building will be completed after {reg8} day{reg9?s:}.:}
-; mno_center_build_manor|Build a manor.
-; mno_center_build_fish_pond|Build a mill.
-; mno_center_build_watch_tower|Build a watch tower.
-; mno_center_build_school|Build a school.
-; mno_center_build_messenger_post|Build a messenger post.
-; mno_center_build_prisoner_tower|Build a prisoner tower.
-; menu_center_improve|{s19} As the party member with the highest engineer skill ({reg2}), {reg3?you reckon:{s3} reckons} that building the {s4} will cost you {reg5} denars and will take {reg6} days.
+menu_village_infestation_removed|სიმღერის ღირსს ბრძოლაში , თქვენმა ლაშქარმა ყაჩაღები განდევნა სოფლიდან , თქვენი წყალობით ხალხი ისევ უსაფრთხოდ გრძნობს თავს . სოფელში მცხოვრებმა ხალხმა გადაწყვიტეს პატივი გცეთ სხვადასხვა სურსათით მათი დახმარებისათვის.
+mno_village_bandits_defeated_accept|მიიღეთ ძღვენი .
+mno_village_bandits_defeated_cont|უარი თქვით , რადგან ეს სურსათი მათ უფრო სჭირდებათ , ვიდრე თქვენ.
+menu_center_manage|{s19}^{reg6?^^თქვენ ამჟამად აშენებთ {s7}. მშენებლობა დასრულდება {reg8} დღეში{reg9?s:}.:}
+mno_center_build_manor|სასახლის აშენება.
+mno_center_build_fish_pond|წისქვილის აშენება.
+mno_center_build_watch_tower|საგუშაგოს აშენება.
+mno_center_build_school|სკოლის აშენება.
+mno_center_build_messenger_post|ფოსტის აშენება,
+mno_center_build_prisoner_tower|სატუსაღოს აშენება.
+menu_center_improve|{s19} როგორც ყველაზე მაღალ დონეზე ინჟინერიის უნარის მცოდნემ ({reg2}), {reg3?თქვენ ვარაუდობთ , რომ:{s3} reckons}  {s4} - ის აშენება დაგიჯდებათ {reg5} დენარი და დასჭირდება {reg6} დღე.
 ; mno_improve_cont|Go on.
 ; mno_improve_not_enough_gold|I don't have enough money for that.
 menu_town_bandits_failed|{s4} {s5}

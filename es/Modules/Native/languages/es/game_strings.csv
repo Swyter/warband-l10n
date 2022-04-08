@@ -2818,24 +2818,24 @@ str_duel_starts_in_reg0_seconds|El duelo comienza en {reg0} segundos...
 str_s1_team|escuadrón {s1}
 str_warning_max_players_count_text2|La cantidad recomendada de jugadores para este modo es de 16 jugadores
 str_reason_high_price|¡Esto es demasiado caro!
-; str_return_later|I will come back later. 
-; str_recruit_first|It might be a good idea to hire some soldiers first. 
-; str_squad_size|Squad size:
-; str_squad_size_small|Small squads
-; str_squad_size_normal|Normal squads
-; str_squad_size_big|Big squads
-; str_squad_size_huge|Huge squads
-; str_additional_info_oim_dmitriy_eleonora|The Prince gave you the letter to the jailer {s3}, requesting an escort party. 
-; str_mamay_founded|Now that Mamai has joined you, it is time to find Barabash and find out all he knows.
-; str_kill_radzivall_and_get_pernach|Janush has managed to gain the mace. You must acquire this weapon as soon as possible. 
+str_return_later|Volveré más tarde.
+str_recruit_first|Podría ser buena idea contratar algunos soldados primero.
+str_squad_size|Tamaño del pelotón:
+str_squad_size_small|Pelotones pequeños
+str_squad_size_normal|Pelotones normales
+str_squad_size_big|Escuadrones grandes
+str_squad_size_huge|Escuadrones enormes
+str_additional_info_oim_dmitriy_eleonora|El príncipe os dio la carta para el carcelero {s3}, solicitando un equipo de escolta. 
+str_mamay_founded|Ahora que Mamai se ha unido a vos, es hora de encontrar a Barabash y descubrir lo que sabe.
+str_kill_radzivall_and_get_pernach|Janush ha logrado conseguir la maza. Debéis adquirir este arma lo antes posible. 
 ; str_talk_to_barabash_pernach|The mace is now yours. It is time to make a decision about Barabash.
 ; str_pernach_taken_fight_for_getman|Well, it looks like an average mace. Let's see how it can help...
 ; str_pernach_army_bonus|+50 to max army size
 ; str_ms_order_for_horse|Here you can buy an excellent horse.
 ; str_multi_disable_granades|Disable grenades
 ; str_squad_size_s0|Squad size: {s0}
-; str_granades_are_disallowed|Grenades are disallowed.
-; str_granades_are_allowed|Grenades are allowed.
+str_granades_are_disallowed|No se permite el uso de granadas
+str_granades_are_allowed|Se permite el uso de granadas
 ; str_oim_training_1_caption|Melee Offense:
 ; str_oim_training_1_text|That fence is blocking your way. Knock it over! You can attack in 4 different directions: move the mouse up, down, left, or right while clicking the left mouse button to execute an attack.
 ; str_oim_training_2_caption|Starting out:
@@ -2925,14 +2925,14 @@ str_reason_high_price|¡Esto es demasiado caro!
 ; str_accompany|Accompany
 ; str_reg2_s1_s2_s2|{reg2?{s1}, {s2}:{s2}}
 ; str_reg2_s1_and_s2_s2|{reg2?{s1} and {s2}:{s2}}
-; str_give_the_money_you_took_from_s9_to_s10|Give the money you took from {s9} to {s10}.
+str_give_the_money_you_took_from_s9_to_s10|Dale el dinero que te dio {s9} a {s10}.
 ; str_men|men
 ; str_you_have_taken_all_infantry|Haha! {Sir/Madam}, you've taken all my infantry already. Will there be anything else?
 ; str_you_have_taken_all_musketeer|Haha! {Sir/Madam}, you've taken all my musketeer already. Will there be anything else?
 ; str_you_have_taken_all_cavalry|Haha! {Sir/Madam}, you've taken all my cavalry already. Will there be anything else?
 ; str_price_there_known|{s1}, ({s2} is {reg1} thalers there)
 ; str_price_there_unknown|{s1}
-; str_your_troops_are_dying_because_of_illness|Your troops are dying because of a disease!
+str_your_troops_are_dying_because_of_illness|¡Un enfermedad está matando vuestras tropas! 
 ; str_has_died_because_of_illness|has died of {s4}.
 ; str_have_died_because_of_illness|have died of {s4}.
 ; str_ccoop_wave_reg1_is_coming_in_reg0_seconds|Wave {reg1} is coming in {reg0} seconds
@@ -2940,10 +2940,10 @@ str_reason_high_price|¡Esto es demasiado caro!
 ; str_ccoop_elite_wave_reg1_is_coming_in_reg0_seconds|Elite wave {reg1} (Tier {reg2}) is coming in {reg0} seconds
 ; str_prison_cart_hint|Destroy the prisoner cart or pass the round to rescue fallen comrades.
 ; str_wave_reg1|Wave {reg1}
-; str_veteran_wave_hint|Beware: Veterans have increased numbers and health and do %30 more damage!
+str_veteran_wave_hint|Ten cuidado: ¡ahora hay más veteranos, tienen más salud y hacen un 30% más de daño!
 ; str_elite_wave_hint|Beware: Elites have increased health and deliver more damage!
-; str_ask_for_help_to_respawn_hint|You'll respawn once your comrades destroy the prisoner cart or pass the current round.
-; str_wait_for_next_turn_to_respawn_hint|You will respawn in the next round.
+str_ask_for_help_to_respawn_hint|Reaparecerás una vez tus camaradas hayan destruido el carro del prisionero o la ronda actual haya finalizado.
+str_wait_for_next_turn_to_respawn_hint|Reaparecerás en la siguiente ronda.
 ; str_mp_cbf_squad_auto_ratio|Auto-balance captain squad ratio
 ; str_default|Default
 ; str_coop_open_chest|Open Chest
@@ -2967,19 +2967,19 @@ str_reason_high_price|¡Esto es demasiado caro!
 ; str_ccoop_dropping_item_on_ground|You didn't have enough free weapon slots, so it fell to the ground.
 ; str_ccoop_king_name|King {s0}
 ; str_ccoop_queen_name|Queen {s0}
-; str_javelin_bow|A bow that fires javelins
-; str_knockdown_mace|Knocks down everyone it hits
+str_javelin_bow|Un arco que lanza jabalinas
+str_knockdown_mace|Derriba a todo aquel que toca
 ; str_blood_drain_throwing_knives|Restore health to the thrower, with successful hits
 ; str_doom_javelins|Gradually deplete the health of those they impale
 ; str_disarming_throwing_axe|Disarms on impact
-; str_instakill_knife|Kills with even the slightest touch
+str_instakill_knife|Mata incluso con el más ligero roce
 ; str_backstabber|Kills any foe with a stab from behind
 ; str_weak_beserker_dart|Depletes health but provokes a dangerous frenzy
 ; str_team_change_dart|Causes the person it strikes to change their allegiance
 ; str_awesome_spear|Awesome
-; str_running_boots|Make you run faster
-; str_power_gloves|Make you hit harder
-; str_invulnerable_helmet|Keeps your head safer
+str_running_boots|Te permite correr más rápido
+str_power_gloves|Aumenta la fuerza de tus golpes
+str_invulnerable_helmet|Mantiene tu cabeza a salvo
 ; str_kicking_boots|Deliver a nasty kick
 ; str_restore_health_armour|Restores health gradually
 ; str_npc1_1|-Good with throwing and 1h^-Poor with 2h and crossbows

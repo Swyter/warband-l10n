@@ -1188,12 +1188,12 @@ itm_knockdown_mace_pl|Descuento de Maza
 ; itm_backstabber_pl|Backstabber
 ; itm_weak_beserker_dart|Weak Beserker Dart
 ; itm_weak_beserker_dart_pl|Weak Beserker Dart
-; itm_team_change_dart|Team Change Dart
-; itm_team_change_dart_pl|Team Change Dart
+itm_team_change_dart|Dardo cambia-equipo
+itm_team_change_dart_pl|Dardo cambia-equipo
 ; itm_awesome_spear|Awesome Spear
 ; itm_awesome_spear_pl|Awesome Spear
-; itm_running_boots|Running Boots
-; itm_running_boots_pl|Running Boots
+itm_running_boots|Botas de velocidad
+itm_running_boots_pl|Botas de velocidad
 ; itm_power_gloves|Power Gloves
 ; itm_power_gloves_pl|Power Gloves
 ; itm_invulnerable_helmet|Invulnerable Helmet

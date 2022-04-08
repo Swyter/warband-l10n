@@ -1,43 +1,43 @@
-; imod_plain|Plain %s
-; imod_cracked|Cracked %s
-; imod_rusty|Rusty %s
-; imod_bent|Bent %s
-; imod_chipped|Chipped %s
-; imod_battered|Battered %s
-; imod_poor|Poor %s
-; imod_crude|Crude %s
-; imod_old|Old %s
-; imod_cheap|Cheap %s
-; imod_fine|Fine %s
-; imod_well_made|Well Made %s
-; imod_sharp|Sharp %s
-; imod_balanced|Balanced %s
-; imod_tempered|Tempered %s
-; imod_deadly|Deadly %s
-; imod_exquisite|Exquisite %s
-; imod_masterwork|Masterwork %s
-; imod_heavy|Heavy %s
-; imod_strong|Strong %s
-; imod_powerful|Powerful %s
-; imod_tattered|Tattered %s
-; imod_ragged|Ragged %s
-; imod_rough|Rough %s
-; imod_sturdy|Sturdy %s
-; imod_thick|Thick %s
-; imod_hardened|Hardened %s
-; imod_reinforced|Reinforced %s
-; imod_superb|Superb %s
-; imod_lordly|Lordly %s
-; imod_lame|Lame %s
-; imod_swaybacked|Swaybacked %s
-; imod_stubborn|Stubborn %s
-; imod_timid|Timid %s
-; imod_meek|Meek %s
-; imod_spirited|Spirited %s
-; imod_champion|Champion %s
-; imod_fresh|Fresh %s
-; imod_day_old|Day-old %s
-; imod_two_day_old|Two Days-old %s
-; imod_smelling|Smelling %s
-; imod_rotten|Rotten %s
-; imod_large_bag|Large Bag of %s
+imod_plain|უბრალო%s
+imod_cracked|ჩამტვრეული %s
+imod_rusty|ჟანგიანი %s
+imod_bent|მოღუნული%s
+imod_chipped|გაშალაშინებული%s
+imod_battered|შელახული%s
+imod_poor|უხარისხო%s
+imod_crude|ნედლი%s
+imod_old|ძველი%s
+imod_cheap|იაფასიანი%s
+imod_fine|კარგი%s
+imod_well_made|კარგათ გაკეთებული%s
+imod_sharp|ბასრი%s
+imod_balanced|დაბალანსებული%s
+imod_tempered|ზომიერი%s
+imod_deadly|მომაკვდინებელი%s
+imod_exquisite|დახვეწილი%s
+imod_masterwork|ოსტატური%s
+imod_heavy|ღონიერი%s
+imod_strong|ძლიერი %s
+imod_powerful|მძლავრი %s
+imod_tattered|შებღალული%s
+imod_ragged|დაუმუშავებელი%s
+imod_rough|უხეში%s
+imod_sturdy|გამძლე%s
+imod_thick|სქელი%s
+imod_hardened|შემაგრებული%s
+imod_reinforced|შეკეთებული%s
+imod_superb|შესანიშნავი%s
+imod_lordly|მეფური%s
+imod_lame|უხარისხო%s
+imod_swaybacked|წელღრმა%s
+imod_stubborn|ჯიუტი%s
+imod_timid|თვინიერი%s
+imod_meek|დამჯერი%s
+imod_spirited|ენერგიული%s
+imod_champion|ჩემპიონი%s
+imod_fresh|ახალთახალი%s
+imod_day_old|ერთი დღის%s
+imod_two_day_old|ორი დღის%s
+imod_smelling|მყრალი%s
+imod_rotten|დამპალი%s
+imod_large_bag|დიდი აბგა%s

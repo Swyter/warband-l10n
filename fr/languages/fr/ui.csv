@@ -746,8 +746,8 @@ ui_validating_account|Validation du compte...
 ui_plase_enter_your_serial_key|Veuillez saisir votre numéro de série
 ui_texture_detail2|Finesse des textures :
 ui_antialiasing2|Anti-aliasing :
-; ui_napoleonic_key_does_not_exist|This mod requires the Napoleonic Wars DLC to play!
+ui_napoleonic_key_does_not_exist|Ce mod à besoin du DLC Napoleonic War pour jouer
 ; ui_delete_module_workshop|Are you sure you want to unsubscribe from this module?
 ; ui_delete_module|Are you sure you want to delete the module?
-; ui_delete_native_module|You cannot delete native mods.
+ui_delete_native_module|Vous ne pouvez pas supprimez les modes native.
 ; ui_incompatible_module|This server is incompatible with your current module. You can use the configuration utility to change module.

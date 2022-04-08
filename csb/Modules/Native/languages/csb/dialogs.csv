@@ -1,39 +1,39 @@
-dlga_award_fief_to_vassal:award_fief_to_vassal_defer|მე მინდა გადავწყვიტო ბატონის დანიშვნა, სანამ არ მივიღებ ჩემს სუბიექტურ გადაწყვეტილებას .
-dlga_award_fief_to_vassal_defer:close_window|როგორც გინდათ, {ბატონო/ქალბატონო}. თქვენ შეგიძლიათ მოგვიანებით გადაწყვიტოთ ეს საკითხი .
-dlga_award_fief_to_vassal_2:close_window|როგორც გინდათ, {ბატონო/ქალბატონო}. {reg6?I:{reg7?შენ:{s11}}} იქნება ახალი {reg3?ქალბატონი:ლორდი}  {s1}.
-dlga_event_triggered:center_captured_rebellion|{s1} არავის მართავს. ვის უნდა დაევალოს?
-dlga_center_captured_rebellion:center_captured_rebellion_2|{s11}. {s1}
-dlga_center_captured_rebellion:center_captured_rebellion_2.1|გთხოვთ  {s65}, მე მინდა მქონდეს  {s1} ჩემთვის. (მამულები: {s0})
-dlga_center_captured_rebellion:center_captured_rebellion_2.2|{s66}, უნდა გქონდეს {s1}  შენთის. (მამულები: {s0})
-dlga_center_captured_rebellion_2:close_window|ჰმმმ.ყველა უფლება, {მოთამაშე სახელი}.მე ვაფასებ თქვენს გადაწყვეტილებას  {reg6?I:{reg7?შენ:{s11}}} იქნები ახალი {reg3?ლეიდი:ლორდი} of {s1}.
-dlga_start:fighter_talk|გაუმარჯოს.ჩვენ ვასწავლით ჩვენს საბრძოლო უნარებს.შენ შეგიძლია ივარჯიშო.რატომ არ შემოგვიერთდი და ჩვენ შეგვიძლია გაჩვენოთ რამდენიმე ხრიკი.
-dlga_start:fighter_talk.1|რა გსურთ პრაქტიკაში?
-dlga_fighter_pretalk:fighter_talk|მითხარი, რა სახის პრაქტიკა გინდა.
-dlga_fighter_talk:fighter_talk_train_attack|მე მინდა თავდასხმის პრაქტიკა.
-dlga_fighter_talk:fighter_talk_train_parry|მე მინდა პრაქტიკა ჩემი იარაღით თავდაცვაში.
-dlga_fighter_talk:fighter_talk_train_combat|მოდი გავიაროთ რამდენიმე ორთაბრძოლის პრაქტიკა.
-dlga_fighter_talk:close_window|[დატოვე]
-dlga_fighter_talk_train_attack:fighter_talk_train_attack_2|კარგი. თავდასხმის ოთხი ძირითადი მიმართულებაა. ეს არის ოვერჰედის საქციელი, მარჯვენა ცვლა, მარცხენა სვინგი და დარტყმა. ახლა მე გეტყვით, რომელი მიმართულებით უნდა შეტევა და უნდა შეეცადოთ სწორი შეტევა. ^^ (მაუსის გადატანა დააჭირეთ მაუსის მარცხენა ღილაკს, რომ მიუთითოთ თავდასხმის მიმართულება. მაგალითად, ოვერჰედის თავდასხმის შესასრულებლად, მაუსის მარცხენა ღილაკზე დაჭერისას დააჭირეთ მაუსის მარცხენა ღილაკს. თქვენს ეკრანზე არსებული ხატები დაგეხმარებათ. სწორი მოქმედება.)
-dlga_fighter_talk_train_attack_2:close_window|დავიწყოთ მაშინ . მე მზად ვარ .
-dlga_fighter_talk_train_attack_2:fighter_pretalk|რეალურად მე მინდა რაღაც უფრო მეტი .
-dlga_fighter_talk_train_parry:fighter_talk_train_parry_2|ფარისგან განსხვავებით, იარაღით ბლოკირება მხოლოდ ერთი მიმართულებით მომდინარე შეტევების შეჩერებაა. მაგალითად, თუ დაბლოკავთ, თქვენ გადააფარეთ თავზე თავდასხმები, მაგრამ მაინც შეიძლება მოხვდეთ გვერდითი საქანელები ან თავდასხმები. ^^ (დაბლოკვისთვის უნდა დააჭიროთ მაუსის მარჯვენა ღილაკს).
+; dlga_award_fief_to_vassal:award_fief_to_vassal_defer|I wish to defer the appointment of a lord, until I take the counsel of my subjects
+; dlga_award_fief_to_vassal_defer:close_window|As you wish, {sire/my lady}. You may decide this matter at a later date.
+; dlga_award_fief_to_vassal_2:close_window|As you wish, {sire/my lady}. {reg6?I:{reg7?You:{s11}}} will be the new {reg3?lady:lord} of {s1}.
+; dlga_event_triggered:center_captured_rebellion|{s1} is not being managed by anyone. Whom shall I put in charge?
+; dlga_center_captured_rebellion:center_captured_rebellion_2|{s11}. {s1}
+; dlga_center_captured_rebellion:center_captured_rebellion_2.1|Please {s65}, I want to have {s1} for myself. (fiefs: {s0})
+; dlga_center_captured_rebellion:center_captured_rebellion_2.2|{s66}, you should have {s1} for yourself. (fiefs: {s0})
+; dlga_center_captured_rebellion_2:close_window|Hmmm. All right, {playername}. I value your counsel highly. {reg6?I:{reg7?You:{s11}}} will be the new {reg3?lady:lord} of {s1}.
+; dlga_start:fighter_talk|Hello there. We are polishing off our combat skills here with a bit of sparring practice. You look like you could use a bit of training. Why don't you join us, and we can show you a few tricks. And if you need explanation of any combat concepts, just ask, and I will do my best to fill you in.
+; dlga_start:fighter_talk.1|What do you want to practice?
+; dlga_fighter_pretalk:fighter_talk|Tell me what kind of practice you want.
+; dlga_fighter_talk:fighter_talk_train_attack|I want to practice attacking.
+; dlga_fighter_talk:fighter_talk_train_parry|I want to practice blocking with my weapon.
+; dlga_fighter_talk:fighter_talk_train_combat|Let's do some sparring practice.
+; dlga_fighter_talk:close_window|[Leave]
+; dlga_fighter_talk_train_attack:fighter_talk_train_attack_2|All right. There are four principle directions for attacking. These are overhead swing, right swing, left swing and thrust. Now, I will tell you which direction to attack from and you must try to do the correct attack. ^^(Move your mouse while you press the left mouse button to specify attack direction. For example, to execute an overhead attack, move the mouse up at the instant you press the left mouse button. The icons on your screen will help you do the correct action.)
+; dlga_fighter_talk_train_attack_2:close_window|Let's begin then. I am ready.
+; dlga_fighter_talk_train_attack_2:fighter_pretalk|Actually I want to do something else.
+; dlga_fighter_talk_train_parry:fighter_talk_train_parry_2|Unlike a shield, blocking with a weapon can only stop attacks coming from one direction. For example if you block up, you'll deflect overhead attacks, but you can still be hit by side swings or thrust attacks. ^^(You must press and hold down the right mouse button to block.)
 ; dlga_fighter_talk_train_parry_2:fighter_talk_train_parry_3|I'll now attack you with different types of strokes, and I will wait until you do the correct block before attacking. Try to do the correct block as soon as you can. ^^(This practice is easy to do with the 'automatic block direction' setting which is the default. If you go to the Options menu and change defend direction control to 'mouse movement' or 'keyboard', you'll need to manually choose block direction. This is much more challenging, but makes the game much more interesting. This practice can be very useful if you use manual blocking.)
-dlga_fighter_talk_train_parry_3:close_window|დავიწყოთ მაშინ . მე მზად ვარ .
-dlga_fighter_talk_train_parry_3:fighter_pretalk|რეალურად მე მინდა რაღაც უფრო მეტი .
+; dlga_fighter_talk_train_parry_3:close_window|Let's begin then. I am ready.
+; dlga_fighter_talk_train_parry_3:fighter_pretalk|Actually I want to do something else.
 ; dlga_fighter_talk_train_combat:fighter_talk_train_combat_2|Sparring is an excellent way to prepare for actual combat. We'll fight each other with non-lethal weapons now, until one of us falls to the ground. You can get some bruises of course, but better that than being cut down in the real thing.
-dlga_fighter_talk_train_combat_2:close_window|დავიწყოთ მაშინ . მე მზად ვარ .
-dlga_fighter_talk_train_combat_2:fighter_pretalk|რეალურად მე მინდა რაღაც უფრო მეტი .
+; dlga_fighter_talk_train_combat_2:close_window|Let's begin then. I am ready.
+; dlga_fighter_talk_train_combat_2:fighter_pretalk|Actually I want to do something else.
 ; dlga_start:fighter_parry_try_again|Good. You were able to block my attacks successfully. You may repeat this practice and try to get faster each time, until you are confident of your defense skills. Do you want to have another go?
 ; dlga_start:fighter_parry_try_again.1|Well that didn't go too well, did it? (Remember, you must press and hold down the right mouse button to keep your block effective.) Do you want to try again?
-dlga_fighter_parry_try_again:fighter_talk_train_parry|დიახ. კიდევ ვცადოთ.
-dlga_fighter_parry_try_again:fighter_talk_leave_parry|არა, მე ვფიქრობ, ახლავე  გავაკეთებ.
-dlga_start:fighter_parry_warn|ჰეი! ჩვენ გავდივართ თავდაცვის პრაქტიკას, ამხანაგო! შენ უნდა დაბლოკო ჩემი თავდასხმები,
-dlga_fighter_parry_warn:fighter_talk_train_parry|ვწუხვარ. კიდევ ერთხელ შევეცადოთ.
-dlga_fighter_parry_warn:fighter_talk_leave_parry|ბოდიში. ახლა უნდა დავტოვო ეს პრაქტიკა.
-dlga_fighter_talk_leave_parry:close_window|კარგი. როგორც გინდა.
+; dlga_fighter_parry_try_again:fighter_talk_train_parry|Yes. Let's try again.
+; dlga_fighter_parry_try_again:fighter_talk_leave_parry|No, I think I am done for now.
+; dlga_start:fighter_parry_warn|Hey! We are doing a blocking practice, mate! You are supposed to block my attacks, not attack me back.
+; dlga_fighter_parry_warn:fighter_talk_train_parry|I am sorry. Let's try once again.
+; dlga_fighter_parry_warn:fighter_talk_leave_parry|Sorry. I must leave this practice now.
+; dlga_fighter_talk_leave_parry:close_window|All right. As you wish.
 ; dlga_start:fighter_combat_try_again|Well that didn't go too well, did it?  Don't feel bad, and try not to do same mistakes next time. Do you want to have a go again?
-dlga_fighter_combat_try_again:fighter_talk_train_combat|დიახ. მოდით გავაკეთოთ მეორე ტურში.
-dlga_fighter_combat_try_again:fighter_talk_leave_combat|ეს ჩემთვის საკმარისი იყო.
+; dlga_fighter_combat_try_again:fighter_talk_train_combat|Yes. Let's do another round.
+; dlga_fighter_combat_try_again:fighter_talk_leave_combat|No. That was enough for me.
 ; dlga_fighter_talk_leave_combat:close_window|Well, all right. Talk to me again if you change your mind.
 ; dlga_start:fighter_combat_try_again.1|Hey, that was good sparring. You defeated me, but next time I'll be more careful. Do you want to have a go again?
 ; dlga_start:fighter_talk.2|Very good. You have learned how to attack from any direction you want. If you like we can try this again or move to a different exercise.
@@ -42,20 +42,20 @@ dlga_fighter_combat_try_again:fighter_talk_leave_combat|ეს ჩემთვ�
 ; dlga_start:ranged_end|Well, with that you have recevied the basic skills to use all three types of ranged weapons. The rest will come with practice. Train each and every day, and in time you will be as good as the best marksmen in Calradia.
 ; dlga_ranged_end:close_window|Now, you can go talk with the melee fighters or the horsemanship trainer if you haven't already done so. They can teach you important skills too.
 ; dlga_start:archer_talk|Good day to you, young fellow. I spend my days teaching about ranged weapons to anyone that is willing to learn. If you need a tutor, let me know and I'll teach you how to use the bow, the crossbow and the javelin.
-dlga_archer_talk:archer_challenge|დიახ, მიჩვენე როგორ გამოვიყენო მარადიული იარაგი.
-dlga_archer_talk:close_window|არა, ახლა არა.
+; dlga_archer_talk:archer_challenge|Yes, show me how to use ranged weapons.
+; dlga_archer_talk:close_window|No, not now.
 ; dlga_archer_challenge:archer_challenge_2|All right. Your first training will be in bowmanship. The bow is a difficult weapon to master. But once you are sufficiently good at it, you can shoot quickly and with great power. Go pick up the bow and arrows you see over there now and shoot those targets.
-dlga_archer_challenge_2:close_window|კარგი. მზად ვარ.
-dlga_archer_challenge_2:close_window.1|ერთი წუთი.მე მინდა რაღაც გავაკეთ პირველ რიგში.
+; dlga_archer_challenge_2:close_window|All right. I am ready.
+; dlga_archer_challenge_2:close_window.1|Just a minute. I want to do something else first.
 ; dlga_start:horseman_melee_challenge_2|I hope you enjoyed the ride. Now we move on to something a bit more difficult. Grab the lance you see over there and ride around the course hitting each target at least once.
 ; dlga_start:horseman_melee_challenge_2.1|Good! You have been able to hit all targets on horseback. That's no easy feat for a starter. Your next challange will be using a bow and arrows to shoot at the archery targets by the road. You need to put an arrow to each target to consider yourself successful.
 ; dlga_start:horsemanship_end|Very good. You were able to shoot all targets from horseback. Keep riding and practicing each day and in time you will be an expert horseman.
 ; dlga_horsemanship_end:close_window|Now, you can go talk with the melee fighters or the archery trainer if you haven't already done so. You need to learn everything you can to be prepared when you have to defend yourself.
 ; dlga_start:horseman_talk|Good day! I have come here for some riding practice, but my old bones are aching badly so I decided to give myself a rest today. If you would like to practice your horsemanship, you can take my horse here. The exercise would be good for her.
-dlga_horseman_talk:horseman_challenge|დიახ, მინდა გავიარო ცხენოსნობის პრაქტიკა.
-dlga_horseman_talk:close_window|ჰმმ. იქნებ მოგვიანებით.
+; dlga_horseman_talk:horseman_challenge|Yes, I would like to practice riding.
+; dlga_horseman_talk:close_window|Uhm. Maybe later.
 ; dlga_horseman_challenge:horseman_melee_challenge_2|Good. Now, I will give you a few exercises that'll teach you riding and horseback weapon use. Your first assignment is simple. Just take your horse for a ride around the course. Go as slow or as fast as you like. Come back when you feel confident as a rider and I'll give you some tougher exercises.
-dlga_horseman_melee_challenge_2:close_window|კარგი. მზად ვარ.
+; dlga_horseman_melee_challenge_2:close_window|All right. I am ready.
 ; dlga_horseman_melee_challenge_2:close_window.1|Just a minute. I need to do something else first.
 ; dlga_tutorial_troop_default:close_window|Hey, I am trying to practice here. Go, talk with the archery trainer if you need guidance about ranged weapons.
 ; dlga_start:lord_prison_break_confirm_3|Is there a change of plans?
